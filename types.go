@@ -1,7 +1,8 @@
 package electiondata
 
 type Results struct {
-	Elections []Election `json:"elections"`
+	Elections   []Election   `json:"elections"`
+	Referendums []Referendum `json:"referendums"`
 }
 
 type Election struct {
@@ -23,6 +24,23 @@ type Result struct {
 	Elected   bool   `json:"elected"`
 }
 
+type Referendum struct {
+	Year                int
+	Question            string
+	ConstituencyAnswers []ConstituencyAnswer
+}
+
+type ConstituencyAnswer struct {
+	ID      string
+	Name    string
+	Answers []Answer
+}
+
+type Answer struct {
+	Answer string
+	Votes  int
+}
+
 func (e *Election) Totals() (
 	constituencies int,
 	candidates int,
@@ -32,7 +50,26 @@ func (e *Election) Totals() (
 
 	for _, c := range e.Constituencies {
 		for _, r := range c.Results {
-			candidates += 1
+			candidates++
+			votes += r.Votes
+		}
+	}
+
+	return
+}
+
+func (ref *Referendum) Totals() (
+	constituencies int,
+	answers int,
+	votes int,
+) {
+	constituencies = len(ref.ConstituencyAnswers)
+
+	for _, c := range ref.ConstituencyAnswers {
+		if answers < len(c.Answers) {
+			answers = len(c.Answers)
+		}
+		for _, r := range c.Answers {
 			votes += r.Votes
 		}
 	}

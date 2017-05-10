@@ -3,11 +3,11 @@ package electiondata
 import (
 	"bytes"
 	"encoding/csv"
-	"fmt"
 	"strconv"
 	"strings"
 )
 
+// Parse2010 parses the results.csv for 2010
 func Parse2010(file string) (Election, error) {
 	nameToID := make(map[string]string)
 	nameToID["Aberavon"] = "W07000049"
@@ -722,36 +722,8 @@ func Parse2010(file string) (Election, error) {
 		res.Candidate = record[CANDIDATE]
 		res.Elected = (record[ELECTED] == "*")
 		res.Incumbent = (record[INCUMBENT] == "*")
-		switch record[PARTY] {
-		case "Alliance":
-			res.Party = ALL
-		case "C":
-			res.Party = CON
-		case "DUP":
-			res.Party = DUP
-		case "Green":
-			res.Party = GRN
-		case "Ind":
-			res.Party = IND
-		case "Lab":
-			res.Party = LAB
-		case "Lab Co-op":
-			res.Party = LABCO
-		case "LD":
-			res.Party = LIB
-		case "PC":
-			res.Party = PC
-		case "SDLP":
-			res.Party = SDLP
-		case "SF":
-			res.Party = SF
-		case "SNP":
-			res.Party = SNP
-		case "Speaker":
-			res.Party = SPK
-		default:
-			res.Party = record[PARTY]
-		}
+		res.Party = record[PARTY]
+		res.SanitizeParty()
 		votes, err := strconv.Atoi(strings.Replace(record[VOTE], ",", "", -1))
 		if err != nil {
 			return election, err
@@ -760,32 +732,6 @@ func Parse2010(file string) (Election, error) {
 		cur.Results = append(cur.Results, res)
 	}
 	election.Constituencies = append(election.Constituencies, cur)
-
-	for _, c := range election.Constituencies {
-		for _, r := range c.Results {
-			if r.Elected {
-				// winning parties sanitisation test
-				switch r.Party {
-				case ALL:
-				case CON:
-				case DUP:
-				case GRN:
-				case IND:
-				case LAB:
-				case LABCO:
-				case LIB:
-				case PC:
-				case SDLP:
-				case SF:
-				case SNP:
-				case SPK:
-				default:
-					return election,
-						fmt.Errorf("%s not recognised for %s\n", r.Party, c.Name)
-				}
-			}
-		}
-	}
 
 	return election, nil
 }
