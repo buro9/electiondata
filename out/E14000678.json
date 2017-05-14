@@ -1,0 +1,78 @@
+{
+	"id": "E14000678",
+	"name": "Devon East",
+	"y2010": [
+		{
+			"candidate": "Swire, Hugo",
+			"party": "Conservative Party",
+			"votes": 25662,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Robathan, Paull",
+			"party": "Liberal Democrat",
+			"votes": 16548,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Manson, Gareth",
+			"party": "Labour Party",
+			"votes": 5721,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Amor, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 4346,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pavey, Sharon",
+			"party": "Green Party",
+			"votes": 815,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Swire, Hugo",
+			"party": "Conservative Party",
+			"votes": 25401,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wright, Claire",
+			"party": "Independent",
+			"votes": 13140,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chapman, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 6870,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Race, Steve",
+			"party": "Labour Party",
+			"votes": 5591,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mole, Stuart",
+			"party": "Liberal Democrat",
+			"votes": 3715,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"id": "E14000749",
+	"name": "Hitchin and Harpenden",
+	"y2010": [
+		{
+			"candidate": "Lilley, Peter",
+			"party": "Conservative Party",
+			"votes": 29869,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Quinton, Nigel",
+			"party": "Liberal Democrat",
+			"votes": 14598,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "de Botton, Oliver",
+			"party": "Labour Party",
+			"votes": 7413,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilkinson, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 1663,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wise, Richard",
+			"party": "Green Party",
+			"votes": 807,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henderson, Margaret",
+			"party": "Independent",
+			"votes": 109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Byron, Simon",
+			"party": "R and E",
+			"votes": 108,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hannah, Eric",
+			"party": "YRDPL",
+			"votes": 90,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rigby, Peter",
+			"party": "Independent",
+			"votes": 50,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lilley, Peter",
+			"party": "Conservative Party",
+			"votes": 31488,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Burgin, Rachel",
+			"party": "Labour Party",
+			"votes": 11433,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stocker, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 4917,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearce, Pauline",
+			"party": "Liberal Democrat",
+			"votes": 4484,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wise, Richard",
+			"party": "Green Party",
+			"votes": 3053,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

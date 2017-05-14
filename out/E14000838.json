@@ -1,0 +1,113 @@
+{
+	"id": "E14000838",
+	"name": "Devon North",
+	"y2010": [
+		{
+			"candidate": "Harvey, Nick",
+			"party": "Liberal Democrat",
+			"votes": 24305,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Milton, Philip",
+			"party": "Conservative Party",
+			"votes": 18484,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crowther, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 3720,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cann, Mark",
+			"party": "Labour Party",
+			"votes": 2671,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, L'Anne",
+			"party": "Green Party",
+			"votes": 697,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marshall, Gary",
+			"party": "British National Party",
+			"votes": 614,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cann, Rodney",
+			"party": "Independent",
+			"votes": 588,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vidler, Nigel",
+			"party": "English Democrats",
+			"votes": 146,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sables, Gerrard",
+			"party": "Comm Brit",
+			"votes": 96,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Heaton-Jones, Peter",
+			"party": "Conservative Party",
+			"votes": 22341,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Harvey, Nick",
+			"party": "Liberal Democrat",
+			"votes": 15405,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Crowther, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 7719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cann, Mark",
+			"party": "Labour Party",
+			"votes": 3699,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, Richard",
+			"party": "Green Party",
+			"votes": 3018,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sables, Gerrard",
+			"party": "Comm",
+			"votes": 138,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

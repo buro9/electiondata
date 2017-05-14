@@ -1,0 +1,85 @@
+{
+	"id": "E14000802",
+	"name": "Macclesfield",
+	"y2010": [
+		{
+			"candidate": "Rutley, David",
+			"party": "Conservative Party",
+			"votes": 23503,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Barlow, Roger",
+			"party": "Liberal Democrat",
+			"votes": 11544,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heald, Adrian",
+			"party": "Labour Party",
+			"votes": 10164,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murphy, Brendan",
+			"party": "Macc Ind",
+			"votes": 2590,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Jacqueline",
+			"party": "United Kingdom Independence Party",
+			"votes": 1418,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, John",
+			"party": "Green Party",
+			"votes": 840,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Rutley, David",
+			"party": "Conservative Party",
+			"votes": 26063,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Roca, Tim",
+			"party": "Labour Party",
+			"votes": 11252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howard, Adrian",
+			"party": "United Kingdom Independence Party",
+			"votes": 6037,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Christian, Neil",
+			"party": "Liberal Democrat",
+			"votes": 3842,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Plimmer, Joan",
+			"party": "Green Party",
+			"votes": 2404,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

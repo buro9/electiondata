@@ -1,0 +1,92 @@
+{
+	"id": "E14000997",
+	"name": "Tonbridge and Malling",
+	"y2010": [
+		{
+			"candidate": "Stanley, John",
+			"party": "Conservative Party",
+			"votes": 29723,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Simpson, Elizabeth",
+			"party": "Liberal Democrat",
+			"votes": 11545,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Daniel",
+			"party": "Labour Party",
+			"votes": 6476,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waller, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1911,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dawe, Steve",
+			"party": "Green Party",
+			"votes": 764,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Easter, Mike",
+			"party": "National Front",
+			"votes": 505,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogers, Lisa",
+			"party": "English Democrats",
+			"votes": 390,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Tugendhat, Tom",
+			"party": "Conservative Party",
+			"votes": 31887,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Izzard, Rob",
+			"party": "United Kingdom Independence Party",
+			"votes": 8153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leigh, Claire",
+			"party": "Labour Party",
+			"votes": 7604,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Varrall, Mary",
+			"party": "Liberal Democrat",
+			"votes": 3660,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Porter, Howard",
+			"party": "Green Party",
+			"votes": 2366,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

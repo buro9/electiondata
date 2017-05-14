@@ -1,0 +1,71 @@
+{
+	"id": "E14000534",
+	"name": "Arundel and South Downs",
+	"y2010": [
+		{
+			"candidate": "Herbert, Nick",
+			"party": "Conservative Party",
+			"votes": 32333,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Deedman, Derek",
+			"party": "Liberal Democrat",
+			"votes": 15642,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lunnon, Tim",
+			"party": "Labour Party",
+			"votes": 4835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bower, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 3172,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Herbert, Nick",
+			"party": "Conservative Party",
+			"votes": 34331,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Grace, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 8154,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wellbelove, Christopher",
+			"party": "Labour Party",
+			"votes": 6324,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kapadia, Shweta",
+			"party": "Liberal Democrat",
+			"votes": 4062,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thurston, Isabel",
+			"party": "Green Party",
+			"votes": 3606,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "W07000048",
+	"name": "Swansea East",
+	"y2010": [
+		{
+			"candidate": "James, Sian",
+			"party": "Labour Party",
+			"votes": 16819,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Speht, Robert",
+			"party": "Liberal Democrat",
+			"votes": 5981,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holliday, Christian",
+			"party": "Conservative Party",
+			"votes": 4823,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Dic",
+			"party": "Plaid Cymru",
+			"votes": 2181,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Clive",
+			"party": "British National Party",
+			"votes": 1715,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogers, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 839,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Tony",
+			"party": "Green Party",
+			"votes": 318,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Harris, Carolyn",
+			"party": "Labour Party",
+			"votes": 17807,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Johnson, Clifford",
+			"party": "United Kingdom Independence Party",
+			"votes": 5779,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hussain, Altaf",
+			"party": "Conservative Party",
+			"votes": 5142,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Dic",
+			"party": "Plaid Cymru",
+			"votes": 3498,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jamal, Ann",
+			"party": "Liberal Democrat",
+			"votes": 1392,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

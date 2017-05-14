@@ -1,0 +1,134 @@
+{
+	"id": "E14000972",
+	"name": "Stoke-on-Trent Central",
+	"y2010": [
+		{
+			"candidate": "Hunt, Tristram",
+			"party": "Labour Party",
+			"votes": 12605,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Redfern, John",
+			"party": "Liberal Democrat",
+			"votes": 7039,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhatti, Norsheen",
+			"party": "Conservative Party",
+			"votes": 6833,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Darby, Simon",
+			"party": "British National Party",
+			"votes": 2502,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lovatt, Carol",
+			"party": "United Kingdom Independence Party",
+			"votes": 1402,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Breeze, Paul",
+			"party": "Independent",
+			"votes": 959,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elsby, Gary",
+			"party": "Independent",
+			"votes": 399,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Brian",
+			"party": "City Ind",
+			"votes": 303,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Alby",
+			"party": "Independent",
+			"votes": 295,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, Matthew",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 133,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hunt, Tristram",
+			"party": "Labour Party",
+			"votes": 12220,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Harold, Mick",
+			"party": "United Kingdom Independence Party",
+			"votes": 7041,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ascough, Liam",
+			"party": "Conservative Party",
+			"votes": 7008,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Breeze, Mark",
+			"party": "Independent",
+			"votes": 2120,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, Zulfiqar",
+			"party": "Liberal Democrat",
+			"votes": 1296,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zablocki, Jan",
+			"party": "Green Party",
+			"votes": 1123,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Majid, Ali",
+			"party": "CISTAP",
+			"votes": 244,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Toussaint, Paul",
+			"party": "Ubuntu Party",
+			"votes": 32,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

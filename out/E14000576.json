@@ -1,0 +1,85 @@
+{
+	"id": "E14000576",
+	"name": "Bognor Regis and Littlehampton",
+	"y2010": [
+		{
+			"candidate": "Gibb, Nick",
+			"party": "Conservative Party",
+			"votes": 24087,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McDougall, Simon",
+			"party": "Liberal Democrat",
+			"votes": 11024,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Michael",
+			"party": "Labour Party",
+			"votes": 6580,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Denny, Douglas",
+			"party": "United Kingdom Independence Party",
+			"votes": 3036,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moffat, Andrew",
+			"party": "British National Party",
+			"votes": 1890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Briggs, Melissa",
+			"party": "Independent",
+			"votes": 235,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gibb, Nick",
+			"party": "Conservative Party",
+			"votes": 24185,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 10241,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butcher, Alan",
+			"party": "Labour Party",
+			"votes": 6508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oppler, Francis",
+			"party": "Liberal Democrat",
+			"votes": 4240,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDougall, Simon",
+			"party": "Green Party",
+			"votes": 1942,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

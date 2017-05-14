@@ -1,0 +1,85 @@
+{
+	"id": "E14000870",
+	"name": "Oldham East and Saddleworth",
+	"y2010": [
+		{
+			"candidate": "Woolas, Phil",
+			"party": "Labour Party",
+			"votes": 14186,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Watkins, Elwyn",
+			"party": "Liberal Democrat",
+			"votes": 14083,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, Kashif",
+			"party": "Conservative Party",
+			"votes": 11773,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stott, Alwyn",
+			"party": "British National Party",
+			"votes": 2546,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bentley, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1720,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nazir, Gulzar",
+			"party": "Christian Party",
+			"votes": 212,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Abrahams, Debbie",
+			"party": "Labour Party",
+			"votes": 17529,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hussain, Sajjad",
+			"party": "Conservative Party",
+			"votes": 11527,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Klonowski, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 8557,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marbrow, Richard",
+			"party": "Liberal Democrat",
+			"votes": 5718,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meadowcroft, Miranda",
+			"party": "Green Party",
+			"votes": 1152,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

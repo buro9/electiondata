@@ -1,0 +1,99 @@
+{
+	"id": "E14000926",
+	"name": "Shrewsbury and Atcham",
+	"y2010": [
+		{
+			"candidate": "Kawczynski, Daniel",
+			"party": "Conservative Party",
+			"votes": 23313,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "West, Charles",
+			"party": "Liberal Democrat",
+			"votes": 15369,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tandy, Jon",
+			"party": "Labour Party",
+			"votes": 10915,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1627,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whittall, James",
+			"party": "British National Party",
+			"votes": 1168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whittaker, Alan",
+			"party": "Green Party",
+			"votes": 565,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gollings, James",
+			"party": "Impact",
+			"votes": 88,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kawczynski, Daniel",
+			"party": "Conservative Party",
+			"votes": 24628,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Laura",
+			"party": "Labour Party",
+			"votes": 15063,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Suzanne",
+			"party": "United Kingdom Independence Party",
+			"votes": 7813,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tinker, Christine ",
+			"party": "Liberal Democrat",
+			"votes": 4268,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bullard, Emma",
+			"party": "Green Party",
+			"votes": 2247,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McNeillie, Stirling ",
+			"party": "Children of the Atom",
+			"votes": 83,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

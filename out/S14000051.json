@@ -1,0 +1,78 @@
+{
+	"id": "S14000051",
+	"name": "Orkney and Shetland",
+	"y2010": [
+		{
+			"candidate": "Carmichael, Alistair",
+			"party": "Liberal Democrat",
+			"votes": 11989,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Cooper, Mark",
+			"party": "Labour Party",
+			"votes": 2061,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mowat, John",
+			"party": "Scottish National Party",
+			"votes": 2042,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nairn, Frank",
+			"party": "Conservative Party",
+			"votes": 2032,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 1222,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Carmichael, Alistair",
+			"party": "Liberal Democrat",
+			"votes": 9407,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Skene, Danus",
+			"party": "Scottish National Party",
+			"votes": 8590,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cameron, Donald",
+			"party": "Conservative Party",
+			"votes": 2025,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGarvey, Gerry",
+			"party": "Labour Party",
+			"votes": 1624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 1082,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

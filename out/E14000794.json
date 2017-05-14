@@ -1,0 +1,106 @@
+{
+	"id": "E14000794",
+	"name": "Liverpool Walton",
+	"y2010": [
+		{
+			"candidate": "Rotheram, Steve",
+			"party": "Labour Party",
+			"votes": 24709,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Moloney, Patrick",
+			"party": "Liberal Democrat",
+			"votes": 4891,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marsden, Adam",
+			"party": "Conservative Party",
+			"votes": 2241,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stafford, Peter",
+			"party": "British National Party",
+			"votes": 1104,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nugent, Joe",
+			"party": "United Kingdom Independence Party",
+			"votes": 898,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Manwell, John",
+			"party": "Christian Peoples Alliance",
+			"votes": 297,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ireland, Daren",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 195,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Rotheram, Steven",
+			"party": "Labour Party",
+			"votes": 31222,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Flatman, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 3445,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhatti, Norsheen",
+			"party": "Conservative Party",
+			"votes": 1802,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clatworthy, Jonathan",
+			"party": "Green Party",
+			"votes": 956,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moloney, Pat",
+			"party": "Liberal Democrat",
+			"votes": 899,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Karran, Alexander ",
+			"party": "Independent",
+			"votes": 56,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dzon, Jonathan",
+			"party": "The Pluralist Party",
+			"votes": 23,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

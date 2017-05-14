@@ -1,0 +1,92 @@
+{
+	"id": "E14000965",
+	"name": "Stafford",
+	"y2010": [
+		{
+			"candidate": "Lefroy, Jeremy",
+			"party": "Conservative Party",
+			"votes": 22047,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kidney, David",
+			"party": "Labour Party",
+			"votes": 16587,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Stamp, Barry",
+			"party": "Liberal Democrat",
+			"votes": 8211,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goode, Roy",
+			"party": "United Kingdom Independence Party",
+			"votes": 1727,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hynd, Roland",
+			"party": "British National Party",
+			"votes": 1103,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shone, Mike",
+			"party": "Green Party",
+			"votes": 564,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lefroy, Jeremy",
+			"party": "Conservative Party",
+			"votes": 23606,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Godfrey, Kate ",
+			"party": "Labour Party",
+			"votes": 14429,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitfield, Edward",
+			"party": "United Kingdom Independence Party",
+			"votes": 6293,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howell, Karen",
+			"party": "National Health Action Party",
+			"votes": 1701,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shone, Mike",
+			"party": "Green Party",
+			"votes": 1390,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miller, Keith",
+			"party": "Liberal Democrat",
+			"votes": 1348,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

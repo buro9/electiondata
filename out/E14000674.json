@@ -1,0 +1,120 @@
+{
+	"id": "E14000674",
+	"name": "Ealing Central and Acton",
+	"y2010": [
+		{
+			"candidate": "Bray, Angie",
+			"party": "Conservative Party",
+			"votes": 17944,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Mahfouz, Bassam",
+			"party": "Labour Party",
+			"votes": 14228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ball, Jon",
+			"party": "Liberal Democrat",
+			"votes": 13041,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carter, Julie",
+			"party": "United Kingdom Independence Party",
+			"votes": 765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Sarah",
+			"party": "Green Party",
+			"votes": 737,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fernandes, Suzanne",
+			"party": "Christian Party",
+			"votes": 295,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Akaki, Sam",
+			"party": "Ind EACPS",
+			"votes": 190,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Huq, Rupa",
+			"party": "Labour Party",
+			"votes": 22002,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bray, Angie",
+			"party": "Conservative Party",
+			"votes": 21728,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Ball, Jon",
+			"party": "Liberal Democrat",
+			"votes": 3106,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Florence, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1926,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sharman, Tom",
+			"party": "Green Party",
+			"votes": 1841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Notley, Jonathan",
+			"party": "Independent",
+			"votes": 125,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dore, Scott",
+			"party": "Workers' Revolutionary Party",
+			"votes": 73,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rendle, Tammy",
+			"party": "The Above and Beyond Party",
+			"votes": 54,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rygielski, Andrzej",
+			"party": "Europeans Party",
+			"votes": 39,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

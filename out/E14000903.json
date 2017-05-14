@@ -1,0 +1,78 @@
+{
+	"id": "E14000903",
+	"name": "Rother Valley",
+	"y2010": [
+		{
+			"candidate": "Barron, Kevin",
+			"party": "Labour Party",
+			"votes": 19147,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Donaldson, Lynda",
+			"party": "Conservative Party",
+			"votes": 13281,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paxton, Wesley",
+			"party": "Liberal Democrat",
+			"votes": 8111,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blair, Will",
+			"party": "British National Party",
+			"votes": 3606,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dowdall, Tina",
+			"party": "United Kingdom Independence Party",
+			"votes": 2613,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Barron, Kevin",
+			"party": "Labour Party",
+			"votes": 20501,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cowles, Allen",
+			"party": "United Kingdom Independence Party",
+			"votes": 13204,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Streeter, Gareth",
+			"party": "Conservative Party",
+			"votes": 10945,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Teal, Robert",
+			"party": "Liberal Democrat",
+			"votes": 1992,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pilling, Sharon",
+			"party": "English Democrats",
+			"votes": 377,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

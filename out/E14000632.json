@@ -1,0 +1,106 @@
+{
+	"id": "E14000632",
+	"name": "Chesterfield",
+	"y2010": [
+		{
+			"candidate": "Perkins, Toby",
+			"party": "Labour Party",
+			"votes": 17891,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Holmes, Paul",
+			"party": "Liberal Democrat",
+			"votes": 17342,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Abbott, Carolyn",
+			"party": "Conservative Party",
+			"votes": 7214,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1432,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jerram, Ian",
+			"party": "English Democrats",
+			"votes": 1213,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kerr, Duncan",
+			"party": "Green Party",
+			"votes": 600,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Daramy, John Noneoftheabove",
+			"party": "Independent",
+			"votes": 147,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Perkins, Toby",
+			"party": "Labour Party",
+			"votes": 21829,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Vivis, Mark",
+			"party": "Conservative Party",
+			"votes": 8231,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Yeowart, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 7523,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cambridge, Julia",
+			"party": "Liberal Democrat",
+			"votes": 6301,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Genn, Matthew",
+			"party": "Green Party",
+			"votes": 1352,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whale, Matt",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 202,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holgate, Tommy",
+			"party": "TPP",
+			"votes": 129,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

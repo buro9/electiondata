@@ -1,0 +1,92 @@
+{
+	"id": "N06000001",
+	"name": "Belfast East",
+	"y2010": [
+		{
+			"candidate": "Long, Naomi",
+			"party": "Alliance",
+			"votes": 12839,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Robinson, Peter",
+			"party": "Democratic Unionist Party",
+			"votes": 11306,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ringland, Trevor",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 7305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vance, David",
+			"party": "Traditional Unionist Voice",
+			"votes": 1856,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Donnelly, Niall",
+			"party": "Sinn Fein",
+			"votes": 817,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Muldoon, Mary",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 365,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Robinson, Gavin",
+			"party": "Democratic Unionist Party",
+			"votes": 19575,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Long, Naomi",
+			"party": "Alliance",
+			"votes": 16978,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Neil",
+			"party": "Conservative Party",
+			"votes": 1121,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Ross",
+			"party": "Green Party",
+			"votes": 1058,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O Donnghaile, Niall",
+			"party": "Sinn Fein",
+			"votes": 823,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Muldoon, Mary",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 127,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

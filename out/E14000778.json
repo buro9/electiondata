@@ -1,0 +1,78 @@
+{
+	"id": "E14000778",
+	"name": "Leeds East",
+	"y2010": [
+		{
+			"candidate": "Mudie, George",
+			"party": "Labour Party",
+			"votes": 19056,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Anderson, Barry",
+			"party": "Conservative Party",
+			"votes": 8763,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tear, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 6618,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Trevor",
+			"party": "British National Party",
+			"votes": 2947,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Michael",
+			"party": "Alliance for Green Socialism",
+			"votes": 429,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Burgon, Richard",
+			"party": "Labour Party",
+			"votes": 20530,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Stephenson, Ryan",
+			"party": "Conservative Party",
+			"votes": 7997,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maniatt, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 7256,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sanderson, Ed",
+			"party": "Liberal Democrat",
+			"votes": 1296,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bisson, Kate",
+			"party": "Green Party",
+			"votes": 1117,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

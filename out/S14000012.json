@@ -1,0 +1,71 @@
+{
+	"id": "S14000012",
+	"name": "Cumbernauld, Kilsyth and Kirkintilloch East",
+	"y2010": [
+		{
+			"candidate": "McClymont, Gregg",
+			"party": "Labour Party",
+			"votes": 23549,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hepburn, Julie",
+			"party": "Scottish National Party",
+			"votes": 9794,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ackland, Rod",
+			"party": "Liberal Democrat",
+			"votes": 3924,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fraser, Stephanie",
+			"party": "Conservative Party",
+			"votes": 3407,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Neill, William",
+			"party": "Scottish Socialist Party",
+			"votes": 476,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McDonald, Stuart",
+			"party": "Scottish National Party",
+			"votes": 29572,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McClymont, Gregg",
+			"party": "Labour Party",
+			"votes": 14820,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Mackay, Malcolm",
+			"party": "Conservative Party",
+			"votes": 3891,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duncan, John",
+			"party": "Liberal Democrat",
+			"votes": 1099,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

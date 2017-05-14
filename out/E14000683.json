@@ -1,0 +1,99 @@
+{
+	"id": "E14000683",
+	"name": "Yorkshire East",
+	"y2010": [
+		{
+			"candidate": "Knight, Greg",
+			"party": "Conservative Party",
+			"votes": 24328,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Adamson, Robert",
+			"party": "Liberal Democrat",
+			"votes": 10842,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rounding, Paul",
+			"party": "Labour Party",
+			"votes": 10401,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Daniels, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 2142,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pudsey, Gary",
+			"party": "British National Party",
+			"votes": 1865,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allerston, Ray",
+			"party": "Soc Dem",
+			"votes": 914,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Michael",
+			"party": "Green Party",
+			"votes": 762,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Knight, Greg",
+			"party": "Conservative Party",
+			"votes": 25276,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hickson, Kevin",
+			"party": "Labour Party",
+			"votes": 10343,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Todd, Steph",
+			"party": "United Kingdom Independence Party",
+			"votes": 8955,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adamson, Robert",
+			"party": "Liberal Democrat",
+			"votes": 2966,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maloney, Mark ",
+			"party": "Green Party",
+			"votes": 1731,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Arnold, Stewart ",
+			"party": "Yorkshire First",
+			"votes": 720,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

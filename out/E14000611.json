@@ -1,0 +1,92 @@
+{
+	"id": "E14000611",
+	"name": "Bury North",
+	"y2010": [
+		{
+			"candidate": "Nuttall, David",
+			"party": "Conservative Party",
+			"votes": 18070,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Khan, Maryam",
+			"party": "Labour Party",
+			"votes": 15827,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baum, Richard",
+			"party": "Liberal Democrat",
+			"votes": 7645,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maude, John",
+			"party": "British National Party",
+			"votes": 1825,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 1282,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brison, Bill",
+			"party": "Independent",
+			"votes": 181,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lambert, Graeme",
+			"party": "Pirate Party UK",
+			"votes": 131,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Nuttall, David",
+			"party": "Conservative Party",
+			"votes": 18970,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Frith, James",
+			"party": "Labour Party",
+			"votes": 18592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henderson, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 5595,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Southworth, John",
+			"party": "Green Party",
+			"votes": 1141,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baum, Richard",
+			"party": "Liberal Democrat",
+			"votes": 932,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,120 @@
+{
+	"id": "E14001032",
+	"name": "West Ham",
+	"y2010": [
+		{
+			"candidate": "Brown, Lyn",
+			"party": "Labour Party",
+			"votes": 29422,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Morris, Virginia",
+			"party": "Conservative Party",
+			"votes": 6888,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pierce, Martin",
+			"party": "Liberal Democrat",
+			"votes": 5392,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gain, Stan",
+			"party": "Christian Peoples Alliance",
+			"votes": 1327,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malik, Kamran",
+			"party": "Independent",
+			"votes": 1245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davidson, Michael",
+			"party": "National Front",
+			"votes": 1089,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gandy, Kim",
+			"party": "United Kingdom Independence Party",
+			"votes": 766,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lithgow, Jane",
+			"party": "Green Party",
+			"votes": 645,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Agbogun-Toko, Grace",
+			"party": "Independent",
+			"votes": 177,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brown, Lyn",
+			"party": "Labour Party",
+			"votes": 36132,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Akinbusoye, Festus",
+			"party": "Conservative Party",
+			"votes": 8146,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenzie, Jamie",
+			"party": "United Kingdom Independence Party",
+			"votes": 3950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collinson, Rachel",
+			"party": "Green Party",
+			"votes": 2651,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, Paul",
+			"party": "Liberal Democrat",
+			"votes": 1430,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Uzoka, Andy",
+			"party": "Christian Peoples Alliance",
+			"votes": 369,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bogie, Cydatty",
+			"party": "Communities United Party",
+			"votes": 115,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

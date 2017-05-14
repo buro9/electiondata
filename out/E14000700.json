@@ -1,0 +1,106 @@
+{
+	"id": "E14000700",
+	"name": "Faversham and Kent Mid",
+	"y2010": [
+		{
+			"candidate": "Robertson, Hugh",
+			"party": "Conservative Party",
+			"votes": 26250,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Naghi, David",
+			"party": "Liberal Democrat",
+			"votes": 9162,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rehal, Ash",
+			"party": "Labour Party",
+			"votes": 7748,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Larkins, Sarah",
+			"party": "United Kingdom Independence Party",
+			"votes": 1722,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Valentine, Tim",
+			"party": "Green Party",
+			"votes": 890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kemp, Graham",
+			"party": "National Front",
+			"votes": 542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davidson, Hairy Knorm",
+			"party": "Monster Raving Loony Party",
+			"votes": 398,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Whately, Helen",
+			"party": "Conservative Party",
+			"votes": 24895,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Edwards-Daem, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 8243,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Desmond, Michael",
+			"party": "Labour Party",
+			"votes": 7403,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Naghi, David",
+			"party": "Liberal Democrat",
+			"votes": 3039,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Valentine, Tim",
+			"party": "Green Party",
+			"votes": 1768,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davidson, Hairy ",
+			"party": "Monster Raving Loony Party",
+			"votes": 297,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Gary",
+			"party": "English Democrats",
+			"votes": 158,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

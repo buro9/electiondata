@@ -1,0 +1,113 @@
+{
+	"id": "E14000650",
+	"name": "Coventry North West",
+	"y2010": [
+		{
+			"candidate": "Robinson, Geoffrey",
+			"party": "Labour Party",
+			"votes": 19936,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ridley, Gary",
+			"party": "Conservative Party",
+			"votes": 13648,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKee, Vincent",
+			"party": "Liberal Democrat",
+			"votes": 8344,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sheppard, Edward",
+			"party": "British National Party",
+			"votes": 1666,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nattrass, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 1295,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, John",
+			"party": "Independent",
+			"votes": 640,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Justin",
+			"party": "Green Party",
+			"votes": 497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Downes, Nikki",
+			"party": "Soc Alt",
+			"votes": 370,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sidhu, William",
+			"party": "Ch M",
+			"votes": 164,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Robinson, Geoffrey",
+			"party": "Labour Party",
+			"votes": 18557,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Akhtar, Parvez",
+			"party": "Conservative Party",
+			"votes": 14048,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sehmi, Harjinder ",
+			"party": "United Kingdom Independence Party",
+			"votes": 7101,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vesty, Laura",
+			"party": "Green Party",
+			"votes": 1961,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Furse, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 1810,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nellist, Dave",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 1769,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

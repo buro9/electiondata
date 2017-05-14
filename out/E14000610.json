@@ -1,0 +1,78 @@
+{
+	"id": "E14000610",
+	"name": "Burton",
+	"y2010": [
+		{
+			"candidate": "Griffiths, Andrew",
+			"party": "Conservative Party",
+			"votes": 22188,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Smeeth, Ruth",
+			"party": "Labour Party",
+			"votes": 15884,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rodgers, Michael",
+			"party": "Liberal Democrat",
+			"votes": 7891,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hewitt, Alan",
+			"party": "British National Party",
+			"votes": 2409,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lancaster, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 1451,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Griffiths, Andrew",
+			"party": "Conservative Party",
+			"votes": 24376,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wheale, Jon",
+			"party": "Labour Party",
+			"votes": 13484,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 8658,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacDonald, David",
+			"party": "Liberal Democrat",
+			"votes": 1232,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Patrone, Sam",
+			"party": "Green Party",
+			"votes": 1224,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

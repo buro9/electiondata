@@ -1,0 +1,106 @@
+{
+	"id": "E14000782",
+	"name": "Leicester East",
+	"y2010": [
+		{
+			"candidate": "Vaz, Keith",
+			"party": "Labour Party",
+			"votes": 25804,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hunt, Jane",
+			"party": "Conservative Party",
+			"votes": 11722,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Asghar, Ali",
+			"party": "Liberal Democrat",
+			"votes": 6817,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gilmore, Colin",
+			"party": "British National Party",
+			"votes": 1700,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Mo",
+			"party": "Green Party",
+			"votes": 733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ransome, Felicity",
+			"party": "United Kingdom Independence Party",
+			"votes": 725,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sadiq, Avtar",
+			"party": "UPS",
+			"votes": 494,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Vaz, Keith",
+			"party": "Labour Party",
+			"votes": 29386,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Devani, Kishan",
+			"party": "Conservative Party",
+			"votes": 11034,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Steptoe, Susanna",
+			"party": "United Kingdom Independence Party",
+			"votes": 4290,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jethwa, Nimit",
+			"party": "Green Party",
+			"votes": 1468,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Raval, Dave",
+			"party": "Liberal Democrat",
+			"votes": 1233,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barker, Michael",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 540,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Darwood, Tom",
+			"party": "Independent",
+			"votes": 117,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

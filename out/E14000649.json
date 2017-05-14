@@ -1,0 +1,106 @@
+{
+	"id": "E14000649",
+	"name": "Coventry North East",
+	"y2010": [
+		{
+			"candidate": "Ainsworth, Bob",
+			"party": "Labour Party",
+			"votes": 21384,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Noonan, Hazel",
+			"party": "Conservative Party",
+			"votes": 9609,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Field, Russell",
+			"party": "Liberal Democrat",
+			"votes": 7210,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gower, Tom",
+			"party": "British National Party",
+			"votes": 1863,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nellist, Dave",
+			"party": "Soc Alt",
+			"votes": 1592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forbes, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 1291,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lebar, Ron",
+			"party": "Ch M",
+			"votes": 434,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fletcher, Colleen",
+			"party": "Labour Party",
+			"votes": 22025,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Lowe, Michelle",
+			"party": "Conservative Party",
+			"votes": 9751,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taggar, Avtar",
+			"party": "United Kingdom Independence Party",
+			"votes": 6278,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Field, Russell",
+			"party": "Liberal Democrat",
+			"votes": 2007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Handley, Matthew",
+			"party": "Green Party",
+			"votes": 1245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Downes, Nicky",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 633,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sidhu, William",
+			"party": "CMGB",
+			"votes": 292,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"id": "E14000704",
+	"name": "Folkestone and Hythe",
+	"y2010": [
+		{
+			"candidate": "Collins, Damian",
+			"party": "Conservative Party",
+			"votes": 26109,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Beaumont, Lynne",
+			"party": "Liberal Democrat",
+			"votes": 15987,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Worsley, Donald",
+			"party": "Labour Party",
+			"votes": 5719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenna, Frank",
+			"party": "United Kingdom Independence Party",
+			"votes": 2439,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Harry",
+			"party": "British National Party",
+			"votes": 1662,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kemp, Penny",
+			"party": "Green Party",
+			"votes": 637,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Plumstead, David",
+			"party": "Independent",
+			"votes": 247,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Collins, Damian",
+			"party": "Conservative Party",
+			"votes": 26323,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Yeo, Harriet",
+			"party": "United Kingdom Independence Party",
+			"votes": 12526,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jeffrey, Claire",
+			"party": "Labour Party",
+			"votes": 7939,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beaumont, Lynne",
+			"party": "Liberal Democrat",
+			"votes": 4882,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whybrow, Martin",
+			"party": "Green Party",
+			"votes": 2956,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cruse, Seth",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 244,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kapur, Rohen",
+			"party": "Young People's Party",
+			"votes": 72,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas-Emans, Andy ",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 68,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

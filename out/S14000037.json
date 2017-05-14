@@ -1,0 +1,85 @@
+{
+	"id": "S14000037",
+	"name": "Gordon",
+	"y2010": [
+		{
+			"candidate": "Bruce, Malcolm",
+			"party": "Liberal Democrat",
+			"votes": 17575,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Thomson, Richard",
+			"party": "Scottish National Party",
+			"votes": 10827,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crockett, Barney",
+			"party": "Labour Party",
+			"votes": 9811,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomson, Ross",
+			"party": "Conservative Party",
+			"votes": 9111,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Sue",
+			"party": "Green Party",
+			"votes": 752,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Elise",
+			"party": "British National Party",
+			"votes": 699,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Salmond, Alex",
+			"party": "Scottish National Party",
+			"votes": 27717,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Jardine, Christine",
+			"party": "Liberal Democrat",
+			"votes": 19030,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Colin",
+			"party": "Conservative Party",
+			"votes": 6807,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davy, Braden",
+			"party": "Labour Party",
+			"votes": 3441,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Santos, Emily",
+			"party": "United Kingdom Independence Party",
+			"votes": 1166,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

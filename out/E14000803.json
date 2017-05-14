@@ -1,0 +1,106 @@
+{
+	"id": "E14000803",
+	"name": "Maidenhead",
+	"y2010": [
+		{
+			"candidate": "May, Theresa",
+			"party": "Conservative Party",
+			"votes": 31937,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hill, Tony",
+			"party": "Liberal Democrat",
+			"votes": 15168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDonald, Pat",
+			"party": "Labour Party",
+			"votes": 3795,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wight, Kenneth",
+			"party": "United Kingdom Independence Party",
+			"votes": 1243,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rait, Tim",
+			"party": "British National Party",
+			"votes": 825,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forbes, Peter",
+			"party": "Green Party",
+			"votes": 482,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Prior, Peter",
+			"party": "F and R",
+			"votes": 270,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "May, Theresa",
+			"party": "Conservative Party",
+			"votes": 35453,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Charles",
+			"party": "Labour Party",
+			"votes": 6394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Tony",
+			"party": "Liberal Democrat",
+			"votes": 5337,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crossman, Herbie",
+			"party": "United Kingdom Independence Party",
+			"votes": 4539,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blyth, Emily",
+			"party": "Green Party",
+			"votes": 1915,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taplin, Ian",
+			"party": "Independent",
+			"votes": 162,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilcox, Joe",
+			"party": "Class War",
+			"votes": 55,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

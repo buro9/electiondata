@@ -1,0 +1,99 @@
+{
+	"id": "E14000558",
+	"name": "Bexleyheath and Crayford",
+	"y2010": [
+		{
+			"candidate": "Evennett, David",
+			"party": "Conservative Party",
+			"votes": 21794,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dawber, Howard",
+			"party": "Labour Party",
+			"votes": 11450,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Karelia",
+			"party": "Liberal Democrat",
+			"votes": 5502,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "James, Stephen",
+			"party": "British National Party",
+			"votes": 2042,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunford, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1557,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, John",
+			"party": "English Democrats",
+			"votes": 466,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Adrian",
+			"party": "Green Party",
+			"votes": 371,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Evennett, David",
+			"party": "Conservative Party",
+			"votes": 20643,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Borella, Stef",
+			"party": "Labour Party",
+			"votes": 11451,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Attard, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 9182,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davis, Richard",
+			"party": "Liberal Democrat",
+			"votes": 1308,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gardiner, Stella",
+			"party": "Green Party",
+			"votes": 950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Maggi",
+			"party": "English Democrats",
+			"votes": 151,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

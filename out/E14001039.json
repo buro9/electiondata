@@ -1,0 +1,92 @@
+{
+	"id": "E14001039",
+	"name": "Wigan",
+	"y2010": [
+		{
+			"candidate": "Nandy, Lisa",
+			"party": "Labour Party",
+			"votes": 21404,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Winstanley, Michael",
+			"party": "Conservative Party",
+			"votes": 10917,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, Mark",
+			"party": "Liberal Democrat",
+			"votes": 6797,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Freeman, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 2516,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mather, Charles",
+			"party": "British National Party",
+			"votes": 2506,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Nandy, Lisa",
+			"party": "Labour Party",
+			"votes": 23625,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kerswell, Caroline",
+			"party": "Conservative Party",
+			"votes": 9389,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bradley, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 8818,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Patterson, Will",
+			"party": "Green Party",
+			"votes": 1273,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, Richard",
+			"party": "Liberal Democrat",
+			"votes": 1255,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fairhurst, Gareth",
+			"party": "Independent",
+			"votes": 768,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parr, Brian",
+			"party": "Independent",
+			"votes": 165,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

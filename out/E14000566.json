@@ -1,0 +1,92 @@
+{
+	"id": "E14000566",
+	"name": "Birmingham Perry Barr",
+	"y2010": [
+		{
+			"candidate": "Mahmood, Khalid",
+			"party": "Labour Party",
+			"votes": 21142,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hamilton, Karen",
+			"party": "Liberal Democrat",
+			"votes": 9234,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Norton, William",
+			"party": "Conservative Party",
+			"votes": 8960,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Melvin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1675,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tyrrell, John",
+			"party": "Soc Lab",
+			"votes": 527,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hey-Smith, Deborah",
+			"party": "Christian Party",
+			"votes": 507,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mahmood, Khalid",
+			"party": "Labour Party",
+			"votes": 23697,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hodivala, Charlotte",
+			"party": "Conservative Party",
+			"votes": 8869,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Singh, Arjun",
+			"party": "United Kingdom Independence Party",
+			"votes": 5032,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Singh, Harjinder",
+			"party": "Liberal Democrat",
+			"votes": 2001,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lovatt, James",
+			"party": "Green Party",
+			"votes": 1330,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Punton, Robert",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 331,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

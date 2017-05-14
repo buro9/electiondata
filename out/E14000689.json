@@ -1,0 +1,85 @@
+{
+	"id": "E14000689",
+	"name": "Elmet and Rothwell",
+	"y2010": [
+		{
+			"candidate": "Shelbrooke, Alec",
+			"party": "Conservative Party",
+			"votes": 23778,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Lewis, James",
+			"party": "Labour Party",
+			"votes": 19257,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Golton, Stewart",
+			"party": "Liberal Democrat",
+			"votes": 9109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, Sam",
+			"party": "British National Party",
+			"votes": 1802,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oddy, Darren",
+			"party": "United Kingdom Independence Party",
+			"votes": 1593,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nolan, Christopher",
+			"party": "Independent",
+			"votes": 250,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Shelbrooke, Alec",
+			"party": "Conservative Party",
+			"votes": 27978,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "King, Veronica",
+			"party": "Labour Party",
+			"votes": 19488,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spivey, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 6430,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Golton, Stewart",
+			"party": "Liberal Democrat",
+			"votes": 2640,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brooks, Dave",
+			"party": "Green Party",
+			"votes": 1261,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

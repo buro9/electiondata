@@ -1,0 +1,85 @@
+{
+	"id": "E14000868",
+	"name": "Nuneaton",
+	"y2010": [
+		{
+			"candidate": "Jones, Marcus",
+			"party": "Conservative Party",
+			"votes": 18536,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Innes, Jayne",
+			"party": "Labour Party",
+			"votes": 16467,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jebb, Christina",
+			"party": "Liberal Democrat",
+			"votes": 6846,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Findley, Martyn",
+			"party": "British National Party",
+			"votes": 2797,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jones, Marcus",
+			"party": "Conservative Party",
+			"votes": 20827,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fowler, Vicky",
+			"party": "Labour Party",
+			"votes": 15945,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waine, Alwyn",
+			"party": "United Kingdom Independence Party",
+			"votes": 6582,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kondakor, Keith",
+			"party": "Green Party",
+			"votes": 1281,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jebb, Christina",
+			"party": "Liberal Democrat",
+			"votes": 816,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reilly, Paul",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 194,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paxton, Stephen",
+			"party": "English Democrats",
+			"votes": 104,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

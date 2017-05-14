@@ -1,0 +1,92 @@
+{
+	"id": "E14001053",
+	"name": "Workington",
+	"y2010": [
+		{
+			"candidate": "Cunningham, Tony",
+			"party": "Labour Party",
+			"votes": 17865,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pattinson, Judith",
+			"party": "Conservative Party",
+			"votes": 13290,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Stan",
+			"party": "Liberal Democrat",
+			"votes": 5318,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wingfield, Martin",
+			"party": "British National Party",
+			"votes": 1496,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Logan, Rob",
+			"party": "English Democrats",
+			"votes": 414,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hayman, Sue",
+			"party": "Labour Party",
+			"votes": 16282,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kana, Rozila",
+			"party": "Conservative Party",
+			"votes": 11596,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkinson, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 7538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Phill",
+			"party": "Liberal Democrat",
+			"votes": 1708,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Perry, Jill",
+			"party": "Green Party",
+			"votes": 1149,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ivinson, Roy",
+			"party": "Independent",
+			"votes": 190,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

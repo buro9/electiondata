@@ -1,0 +1,78 @@
+{
+	"id": "E14000986",
+	"name": "Tamworth",
+	"y2010": [
+		{
+			"candidate": "Pincher, Christopher",
+			"party": "Conservative Party",
+			"votes": 21238,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Jenkins, Brian",
+			"party": "Labour Party",
+			"votes": 15148,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Pinkett, Jenny",
+			"party": "Liberal Democrat",
+			"votes": 7516,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 2253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Detheridge, Charlene",
+			"party": "Christian Party",
+			"votes": 235,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pincher, Christopher",
+			"party": "Conservative Party",
+			"votes": 23606,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dean, Carol",
+			"party": "Labour Party",
+			"votes": 12304,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Higgins, Jan",
+			"party": "United Kingdom Independence Party",
+			"votes": 8727,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pinkett, Jenny",
+			"party": "Liberal Democrat",
+			"votes": 1427,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holmes, Nicola",
+			"party": "Green Party",
+			"votes": 1110,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"id": "E14000978",
+	"name": "Streatham",
+	"y2010": [
+		{
+			"candidate": "Umunna, Chuka",
+			"party": "Labour Party",
+			"votes": 20037,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Nicholson, Chris",
+			"party": "Liberal Democrat",
+			"votes": 16778,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhansali, Rahoul",
+			"party": "Conservative Party",
+			"votes": 8578,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Findlay, Rebecca",
+			"party": "Green Party",
+			"votes": 861,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macharia, Geoffrey",
+			"party": "Christian Party",
+			"votes": 237,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Polenceus, Janus",
+			"party": "English Democrats",
+			"votes": 229,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lepper, Paul",
+			"party": "Workers' Revolutionary Party",
+			"votes": 117,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Umunna, Chuka",
+			"party": "Labour Party",
+			"votes": 26474,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Caddy, Kim",
+			"party": "Conservative Party",
+			"votes": 12540,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ahmad, Amna",
+			"party": "Liberal Democrat",
+			"votes": 4491,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bartley, Jonathan",
+			"party": "Green Party",
+			"votes": 4421,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Machan, Bruce",
+			"party": "United Kingdom Independence Party",
+			"votes": 1602,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beast, Artificial",
+			"party": "CISTAP",
+			"votes": 192,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mirza, Unjum ",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 164,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gayle, Deon",
+			"party": "Workers' Revolutionary Party",
+			"votes": 49,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "N06000014",
+	"name": "Antrim South",
+	"y2010": [
+		{
+			"candidate": "McCrea, William",
+			"party": "Democratic Unionist Party",
+			"votes": 11536,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Empey, Reg",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 10353,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McLaughlin, Mitchel",
+			"party": "Sinn Fein",
+			"votes": 4729,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Byrne, Michelle",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 2955,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawther, Alan",
+			"party": "Alliance",
+			"votes": 2607,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lucas, Melwyn",
+			"party": "Traditional Unionist Voice",
+			"votes": 1829,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kinahan, Danny ",
+			"party": "Ulster Unionist Party",
+			"votes": 11942,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McCrea, Robert",
+			"party": "Democratic Unionist Party",
+			"votes": 10993,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Kearney, Declan",
+			"party": "Sinn Fein",
+			"votes": 4699,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Neil",
+			"party": "Alliance",
+			"votes": 3576,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lynch, Roisin",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 2990,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cairns, Richard",
+			"party": "Traditional Unionist Voice",
+			"votes": 1908,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunlop, Alan",
+			"party": "Conservative Party",
+			"votes": 415,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

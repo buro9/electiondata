@@ -1,0 +1,92 @@
+{
+	"id": "E14000810",
+	"name": "Mansfield",
+	"y2010": [
+		{
+			"candidate": "Meale, Joseph",
+			"party": "Labour Party",
+			"votes": 18753,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Critchlow, Tracy",
+			"party": "Conservative Party",
+			"votes": 12741,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wyatt, Michael",
+			"party": "Liberal Democrat",
+			"votes": 7469,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Camilleri, Andre",
+			"party": "Mansfield Ind",
+			"votes": 4339,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hamilton, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 2985,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Rachel",
+			"party": "British National Party",
+			"votes": 2108,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Meale, Alan",
+			"party": "Labour Party",
+			"votes": 18603,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Clarke, Andrea",
+			"party": "Conservative Party",
+			"votes": 13288,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pepper, Sid",
+			"party": "United Kingdom Independence Party",
+			"votes": 11850,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogers, Tony",
+			"party": "Liberal Democrat",
+			"votes": 1642,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Frost, Paul",
+			"party": "Green Party",
+			"votes": 1486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seymour, Karen",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 324,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

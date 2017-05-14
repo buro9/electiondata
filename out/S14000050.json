@@ -1,0 +1,85 @@
+{
+	"id": "S14000050",
+	"name": "Ochil and Perthshire South",
+	"y2010": [
+		{
+			"candidate": "Banks, Gordon",
+			"party": "Labour Party",
+			"votes": 19131,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ewing, Annabelle",
+			"party": "Scottish National Party",
+			"votes": 13944,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Michaluk, Gerald",
+			"party": "Conservative Party",
+			"votes": 10342,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Littlejohn, Graeme",
+			"party": "Liberal Democrat",
+			"votes": 5754,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bushby, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 689,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Charles, Hilary",
+			"party": "Green Party",
+			"votes": 609,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ahmed-Sheikh, Tasmina",
+			"party": "Scottish National Party",
+			"votes": 26620,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Banks, Gordon",
+			"party": "Labour Party",
+			"votes": 16452,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Graham, Luke",
+			"party": "Conservative Party",
+			"votes": 11987,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stefanov, Iliyan",
+			"party": "Liberal Democrat",
+			"votes": 1481,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1331,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

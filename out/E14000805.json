@@ -1,0 +1,85 @@
+{
+	"id": "E14000805",
+	"name": "Makerfield",
+	"y2010": [
+		{
+			"candidate": "Fovargue, Yvonne",
+			"party": "Labour Party",
+			"votes": 20700,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ali, Itrat",
+			"party": "Conservative Party",
+			"votes": 8210,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crowther, David",
+			"party": "Liberal Democrat",
+			"votes": 7082,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brierley, Bob",
+			"party": "Independent",
+			"votes": 3424,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haslam, Ken",
+			"party": "British National Party",
+			"votes": 3229,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mather, John",
+			"party": "Independent",
+			"votes": 1126,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fovargue, Yvonne",
+			"party": "Labour Party",
+			"votes": 23208,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Collinson, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 10053,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zaidi, Syeda",
+			"party": "Conservative Party",
+			"votes": 8752,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Skipworth, John",
+			"party": "Liberal Democrat",
+			"votes": 1639,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mitchell, Philip",
+			"party": "Green Party",
+			"votes": 1136,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000769",
+	"name": "Kettering",
+	"y2010": [
+		{
+			"candidate": "Hollobone, Philip",
+			"party": "Conservative Party",
+			"votes": 23247,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sawford, Phil",
+			"party": "Labour Party",
+			"votes": 14153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nelson, Chris",
+			"party": "Liberal Democrat",
+			"votes": 7498,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Skinner, Clive",
+			"party": "British National Party",
+			"votes": 1366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hilling, Derek",
+			"party": "English Democrats",
+			"votes": 952,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bishop, Dave",
+			"party": "BP Elvis",
+			"votes": 112,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hollobone, Philip",
+			"party": "Conservative Party",
+			"votes": 24467,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Keehn, Rhea",
+			"party": "Labour Party",
+			"votes": 11877,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bullock, Jonathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 7600,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reeves, Rob",
+			"party": "Green Party",
+			"votes": 1633,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGlynn, Chris",
+			"party": "Liberal Democrat",
+			"votes": 1490,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hilling, Derek",
+			"party": "English Democrats",
+			"votes": 151,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

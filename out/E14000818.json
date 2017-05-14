@@ -1,0 +1,78 @@
+{
+	"id": "E14000818",
+	"name": "Worcestershire Mid",
+	"y2010": [
+		{
+			"candidate": "Luff, Peter",
+			"party": "Conservative Party",
+			"votes": 27770,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rowley, Margaret",
+			"party": "Liberal Democrat",
+			"votes": 11906,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lunn, Robin",
+			"party": "Labour Party",
+			"votes": 7613,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 3049,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Matthews, Gordon",
+			"party": "Green Party",
+			"votes": 593,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Huddleston, Nigel",
+			"party": "Conservative Party",
+			"votes": 29763,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Keel, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 9231,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lunn, Robin",
+			"party": "Labour Party",
+			"votes": 7548,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowley, Margaret",
+			"party": "Liberal Democrat",
+			"votes": 3750,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Franks, Neil",
+			"party": "Green Party",
+			"votes": 1933,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

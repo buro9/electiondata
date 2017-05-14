@@ -1,0 +1,120 @@
+{
+	"id": "E14001052",
+	"name": "Worcester",
+	"y2010": [
+		{
+			"candidate": "Walker, Robin",
+			"party": "Conservative Party",
+			"votes": 19358,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Foster, Michael",
+			"party": "Labour Party",
+			"votes": 16376,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Alderson, Jackie",
+			"party": "Liberal Democrat",
+			"votes": 9525,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Jack",
+			"party": "United Kingdom Independence Party",
+			"votes": 1360,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirby, Spencer Lee",
+			"party": "British National Party",
+			"votes": 1219,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephen, Louis",
+			"party": "Green Party",
+			"votes": 735,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Andrew",
+			"party": "Pirate Party UK",
+			"votes": 173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nielsen, Peter",
+			"party": "Independent",
+			"votes": 129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Christian-Brookes, Andrew",
+			"party": "Independent",
+			"votes": 99,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Walker, Robin",
+			"party": "Conservative Party",
+			"votes": 22534,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Squires, Joy",
+			"party": "Labour Party",
+			"votes": 16888,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goad, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 6378,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephen, Louis",
+			"party": "Green Party",
+			"votes": 2024,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Federica",
+			"party": "Liberal Democrat",
+			"votes": 1677,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McNally, Pete",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shuker, Mark",
+			"party": "Independent",
+			"votes": 69,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

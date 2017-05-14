@@ -1,0 +1,85 @@
+{
+	"id": "S14000057",
+	"name": "Stirling",
+	"y2010": [
+		{
+			"candidate": "McGuire, Anne",
+			"party": "Labour Party",
+			"votes": 19558,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dalrymple, Bob",
+			"party": "Conservative Party",
+			"votes": 11204,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lindsay, Alison",
+			"party": "Scottish National Party",
+			"votes": 8091,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reed, Graham",
+			"party": "Liberal Democrat",
+			"votes": 6797,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ruskell, Mark",
+			"party": "Green Party",
+			"votes": 746,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henke, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 395,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Paterson, Steven",
+			"party": "Scottish National Party",
+			"votes": 23783,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Boyd, Johanna",
+			"party": "Labour Party",
+			"votes": 13303,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kerr, Stephen",
+			"party": "Conservative Party",
+			"votes": 12051,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ruskell, Mark",
+			"party": "Green Party",
+			"votes": 1606,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Elisabeth",
+			"party": "Liberal Democrat",
+			"votes": 1392,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

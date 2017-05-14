@@ -1,0 +1,71 @@
+{
+	"id": "E14000850",
+	"name": "Somerset North",
+	"y2010": [
+		{
+			"candidate": "Fox, Liam",
+			"party": "Conservative Party",
+			"votes": 28549,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mathew, Brian",
+			"party": "Liberal Democrat",
+			"votes": 20687,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parry-Hearn, Steven",
+			"party": "Labour Party",
+			"votes": 6448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Susan",
+			"party": "United Kingdom Independence Party",
+			"votes": 2257,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fox, Liam",
+			"party": "Conservative Party",
+			"votes": 31540,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Chambers, Gregory ",
+			"party": "Labour Party",
+			"votes": 8441,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kealey, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 7669,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kravis, Marcus",
+			"party": "Liberal Democrat",
+			"votes": 7486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Derbyshire, David ",
+			"party": "Green Party",
+			"votes": 3806,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

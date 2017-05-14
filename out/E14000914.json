@@ -1,0 +1,99 @@
+{
+	"id": "E14000914",
+	"name": "Scunthorpe",
+	"y2010": [
+		{
+			"candidate": "Dakin, Nic",
+			"party": "Labour Party",
+			"votes": 14640,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Johnson, Caroline",
+			"party": "Conservative Party",
+			"votes": 12091,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Poole, Neil",
+			"party": "Liberal Democrat",
+			"votes": 6774,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Jane",
+			"party": "United Kingdom Independence Party",
+			"votes": 1686,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Douglas",
+			"party": "British National Party",
+			"votes": 1447,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hurst, Natalie",
+			"party": "Green Party",
+			"votes": 396,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dakin, Nic",
+			"party": "Labour Party",
+			"votes": 15393,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gideon, Jo",
+			"party": "Conservative Party",
+			"votes": 12259,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howd, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 6329,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Comerford, Des",
+			"party": "Independent",
+			"votes": 1097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dwyer, Martin",
+			"party": "Green Party",
+			"votes": 887,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dodd, Simon",
+			"party": "Liberal Democrat",
+			"votes": 770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elsom, Paul",
+			"party": "Independent",
+			"votes": 206,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

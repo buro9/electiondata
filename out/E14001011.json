@@ -1,0 +1,99 @@
+{
+	"id": "E14001011",
+	"name": "Walsall North",
+	"y2010": [
+		{
+			"candidate": "Winnick, David",
+			"party": "Labour Party",
+			"votes": 13385,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Clack, Helyn",
+			"party": "Conservative Party",
+			"votes": 12395,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fazal, Nadia",
+			"party": "Liberal Democrat",
+			"votes": 4754,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woodall, Christopher",
+			"party": "British National Party",
+			"votes": 2930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hazell, Elizabeth",
+			"party": "United Kingdom Independence Party",
+			"votes": 1737,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Peter",
+			"party": "Dem Lab",
+			"votes": 842,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shakir, Babar",
+			"party": "Christian Party",
+			"votes": 144,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Winnick, David",
+			"party": "Labour Party",
+			"votes": 14392,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hansen-Luke, Douglas",
+			"party": "Conservative Party",
+			"votes": 12455,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hazell, Liz",
+			"party": "United Kingdom Independence Party",
+			"votes": 8122,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Nigel",
+			"party": "Liberal Democrat",
+			"votes": 840,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Pete",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 545,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harrison, Mike",
+			"party": "Green Party",
+			"votes": 529,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

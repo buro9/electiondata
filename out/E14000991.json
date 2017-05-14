@@ -1,0 +1,85 @@
+{
+	"id": "E14000991",
+	"name": "Cotswolds, The",
+	"y2010": [
+		{
+			"candidate": "Clifton-Brown, Geoffrey",
+			"party": "Conservative Party",
+			"votes": 29075,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Collins, Mike",
+			"party": "Liberal Democrat",
+			"votes": 16211,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dempsey, Mark",
+			"party": "Labour Party",
+			"votes": 5886,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blake, Adrian",
+			"party": "United Kingdom Independence Party",
+			"votes": 2292,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lister, Kevin",
+			"party": "Green Party",
+			"votes": 940,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Steel, Alex",
+			"party": "Independent",
+			"votes": 428,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Clifton-Brown, Geoffrey",
+			"party": "Conservative Party",
+			"votes": 32045,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hodgkinson, Paul",
+			"party": "Liberal Democrat",
+			"votes": 10568,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harlow, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 6188,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kang, Manjinder",
+			"party": "Labour Party",
+			"votes": 5240,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burgess, Penny",
+			"party": "Green Party",
+			"votes": 2626,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000552",
+	"name": "Bedford",
+	"y2010": [
+		{
+			"candidate": "Fuller, Richard",
+			"party": "Conservative Party",
+			"votes": 17546,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hall, Patrick",
+			"party": "Labour Party",
+			"votes": 16193,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Vann, Henry",
+			"party": "Liberal Democrat",
+			"votes": 8957,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adkin, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 1136,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dewick, William",
+			"party": "British National Party",
+			"votes": 757,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foley, Ben",
+			"party": "Green Party",
+			"votes": 393,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhandari, Samrat",
+			"party": "Independent",
+			"votes": 120,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fuller, Richard",
+			"party": "Conservative Party",
+			"votes": 19625,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hall, Patrick",
+			"party": "Labour Party",
+			"votes": 18528,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Charlie",
+			"party": "United Kingdom Independence Party",
+			"votes": 4434,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henry Rogers, Mahmud",
+			"party": "Liberal Democrat",
+			"votes": 1958,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foley, Ben",
+			"party": "Green Party",
+			"votes": 1412,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Choudhury, Faruk",
+			"party": "Independent",
+			"votes": 129,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

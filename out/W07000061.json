@@ -1,0 +1,99 @@
+{
+	"id": "W07000061",
+	"name": "Dwyfor Meirionnydd",
+	"y2010": [
+		{
+			"candidate": "Llwyd, Elfyn",
+			"party": "Plaid Cymru",
+			"votes": 12814,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Baynes, Simon",
+			"party": "Conservative Party",
+			"votes": 6447,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Humphreys, Alwyn",
+			"party": "Labour Party",
+			"votes": 4021,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Churchman, Steve",
+			"party": "Liberal Democrat",
+			"votes": 3538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Louise",
+			"party": "Independent",
+			"votes": 1310,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wykes, Frank",
+			"party": "United Kingdom Independence Party",
+			"votes": 776,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Roberts, Liz ",
+			"party": "Plaid Cymru",
+			"votes": 11811,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Fairlamb, Neil",
+			"party": "Conservative Party",
+			"votes": 6550,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths Clarke, Mary",
+			"party": "Labour Party",
+			"votes": 3904,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gillibrand, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 3126,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Louise",
+			"party": "Independent",
+			"votes": 1388,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Churchman, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 1153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fothergill, Marc",
+			"party": "Green Party",
+			"votes": 981,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

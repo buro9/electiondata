@@ -1,0 +1,85 @@
+{
+	"id": "E14000849",
+	"name": "Shropshire North",
+	"y2010": [
+		{
+			"candidate": "Paterson, Owen",
+			"party": "Conservative Party",
+			"votes": 26692,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Croll, Ian",
+			"party": "Liberal Democrat",
+			"votes": 10864,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McLaughlan, Ian",
+			"party": "Labour Party",
+			"votes": 9406,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "List, Sandra",
+			"party": "United Kingdom Independence Party",
+			"votes": 2432,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reddall, Phil",
+			"party": "British National Party",
+			"votes": 1667,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boulding, Steve",
+			"party": "Green Party",
+			"votes": 808,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Paterson, Owen",
+			"party": "Conservative Party",
+			"votes": 27041,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Currie, Graeme",
+			"party": "Labour Party",
+			"votes": 10547,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Andrea",
+			"party": "United Kingdom Independence Party",
+			"votes": 9262,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thornhill, Tom",
+			"party": "Liberal Democrat",
+			"votes": 3148,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kerr, Duncan",
+			"party": "Green Party",
+			"votes": 2575,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

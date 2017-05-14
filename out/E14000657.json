@@ -1,0 +1,120 @@
+{
+	"id": "E14000657",
+	"name": "Dagenham and Rainham",
+	"y2010": [
+		{
+			"candidate": "Cruddas, Jon",
+			"party": "Labour Party",
+			"votes": 17813,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Simon",
+			"party": "Conservative Party",
+			"votes": 15183,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barnbrook, Michael",
+			"party": "British National Party",
+			"votes": 4952,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bourke, Joseph",
+			"party": "Liberal Democrat",
+			"votes": 3806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Litwin, Craig",
+			"party": "United Kingdom Independence Party",
+			"votes": 1569,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kennedy, Gordon",
+			"party": "Independent",
+			"votes": 308,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watson, Paula",
+			"party": "Christian Party",
+			"votes": 305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rosaman, Debbie",
+			"party": "Green Party",
+			"votes": 296,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cruddas, Jon",
+			"party": "Labour Party",
+			"votes": 17830,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Harris, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 12850,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marson, Julie",
+			"party": "Conservative Party",
+			"votes": 10492,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Kate",
+			"party": "Green Party",
+			"votes": 806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Capstick, Denise",
+			"party": "Liberal Democrat",
+			"votes": 717,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Culnane, Tess",
+			"party": "British National Party",
+			"votes": 151,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "London, Terry",
+			"party": "Independent",
+			"votes": 133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gandy, Kim",
+			"party": "English Democrats",
+			"votes": 71,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

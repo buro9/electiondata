@@ -1,0 +1,99 @@
+{
+	"id": "E14000709",
+	"name": "Gateshead",
+	"y2010": [
+		{
+			"candidate": "Mearns, Ian",
+			"party": "Labour Party",
+			"votes": 20712,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hindle, Frank",
+			"party": "Liberal Democrat",
+			"votes": 8163,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Anderson, Hazel",
+			"party": "Conservative Party",
+			"votes": 5716,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Kevin",
+			"party": "British National Party",
+			"votes": 1787,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tennant, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1103,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Redfern, Andy",
+			"party": "Green Party",
+			"votes": 379,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brunskill, Elaine",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 266,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walton, David",
+			"party": "Christian Party",
+			"votes": 131,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mearns, James",
+			"party": "Labour Party",
+			"votes": 21549,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Tennant, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 6765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Tom",
+			"party": "Conservative Party",
+			"votes": 5502,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hindle, Frank",
+			"party": "Liberal Democrat",
+			"votes": 2585,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Redfern, Andy",
+			"party": "Green Party",
+			"votes": 1548,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

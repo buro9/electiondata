@@ -1,0 +1,99 @@
+{
+	"id": "W07000056",
+	"name": "Newport West",
+	"y2010": [
+		{
+			"candidate": "Flynn, Paul",
+			"party": "Labour Party",
+			"votes": 16389,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Matthew",
+			"party": "Conservative Party",
+			"votes": 12845,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "German, Veronica",
+			"party": "Liberal Democrat",
+			"votes": 6587,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Windsor, Timothy",
+			"party": "British National Party",
+			"votes": 1183,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moelwyn Hughes, Hugh",
+			"party": "United Kingdom Independence Party",
+			"votes": 1144,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rees, Jeff",
+			"party": "Plaid Cymru",
+			"votes": 1122,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bartolotti, Pippa",
+			"party": "Green Party",
+			"votes": 450,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Flynn, Paul",
+			"party": "Labour Party",
+			"votes": 16633,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Webb, Nick",
+			"party": "Conservative Party",
+			"votes": 13123,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Norrie, Gordon",
+			"party": "United Kingdom Independence Party",
+			"votes": 6134,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coopey, Simon",
+			"party": "Plaid Cymru",
+			"votes": 1604,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Townsend, Ed",
+			"party": "Liberal Democrat",
+			"votes": 1581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bartolotti, Pippa",
+			"party": "Green Party",
+			"votes": 1272,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

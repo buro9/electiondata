@@ -1,0 +1,99 @@
+{
+	"id": "E14000717",
+	"name": "Great Yarmouth",
+	"y2010": [
+		{
+			"candidate": "Lewis, Brandon",
+			"party": "Conservative Party",
+			"votes": 18571,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Wright, Tony",
+			"party": "Labour Party",
+			"votes": 14295,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Partridge, Simon",
+			"party": "Liberal Democrat",
+			"votes": 6188,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baugh, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 2066,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tann, Bosco",
+			"party": "British National Party",
+			"votes": 1421,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Biggart, Laura",
+			"party": "Green Party",
+			"votes": 416,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McMahon-Morris, Margaret",
+			"party": "LTT",
+			"votes": 100,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lewis, Brandon",
+			"party": "Conservative Party",
+			"votes": 19089,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Norris, Lara",
+			"party": "Labour Party",
+			"votes": 12935,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grey, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 10270,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Joyce, James",
+			"party": "Liberal Democrat",
+			"votes": 1030,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Webb, Harry",
+			"party": "Green Party",
+			"votes": 978,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Townley, Sam",
+			"party": "CISTAP",
+			"votes": 167,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

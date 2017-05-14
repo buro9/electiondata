@@ -1,0 +1,92 @@
+{
+	"id": "E14000596",
+	"name": "Brigg and Goole",
+	"y2010": [
+		{
+			"candidate": "Percy, Andrew",
+			"party": "Conservative Party",
+			"votes": 19680,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Cawsey, Ian",
+			"party": "Labour Party",
+			"votes": 14533,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Nixon, Richard",
+			"party": "Liberal Democrat",
+			"votes": 6414,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 1749,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Stephen",
+			"party": "British National Party",
+			"votes": 1498,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Percy, Andrew",
+			"party": "Conservative Party",
+			"votes": 22946,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Crawford, Jacky",
+			"party": "Labour Party",
+			"votes": 11770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jeffreys, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 6694,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hurst, Natalie",
+			"party": "Green Party",
+			"votes": 915,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leffman, Liz",
+			"party": "Liberal Democrat",
+			"votes": 764,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Trevor",
+			"party": "Independent",
+			"votes": 153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spalding, Ray",
+			"party": "Independence from Europe",
+			"votes": 28,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

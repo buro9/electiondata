@@ -1,0 +1,85 @@
+{
+	"id": "S14000042",
+	"name": "Lanark and Hamilton East",
+	"y2010": [
+		{
+			"candidate": "Hood, Jim",
+			"party": "Labour Party",
+			"votes": 23258,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Adamson, Clare",
+			"party": "Scottish National Party",
+			"votes": 9780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGavigan, Colin",
+			"party": "Conservative Party",
+			"votes": 6981,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Herbison, Douglas",
+			"party": "Liberal Democrat",
+			"votes": 5249,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McFarlane, Duncan",
+			"party": "Independent",
+			"votes": 670,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sale, Rob",
+			"party": "United Kingdom Independence Party",
+			"votes": 616,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Crawley, Angela",
+			"party": "Scottish National Party",
+			"votes": 26976,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hood, Jim",
+			"party": "Labour Party",
+			"votes": 16876,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Allison, Alex",
+			"party": "Conservative Party",
+			"votes": 8772,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacKay, Donald",
+			"party": "United Kingdom Independence Party",
+			"votes": 1431,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cullen, Gregg",
+			"party": "Liberal Democrat",
+			"votes": 1203,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

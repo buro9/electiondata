@@ -1,0 +1,85 @@
+{
+	"id": "E14000895",
+	"name": "Richmond (Yorks)",
+	"y2010": [
+		{
+			"candidate": "Hague, William",
+			"party": "Conservative Party",
+			"votes": 33541,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Meredith, Lawrence",
+			"party": "Liberal Democrat",
+			"votes": 10205,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Driver, Eileen",
+			"party": "Labour Party",
+			"votes": 8150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowe, Leslie",
+			"party": "Green Party",
+			"votes": 1516,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Sunak, Rishi",
+			"party": "Conservative Party",
+			"votes": 27744,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Cooke, Matthew",
+			"party": "United Kingdom Independence Party",
+			"votes": 8194,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Mike",
+			"party": "Labour Party",
+			"votes": 7124,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, John",
+			"party": "Liberal Democrat",
+			"votes": 3465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blackie, John",
+			"party": "Independent",
+			"votes": 3348,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowe, Leslie",
+			"party": "Green Party",
+			"votes": 2313,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Robin",
+			"party": "Independent",
+			"votes": 1811,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

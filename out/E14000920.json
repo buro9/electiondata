@@ -1,0 +1,106 @@
+{
+	"id": "E14000920",
+	"name": "Sheffield South East",
+	"y2010": [
+		{
+			"candidate": "Betts, Clive",
+			"party": "Labour Party",
+			"votes": 20169,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Gail",
+			"party": "Liberal Democrat",
+			"votes": 9664,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bonson, Nigel",
+			"party": "Conservative Party",
+			"votes": 7202,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hartigan, Christopher",
+			"party": "British National Party",
+			"votes": 2345,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Arnott, Jonathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 1889,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Andrew, Steven",
+			"party": "Comm Brit",
+			"votes": 139,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Betts, Clive",
+			"party": "Labour Party",
+			"votes": 21439,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Winstone, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 9128,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sleat, Matt",
+			"party": "Conservative Party",
+			"votes": 7242,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Gail",
+			"party": "Liberal Democrat",
+			"votes": 2226,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duckenfield, Linda",
+			"party": "Green Party",
+			"votes": 1117,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Battersby, Jen",
+			"party": "CISTAP",
+			"votes": 207,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitehouse, Ian",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 185,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Matthew",
+			"party": "English Democrats",
+			"votes": 141,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

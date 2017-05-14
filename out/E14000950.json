@@ -1,0 +1,78 @@
+{
+	"id": "E14000950",
+	"name": "Devon South West",
+	"y2010": [
+		{
+			"candidate": "Streeter, Gary",
+			"party": "Conservative Party",
+			"votes": 27908,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pascoe, Anna",
+			"party": "Liberal Democrat",
+			"votes": 12034,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pollard, Luke",
+			"party": "Labour Party",
+			"votes": 6193,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Hugh",
+			"party": "United Kingdom Independence Party",
+			"votes": 3084,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brean, Vaughan",
+			"party": "Green Party",
+			"votes": 641,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Streeter, Gary",
+			"party": "Conservative Party",
+			"votes": 28500,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Singh, Chaz",
+			"party": "Labour Party",
+			"votes": 8391,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Julian, Robin",
+			"party": "United Kingdom Independence Party",
+			"votes": 7306,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Tom",
+			"party": "Liberal Democrat",
+			"votes": 3767,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scutt, Win",
+			"party": "Green Party",
+			"votes": 2408,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

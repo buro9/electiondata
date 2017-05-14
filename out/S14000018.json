@@ -1,0 +1,85 @@
+{
+	"id": "S14000018",
+	"name": "Dunbartonshire East",
+	"y2010": [
+		{
+			"candidate": "Swinson, Jo",
+			"party": "Liberal Democrat",
+			"votes": 18551,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Galbraith, Mary",
+			"party": "Labour Party",
+			"votes": 16367,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nolan, Mark",
+			"party": "Conservative Party",
+			"votes": 7431,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Iain",
+			"party": "Scottish National Party",
+			"votes": 5054,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beeley, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 545,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Nicolson, John",
+			"party": "Scottish National Party",
+			"votes": 22093,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Swinson, Jo",
+			"party": "Liberal Democrat",
+			"votes": 19926,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Jhund, Amanjit",
+			"party": "Labour Party",
+			"votes": 6754,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Polson, Andrew",
+			"party": "Conservative Party",
+			"votes": 4727,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greer, Ross",
+			"party": "Green Party",
+			"votes": 804,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Arasaratnam, Wilfred",
+			"party": "United Kingdom Independence Party",
+			"votes": 567,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

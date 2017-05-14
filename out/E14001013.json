@@ -1,0 +1,120 @@
+{
+	"id": "E14001013",
+	"name": "Walthamstow",
+	"y2010": [
+		{
+			"candidate": "Creasy, Stella",
+			"party": "Labour Party",
+			"votes": 21252,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ahmed, Farid",
+			"party": "Liberal Democrat",
+			"votes": 11774,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hemsted, Andy",
+			"party": "Conservative Party",
+			"votes": 5734,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chisholm-Benli, Judith",
+			"party": "United Kingdom Independence Party",
+			"votes": 823,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Perrett, Daniel",
+			"party": "Green Party",
+			"votes": 767,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taaffe, Nancy",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 279,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mall, Ashar",
+			"party": "Christian Party",
+			"votes": 248,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warburton, Paul",
+			"party": "Independent",
+			"votes": 117,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Creasy, Stella",
+			"party": "Labour Party",
+			"votes": 28779,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Samuel-Leport, Molly",
+			"party": "Conservative Party",
+			"votes": 5584,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gold, Michael",
+			"party": "Green Party",
+			"votes": 2661,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hillman, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 2507,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cheung, Steven",
+			"party": "Liberal Democrat",
+			"votes": 1661,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taaffe, Nancy",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Merton, Ellie",
+			"party": "Independent",
+			"votes": 129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leff, Jonty",
+			"party": "Workers' Revolutionary Party",
+			"votes": 81,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

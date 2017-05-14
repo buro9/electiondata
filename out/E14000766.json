@@ -1,0 +1,85 @@
+{
+	"id": "E14000766",
+	"name": "Keighley",
+	"y2010": [
+		{
+			"candidate": "Hopkins, Kris",
+			"party": "Conservative Party",
+			"votes": 20003,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Thomas, Jane",
+			"party": "Labour Party",
+			"votes": 17063,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fekri, Nader",
+			"party": "Liberal Democrat",
+			"votes": 7059,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brons, Andrew",
+			"party": "British National Party",
+			"votes": 1962,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Latham, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1470,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Steven",
+			"party": "National Front",
+			"votes": 135,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hopkins, Kris",
+			"party": "Conservative Party",
+			"votes": 21766,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Grogan, John",
+			"party": "Labour Party",
+			"votes": 18713,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Latham, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 5662,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Ros",
+			"party": "Green Party",
+			"votes": 1661,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Epps, Gareth",
+			"party": "Liberal Democrat",
+			"votes": 1321,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000580",
+	"name": "Bolton West",
+	"y2010": [
+		{
+			"candidate": "Hilling, Julie",
+			"party": "Labour Party",
+			"votes": 18327,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Susan",
+			"party": "Conservative Party",
+			"votes": 18235,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearcey, Jackie",
+			"party": "Liberal Democrat",
+			"votes": 8177,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lamb, Harry",
+			"party": "United Kingdom Independence Party",
+			"votes": 1901,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mann, Rachel",
+			"party": "Green Party",
+			"votes": 545,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Jimmy",
+			"party": "Independent",
+			"votes": 254,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bagnall, Doug",
+			"party": "You",
+			"votes": 137,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Green, Chris",
+			"party": "Conservative Party",
+			"votes": 19744,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hilling, Julie",
+			"party": "Labour Party",
+			"votes": 18943,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Horsefield, Bob",
+			"party": "United Kingdom Independence Party",
+			"votes": 7428,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 1947,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Andy",
+			"party": "Independent",
+			"votes": 321,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vickers, John",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 209,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

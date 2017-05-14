@@ -1,0 +1,78 @@
+{
+	"id": "E14000877",
+	"name": "Penrith and The Border",
+	"y2010": [
+		{
+			"candidate": "Stewart, Rory",
+			"party": "Conservative Party",
+			"votes": 24071,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Thornton, Peter",
+			"party": "Liberal Democrat",
+			"votes": 12830,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cannon, Barbara",
+			"party": "Labour Party",
+			"votes": 5834,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stanyer, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1259,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davidson, Chris",
+			"party": "British National Party",
+			"votes": 1093,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stewart, Rory",
+			"party": "Conservative Party",
+			"votes": 26202,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rushworth, Lee ",
+			"party": "Labour Party",
+			"votes": 6308,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stanyer, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 5353,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Neil",
+			"party": "Liberal Democrat",
+			"votes": 3745,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burrow, George",
+			"party": "Green Party",
+			"votes": 2313,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

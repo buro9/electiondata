@@ -1,0 +1,85 @@
+{
+	"id": "E14001040",
+	"name": "Wimbledon",
+	"y2010": [
+		{
+			"candidate": "Hammond, Stephen",
+			"party": "Conservative Party",
+			"votes": 23257,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sheehan, Shas",
+			"party": "Liberal Democrat",
+			"votes": 11849,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Judge, Andrew",
+			"party": "Labour Party",
+			"votes": 10550,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McAleer, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 914,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thacker, Rajeev",
+			"party": "Green Party",
+			"votes": 590,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, David",
+			"party": "Christian Party",
+			"votes": 235,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hammond, Stephen",
+			"party": "Conservative Party",
+			"votes": 25225,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Judge, Andrew",
+			"party": "Labour Party",
+			"votes": 12606,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sheehan, Shas",
+			"party": "Liberal Democrat",
+			"votes": 6129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bucklitsch, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 2476,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barraball, Charles",
+			"party": "Green Party",
+			"votes": 1986,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

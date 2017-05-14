@@ -1,0 +1,99 @@
+{
+	"id": "E14000698",
+	"name": "Exeter",
+	"y2010": [
+		{
+			"candidate": "Bradshaw, Ben",
+			"party": "Labour Party",
+			"votes": 19942,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Foster, Hannah",
+			"party": "Conservative Party",
+			"votes": 17221,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oakes, Graham",
+			"party": "Liberal Democrat",
+			"votes": 10581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crawford, Keith",
+			"party": "United Kingdom Independence Party",
+			"votes": 1930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gale, Chris",
+			"party": "Lib",
+			"votes": 1108,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Black, Paula",
+			"party": "Green Party",
+			"votes": 792,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farmer, Robert",
+			"party": "British National Party",
+			"votes": 673,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bradshaw, Ben",
+			"party": "Labour Party",
+			"votes": 25062,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Morris, Dom",
+			"party": "Conservative Party",
+			"votes": 17879,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crawford, Keith",
+			"party": "United Kingdom Independence Party",
+			"votes": 5075,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, Diana",
+			"party": "Green Party",
+			"votes": 3491,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mason, Joel",
+			"party": "Liberal Democrat",
+			"votes": 2321,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Potts, Edmund",
+			"party": "Left Unity - Trade Unionists and Socialists",
+			"votes": 190,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

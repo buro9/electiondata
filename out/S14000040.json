@@ -1,0 +1,64 @@
+{
+	"id": "S14000040",
+	"name": "Kilmarnock and Loudoun",
+	"y2010": [
+		{
+			"candidate": "Jamieson, Cathy",
+			"party": "Lab Co-op",
+			"votes": 24460,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Leslie, George",
+			"party": "Scottish National Party",
+			"votes": 12082,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McAlpine, Janette",
+			"party": "Conservative Party",
+			"votes": 6592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tombs, Sebastian",
+			"party": "Liberal Democrat",
+			"votes": 3419,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brown, Alan",
+			"party": "Scottish National Party",
+			"votes": 30000,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Jamieson, Cathy",
+			"party": "Labour Party",
+			"votes": 16362,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Whittle, Brian ",
+			"party": "Conservative Party",
+			"votes": 6752,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ackland, Rod",
+			"party": "Liberal Democrat",
+			"votes": 789,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

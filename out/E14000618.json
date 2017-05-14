@@ -1,0 +1,99 @@
+{
+	"id": "E14000618",
+	"name": "Cannock Chase",
+	"y2010": [
+		{
+			"candidate": "Burley, Aidan",
+			"party": "Conservative Party",
+			"votes": 18271,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Woodward, Susan",
+			"party": "Labour Party",
+			"votes": 15076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hunt, Jon",
+			"party": "Liberal Democrat",
+			"votes": 7732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Majorowicz, Terence",
+			"party": "British National Party",
+			"votes": 2168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenzie, Malcolm",
+			"party": "United Kingdom Independence Party",
+			"votes": 1580,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turville, Ron",
+			"party": "Independent",
+			"votes": 380,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Royston",
+			"party": "Snouts",
+			"votes": 259,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walters, Mike",
+			"party": "Independent",
+			"votes": 93,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Milling, Amanda",
+			"party": "Conservative Party",
+			"votes": 20811,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Toth, Janos",
+			"party": "Labour Party",
+			"votes": 15888,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wiggin, Grahame",
+			"party": "United Kingdom Independence Party",
+			"votes": 8224,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Ian",
+			"party": "Liberal Democrat",
+			"votes": 1270,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woodhead, Paul",
+			"party": "Green Party",
+			"votes": 906,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

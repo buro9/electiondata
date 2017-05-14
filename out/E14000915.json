@@ -1,0 +1,85 @@
+{
+	"id": "E14000915",
+	"name": "Sedgefield",
+	"y2010": [
+		{
+			"candidate": "Wilson, Phil",
+			"party": "Labour Party",
+			"votes": 18141,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mahapatra, Neil",
+			"party": "Conservative Party",
+			"votes": 9445,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Alan",
+			"party": "Liberal Democrat",
+			"votes": 8033,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Mark",
+			"party": "British National Party",
+			"votes": 2075,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gregory, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 1479,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gittins, Paul",
+			"party": "Independent",
+			"votes": 1049,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wilson, Phil",
+			"party": "Labour Party",
+			"votes": 18275,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wood, Scott",
+			"party": "Conservative Party",
+			"votes": 11432,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leathley, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 6426,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Glenn, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 1370,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Greg ",
+			"party": "Green Party",
+			"votes": 1213,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

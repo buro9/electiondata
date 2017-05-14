@@ -1,0 +1,99 @@
+{
+	"id": "E14000699",
+	"name": "Fareham",
+	"y2010": [
+		{
+			"candidate": "Hoban, Mark",
+			"party": "Conservative Party",
+			"votes": 30037,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bentley, Alex",
+			"party": "Liberal Democrat",
+			"votes": 12945,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carr, James",
+			"party": "Labour Party",
+			"votes": 7719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richards, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 2235,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Doggett, Peter",
+			"party": "Green Party",
+			"votes": 791,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Joe",
+			"party": "English Democrats",
+			"votes": 618,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fernandes, Suella",
+			"party": "Conservative Party",
+			"votes": 30689,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Malcolm",
+			"party": "United Kingdom Independence Party",
+			"votes": 8427,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rose, Stuart",
+			"party": "Labour Party",
+			"votes": 7800,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Winnington, Matthew",
+			"party": "Liberal Democrat",
+			"votes": 4814,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grindey, Miles",
+			"party": "Green Party",
+			"votes": 2129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gregory, Nick",
+			"party": "Independent",
+			"votes": 705,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hines, Harvey",
+			"party": "Independent",
+			"votes": 136,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

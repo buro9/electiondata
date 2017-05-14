@@ -1,0 +1,99 @@
+{
+	"id": "E14000956",
+	"name": "Southampton Test",
+	"y2010": [
+		{
+			"candidate": "Whitehead, Alan",
+			"party": "Labour Party",
+			"votes": 17001,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Moulton, Jeremy",
+			"party": "Conservative Party",
+			"votes": 14588,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Callaghan, David",
+			"party": "Liberal Democrat",
+			"votes": 9865,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hingston, Pearline",
+			"party": "United Kingdom Independence Party",
+			"votes": 1726,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bluemel, Chris",
+			"party": "Green Party",
+			"votes": 881,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sanderson, Charles",
+			"party": "Independent",
+			"votes": 126,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Whitehead, Alan",
+			"party": "Labour Party",
+			"votes": 18017,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Moulton, Jeremy",
+			"party": "Conservative Party",
+			"votes": 14207,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hingston, Pearline",
+			"party": "United Kingdom Independence Party",
+			"votes": 5566,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mawle, Angela",
+			"party": "Green Party",
+			"votes": 2568,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, Adrian",
+			"party": "Liberal Democrat",
+			"votes": 2121,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davis, Chris",
+			"party": "Independent",
+			"votes": 770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chaffey, Nick",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 403,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

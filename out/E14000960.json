@@ -1,0 +1,78 @@
+{
+	"id": "E14000960",
+	"name": "St Albans",
+	"y2010": [
+		{
+			"candidate": "Main, Anne",
+			"party": "Conservative Party",
+			"votes": 21533,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Walkington, Sandy",
+			"party": "Liberal Democrat",
+			"votes": 19228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mills, Roma",
+			"party": "Labour Party",
+			"votes": 9288,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stocker, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 2028,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Easton, Jack",
+			"party": "Green Party",
+			"votes": 758,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Main, Anne",
+			"party": "Conservative Party",
+			"votes": 25392,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pollard, Kerry",
+			"party": "Labour Party",
+			"votes": 12660,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walkington, Sandy",
+			"party": "Liberal Democrat",
+			"votes": 10076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 4271,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Easton, Jack",
+			"party": "Green Party",
+			"votes": 2034,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

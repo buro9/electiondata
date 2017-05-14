@@ -1,0 +1,78 @@
+{
+	"id": "E14000536",
+	"name": "Ashford",
+	"y2010": [
+		{
+			"candidate": "Green, Damian",
+			"party": "Conservative Party",
+			"votes": 29878,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Took, Chris",
+			"party": "Liberal Democrat",
+			"votes": 12581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Chris",
+			"party": "Labour Party",
+			"votes": 9204,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elenor, Jeffrey",
+			"party": "United Kingdom Independence Party",
+			"votes": 2508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campkin, Steve",
+			"party": "Green Party",
+			"votes": 1014,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Green, Damian",
+			"party": "Conservative Party",
+			"votes": 30094,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "O'Brien, Gerald",
+			"party": "United Kingdom Independence Party",
+			"votes": 10798,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chilton, Brendan",
+			"party": "Labour Party",
+			"votes": 10580,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Enever, Debbie",
+			"party": "Liberal Democrat",
+			"votes": 3433,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rossi, Mandy",
+			"party": "Green Party",
+			"votes": 2467,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

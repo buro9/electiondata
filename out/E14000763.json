@@ -1,0 +1,85 @@
+{
+	"id": "E14000763",
+	"name": "Islington North",
+	"y2010": [
+		{
+			"candidate": "Corbyn, Jeremy",
+			"party": "Labour Party",
+			"votes": 24276,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jamieson-Ball, Rhodri",
+			"party": "Liberal Democrat",
+			"votes": 11875,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Berrill-Cox, Adrian",
+			"party": "Conservative Party",
+			"votes": 6339,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Emma",
+			"party": "Green Party",
+			"votes": 1348,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lennon, Dominic",
+			"party": "United Kingdom Independence Party",
+			"votes": 716,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Corbyn, Jeremy",
+			"party": "Labour Party",
+			"votes": 29659,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Burghart, Alex",
+			"party": "Conservative Party",
+			"votes": 8465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Russell, Caroline",
+			"party": "Green Party",
+			"votes": 5043,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gregory, Julian",
+			"party": "Liberal Democrat",
+			"votes": 3984,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clough, Gregory",
+			"party": "United Kingdom Independence Party",
+			"votes": 1971,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Bill ",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 112,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

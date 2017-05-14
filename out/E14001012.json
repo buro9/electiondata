@@ -1,0 +1,85 @@
+{
+	"id": "E14001012",
+	"name": "Walsall South",
+	"y2010": [
+		{
+			"candidate": "Vaz, Valerie",
+			"party": "Labour Party",
+			"votes": 16211,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hunt, Richard",
+			"party": "Conservative Party",
+			"votes": 14456,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sinha, Murli",
+			"party": "Liberal Democrat",
+			"votes": 5880,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Derek",
+			"party": "United Kingdom Independence Party",
+			"votes": 3449,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Gulzaman",
+			"party": "Christian Party",
+			"votes": 482,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mulia, Mohammed",
+			"party": "ND",
+			"votes": 404,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Vaz, Valerie",
+			"party": "Labour Party",
+			"votes": 19740,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Arnold, Sue",
+			"party": "Conservative Party",
+			"votes": 13733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Derek",
+			"party": "United Kingdom Independence Party",
+			"votes": 6540,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fletcher, Charlotte",
+			"party": "Green Party",
+			"votes": 1149,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kenrick, Joel",
+			"party": "Liberal Democrat",
+			"votes": 676,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "E14000745",
+	"name": "Hertsmere",
+	"y2010": [
+		{
+			"candidate": "Clappison, James",
+			"party": "Conservative Party",
+			"votes": 26476,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Russell, Sam",
+			"party": "Labour Party",
+			"votes": 8871,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowlands, Anthony",
+			"party": "Liberal Democrat",
+			"votes": 8210,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rutter, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1712,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seabrook, Daniel",
+			"party": "British National Party",
+			"votes": 1397,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Krishna-Das, Arjuna",
+			"party": "Green Party",
+			"votes": 604,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dowden, Oliver",
+			"party": "Conservative Party",
+			"votes": 29696,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Butler, Richard",
+			"party": "Labour Party",
+			"votes": 11235,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Frank",
+			"party": "United Kingdom Independence Party",
+			"votes": 6383,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowler, Sophie",
+			"party": "Liberal Democrat",
+			"votes": 2777,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

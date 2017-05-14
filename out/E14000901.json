@@ -1,0 +1,71 @@
+{
+	"id": "E14000901",
+	"name": "Romsey and Southampton North",
+	"y2010": [
+		{
+			"candidate": "Nokes, Caroline",
+			"party": "Conservative Party",
+			"votes": 24345,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gidley, Sandra",
+			"party": "Liberal Democrat",
+			"votes": 20189,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Beg, Aktar",
+			"party": "Labour Party",
+			"votes": 3116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meropoulos, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1289,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Nokes, Caroline",
+			"party": "Conservative Party",
+			"votes": 26285,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Nicholls, Ben",
+			"party": "Liberal Democrat",
+			"votes": 8573,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paffey, Darren",
+			"party": "Labour Party",
+			"votes": 5749,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "James, Sandra",
+			"party": "United Kingdom Independence Party",
+			"votes": 5511,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Callaghan, Ian",
+			"party": "Green Party",
+			"votes": 2280,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

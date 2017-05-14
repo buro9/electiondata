@@ -1,0 +1,85 @@
+{
+	"id": "E14000825",
+	"name": "Morecambe and Lunesdale",
+	"y2010": [
+		{
+			"candidate": "Morris, David",
+			"party": "Conservative Party",
+			"votes": 18035,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Geraldine",
+			"party": "Labour Party",
+			"votes": 17169,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Leslie",
+			"party": "Liberal Democrat",
+			"votes": 5971,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 1843,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coates, Chris",
+			"party": "Green Party",
+			"votes": 598,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Morris, David",
+			"party": "Conservative Party",
+			"votes": 19691,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lone, Amina",
+			"party": "Labour Party",
+			"votes": 15101,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ogden, Steven ",
+			"party": "United Kingdom Independence Party",
+			"votes": 5358,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Severn, Matthew",
+			"party": "Liberal Democrat",
+			"votes": 1612,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chandler, Phil",
+			"party": "Green Party",
+			"votes": 1395,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dawson, Michael",
+			"party": "Independent",
+			"votes": 85,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

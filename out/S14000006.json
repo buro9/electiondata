@@ -1,0 +1,71 @@
+{
+	"id": "S14000006",
+	"name": "Ayr, Carrick and Cumnock",
+	"y2010": [
+		{
+			"candidate": "Osborne, Sandra",
+			"party": "Labour Party",
+			"votes": 21632,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Grant, William",
+			"party": "Conservative Party",
+			"votes": 11721,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brodie, Charles",
+			"party": "Scottish National Party",
+			"votes": 8276,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, James",
+			"party": "Liberal Democrat",
+			"votes": 4264,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wilson, Corri",
+			"party": "Scottish National Party",
+			"votes": 25492,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Osborne, Sandra",
+			"party": "Labour Party",
+			"votes": 14227,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Lyons, Scott",
+			"party": "Conservative Party",
+			"votes": 10355,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adam-Smith, Joseph",
+			"party": "United Kingdom Independence Party",
+			"votes": 1280,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brodie, Richard",
+			"party": "Liberal Democrat",
+			"votes": 855,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

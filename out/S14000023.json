@@ -1,0 +1,120 @@
+{
+	"id": "S14000023",
+	"name": "Edinburgh North and Leith",
+	"y2010": [
+		{
+			"candidate": "Lazarowicz, Mark",
+			"party": "Labour Party",
+			"votes": 17740,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lang, Kevin",
+			"party": "Liberal Democrat",
+			"votes": 16016,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGill, Iain",
+			"party": "Conservative Party",
+			"votes": 7079,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cashley, Calum",
+			"party": "Scottish National Party",
+			"votes": 4568,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Joester, Kate",
+			"party": "Green Party",
+			"votes": 1062,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hein, John",
+			"party": "Lib",
+			"votes": 389,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Black, Willie",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 233,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jacobsen, David",
+			"party": "Soc Lab",
+			"votes": 141,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacIntyre, Cameron",
+			"party": "Independent",
+			"votes": 128,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brock, Deidre",
+			"party": "Scottish National Party",
+			"votes": 23742,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Lazarowicz, Mark",
+			"party": "Labour Party",
+			"votes": 18145,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "McGill, Iain",
+			"party": "Conservative Party",
+			"votes": 9378,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beattie-Smith, Sarah",
+			"party": "Green Party",
+			"votes": 3140,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Veart, Martin",
+			"party": "Liberal Democrat",
+			"votes": 2634,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Melville, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 847,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitehead, Bruce",
+			"party": "Left Unity - Trade Unionists and Socialists",
+			"votes": 122,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

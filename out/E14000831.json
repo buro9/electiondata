@@ -1,0 +1,85 @@
+{
+	"id": "E14000831",
+	"name": "Newcastle upon Tyne Central",
+	"y2010": [
+		{
+			"candidate": "Onwurah, Chi",
+			"party": "Labour Party",
+			"votes": 15694,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kane, Gareth",
+			"party": "Liberal Democrat",
+			"votes": 8228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holder, Nick",
+			"party": "Conservative Party",
+			"votes": 6611,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Booth, Ken",
+			"party": "British National Party",
+			"votes": 2302,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 754,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearson, John",
+			"party": "Green Party",
+			"votes": 568,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Onwurah, Chi",
+			"party": "Labour Party",
+			"votes": 19301,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kitchen, Simon",
+			"party": "Conservative Party",
+			"votes": 6628,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Daniel",
+			"party": "United Kingdom Independence Party",
+			"votes": 5214,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cott, Nick",
+			"party": "Liberal Democrat",
+			"votes": 2218,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Alexander",
+			"party": "Green Party",
+			"votes": 1724,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000964",
+	"name": "St Ives",
+	"y2010": [
+		{
+			"candidate": "George, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 19619,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Thomas, Derek",
+			"party": "Conservative Party",
+			"votes": 17900,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Latimer, Philippa",
+			"party": "Labour Party",
+			"votes": 3751,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Faulkner, Mick",
+			"party": "United Kingdom Independence Party",
+			"votes": 2560,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Andrewes, Tim",
+			"party": "Green Party",
+			"votes": 1308,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogers, Jonathan",
+			"party": "Cornish D",
+			"votes": 396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reed, Simon",
+			"party": "Mebyon Kernow",
+			"votes": 387,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Thomas, Derek",
+			"party": "Conservative Party",
+			"votes": 18491,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "George, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 16022,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Calderwood, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 5720,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Olivier, Cornelius",
+			"party": "Labour Party",
+			"votes": 4510,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Andrewes, Tim",
+			"party": "Green Party",
+			"votes": 3051,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simmons, Rob",
+			"party": "Mebyon Kernow",
+			"votes": 518,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000786",
+	"name": "Lewes",
+	"y2010": [
+		{
+			"candidate": "Baker, Norman",
+			"party": "Liberal Democrat",
+			"votes": 26048,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sugarman, Jason",
+			"party": "Conservative Party",
+			"votes": 18401,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Koundarjian, Hratche",
+			"party": "Labour Party",
+			"votes": 2508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Charlton, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1728,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murray, Susan",
+			"party": "Green Party",
+			"votes": 729,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd, David",
+			"party": "British National Party",
+			"votes": 594,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Soucek, Ondrej",
+			"party": "Independent",
+			"votes": 80,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Caulfield, Maria",
+			"party": "Conservative Party",
+			"votes": 19206,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Baker, Norman",
+			"party": "Liberal Democrat",
+			"votes": 18123,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Finch, Ray",
+			"party": "United Kingdom Independence Party",
+			"votes": 5427,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Russell-Moyle, Lloyd",
+			"party": "Labour Party",
+			"votes": 5000,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stirling, Alfie",
+			"party": "Green Party",
+			"votes": 2784,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

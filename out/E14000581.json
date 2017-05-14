@@ -1,0 +1,92 @@
+{
+	"id": "E14000581",
+	"name": "Bootle",
+	"y2010": [
+		{
+			"candidate": "Benton, Joe",
+			"party": "Labour Party",
+			"votes": 27426,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Murray, James",
+			"party": "Liberal Democrat",
+			"votes": 6245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Qureshi, Sohail",
+			"party": "Conservative Party",
+			"votes": 3678,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nuttall, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 2514,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stewart, Charles",
+			"party": "British National Party",
+			"votes": 942,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Glover, Pete",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 472,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dowd, Peter",
+			"party": "Labour Party",
+			"votes": 33619,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Nuttall, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 4915,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marsden, Jade",
+			"party": "Conservative Party",
+			"votes": 3639,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tallis, Lisa",
+			"party": "Green Party",
+			"votes": 1501,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newman, David",
+			"party": "Liberal Democrat",
+			"votes": 978,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Glover, Peter",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 500,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

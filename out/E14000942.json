@@ -1,0 +1,85 @@
+{
+	"id": "E14000942",
+	"name": "Northamptonshire South",
+	"y2010": [
+		{
+			"candidate": "Leadsom, Andrea",
+			"party": "Conservative Party",
+			"votes": 33081,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Collins, Scott",
+			"party": "Liberal Democrat",
+			"votes": 12603,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "May, Matthew",
+			"party": "Labour Party",
+			"votes": 10380,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mahoney, Barry",
+			"party": "United Kingdom Independence Party",
+			"votes": 2406,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tappy, Tony",
+			"party": "English Democrats",
+			"votes": 735,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rock, Marcus",
+			"party": "Green Party",
+			"votes": 685,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Leadsom, Andrea",
+			"party": "Conservative Party",
+			"votes": 36607,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mills, Lucy ",
+			"party": "Labour Party",
+			"votes": 10191,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Roger",
+			"party": "United Kingdom Independence Party",
+			"votes": 8204,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Snowdon, Tom",
+			"party": "Liberal Democrat",
+			"votes": 3613,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boughen, Damon",
+			"party": "Green Party",
+			"votes": 2247,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

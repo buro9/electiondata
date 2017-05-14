@@ -1,0 +1,99 @@
+{
+	"id": "E14001059",
+	"name": "Wythenshawe and Sale East",
+	"y2010": [
+		{
+			"candidate": "Goggins, Paul",
+			"party": "Labour Party",
+			"votes": 17987,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Clowes, Janet",
+			"party": "Conservative Party",
+			"votes": 10412,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Eakins, Martin",
+			"party": "Liberal Democrat",
+			"votes": 9107,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Todd, Bernard",
+			"party": "British National Party",
+			"votes": 1572,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cassidy, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 1405,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Worthington, Lynn",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 268,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kane, Mike",
+			"party": "Labour Party",
+			"votes": 21693,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Green, Fiona",
+			"party": "Conservative Party",
+			"votes": 11124,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, Lee",
+			"party": "United Kingdom Independence Party",
+			"votes": 6354,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chamberlain, Victor",
+			"party": "Liberal Democrat",
+			"votes": 1927,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mayo, Jess",
+			"party": "Green Party",
+			"votes": 1658,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Disco, Johnny",
+			"party": "Monster Raving Loony Party",
+			"votes": 292,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Worthington, Lynn",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 215,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

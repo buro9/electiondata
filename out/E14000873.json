@@ -1,0 +1,120 @@
+{
+	"id": "E14000873",
+	"name": "Oxford East",
+	"y2010": [
+		{
+			"candidate": "Smith, Andrew",
+			"party": "Labour Party",
+			"votes": 21938,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Goddard, Steve",
+			"party": "Liberal Democrat",
+			"votes": 17357,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Argar, Edward",
+			"party": "Conservative Party",
+			"votes": 9727,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dhall, Sushila",
+			"party": "Green Party",
+			"votes": 1238,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gasper, Julia",
+			"party": "United Kingdom Independence Party",
+			"votes": 1202,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Sullivan, David",
+			"party": "Socialist Equality Party",
+			"votes": 116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crawford, Roger",
+			"party": "Parenting",
+			"votes": 73,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Andrew",
+			"party": "Labour Party",
+			"votes": 25356,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Magee, Melanie",
+			"party": "Conservative Party",
+			"votes": 10076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duncan, Ann",
+			"party": "Green Party",
+			"votes": 5890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murray, Alasdair",
+			"party": "Liberal Democrat",
+			"votes": 5453,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macdonald, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 3451,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Artwell, Chaka",
+			"party": "Independent",
+			"votes": 160,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hatter, Mad",
+			"party": "Monster Raving Loony Party",
+			"votes": 145,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morbin, James",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 108,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parkin, Kevin",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 50,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

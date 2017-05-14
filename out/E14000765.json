@@ -1,0 +1,78 @@
+{
+	"id": "E14000765",
+	"name": "Jarrow",
+	"y2010": [
+		{
+			"candidate": "Hepburn, Stephen",
+			"party": "Labour Party",
+			"votes": 20910,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Milburn, Jeffrey",
+			"party": "Conservative Party",
+			"votes": 8002,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Appleby, Tom",
+			"party": "Liberal Democrat",
+			"votes": 7163,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Swaddle, Andy",
+			"party": "British National Party",
+			"votes": 2709,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hepburn, Stephen",
+			"party": "Labour Party",
+			"votes": 21464,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Harrison, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 7583,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mason, Nick",
+			"party": "Conservative Party",
+			"votes": 6584,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Herbert, Dave",
+			"party": "Green Party",
+			"votes": 1310,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Stan",
+			"party": "Liberal Democrat",
+			"votes": 1238,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Norman",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 385,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14000820",
+	"name": "Middlesbrough South and Cleveland East",
+	"y2010": [
+		{
+			"candidate": "Blenkinsop, Tom",
+			"party": "Labour Party",
+			"votes": 18138,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bristow, Paul",
+			"party": "Conservative Party",
+			"votes": 16461,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Emmerson, Nick",
+			"party": "Liberal Democrat",
+			"votes": 7340,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lightwing, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 1881,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gatley, Shaun",
+			"party": "British National Party",
+			"votes": 1576,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Mike",
+			"party": "Independent",
+			"votes": 818,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Blenkinsop, Tom",
+			"party": "Labour Party",
+			"votes": 19193,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Goodhand, Will",
+			"party": "Conservative Party",
+			"votes": 16925,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 6935,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibson, Ben",
+			"party": "Liberal Democrat",
+			"votes": 1564,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brampton, Martin",
+			"party": "Green Party",
+			"votes": 1060,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

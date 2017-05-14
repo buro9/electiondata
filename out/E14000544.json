@@ -1,0 +1,71 @@
+{
+	"id": "E14000544",
+	"name": "Basildon and Billericay",
+	"y2010": [
+		{
+			"candidate": "Baron, John",
+			"party": "Conservative Party",
+			"votes": 21922,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Allan",
+			"party": "Labour Party",
+			"votes": 9584,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hibbs, Mike",
+			"party": "Liberal Democrat",
+			"votes": 6538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bateman, Irene",
+			"party": "British National Party",
+			"votes": 1934,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Broad, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 1591,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Baron, John",
+			"party": "Conservative Party",
+			"votes": 22668,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Callaghan, Gavin",
+			"party": "Labour Party",
+			"votes": 10186,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Konstantinidis, George",
+			"party": "United Kingdom Independence Party",
+			"votes": 8538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Martin",
+			"party": "Liberal Democrat",
+			"votes": 1636,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

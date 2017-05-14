@@ -1,0 +1,113 @@
+{
+	"id": "E14000692",
+	"name": "Enfield Southgate",
+	"y2010": [
+		{
+			"candidate": "Burrowes, David",
+			"party": "Conservative Party",
+			"votes": 21928,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Charalambous, Bambos",
+			"party": "Labour Party",
+			"votes": 14302,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Johar",
+			"party": "Liberal Democrat",
+			"votes": 6124,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Krakowiak, Peter",
+			"party": "Green Party",
+			"votes": 632,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brock, Bob",
+			"party": "United Kingdom Independence Party",
+			"votes": 505,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mukhopadhyay, Asit",
+			"party": "Independent",
+			"votes": 391,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Billoo, Samad",
+			"party": "Respect Party",
+			"votes": 174,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weald, Ben",
+			"party": "English Democrats",
+			"votes": 173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malakounides, Mal",
+			"party": "ND",
+			"votes": 88,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sturgess, Jeremy",
+			"party": "BB",
+			"votes": 35,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Burrowes, David",
+			"party": "Conservative Party",
+			"votes": 22624,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Charalambous, Bambos",
+			"party": "Labour Party",
+			"votes": 17871,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Schofield, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 2109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robertson-Molloy, Jean",
+			"party": "Green Party",
+			"votes": 1690,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Paul",
+			"party": "Liberal Democrat",
+			"votes": 1518,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

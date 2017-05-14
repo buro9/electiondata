@@ -1,0 +1,99 @@
+{
+	"id": "N06000008",
+	"name": "Foyle",
+	"y2010": [
+		{
+			"candidate": "Durkan, Mark",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 16922,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Anderson, Martina",
+			"party": "Sinn Fein",
+			"votes": 12098,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Devenney, Maurice",
+			"party": "Democratic Unionist Party",
+			"votes": 4489,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCann, Eammon",
+			"party": "People Before Profit",
+			"votes": 2936,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harding, David",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 1221,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGrellis, Keith",
+			"party": "Alliance",
+			"votes": 223,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Durkan, Mark",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 17725,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "O hEara, Gearoid",
+			"party": "Sinn Fein",
+			"votes": 11679,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Middleton, Gary",
+			"party": "Democratic Unionist Party",
+			"votes": 4573,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kee, Julia",
+			"party": "Ulster Unionist Party",
+			"votes": 1226,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawthorne, David",
+			"party": "Alliance",
+			"votes": 835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Kyle",
+			"party": "United Kingdom Independence Party",
+			"votes": 832,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Badenoch, Hamish",
+			"party": "Conservative Party",
+			"votes": 132,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

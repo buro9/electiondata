@@ -1,0 +1,92 @@
+{
+	"id": "E14000756",
+	"name": "Huddersfield",
+	"y2010": [
+		{
+			"candidate": "Sheerman, Barry",
+			"party": "Labour Party",
+			"votes": 15725,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Tweed, Karen",
+			"party": "Conservative Party",
+			"votes": 11253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blanchard, James",
+			"party": "Liberal Democrat",
+			"votes": 10023,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Andrew",
+			"party": "Green Party",
+			"votes": 1641,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Firth, Rachel",
+			"party": "British National Party",
+			"votes": 1563,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooney, Paul",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 319,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Sheerman, Barry",
+			"party": "Labour Party",
+			"votes": 18186,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ali, Itrat",
+			"party": "Conservative Party",
+			"votes": 10841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Rob",
+			"party": "United Kingdom Independence Party",
+			"votes": 5948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Andrew",
+			"party": "Green Party",
+			"votes": 2798,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, Zulfiqar",
+			"party": "Liberal Democrat",
+			"votes": 2365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forster, Mike",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 340,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

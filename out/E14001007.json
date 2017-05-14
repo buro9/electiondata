@@ -1,0 +1,155 @@
+{
+	"id": "E14001007",
+	"name": "Uxbridge and Ruislip South",
+	"y2010": [
+		{
+			"candidate": "Randall, John",
+			"party": "Conservative Party",
+			"votes": 21758,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Garg, Sidharath",
+			"party": "Labour Party",
+			"votes": 10542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cox, Michael",
+			"party": "Liberal Democrat",
+			"votes": 8995,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Neal, Dianne",
+			"party": "British National Party",
+			"votes": 1396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wadsworth, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 1234,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harling, Mike",
+			"party": "Green Party",
+			"votes": 477,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Roger",
+			"party": "English Democrats",
+			"votes": 403,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mcallister, Francis",
+			"party": "National Front",
+			"votes": 271,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Johnson, Boris",
+			"party": "Conservative Party",
+			"votes": 22511,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Summers, Chris",
+			"party": "Labour Party",
+			"votes": 11816,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duffin, Jack",
+			"party": "United Kingdom Independence Party",
+			"votes": 6346,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cox, Michael ",
+			"party": "Liberal Democrat",
+			"votes": 2215,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee, Graham",
+			"party": "Green Party",
+			"votes": 1414,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harbord, Gary",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 180,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Jenny ",
+			"party": "Independent",
+			"votes": 84,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hope, Howling Laud",
+			"party": "Monster Raving Loony Party",
+			"votes": 72,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moosun, Sabrina",
+			"party": "Communities United Party",
+			"votes": 52,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jug, Lord Toby",
+			"party": "The Eccentric Party of Great Britain",
+			"votes": 50,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Doherty, Michael",
+			"party": "Independent",
+			"votes": 39,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawrence, Jane",
+			"party": "The Realists' Party",
+			"votes": 18,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, James ",
+			"party": "Independent",
+			"votes": 14,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

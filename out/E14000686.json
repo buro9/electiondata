@@ -1,0 +1,78 @@
+{
+	"id": "E14000686",
+	"name": "Eddisbury",
+	"y2010": [
+		{
+			"candidate": "O'Brien, Stephen",
+			"party": "Conservative Party",
+			"votes": 23472,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Thompson, Robert",
+			"party": "Liberal Democrat",
+			"votes": 10217,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Merrick, Pat",
+			"party": "Labour Party",
+			"votes": 9794,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dodman, Charles",
+			"party": "United Kingdom Independence Party",
+			"votes": 1931,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Sandbach, Antoinette",
+			"party": "Conservative Party",
+			"votes": 24167,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Laing, James",
+			"party": "Labour Party",
+			"votes": 11193,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Millington, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 5778,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Priestner, Ian",
+			"party": "Liberal Democrat",
+			"votes": 4289,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garman, Andrew",
+			"party": "Green Party",
+			"votes": 1624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Antar, George",
+			"party": "CISTAP",
+			"votes": 301,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

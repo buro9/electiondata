@@ -1,0 +1,99 @@
+{
+	"id": "E14000729",
+	"name": "Harlow",
+	"y2010": [
+		{
+			"candidate": "Halfon, Robert",
+			"party": "Conservative Party",
+			"votes": 19691,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rammell, Bill",
+			"party": "Labour Party",
+			"votes": 14766,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "White, David",
+			"party": "Liberal Democrat",
+			"votes": 5990,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Eddy",
+			"party": "British National Party",
+			"votes": 1739,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Croft, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1591,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adeeko, Oluyemi",
+			"party": "Christian Party",
+			"votes": 101,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Halfon, Robert",
+			"party": "Conservative Party",
+			"votes": 21623,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Stride, Suzy",
+			"party": "Labour Party",
+			"votes": 13273,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stopplecamp, Sam",
+			"party": "United Kingdom Independence Party",
+			"votes": 7208,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sackwild, Murray",
+			"party": "Green Party",
+			"votes": 954,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seeff, Geoffrey",
+			"party": "Liberal Democrat",
+			"votes": 904,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, David",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 174,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Eddy",
+			"party": "English Democrats",
+			"votes": 115,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

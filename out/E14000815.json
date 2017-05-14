@@ -1,0 +1,71 @@
+{
+	"id": "E14000815",
+	"name": "Dorset Mid and Poole North",
+	"y2010": [
+		{
+			"candidate": "Brooke, Annette",
+			"party": "Liberal Democrat",
+			"votes": 21100,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "King, Nick",
+			"party": "Conservative Party",
+			"votes": 20831,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Darren",
+			"party": "Labour Party",
+			"votes": 2748,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Dave",
+			"party": "United Kingdom Independence Party",
+			"votes": 2109,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Tomlinson, Michael",
+			"party": "Conservative Party",
+			"votes": 23639,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Slade, Vikki",
+			"party": "Liberal Democrat",
+			"votes": 13109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 5663,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Canavan, Patrick",
+			"party": "Labour Party",
+			"votes": 2767,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chivers, Mark",
+			"party": "Green Party",
+			"votes": 1321,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"id": "E14000822",
+	"name": "Milton Keynes South",
+	"y2010": [
+		{
+			"candidate": "Stewart, Iain",
+			"party": "Conservative Party",
+			"votes": 23034,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Starkey, Phyllis",
+			"party": "Labour Party",
+			"votes": 17833,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Peter",
+			"party": "Liberal Democrat",
+			"votes": 9787,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pinto, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 2074,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tait, Matthew",
+			"party": "British National Party",
+			"votes": 1502,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Deacon, Katrina",
+			"party": "Green Party",
+			"votes": 774,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nti, Suzanne",
+			"party": "Christian Peoples Alliance",
+			"votes": 245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Worth, Jonathan",
+			"party": "NFP",
+			"votes": 84,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stewart, Iain",
+			"party": "Conservative Party",
+			"votes": 27601,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pakes, Andrew",
+			"party": "Labour Party",
+			"votes": 18929,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peddle, Vince",
+			"party": "United Kingdom Independence Party",
+			"votes": 7803,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Lisa",
+			"party": "Liberal Democrat",
+			"votes": 2309,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pancheri, Samantha",
+			"party": "Green Party",
+			"votes": 1936,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fulton, Stephen",
+			"party": "Independent",
+			"votes": 255,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibson, Matthew",
+			"party": "Keep It Real Party",
+			"votes": 116,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

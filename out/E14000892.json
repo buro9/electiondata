@@ -1,0 +1,120 @@
+{
+	"id": "E14000892",
+	"name": "Redditch",
+	"y2010": [
+		{
+			"candidate": "Lumley, Karen",
+			"party": "Conservative Party",
+			"votes": 19138,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Jacqui",
+			"party": "Labour Party",
+			"votes": 13317,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Lane, Nicholas",
+			"party": "Liberal Democrat",
+			"votes": 7750,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davis, Anne",
+			"party": "United Kingdom Independence Party",
+			"votes": 1497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ingram, Andy",
+			"party": "British National Party",
+			"votes": 1394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Kevin",
+			"party": "Green Party",
+			"votes": 393,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Schittone, Vincent",
+			"party": "English Democrats",
+			"votes": 255,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beverley, Scott",
+			"party": "Christian Party",
+			"votes": 101,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Swansborough, Paul",
+			"party": "Independent",
+			"votes": 100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fletcher, Derek",
+			"party": "Nobody",
+			"votes": 73,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lumley, Karen",
+			"party": "Conservative Party",
+			"votes": 20771,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Blake, Rebecca",
+			"party": "Labour Party",
+			"votes": 13717,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jewell, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 7133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Myers, Hilary",
+			"party": "Liberal Democrat",
+			"votes": 1349,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Kevin",
+			"party": "Green Party",
+			"votes": 960,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Colton, Seth",
+			"party": "Independent",
+			"votes": 168,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

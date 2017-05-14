@@ -1,0 +1,92 @@
+{
+	"id": "E14000970",
+	"name": "Stockton North",
+	"y2010": [
+		{
+			"candidate": "Cunningham, Alex",
+			"party": "Labour Party",
+			"votes": 16923,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Galletley, Ian",
+			"party": "Conservative Party",
+			"votes": 10247,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Latham, Philip",
+			"party": "Liberal Democrat",
+			"votes": 6342,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macpherson, James",
+			"party": "British National Party",
+			"votes": 1724,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cook, Frank",
+			"party": "Independent",
+			"votes": 1577,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Parkin, Gordon",
+			"party": "United Kingdom Independence Party",
+			"votes": 1556,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saul, Ian",
+			"party": "English Democrats",
+			"votes": 1129,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cunningham, Alex",
+			"party": "Labour Party",
+			"votes": 19436,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Daniels, Christopher",
+			"party": "Conservative Party",
+			"votes": 11069,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boylett, Mandy",
+			"party": "United Kingdom Independence Party",
+			"votes": 7581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sycamore, Anthony ",
+			"party": "Liberal Democrat",
+			"votes": 884,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tait, John",
+			"party": "North East Party",
+			"votes": 601,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

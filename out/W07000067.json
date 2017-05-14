@@ -1,0 +1,85 @@
+{
+	"id": "W07000067",
+	"name": "Carmarthen East and Dinefwr",
+	"y2010": [
+		{
+			"candidate": "Edwards, Jonathan",
+			"party": "Plaid Cymru",
+			"votes": 13546,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gwyther, Christine",
+			"party": "Labour Party",
+			"votes": 10065,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morgan, Andrew",
+			"party": "Conservative Party",
+			"votes": 8506,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powell, Bill",
+			"party": "Liberal Democrat",
+			"votes": 4609,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Atkinson, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1285,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Edwards, David",
+			"party": "Plaid Cymru",
+			"votes": 15140,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Higgins, Calum",
+			"party": "Labour Party",
+			"votes": 9541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paul, Matthew",
+			"party": "Conservative Party",
+			"votes": 8336,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woodward, Jasmine",
+			"party": "United Kingdom Independence Party",
+			"votes": 4363,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rice, Ben",
+			"party": "Green Party",
+			"votes": 1091,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd-Williams, Sara",
+			"party": "Liberal Democrat",
+			"votes": 928,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

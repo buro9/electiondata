@@ -1,0 +1,92 @@
+{
+	"id": "E14000706",
+	"name": "Fylde",
+	"y2010": [
+		{
+			"candidate": "Menzies, Mark",
+			"party": "Conservative Party",
+			"votes": 22826,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Winlow, Bill",
+			"party": "Liberal Democrat",
+			"votes": 9641,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Liam",
+			"party": "Labour Party",
+			"votes": 8624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bleeker, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1945,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mitchell, Philip",
+			"party": "Green Party",
+			"votes": 654,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Menzies, Mark",
+			"party": "Conservative Party",
+			"votes": 21406,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sullivan, Jed",
+			"party": "Labour Party",
+			"votes": 8182,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 5569,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Mike",
+			"party": "Independent",
+			"votes": 5166,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "van Mierlo, Fred",
+			"party": "Liberal Democrat",
+			"votes": 1623,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dennett, Bob",
+			"party": "Green Party",
+			"votes": 1381,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarkson, Elizabeth",
+			"party": "The Northern Party",
+			"votes": 230,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

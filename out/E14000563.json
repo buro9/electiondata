@@ -1,0 +1,92 @@
+{
+	"id": "E14000563",
+	"name": "Birmingham Hodge Hill",
+	"y2010": [
+		{
+			"candidate": "Byrne, Liam",
+			"party": "Labour Party",
+			"votes": 22077,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Khan, Tariq",
+			"party": "Liberal Democrat",
+			"votes": 11775,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parekh, Shailesh",
+			"party": "Conservative Party",
+			"votes": 4936,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lumby, Richard",
+			"party": "British National Party",
+			"votes": 2333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rafiq, Waheed",
+			"party": "United Kingdom Independence Party",
+			"votes": 714,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Peter",
+			"party": "Soc Dem",
+			"votes": 637,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Byrne, Liam",
+			"party": "Labour Party",
+			"votes": 28069,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mullan, Kieran",
+			"party": "Conservative Party",
+			"votes": 4707,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duffen, Albert",
+			"party": "United Kingdom Independence Party",
+			"votes": 4651,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennion, Phil",
+			"party": "Liberal Democrat",
+			"votes": 2624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nash, Christopher",
+			"party": "Green Party",
+			"votes": 835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chaffer, Andy",
+			"party": "Comm",
+			"votes": 153,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

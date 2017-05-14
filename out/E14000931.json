@@ -1,0 +1,99 @@
+{
+	"id": "E14000931",
+	"name": "Solihull",
+	"y2010": [
+		{
+			"candidate": "Burt, Lorely",
+			"party": "Liberal Democrat",
+			"votes": 23635,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Throup, Maggie",
+			"party": "Conservative Party",
+			"votes": 23460,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Merrill, Sarah-Jayne",
+			"party": "Labour Party",
+			"votes": 4891,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Terry, Andrew",
+			"party": "British National Party",
+			"votes": 1624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ison, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watts, Neill",
+			"party": "RA",
+			"votes": 319,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Knight, Julian",
+			"party": "Conservative Party",
+			"votes": 26956,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Burt, Lorely",
+			"party": "Liberal Democrat",
+			"votes": 14054,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Henrick, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 6361,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knowles, Nigel",
+			"party": "Labour Party",
+			"votes": 5693,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Howard",
+			"party": "Green Party",
+			"votes": 1632,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nattrass, Mike",
+			"party": "Independence from Europe",
+			"votes": 50,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Matthew",
+			"party": "The Democratic Party",
+			"votes": 33,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

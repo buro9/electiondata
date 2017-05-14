@@ -1,0 +1,85 @@
+{
+	"id": "E14000747",
+	"name": "Heywood and Middleton",
+	"y2010": [
+		{
+			"candidate": "Dobbin, Jim",
+			"party": "Labour Party",
+			"votes": 18499,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Holly, Michael",
+			"party": "Conservative Party",
+			"votes": 12528,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hobhouse, Wera",
+			"party": "Liberal Democrat",
+			"votes": 10474,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greenwood, Peter",
+			"party": "British National Party",
+			"votes": 3239,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cecil, Victoria",
+			"party": "United Kingdom Independence Party",
+			"votes": 1215,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee, Chrissy",
+			"party": "Independent",
+			"votes": 170,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McInnes, Liz ",
+			"party": "Labour Party",
+			"votes": 20926,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bickley, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 15627,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gartside, Iain",
+			"party": "Conservative Party",
+			"votes": 9268,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Anthony",
+			"party": "Liberal Democrat",
+			"votes": 1607,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Abi",
+			"party": "Green Party",
+			"votes": 1110,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

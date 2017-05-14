@@ -1,0 +1,106 @@
+{
+	"id": "E14000599",
+	"name": "Bristol East",
+	"y2010": [
+		{
+			"candidate": "McCarthy, Kerry",
+			"party": "Labour Party",
+			"votes": 16471,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Shafi, Adeela",
+			"party": "Conservative Party",
+			"votes": 12749,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Popham, Mike",
+			"party": "Liberal Democrat",
+			"votes": 10993,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Brian",
+			"party": "British National Party",
+			"votes": 1960,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 1510,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vowles, Glenn",
+			"party": "Green Party",
+			"votes": 803,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, Stephen",
+			"party": "English Democrats",
+			"votes": 347,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lynch, Rae",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 184,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McCarthy, Kerry",
+			"party": "Labour Party",
+			"votes": 18148,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Clarke, Theo",
+			"party": "Conservative Party",
+			"votes": 14168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McMurray, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 7152,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Francis, Lorraine",
+			"party": "Green Party",
+			"votes": 3827,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malik, Abdul",
+			"party": "Liberal Democrat",
+			"votes": 2689,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gordon, Matt",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 229,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

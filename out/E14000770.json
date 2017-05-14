@@ -1,0 +1,106 @@
+{
+	"id": "E14000770",
+	"name": "Kingston and Surbiton",
+	"y2010": [
+		{
+			"candidate": "Davey, Edward",
+			"party": "Liberal Democrat",
+			"votes": 28428,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Whately, Helen",
+			"party": "Conservative Party",
+			"votes": 20868,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Freedman, Max",
+			"party": "Labour Party",
+			"votes": 5337,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greensted, Jonathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 1450,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Chris",
+			"party": "Green Party",
+			"votes": 555,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Drummer, Monkey the",
+			"party": "Monster Raving Loony Party",
+			"votes": 247,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "May, Anthony",
+			"party": "Christian Peoples Alliance",
+			"votes": 226,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Berry, Michael",
+			"party": "Conservative Party",
+			"votes": 23249,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Davey, Ed",
+			"party": "Liberal Democrat",
+			"votes": 20415,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Godfrey, Lee",
+			"party": "Labour Party",
+			"votes": 8574,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Ben",
+			"party": "United Kingdom Independence Party",
+			"votes": 4321,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Keogh, Clare",
+			"party": "Green Party",
+			"votes": 2322,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gill, Daniel",
+			"party": "Christian Peoples Alliance",
+			"votes": 198,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fogarty, Laurel",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 174,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

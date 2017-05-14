@@ -1,0 +1,92 @@
+{
+	"id": "W07000064",
+	"name": "Ceredigion",
+	"y2010": [
+		{
+			"candidate": "Williams, Mark",
+			"party": "Liberal Democrat",
+			"votes": 19139,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "James, Penri",
+			"party": "Plaid Cymru",
+			"votes": 10815,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evetts, Luke",
+			"party": "Conservative Party",
+			"votes": 4421,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boudier, Richard",
+			"party": "Labour Party",
+			"votes": 2210,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Elwyn",
+			"party": "United Kingdom Independence Party",
+			"votes": 977,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kiersch, Leila",
+			"party": "Green Party",
+			"votes": 696,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Williams, Mark",
+			"party": "Liberal Democrat",
+			"votes": 13414,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Parker, Mike",
+			"party": "Plaid Cymru",
+			"votes": 10347,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hensher, Henrietta",
+			"party": "Conservative Party",
+			"votes": 4123,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "James, Gethin",
+			"party": "United Kingdom Independence Party",
+			"votes": 3829,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Huw",
+			"party": "Labour Party",
+			"votes": 3615,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Daniel",
+			"party": "Green Party",
+			"votes": 2088,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

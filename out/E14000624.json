@@ -1,0 +1,99 @@
+{
+	"id": "E14000624",
+	"name": "Suffolk Central and Ipswich North",
+	"y2010": [
+		{
+			"candidate": "Poulter, Daniel",
+			"party": "Conservative Party",
+			"votes": 27125,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Aalders-Dunthorne, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 13339,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Joshi, Bhavna",
+			"party": "Labour Party",
+			"votes": 8636,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Philpot, Roy",
+			"party": "United Kingdom Independence Party",
+			"votes": 2361,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stringer, Andrew",
+			"party": "Green Party",
+			"votes": 1452,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Trevitt, Mark",
+			"party": "Independent",
+			"votes": 389,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vass, Richard",
+			"party": "New Party",
+			"votes": 118,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Poulter, Dan",
+			"party": "Conservative Party",
+			"votes": 30317,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Abbott, Jack",
+			"party": "Labour Party",
+			"votes": 10173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cole, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 7459,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Neal, Jon",
+			"party": "Liberal Democrat",
+			"votes": 3314,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Rhodri",
+			"party": "Green Party",
+			"votes": 2664,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holyoak, Tony",
+			"party": "English Democrats",
+			"votes": 162,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

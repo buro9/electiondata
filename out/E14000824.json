@@ -1,0 +1,78 @@
+{
+	"id": "E14000824",
+	"name": "Mole Valley",
+	"y2010": [
+		{
+			"candidate": "Beresford, Paul",
+			"party": "Conservative Party",
+			"votes": 31263,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Humphreys, Alice",
+			"party": "Liberal Democrat",
+			"votes": 15610,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dove, James",
+			"party": "Labour Party",
+			"votes": 3804,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Leigh",
+			"party": "United Kingdom Independence Party",
+			"votes": 2752,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sedgwick, Rob",
+			"party": "Green Party",
+			"votes": 895,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Beresford, Paul",
+			"party": "Conservative Party",
+			"votes": 33434,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kennedy, Paul",
+			"party": "Liberal Democrat",
+			"votes": 7981,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oakley, Paul ",
+			"party": "United Kingdom Independence Party",
+			"votes": 6181,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Amos, Len",
+			"party": "Labour Party",
+			"votes": 4565,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fewster, Jacquetta",
+			"party": "Green Party",
+			"votes": 2979,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

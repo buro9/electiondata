@@ -1,0 +1,85 @@
+{
+	"id": "E14000606",
+	"name": "Broxbourne",
+	"y2010": [
+		{
+			"candidate": "Walker, Charles",
+			"party": "Conservative Party",
+			"votes": 26844,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Watson, Michael",
+			"party": "Labour Party",
+			"votes": 8040,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Witherick, Allan",
+			"party": "Liberal Democrat",
+			"votes": 6107,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCole, Steve",
+			"party": "British National Party",
+			"votes": 2159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harvey, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "LeMay, Debbie",
+			"party": "English Democrats",
+			"votes": 618,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Walker, Charles",
+			"party": "Conservative Party",
+			"votes": 25797,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Platt, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 9074,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Edward",
+			"party": "Labour Party",
+			"votes": 8470,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowlands, Anthony",
+			"party": "Liberal Democrat",
+			"votes": 1467,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Secker, Russell",
+			"party": "Green Party",
+			"votes": 1216,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

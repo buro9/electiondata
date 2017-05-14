@@ -1,0 +1,92 @@
+{
+	"id": "E14000837",
+	"name": "Cornwall North",
+	"y2010": [
+		{
+			"candidate": "Rogerson, Dan",
+			"party": "Liberal Democrat",
+			"votes": 22512,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Flynn, Sian",
+			"party": "Conservative Party",
+			"votes": 19531,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Connor, Miriel",
+			"party": "United Kingdom Independence Party",
+			"votes": 2300,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hulme, Janet",
+			"party": "Labour Party",
+			"votes": 1971,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Willett, Joanie",
+			"party": "Mebyon Kernow",
+			"votes": 530,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mann, Scott",
+			"party": "Conservative Party",
+			"votes": 21689,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rogerson, Dan",
+			"party": "Liberal Democrat",
+			"votes": 15068,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Lingard, Julie",
+			"party": "United Kingdom Independence Party",
+			"votes": 6121,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitby, John",
+			"party": "Labour Party",
+			"votes": 2621,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pennington, Amanda",
+			"party": "Green Party",
+			"votes": 2063,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jefferies, Jeremy",
+			"party": "Mebyon Kernow",
+			"votes": 631,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allman, John",
+			"party": "Restore the Family For Children's Sake",
+			"votes": 52,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

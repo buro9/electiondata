@@ -1,0 +1,78 @@
+{
+	"id": "S14000013",
+	"name": "Dumfries and Galloway",
+	"y2010": [
+		{
+			"candidate": "Brown, Russell",
+			"party": "Labour Party",
+			"votes": 23950,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Duncan, Peter",
+			"party": "Conservative Party",
+			"votes": 16501,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Andrew",
+			"party": "Scottish National Party",
+			"votes": 6419,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brodie, Richard",
+			"party": "Liberal Democrat",
+			"votes": 4608,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, William",
+			"party": "United Kingdom Independence Party",
+			"votes": 695,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Arkless, Richard ",
+			"party": "Scottish National Party",
+			"votes": 23440,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Carson, Finlay",
+			"party": "Conservative Party",
+			"votes": 16926,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Russell",
+			"party": "Labour Party",
+			"votes": 13982,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Siddall, Geoff",
+			"party": "United Kingdom Independence Party",
+			"votes": 1301,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Metcalf, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 953,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

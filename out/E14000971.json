@@ -1,0 +1,99 @@
+{
+	"id": "E14000971",
+	"name": "Stockton South",
+	"y2010": [
+		{
+			"candidate": "Wharton, James",
+			"party": "Conservative Party",
+			"votes": 19577,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Taylor, Dari",
+			"party": "Labour Party",
+			"votes": 19245,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Bell, Jacquie",
+			"party": "Liberal Democrat",
+			"votes": 7600,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sinclair, Neil",
+			"party": "British National Party",
+			"votes": 1553,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Braney, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1471,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hossack, Yvonne",
+			"party": "Independent",
+			"votes": 536,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Strike, Ted",
+			"party": "Christian Party",
+			"votes": 302,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wharton, James",
+			"party": "Conservative Party",
+			"votes": 24221,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Baldock, Louise",
+			"party": "Labour Party",
+			"votes": 19175,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Strike, Ted",
+			"party": "United Kingdom Independence Party",
+			"votes": 5480,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Durning, Drew",
+			"party": "Liberal Democrat",
+			"votes": 1366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lovell, Jacqui",
+			"party": "Green Party",
+			"votes": 952,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walmsley, Steve",
+			"party": "Independent",
+			"votes": 603,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

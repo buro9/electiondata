@@ -1,0 +1,113 @@
+{
+	"id": "E14000944",
+	"name": "South Shields",
+	"y2010": [
+		{
+			"candidate": "Miliband, David",
+			"party": "Labour Party",
+			"votes": 18995,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Allen, Karen",
+			"party": "Conservative Party",
+			"votes": 7886,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Psallidas, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 5189,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watson, Donna",
+			"party": "British National Party",
+			"votes": 2382,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, Shirley",
+			"party": "Green Party",
+			"votes": 762,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kaikavoosi, Siamak",
+			"party": "Independent",
+			"votes": 729,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Victor",
+			"party": "Independent",
+			"votes": 316,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Navabi, Sam",
+			"party": "Independent",
+			"votes": 168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nettleship, Roger",
+			"party": "Anti-War",
+			"votes": 91,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lewell-Buck, Emma",
+			"party": "Labour Party",
+			"votes": 18589,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dennis, Norman",
+			"party": "United Kingdom Independence Party",
+			"votes": 7975,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oliver, Robert",
+			"party": "Conservative Party",
+			"votes": 6021,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, Shirley",
+			"party": "Green Party",
+			"votes": 1614,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nightingale, Lisa",
+			"party": "Independent",
+			"votes": 1427,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gordon, Gita",
+			"party": "Liberal Democrat",
+			"votes": 639,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

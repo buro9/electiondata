@@ -1,0 +1,99 @@
+{
+	"id": "W07000041",
+	"name": "Ynys Mon",
+	"y2010": [
+		{
+			"candidate": "Owen, Albert",
+			"party": "Labour Party",
+			"votes": 11490,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rees, Dylan",
+			"party": "Plaid Cymru",
+			"votes": 9029,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ridge-Newman, Anthony",
+			"party": "Conservative Party",
+			"votes": 7744,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Matt",
+			"party": "Liberal Democrat",
+			"votes": 2592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogers, Peter",
+			"party": "Independent",
+			"votes": 2225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gill, Elaine",
+			"party": "United Kingdom Independence Party",
+			"votes": 1201,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Owen, David",
+			"party": "Christian Party",
+			"votes": 163,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Owen, Albert",
+			"party": "Labour Party",
+			"votes": 10871,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rowlands, John",
+			"party": "Plaid Cymru",
+			"votes": 10642,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Willis, Michelle",
+			"party": "Conservative Party",
+			"votes": 7393,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gill, Nathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 5121,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rosenthal, Mark",
+			"party": "Liberal Democrat",
+			"votes": 751,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Screen, Liz",
+			"party": "Socialist Labour Party",
+			"votes": 148,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

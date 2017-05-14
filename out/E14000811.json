@@ -1,0 +1,92 @@
+{
+	"id": "E14000811",
+	"name": "Meon Valley",
+	"y2010": [
+		{
+			"candidate": "Hollingbery, George",
+			"party": "Conservative Party",
+			"votes": 28818,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Leffman, Liz",
+			"party": "Liberal Democrat",
+			"votes": 16693,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Linsley, Howard",
+			"party": "Labour Party",
+			"votes": 3266,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 1490,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Pat",
+			"party": "English Democrats",
+			"votes": 582,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coats, Sarah",
+			"party": "APP",
+			"votes": 255,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Quar, Graeme",
+			"party": "Independent",
+			"votes": 134,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hollingbery, George",
+			"party": "Conservative Party",
+			"votes": 31578,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Alexander, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7665,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenna, Gemma",
+			"party": "Labour Party",
+			"votes": 5656,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carrigan, Chris",
+			"party": "Liberal Democrat",
+			"votes": 4987,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Korchien, Diana",
+			"party": "Green Party",
+			"votes": 1831,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

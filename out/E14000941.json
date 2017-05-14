@@ -1,0 +1,85 @@
+{
+	"id": "E14000941",
+	"name": "Norfolk South",
+	"y2010": [
+		{
+			"candidate": "Bacon, Richard",
+			"party": "Conservative Party",
+			"votes": 27133,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Howe, Jacky",
+			"party": "Liberal Democrat",
+			"votes": 16193,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Castle, Mick",
+			"party": "Labour Party",
+			"votes": 7252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heasley, Evan",
+			"party": "United Kingdom Independence Party",
+			"votes": 2329,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mitchell, Helen",
+			"party": "British National Party",
+			"votes": 1086,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Willcott, Jo",
+			"party": "Green Party",
+			"votes": 1000,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bacon, Richard",
+			"party": "Conservative Party",
+			"votes": 30995,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sacks, Deborah",
+			"party": "Labour Party",
+			"votes": 10502,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cameron, Barry",
+			"party": "United Kingdom Independence Party",
+			"votes": 7847,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howe, Jacqueline",
+			"party": "Liberal Democrat",
+			"votes": 4689,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowett, Catherine",
+			"party": "Green Party",
+			"votes": 3090,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

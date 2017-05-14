@@ -1,0 +1,92 @@
+{
+	"id": "E14000636",
+	"name": "Chipping Barnet",
+	"y2010": [
+		{
+			"candidate": "Villiers, Theresa",
+			"party": "Conservative Party",
+			"votes": 24700,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Welfare, Damien",
+			"party": "Labour Party",
+			"votes": 12773,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barber, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 10202,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fluss, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 1442,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tansley, Kate",
+			"party": "Green Party",
+			"votes": 1021,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, Philip",
+			"party": "Independent",
+			"votes": 470,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Villiers, Theresa",
+			"party": "Conservative Party",
+			"votes": 25759,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Trevethan, Amy",
+			"party": "Labour Party",
+			"votes": 18103,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kaye, Victor",
+			"party": "United Kingdom Independence Party",
+			"votes": 4151,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Poppy, AM",
+			"party": "Green Party",
+			"votes": 2501,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ray, Marisha",
+			"party": "Liberal Democrat",
+			"votes": 2381,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Akhavan, Mehdi",
+			"party": "Independent",
+			"votes": 118,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000664",
+	"name": "Derbyshire Dales",
+	"y2010": [
+		{
+			"candidate": "McLoughlin, Patrick",
+			"party": "Conservative Party",
+			"votes": 24378,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Naitta, Joe",
+			"party": "Liberal Democrat",
+			"votes": 10512,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Swindell, Colin",
+			"party": "Labour Party",
+			"votes": 9061,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Guiver, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 1779,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stockell, Josh",
+			"party": "Green Party",
+			"votes": 772,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Delves, Nick The Flying Brick",
+			"party": "Monster Raving Loony Party",
+			"votes": 228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Y'mech, Amila",
+			"party": "Humanity",
+			"votes": 50,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McLoughlin, Patrick",
+			"party": "Conservative Party",
+			"votes": 24805,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Botham, Andy",
+			"party": "Labour Party",
+			"votes": 10761,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 5508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fearn, Ben",
+			"party": "Liberal Democrat",
+			"votes": 3965,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Ian",
+			"party": "Green Party",
+			"votes": 2173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Y'Mech, Amila",
+			"party": "Humanity",
+			"votes": 149,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

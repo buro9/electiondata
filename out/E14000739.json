@@ -1,0 +1,92 @@
+{
+	"id": "E14000739",
+	"name": "Hemel Hempstead",
+	"y2010": [
+		{
+			"candidate": "Penning, Mike",
+			"party": "Conservative Party",
+			"votes": 24721,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Grayson, Richard",
+			"party": "Liberal Democrat",
+			"votes": 11315,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Orhan, Ayfer",
+			"party": "Labour Party",
+			"votes": 10295,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Price, Janet",
+			"party": "British National Party",
+			"votes": 1615,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Alexander, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1254,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Mick",
+			"party": "Independent",
+			"votes": 271,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Penning, Mike",
+			"party": "Conservative Party",
+			"votes": 26245,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Breslin, Tony",
+			"party": "Labour Party",
+			"votes": 11825,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Koch, Howard",
+			"party": "United Kingdom Independence Party",
+			"votes": 7249,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martins, Rabi",
+			"party": "Liberal Democrat",
+			"votes": 2402,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Borgars, Alan",
+			"party": "Green Party",
+			"votes": 1660,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Brian",
+			"party": "Independent",
+			"votes": 252,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

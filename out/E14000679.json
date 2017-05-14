@@ -1,0 +1,92 @@
+{
+	"id": "E14000679",
+	"name": "East Ham",
+	"y2010": [
+		{
+			"candidate": "Timms, Stephen",
+			"party": "Labour Party",
+			"votes": 35471,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Shea, Paul",
+			"party": "Conservative Party",
+			"votes": 7645,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brice, Chris",
+			"party": "Liberal Democrat",
+			"votes": 5849,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Connor, Barry",
+			"party": "English Democrats",
+			"votes": 822,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maciejowska, Judy",
+			"party": "Green Party",
+			"votes": 586,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Timms, Stephen",
+			"party": "Labour Party",
+			"votes": 40563,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jassal, Samir",
+			"party": "Conservative Party",
+			"votes": 6311,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oxley, Daniel",
+			"party": "United Kingdom Independence Party",
+			"votes": 2622,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Omond, Tamsin",
+			"party": "Green Party",
+			"votes": 1299,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thorpe, David",
+			"party": "Liberal Democrat",
+			"votes": 856,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aslam, Mohammed",
+			"party": "Communities United Party",
+			"votes": 409,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Austin, Lois",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 230,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

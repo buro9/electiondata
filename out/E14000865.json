@@ -1,0 +1,99 @@
+{
+	"id": "E14000865",
+	"name": "Nottingham East",
+	"y2010": [
+		{
+			"candidate": "Leslie, Christopher",
+			"party": "Lab Co-op",
+			"votes": 15022,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Boote, Sam",
+			"party": "Liberal Democrat",
+			"votes": 8053,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lamont, Ewan",
+			"party": "Conservative Party",
+			"votes": 7846,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wolfe, Pat",
+			"party": "United Kingdom Independence Party",
+			"votes": 1138,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hoare, Benjamin",
+			"party": "Green Party",
+			"votes": 928,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sardar, Parvaiz",
+			"party": "Christian Party",
+			"votes": 125,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Leslie, Christopher",
+			"party": "Labour Party",
+			"votes": 19208,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hickton, Garry",
+			"party": "Conservative Party",
+			"votes": 7314,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Loi, Fran",
+			"party": "United Kingdom Independence Party",
+			"votes": 3501,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zenkevitch, Antonia",
+			"party": "Green Party",
+			"votes": 3473,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Tad",
+			"party": "Liberal Democrat",
+			"votes": 1475,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Soar, Seb",
+			"party": "Independent",
+			"votes": 141,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephenson, James",
+			"party": "Independent",
+			"votes": 97,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

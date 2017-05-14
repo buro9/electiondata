@@ -1,0 +1,92 @@
+{
+	"id": "E14000744",
+	"name": "Hertford and Stortford",
+	"y2010": [
+		{
+			"candidate": "Prisk, Mark",
+			"party": "Conservative Party",
+			"votes": 29810,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lewin, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 14373,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Terry, Steve",
+			"party": "Labour Party",
+			"votes": 7620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sodey, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1716,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Roy",
+			"party": "British National Party",
+			"votes": 1297,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Xenophontos, Loucas",
+			"party": "Independent",
+			"votes": 325,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adams, Martin",
+			"party": "Independent",
+			"votes": 236,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Prisk, Michael",
+			"party": "Conservative Party",
+			"votes": 31593,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Chibah, Katherine",
+			"party": "Labour Party",
+			"votes": 10084,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baker, Adrian",
+			"party": "United Kingdom Independence Party",
+			"votes": 7534,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Michael",
+			"party": "Liberal Democrat",
+			"votes": 4385,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Christophy, Sophie",
+			"party": "Green Party",
+			"votes": 2681,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

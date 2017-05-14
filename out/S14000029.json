@@ -1,0 +1,134 @@
+{
+	"id": "S14000029",
+	"name": "Glasgow Central",
+	"y2010": [
+		{
+			"candidate": "Sarwar, Anas",
+			"party": "Labour Party",
+			"votes": 15908,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Saeed, Osama",
+			"party": "Scottish National Party",
+			"votes": 5357,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Chris",
+			"party": "Liberal Democrat",
+			"votes": 5010,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bradley, John",
+			"party": "Conservative Party",
+			"votes": 2158,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitelaw, Alastair",
+			"party": "Green Party",
+			"votes": 800,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holt, Ian",
+			"party": "British National Party",
+			"votes": 616,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nesbitt, James",
+			"party": "Scottish Socialist Party",
+			"votes": 357,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Urquhart, Ramsay",
+			"party": "United Kingdom Independence Party",
+			"votes": 246,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Archibald, Finlay",
+			"party": "Pirate Party UK",
+			"votes": 128,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Thewliss, Alison",
+			"party": "Scottish National Party",
+			"votes": 20658,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Sarwar, Anas",
+			"party": "Labour Party",
+			"votes": 12996,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Bone, Simon ",
+			"party": "Conservative Party",
+			"votes": 2359,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacGregor, Cass",
+			"party": "Green Party",
+			"votes": 1559,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maskell, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 786,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Chris",
+			"party": "Liberal Democrat",
+			"votes": 612,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marris, James",
+			"party": "CISTAP",
+			"votes": 171,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elliot, Andrew",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 119,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rhodes, Katie",
+			"party": "Socialist Equality Party",
+			"votes": 58,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "E14000578",
+	"name": "Bolton North East",
+	"y2010": [
+		{
+			"candidate": "Crausby, David",
+			"party": "Labour Party",
+			"votes": 19870,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dunleavy, Deborah",
+			"party": "Conservative Party",
+			"votes": 15786,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ankers, Paul",
+			"party": "Liberal Democrat",
+			"votes": 5624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Neil",
+			"party": "United Kingdom Independence Party",
+			"votes": 1815,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Armston, Norma",
+			"party": "You",
+			"votes": 182,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Crausby, David",
+			"party": "Labour Party",
+			"votes": 18541,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Daly, James",
+			"party": "Conservative Party",
+			"votes": 14164,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lamb, Harry",
+			"party": "United Kingdom Independence Party",
+			"votes": 8117,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rock, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 1236,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Diggle, Laura",
+			"party": "Green Party",
+			"votes": 1103,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

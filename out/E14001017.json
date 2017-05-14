@@ -1,0 +1,71 @@
+{
+	"id": "E14001017",
+	"name": "Warrington North",
+	"y2010": [
+		{
+			"candidate": "Jones, Helen",
+			"party": "Labour Party",
+			"votes": 20135,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Campbell, Paul",
+			"party": "Conservative Party",
+			"votes": 13364,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Eccles, David",
+			"party": "Liberal Democrat",
+			"votes": 9196,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Albert",
+			"party": "Independent",
+			"votes": 1516,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jones, Helen",
+			"party": "Labour Party",
+			"votes": 21720,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Short, Richard",
+			"party": "Conservative Party",
+			"votes": 12797,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholls, Trevor",
+			"party": "United Kingdom Independence Party",
+			"votes": 7757,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Krizanac, Stefan",
+			"party": "Liberal Democrat",
+			"votes": 1881,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hayes, Sarah",
+			"party": "Green Party",
+			"votes": 1264,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

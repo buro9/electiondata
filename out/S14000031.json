@@ -1,0 +1,113 @@
+{
+	"id": "S14000031",
+	"name": "Glasgow North",
+	"y2010": [
+		{
+			"candidate": "McKechin, Ann",
+			"party": "Labour Party",
+			"votes": 13181,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gordon, Katy",
+			"party": "Liberal Democrat",
+			"votes": 9283,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grady, Patrick",
+			"party": "Scottish National Party",
+			"votes": 3530,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boyle, Erin",
+			"party": "Conservative Party",
+			"votes": 2089,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bartos, Martin",
+			"party": "Green Party",
+			"votes": 947,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Main, Thomas",
+			"party": "British National Party",
+			"votes": 296,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCormick, Angela",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 287,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Grady, Patrick",
+			"party": "Scottish National Party",
+			"votes": 19610,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McKechin, Ann",
+			"party": "Labour Party",
+			"votes": 10315,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hankinson, Lauren",
+			"party": "Conservative Party",
+			"votes": 2901,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bartos, Martin",
+			"party": "Green Party",
+			"votes": 2284,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Neil, Jade",
+			"party": "Liberal Democrat",
+			"votes": 1012,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robertson, Jamie",
+			"party": "United Kingdom Independence Party",
+			"votes": 486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCormick, Angela",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 160,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Benson, Russell",
+			"party": "CISTAP",
+			"votes": 154,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

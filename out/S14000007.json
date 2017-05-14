@@ -1,0 +1,71 @@
+{
+	"id": "S14000007",
+	"name": "Banff and Buchan",
+	"y2010": [
+		{
+			"candidate": "Whiteford, Eilidh",
+			"party": "Scottish National Party",
+			"votes": 15868,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Buchan, Jimmy",
+			"party": "Conservative Party",
+			"votes": 11841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, Glen",
+			"party": "Labour Party",
+			"votes": 5382,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Milne, Galen",
+			"party": "Liberal Democrat",
+			"votes": 4365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Payne, Richard",
+			"party": "British National Party",
+			"votes": 1010,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Whiteford, Eilidh",
+			"party": "Scottish National Party",
+			"votes": 27487,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Johnstone, Alex",
+			"party": "Conservative Party",
+			"votes": 13148,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hoque, Sumon",
+			"party": "Labour Party",
+			"votes": 2647,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, David",
+			"party": "Liberal Democrat",
+			"votes": 2347,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

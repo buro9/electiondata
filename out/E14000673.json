@@ -1,0 +1,99 @@
+{
+	"id": "E14000673",
+	"name": "Dulwich and West Norwood",
+	"y2010": [
+		{
+			"candidate": "Jowell, Tessa",
+			"party": "Labour Party",
+			"votes": 22461,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mitchell, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 13096,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adegoke, Kemi",
+			"party": "Conservative Party",
+			"votes": 10684,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Shane",
+			"party": "Green Party",
+			"votes": 1266,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Elizabeth",
+			"party": "United Kingdom Independence Party",
+			"votes": 707,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hayes, Helen",
+			"party": "Labour Party",
+			"votes": 27772,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kotecha, Resham",
+			"party": "Conservative Party",
+			"votes": 11650,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barber, James",
+			"party": "Liberal Democrat",
+			"votes": 5055,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nix, Rashid",
+			"party": "Green Party",
+			"votes": 4844,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Alagaratnam, Rathy",
+			"party": "United Kingdom Independence Party",
+			"votes": 1606,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nally, Steve",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 248,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lambert, Robin",
+			"party": "Independent",
+			"votes": 125,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kanumansa, Amadu",
+			"party": "All People's Party",
+			"votes": 62,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

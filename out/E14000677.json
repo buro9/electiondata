@@ -1,0 +1,92 @@
+{
+	"id": "E14000677",
+	"name": "Easington",
+	"y2010": [
+		{
+			"candidate": "Morris, Grahame",
+			"party": "Labour Party",
+			"votes": 20579,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Saville, Tara",
+			"party": "Liberal Democrat",
+			"votes": 5597,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harrison, Richard",
+			"party": "Conservative Party",
+			"votes": 4790,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunn, Cheryl",
+			"party": "British National Party",
+			"votes": 2317,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aiken, Martyn",
+			"party": "United Kingdom Independence Party",
+			"votes": 1631,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Morris, Grahame",
+			"party": "Labour Party",
+			"votes": 21132,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Arnott, Jonathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 6491,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hampsheir, Chris",
+			"party": "Conservative Party",
+			"votes": 4478,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Armstrong, Luke",
+			"party": "Liberal Democrat",
+			"votes": 834,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDonnell, Susan",
+			"party": "North East Party",
+			"votes": 810,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warin, Martie",
+			"party": "Green Party",
+			"votes": 733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Colborn, Steven",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 146,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000880",
+	"name": "Plymouth Sutton and Devonport",
+	"y2010": [
+		{
+			"candidate": "Colville, Oliver",
+			"party": "Conservative Party",
+			"votes": 15050,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gilroy, Linda",
+			"party": "Lab Co-op",
+			"votes": 13901,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Judy",
+			"party": "Liberal Democrat",
+			"votes": 10829,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leigh, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 2854,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Tony",
+			"party": "Green Party",
+			"votes": 904,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gerrish, Brian",
+			"party": "Independent",
+			"votes": 233,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawkins, Robert",
+			"party": "Soc Lab",
+			"votes": 123,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Colvile, Oliver",
+			"party": "Conservative Party",
+			"votes": 18120,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pollard, Luke",
+			"party": "Labour Party",
+			"votes": 17597,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kettle, Roy",
+			"party": "United Kingdom Independence Party",
+			"votes": 6731,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Libby",
+			"party": "Green Party",
+			"votes": 3401,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reed, Graham",
+			"party": "Liberal Democrat",
+			"votes": 2008,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rossington, Laura-Jane",
+			"party": "Comm",
+			"votes": 106,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

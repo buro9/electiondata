@@ -1,0 +1,99 @@
+{
+	"id": "E14001009",
+	"name": "Wakefield",
+	"y2010": [
+		{
+			"candidate": "Creagh, Mary",
+			"party": "Labour Party",
+			"votes": 17454,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Story, Alex",
+			"party": "Conservative Party",
+			"votes": 15841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, David",
+			"party": "Liberal Democrat",
+			"votes": 7256,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Senior, Ian",
+			"party": "British National Party",
+			"votes": 2581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawkins, Miriam",
+			"party": "Green Party",
+			"votes": 873,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harrop, Mark",
+			"party": "Independent",
+			"votes": 439,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Creagh, Mary",
+			"party": "Labour Party",
+			"votes": 17301,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Calvert, Antony",
+			"party": "Conservative Party",
+			"votes": 14688,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hazelhurst, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 7862,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cronin, Finbarr",
+			"party": "Liberal Democrat",
+			"votes": 1483,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thackray, Rebecca",
+			"party": "Green Party",
+			"votes": 1069,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Mick",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 287,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barr, Elliot",
+			"party": "CISTAP",
+			"votes": 283,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

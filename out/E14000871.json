@@ -1,0 +1,85 @@
+{
+	"id": "E14000871",
+	"name": "Oldham West and Royton",
+	"y2010": [
+		{
+			"candidate": "Meacher, Michael",
+			"party": "Labour Party",
+			"votes": 19503,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ghafoor, Kamran",
+			"party": "Conservative Party",
+			"votes": 10151,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Alcock, Mark",
+			"party": "Liberal Democrat",
+			"votes": 8193,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Joines, David",
+			"party": "British National Party",
+			"votes": 3049,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Helen",
+			"party": "United Kingdom Independence Party",
+			"votes": 1387,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miah, Shahid",
+			"party": "Respect Party",
+			"votes": 627,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Meacher, Michael",
+			"party": "Labour Party",
+			"votes": 23630,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Arbour, Francis",
+			"party": "United Kingdom Independence Party",
+			"votes": 8892,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ghafoor, Kamran",
+			"party": "Conservative Party",
+			"votes": 8187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harkness, Garth",
+			"party": "Liberal Democrat",
+			"votes": 1589,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hart, Simeon",
+			"party": "Green Party",
+			"votes": 839,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

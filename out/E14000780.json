@@ -1,0 +1,120 @@
+{
+	"id": "E14000780",
+	"name": "Leeds North West",
+	"y2010": [
+		{
+			"candidate": "Mulholland, Greg",
+			"party": "Liberal Democrat",
+			"votes": 20653,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mulligan, Julia",
+			"party": "Conservative Party",
+			"votes": 11550,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blake, Judith",
+			"party": "Labour Party",
+			"votes": 9132,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bulmer, Geoffrey",
+			"party": "British National Party",
+			"votes": 766,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thackray, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 600,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hemingway, Martin",
+			"party": "Green Party",
+			"votes": 508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Procter, Alan",
+			"party": "English Democrats",
+			"votes": 153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bavage, Trevor",
+			"party": "Alliance for Green Socialism",
+			"votes": 121,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mulholland, Greg",
+			"party": "Liberal Democrat",
+			"votes": 15948,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sobel, Alex",
+			"party": "Labour Party",
+			"votes": 13041,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Story, Alex",
+			"party": "Conservative Party",
+			"votes": 8083,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goodall, Tim ",
+			"party": "Green Party",
+			"votes": 3042,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Metcalfe, Julian",
+			"party": "United Kingdom Independence Party",
+			"votes": 2997,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Buxton, Bob",
+			"party": "Yorkshire First",
+			"votes": 143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Mike",
+			"party": "Alliance for Green Socialism",
+			"votes": 79,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flanagan, Mark",
+			"party": "The Above and Beyond Party",
+			"votes": 24,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "W07000052",
+	"name": "Rhondda",
+	"y2010": [
+		{
+			"candidate": "Bryant, Chris",
+			"party": "Labour Party",
+			"votes": 17183,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Geraint",
+			"party": "Plaid Cymru",
+			"votes": 5630,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wasley, Paul",
+			"party": "Liberal Democrat",
+			"votes": 3309,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howe, Philip",
+			"party": "Independent",
+			"votes": 2599,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henderson, Juliet",
+			"party": "Conservative Party",
+			"votes": 1993,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "John, Taffy",
+			"party": "United Kingdom Independence Party",
+			"votes": 358,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bryant, Chris",
+			"party": "Labour Party",
+			"votes": 15976,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rees-Owen, Shelley",
+			"party": "Plaid Cymru",
+			"votes": 8521,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Ron",
+			"party": "United Kingdom Independence Party",
+			"votes": 3998,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hudson, Lyn",
+			"party": "Conservative Party",
+			"votes": 2116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Summers, George",
+			"party": "Liberal Democrat",
+			"votes": 474,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rapado, Lisa",
+			"party": "Green Party",
+			"votes": 453,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "E14000797",
+	"name": "Loughborough",
+	"y2010": [
+		{
+			"candidate": "Morgan, Nicky",
+			"party": "Conservative Party",
+			"votes": 21971,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Reed, Andy",
+			"party": "Lab Co-op",
+			"votes": 18227,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Willis, Mike",
+			"party": "Liberal Democrat",
+			"votes": 9675,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stafford, Kevan",
+			"party": "British National Party",
+			"votes": 2040,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foden, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 925,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Morgan, Nicky",
+			"party": "Conservative Party",
+			"votes": 25762,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "O'Callaghan, Matthew",
+			"party": "Labour Party",
+			"votes": 16579,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Piper, Bill",
+			"party": "United Kingdom Independence Party",
+			"votes": 5704,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coltman, Steve",
+			"party": "Liberal Democrat",
+			"votes": 2130,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sisson, Matt",
+			"party": "Green Party",
+			"votes": 1845,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

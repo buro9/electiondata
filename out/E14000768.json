@@ -1,0 +1,113 @@
+{
+	"id": "E14000768",
+	"name": "Kensington",
+	"y2010": [
+		{
+			"candidate": "Rifkind, Malcolm",
+			"party": "Conservative Party",
+			"votes": 17595,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gurney, Sam",
+			"party": "Labour Party",
+			"votes": 8979,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meltzer, Robin",
+			"party": "Liberal Democrat",
+			"votes": 6872,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearson, Caroline",
+			"party": "United Kingdom Independence Party",
+			"votes": 754,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ebrahimi-Fardouee, Zahra-Melan",
+			"party": "Green Party",
+			"votes": 753,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adams, Eddie",
+			"party": "Alliance for Green Socialism",
+			"votes": 197,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Borwick, Victoria",
+			"party": "Conservative Party",
+			"votes": 18199,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Abouharb, Mohammed",
+			"party": "Labour Party",
+			"votes": 10838,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGhee, Robin",
+			"party": "Liberal Democrat",
+			"votes": 1962,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rose, Robina",
+			"party": "Green Party",
+			"votes": 1765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bovill, Jack",
+			"party": "United Kingdom Independence Party",
+			"votes": 1557,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Auguste, Tony",
+			"party": "CISTAP",
+			"votes": 211,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, Andrew",
+			"party": "Animal Welfare Party",
+			"votes": 158,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Abse, Toby",
+			"party": "Alliance for Green Socialism",
+			"votes": 115,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Courtenay, Roland",
+			"party": "New Independent Centralists",
+			"votes": 23,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

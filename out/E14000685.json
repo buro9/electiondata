@@ -1,0 +1,106 @@
+{
+	"id": "E14000685",
+	"name": "Eastleigh",
+	"y2010": [
+		{
+			"candidate": "Huhne, Chris",
+			"party": "Liberal Democrat",
+			"votes": 24966,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hutchings, Maria",
+			"party": "Conservative Party",
+			"votes": 21102,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barraclough, Leo",
+			"party": "Labour Party",
+			"votes": 5153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Finch, Ray",
+			"party": "United Kingdom Independence Party",
+			"votes": 1933,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pewsey, Tony Stephen",
+			"party": "English Democrats",
+			"votes": 249,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stone, Dave",
+			"party": "Independent",
+			"votes": 154,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Low, Keith",
+			"party": "Nat Dem",
+			"votes": 93,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davies, Mims",
+			"party": "Conservative Party",
+			"votes": 23464,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Thornton, Mike",
+			"party": "Liberal Democrat",
+			"votes": 14317,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Culligan, Patricia",
+			"party": "United Kingdom Independence Party",
+			"votes": 8783,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Latham, Mark",
+			"party": "Labour Party",
+			"votes": 7181,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meldrum, Ron",
+			"party": "Green Party",
+			"votes": 1513,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Ray",
+			"party": "Beer, Baccy and Scratchings",
+			"votes": 133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clune, Declan",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 114,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"id": "E14000807",
+	"name": "Manchester Central",
+	"y2010": [
+		{
+			"candidate": "Lloyd, Tony",
+			"party": "Labour Party",
+			"votes": 21059,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ramsbottom, Marc",
+			"party": "Liberal Democrat",
+			"votes": 10620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rahuja, Suhail",
+			"party": "Conservative Party",
+			"votes": 4704,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Trebilcock, Tony",
+			"party": "British National Party",
+			"votes": 1636,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Donovan, Gayle",
+			"party": "Green Party",
+			"votes": 915,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weatherill, Nicola",
+			"party": "United Kingdom Independence Party",
+			"votes": 607,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sinclair, Ron",
+			"party": "Soc Lab",
+			"votes": 153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cartwright, John",
+			"party": "Independent",
+			"votes": 120,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leff, Jonty",
+			"party": "Workers' Revolutionary Party",
+			"votes": 59,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Skelton, Robert",
+			"party": "Socialist Equality Party",
+			"votes": 54,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Powell, Lucy",
+			"party": "Labour Party",
+			"votes": 27772,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wang, Xingang",
+			"party": "Conservative Party",
+			"votes": 6133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Power, Myles",
+			"party": "United Kingdom Independence Party",
+			"votes": 5033,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner-Dave, Kieran",
+			"party": "Green Party",
+			"votes": 3838,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, John ",
+			"party": "Liberal Democrat",
+			"votes": 1867,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kaye, Loz",
+			"party": "Pirate Party UK",
+			"votes": 346,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davidson, Alex",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 270,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, John",
+			"party": "Comm Leagu",
+			"votes": 72,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

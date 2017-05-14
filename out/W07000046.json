@@ -1,0 +1,113 @@
+{
+	"id": "W07000046",
+	"name": "Gower",
+	"y2010": [
+		{
+			"candidate": "Caton, Martin",
+			"party": "Labour Party",
+			"votes": 16016,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Byron",
+			"party": "Conservative Party",
+			"votes": 13333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Day, Mike",
+			"party": "Liberal Democrat",
+			"votes": 7947,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Price, Darren",
+			"party": "Plaid Cymru",
+			"votes": 2760,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Adrian",
+			"party": "British National Party",
+			"votes": 963,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Triggs, Gordon",
+			"party": "United Kingdom Independence Party",
+			"votes": 652,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davies, Byron",
+			"party": "Conservative Party",
+			"votes": 15862,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Evans, Liz",
+			"party": "Labour Party",
+			"votes": 15835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beckett, Colin",
+			"party": "United Kingdom Independence Party",
+			"votes": 4773,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Darren",
+			"party": "Plaid Cymru",
+			"votes": 3051,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sheehan, Mike",
+			"party": "Liberal Democrat",
+			"votes": 1552,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marshall, Julia",
+			"party": "Green Party",
+			"votes": 1161,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Von Claptrap, David",
+			"party": "Monster Raving Loony Party",
+			"votes": 253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Steve",
+			"party": "Independent",
+			"votes": 168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Mark",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 103,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000799",
+	"name": "Ludlow",
+	"y2010": [
+		{
+			"candidate": "Dunne, Philip",
+			"party": "Conservative Party",
+			"votes": 25720,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kidd, Heather",
+			"party": "Liberal Democrat",
+			"votes": 15971,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hunt, Anthony",
+			"party": "Labour Party",
+			"votes": 3272,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gill, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 2127,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Christina",
+			"party": "British National Party",
+			"votes": 1016,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morrish, Jacqui",
+			"party": "Green Party",
+			"votes": 447,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powell, Alan",
+			"party": "Monster Raving Loony Party",
+			"votes": 179,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dunne, Philip",
+			"party": "Conservative Party",
+			"votes": 26093,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kelly, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7164,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barnes, Charlotte",
+			"party": "Liberal Democrat",
+			"votes": 6469,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Slater, Simon",
+			"party": "Labour Party",
+			"votes": 5902,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Janet ",
+			"party": "Green Party",
+			"votes": 2435,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

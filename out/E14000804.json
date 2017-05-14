@@ -1,0 +1,106 @@
+{
+	"id": "E14000804",
+	"name": "Maidstone and The Weald",
+	"y2010": [
+		{
+			"candidate": "Grant, Helen",
+			"party": "Conservative Party",
+			"votes": 23491,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Carroll, Peter",
+			"party": "Liberal Democrat",
+			"votes": 17602,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seeruthun, Rav",
+			"party": "Labour Party",
+			"votes": 4769,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kendall, Gareth",
+			"party": "United Kingdom Independence Party",
+			"votes": 1637,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jeffery, Stuart",
+			"party": "Green Party",
+			"votes": 655,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Gary",
+			"party": "National Front",
+			"votes": 643,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simmonds, Heidi",
+			"party": "Christian Party",
+			"votes": 131,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Grant, Helen",
+			"party": "Conservative Party",
+			"votes": 22745,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gerard, Jasper",
+			"party": "Liberal Democrat",
+			"votes": 12036,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powell, Eddie",
+			"party": "United Kingdom Independence Party",
+			"votes": 7930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Allen",
+			"party": "Labour Party",
+			"votes": 5268,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Patton, Hannah",
+			"party": "Green Party",
+			"votes": 1396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hobday, Paul ",
+			"party": "National Health Action Party",
+			"votes": 583,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kinrade, Robin",
+			"party": "Independent",
+			"votes": 52,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000974",
+	"name": "Stoke-on-Trent South",
+	"y2010": [
+		{
+			"candidate": "Flello, Rob",
+			"party": "Labour Party",
+			"votes": 15446,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rushton, James",
+			"party": "Conservative Party",
+			"votes": 11316,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, Zulfiqar",
+			"party": "Liberal Democrat",
+			"votes": 6323,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coleman, Michael",
+			"party": "British National Party",
+			"votes": 3762,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barlow, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 1363,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Follows, Terry",
+			"party": "Staffs Ind",
+			"votes": 1208,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Breeze, Mark",
+			"party": "Independent",
+			"votes": 434,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Flello, Rob",
+			"party": "Labour Party",
+			"votes": 15319,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rich, Joe",
+			"party": "Conservative Party",
+			"votes": 12780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mahmood, Tariq",
+			"party": "United Kingdom Independence Party",
+			"votes": 8298,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Andras, Peter",
+			"party": "Liberal Democrat",
+			"votes": 1309,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bellamy, Luke",
+			"party": "Green Party",
+			"votes": 1029,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, Matt",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 372,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14000640",
+	"name": "Chester, City of",
+	"y2010": [
+		{
+			"candidate": "Mosley, Stephen",
+			"party": "Conservative Party",
+			"votes": 18995,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Russell, Christine",
+			"party": "Labour Party",
+			"votes": 16412,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Jewkes, Elizabeth",
+			"party": "Liberal Democrat",
+			"votes": 8930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weddell, Allan",
+			"party": "United Kingdom Independence Party",
+			"votes": 1225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Abrams, Ed",
+			"party": "English Democrats",
+			"votes": 594,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barker, Tom",
+			"party": "Green Party",
+			"votes": 535,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whittingham, John",
+			"party": "Independent",
+			"votes": 99,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Matheson, Chris",
+			"party": "Labour Party",
+			"votes": 22118,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Mosley, Stephen",
+			"party": "Conservative Party",
+			"votes": 22025,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Ingram, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 4148,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Bob",
+			"party": "Liberal Democrat",
+			"votes": 2870,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

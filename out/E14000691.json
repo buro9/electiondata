@@ -1,0 +1,127 @@
+{
+	"id": "E14000691",
+	"name": "Enfield North",
+	"y2010": [
+		{
+			"candidate": "de Bois, Nick",
+			"party": "Conservative Party",
+			"votes": 18804,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ryan, Joan",
+			"party": "Labour Party",
+			"votes": 17112,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Paul",
+			"party": "Liberal Democrat",
+			"votes": 5403,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Avery, Tony",
+			"party": "British National Party",
+			"votes": 1228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Madge",
+			"party": "United Kingdom Independence Party",
+			"votes": 938,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Linton, Bill",
+			"party": "Green Party",
+			"votes": 489,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Anthony",
+			"party": "Christian Party",
+			"votes": 161,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weald, Raquel",
+			"party": "English Democrats",
+			"votes": 131,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Athow, Anna",
+			"party": "Workers' Revolutionary Party",
+			"votes": 96,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Daniels, Gonul",
+			"party": "Independent",
+			"votes": 91,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ryan, Joan",
+			"party": "Labour Party",
+			"votes": 20172,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "de Bois, Nick",
+			"party": "Conservative Party",
+			"votes": 19086,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Cairns, Deborah",
+			"party": "United Kingdom Independence Party",
+			"votes": 4133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flint, David",
+			"party": "Green Party",
+			"votes": 1303,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkinson, Cara",
+			"party": "Liberal Democrat",
+			"votes": 1059,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Awolola, Yemi",
+			"party": "Christian Peoples Alliance",
+			"votes": 207,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Joe",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 177,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

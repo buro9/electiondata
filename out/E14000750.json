@@ -1,0 +1,127 @@
+{
+	"id": "E14000750",
+	"name": "Holborn and St Pancras",
+	"y2010": [
+		{
+			"candidate": "Dobson, Frank",
+			"party": "Labour Party",
+			"votes": 25198,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Shaw, Jo",
+			"party": "Liberal Democrat",
+			"votes": 15256,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee, George",
+			"party": "Conservative Party",
+			"votes": 11134,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Natalie",
+			"party": "Green Party",
+			"votes": 1480,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carlyle, Robert",
+			"party": "British National Party",
+			"votes": 779,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spencer, Max",
+			"party": "United Kingdom Independence Party",
+			"votes": 587,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chapman, John",
+			"party": "Independent",
+			"votes": 96,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Susperregi, Mikel",
+			"party": "English Democrats",
+			"votes": 75,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meek, Iain",
+			"party": "Independent",
+			"votes": 44,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Starmer, Keir",
+			"party": "Labour Party",
+			"votes": 29062,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Blair, Will",
+			"party": "Conservative Party",
+			"votes": 12014,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Natalie",
+			"party": "Green Party",
+			"votes": 7013,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fraser, Jill",
+			"party": "Liberal Democrat",
+			"votes": 3555,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spencer, Maxine",
+			"party": "United Kingdom Independence Party",
+			"votes": 2740,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Donnell, Shane",
+			"party": "CISTAP",
+			"votes": 252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hudson, Vanessa ",
+			"party": "Animal Welfare Party",
+			"votes": 173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Sullivan, David ",
+			"party": "Socialist Equality Party",
+			"votes": 108,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

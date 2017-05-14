@@ -1,0 +1,85 @@
+{
+	"id": "S14000056",
+	"name": "Rutherglen and Hamilton West",
+	"y2010": [
+		{
+			"candidate": "Greatrex, Tom",
+			"party": "Lab Co-op",
+			"votes": 28566,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Horne, Graeme",
+			"party": "Scottish National Party",
+			"votes": 7564,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robertson, Ian",
+			"party": "Liberal Democrat",
+			"votes": 5636,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macaskill, Malcolm",
+			"party": "Conservative Party",
+			"votes": 4540,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murdoch, Janice",
+			"party": "United Kingdom Independence Party",
+			"votes": 675,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ferrier, Margaret",
+			"party": "Scottish National Party",
+			"votes": 30279,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Greatrex, Tom",
+			"party": "Labour Party",
+			"votes": 20304,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Muir, Taylor",
+			"party": "Conservative Party",
+			"votes": 4350,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacKay, Janice",
+			"party": "United Kingdom Independence Party",
+			"votes": 1301,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Tony",
+			"party": "Liberal Democrat",
+			"votes": 1045,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maclean, Yvonne",
+			"party": "CISTAP",
+			"votes": 336,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

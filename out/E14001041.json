@@ -1,0 +1,78 @@
+{
+	"id": "E14001041",
+	"name": "Winchester",
+	"y2010": [
+		{
+			"candidate": "Brine, Steve",
+			"party": "Conservative Party",
+			"votes": 27155,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Tod, Martin",
+			"party": "Liberal Democrat",
+			"votes": 24107,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Patrick",
+			"party": "Labour Party",
+			"votes": 3051,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Penn-Bull, Jocelyn",
+			"party": "United Kingdom Independence Party",
+			"votes": 1139,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lancaster, Mark",
+			"party": "English Democrats",
+			"votes": 503,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brine, Steve",
+			"party": "Conservative Party",
+			"votes": 30425,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Porter, Jackie ",
+			"party": "Liberal Democrat",
+			"votes": 13511,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chaloner, Mark",
+			"party": "Labour Party",
+			"votes": 4613,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lyon, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 4122,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilks, Michael",
+			"party": "Green Party",
+			"votes": 2645,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"id": "E14000592",
+	"name": "Brent North",
+	"y2010": [
+		{
+			"candidate": "Gardiner, Barry",
+			"party": "Labour Party",
+			"votes": 24514,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Patel, Harshadbhai",
+			"party": "Conservative Party",
+			"votes": 16486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allie, James",
+			"party": "Liberal Democrat",
+			"votes": 8879,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malik, Atiq",
+			"party": "Independent",
+			"votes": 734,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Francis, Martin",
+			"party": "Green Party",
+			"votes": 725,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Webb, Sunita",
+			"party": "United Kingdom Independence Party",
+			"votes": 380,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vamadeva, Jannen",
+			"party": "Independent",
+			"votes": 333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tailor, Arvind",
+			"party": "English Democrats",
+			"votes": 247,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gardiner, Barry",
+			"party": "Labour Party",
+			"votes": 28351,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Parker, Luke",
+			"party": "Conservative Party",
+			"votes": 17517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lorber, Paul",
+			"party": "Liberal Democrat",
+			"votes": 2607,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Craig, Alexander",
+			"party": "United Kingdom Independence Party",
+			"votes": 2024,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bartle, Scott",
+			"party": "Green Party",
+			"votes": 1539,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jeffers, Elcena",
+			"party": "Independent",
+			"votes": 197,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

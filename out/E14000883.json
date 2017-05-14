@@ -1,0 +1,106 @@
+{
+	"id": "E14000883",
+	"name": "Portsmouth North",
+	"y2010": [
+		{
+			"candidate": "Mordaunt, Penny",
+			"party": "Conservative Party",
+			"votes": 19533,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McCarthy-Fry, Sarah",
+			"party": "Lab Co-op",
+			"votes": 12244,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Sanders, Darren",
+			"party": "Liberal Democrat",
+			"votes": 8874,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitzgerald, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 1812,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, David",
+			"party": "English Democrats",
+			"votes": 1040,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maclennan, Iain",
+			"party": "Green Party",
+			"votes": 461,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tosh, Mick",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 154,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mordaunt, Penny",
+			"party": "Conservative Party",
+			"votes": 21343,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ferrett, John",
+			"party": "Labour Party",
+			"votes": 10806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitzgerald, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 8660,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sanders, Darren",
+			"party": "Liberal Democrat",
+			"votes": 2828,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ellis, Gavin",
+			"party": "Green Party",
+			"votes": 1450,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woods, Jon",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 231,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "George, Steven",
+			"party": "JACP",
+			"votes": 72,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

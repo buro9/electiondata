@@ -1,0 +1,99 @@
+{
+	"id": "E14000573",
+	"name": "Blackpool South",
+	"y2010": [
+		{
+			"candidate": "Marsden, Gordon",
+			"party": "Labour Party",
+			"votes": 14448,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bell, Ron",
+			"party": "Conservative Party",
+			"votes": 12597,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holt, Doreen",
+			"party": "Liberal Democrat",
+			"votes": 5082,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goodwin, Roy",
+			"party": "British National Party",
+			"votes": 1482,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howitt, Hamish",
+			"party": "United Kingdom Independence Party",
+			"votes": 1352,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tun, Si Thu",
+			"party": "Integrity",
+			"votes": 230,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Marsden, Gordon",
+			"party": "Labour Party",
+			"votes": 13548,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Anthony, Peter",
+			"party": "Conservative Party",
+			"votes": 10963,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 5613,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Royle, Duncan",
+			"party": "Green Party",
+			"votes": 841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greene, Bill",
+			"party": "Liberal Democrat",
+			"votes": 743,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Higgins, Andy",
+			"party": "Independent",
+			"votes": 655,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chard, Lawrence",
+			"party": "Independent",
+			"votes": 73,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

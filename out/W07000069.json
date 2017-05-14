@@ -1,0 +1,92 @@
+{
+	"id": "W07000069",
+	"name": "Neath",
+	"y2010": [
+		{
+			"candidate": "Hain, Peter",
+			"party": "Labour Party",
+			"votes": 17172,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Llewelyn, Alun",
+			"party": "Plaid Cymru",
+			"votes": 7397,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Little, Frank",
+			"party": "Liberal Democrat",
+			"votes": 5535,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Owens, Emmeline",
+			"party": "Conservative Party",
+			"votes": 4847,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Michael",
+			"party": "British National Party",
+			"votes": 1342,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bevan, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 829,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Rees, Christina",
+			"party": "Labour Party",
+			"votes": 16270,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Thomas, Daniel",
+			"party": "Plaid Cymru",
+			"votes": 6722,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pritchard, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 6094,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hastie, Ed",
+			"party": "Conservative Party",
+			"votes": 5691,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brock, Catrin",
+			"party": "Green Party",
+			"votes": 1185,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bentley, Clare",
+			"party": "Liberal Democrat",
+			"votes": 1173,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

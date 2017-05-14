@@ -1,0 +1,106 @@
+{
+	"id": "W07000068",
+	"name": "Brecon and Radnorshire",
+	"y2010": [
+		{
+			"candidate": "Williams, Roger",
+			"party": "Liberal Democrat",
+			"votes": 17929,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Suzy",
+			"party": "Conservative Party",
+			"votes": 14182,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd, Christopher",
+			"party": "Labour Party",
+			"votes": 4096,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Janet",
+			"party": "Plaid Cymru",
+			"votes": 989,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Easton, Clive",
+			"party": "United Kingdom Independence Party",
+			"votes": 876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Dorienne",
+			"party": "Green Party",
+			"votes": 341,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Jeffrey",
+			"party": "Christian Party",
+			"votes": 222,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Offa, Lord",
+			"party": "Monster Raving Loony Party",
+			"votes": 210,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davies, Chris",
+			"party": "Conservative Party",
+			"votes": 16453,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Roger",
+			"party": "Liberal Democrat",
+			"votes": 11351,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Dorrance, Matthew",
+			"party": "Labour Party",
+			"votes": 5904,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Darran",
+			"party": "United Kingdom Independence Party",
+			"votes": 3338,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greaves, Freddy",
+			"party": "Plaid Cymru",
+			"votes": 1767,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carmichael, Chris",
+			"party": "Green Party",
+			"votes": 1261,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

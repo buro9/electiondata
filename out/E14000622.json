@@ -1,0 +1,78 @@
+{
+	"id": "E14000622",
+	"name": "Castle Point",
+	"y2010": [
+		{
+			"candidate": "Harris, Rebecca",
+			"party": "Conservative Party",
+			"votes": 19806,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Spink, Bob",
+			"party": "Green Belt",
+			"votes": 12174,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Ware-Lane, Julian",
+			"party": "Labour Party",
+			"votes": 6609,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "D'Cruz, Brendan",
+			"party": "Liberal Democrat",
+			"votes": 4232,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howell, Philip",
+			"party": "British National Party",
+			"votes": 2205,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Harris, Rebecca",
+			"party": "Conservative Party",
+			"votes": 23112,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Huntman, Jamie",
+			"party": "United Kingdom Independence Party",
+			"votes": 14178,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooke, Joe ",
+			"party": "Labour Party",
+			"votes": 6283,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ellis, Dominic",
+			"party": "Green Party",
+			"votes": 1076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davey, Sereena",
+			"party": "Liberal Democrat",
+			"votes": 801,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

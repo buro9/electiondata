@@ -1,0 +1,113 @@
+{
+	"id": "E14000593",
+	"name": "Brentford and Isleworth",
+	"y2010": [
+		{
+			"candidate": "Macleod, Mary",
+			"party": "Conservative Party",
+			"votes": 20022,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Keen, Ann",
+			"party": "Labour Party",
+			"votes": 18064,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Dakers, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 12718,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hargreaves, Jason",
+			"party": "United Kingdom Independence Party",
+			"votes": 863,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hunt, John",
+			"party": "Green Party",
+			"votes": 787,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Winnet, Paul",
+			"party": "British National Party",
+			"votes": 704,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cunningham, David",
+			"party": "English Democrats",
+			"votes": 230,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhatti, Aamir",
+			"party": "Christian Party",
+			"votes": 210,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pillai, Evangeline",
+			"party": "Christian Peoples Alliance",
+			"votes": 99,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vanneck-Surplice, Teresa",
+			"party": "Independent",
+			"votes": 68,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cadbury, Ruth",
+			"party": "Labour Party",
+			"votes": 25096,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Macleod, Mary",
+			"party": "Conservative Party",
+			"votes": 24631,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hendron, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 3203,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bourke, Joe",
+			"party": "Liberal Democrat",
+			"votes": 2305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goldsmith, Daniel",
+			"party": "Green Party",
+			"votes": 2120,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

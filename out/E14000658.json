@@ -1,0 +1,85 @@
+{
+	"id": "E14000658",
+	"name": "Darlington",
+	"y2010": [
+		{
+			"candidate": "Chapman, Jenny",
+			"party": "Labour Party",
+			"votes": 16891,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Legard, Edward",
+			"party": "Conservative Party",
+			"votes": 13503,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barker, Mike",
+			"party": "Liberal Democrat",
+			"votes": 10046,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foster, Amanda",
+			"party": "British National Party",
+			"votes": 1262,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bull, Charlotte",
+			"party": "United Kingdom Independence Party",
+			"votes": 1194,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Chapman, Jenny",
+			"party": "Labour Party",
+			"votes": 17637,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cuthbertson, Peter",
+			"party": "Conservative Party",
+			"votes": 14479,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hodgson, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 5392,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curry, Anne-Marie",
+			"party": "Liberal Democrat",
+			"votes": 1966,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cherrington, Michael",
+			"party": "Green Party",
+			"votes": 1444,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Docherty, Alan",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 223,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

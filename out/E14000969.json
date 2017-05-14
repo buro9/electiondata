@@ -1,0 +1,92 @@
+{
+	"id": "E14000969",
+	"name": "Stockport",
+	"y2010": [
+		{
+			"candidate": "Coffey, Ann",
+			"party": "Labour Party",
+			"votes": 16697,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Holland, Stephen",
+			"party": "Conservative Party",
+			"votes": 9913,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bodsworth, Stuart",
+			"party": "Liberal Democrat",
+			"votes": 9778,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warner, Duncan",
+			"party": "British National Party",
+			"votes": 1201,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 862,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barber, Peter",
+			"party": "Green Party",
+			"votes": 677,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Coffey, Ann",
+			"party": "Labour Party",
+			"votes": 19771,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hamilton, Daniel",
+			"party": "Conservative Party",
+			"votes": 9710,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woolfe, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 5206,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawthorne, Daniel",
+			"party": "Liberal Democrat",
+			"votes": 3034,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawson, Gary",
+			"party": "Green Party",
+			"votes": 1753,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearson, John ",
+			"party": "Left Unity",
+			"votes": 175,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14001042",
+	"name": "Windsor",
+	"y2010": [
+		{
+			"candidate": "Afriyie, Adam",
+			"party": "Conservative Party",
+			"votes": 30172,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Tisi, Julian",
+			"party": "Liberal Democrat",
+			"votes": 11118,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jhund, Amanjit",
+			"party": "Labour Party",
+			"votes": 4910,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rye, John-Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1612,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Peter",
+			"party": "British National Party",
+			"votes": 950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wall, Derek",
+			"party": "Green Party",
+			"votes": 628,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hooper, Peter",
+			"party": "Independent",
+			"votes": 198,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Afriyie, Adam",
+			"party": "Conservative Party",
+			"votes": 31797,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dent, Fiona",
+			"party": "Labour Party",
+			"votes": 6714,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malik, Tariq",
+			"party": "United Kingdom Independence Party",
+			"votes": 4992,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fussey, George",
+			"party": "Liberal Democrat",
+			"votes": 4323,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wall, Derek",
+			"party": "Green Party",
+			"votes": 1834,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Da Costa, Wisdom",
+			"party": "Independent",
+			"votes": 500,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

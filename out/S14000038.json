@@ -1,0 +1,85 @@
+{
+	"id": "S14000038",
+	"name": "Inverclyde",
+	"y2010": [
+		{
+			"candidate": "Cairns, David",
+			"party": "Labour Party",
+			"votes": 20993,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Nelson, Innes",
+			"party": "Scottish National Party",
+			"votes": 6567,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hutton, Simon",
+			"party": "Liberal Democrat",
+			"votes": 5007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, David",
+			"party": "Conservative Party",
+			"votes": 4502,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 433,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cowan, Ronnie",
+			"party": "Scottish National Party",
+			"votes": 24585,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McKenzie, Iain",
+			"party": "Labour Party",
+			"votes": 13522,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Jabbour, George",
+			"party": "Conservative Party",
+			"votes": 4446,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watson, John",
+			"party": "Liberal Democrat",
+			"votes": 1106,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burrows, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 715,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hamilton, Craig",
+			"party": "CISTAP",
+			"votes": 233,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

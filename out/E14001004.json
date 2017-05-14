@@ -1,0 +1,99 @@
+{
+	"id": "E14001004",
+	"name": "Tunbridge Wells",
+	"y2010": [
+		{
+			"candidate": "Clark, Greg",
+			"party": "Conservative Party",
+			"votes": 28302,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hallas, David",
+			"party": "Liberal Democrat",
+			"votes": 12726,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heather, Gary",
+			"party": "Labour Party",
+			"votes": 5448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Webb, Victor",
+			"party": "United Kingdom Independence Party",
+			"votes": 2054,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dawe, Hazel",
+			"party": "Green Party",
+			"votes": 914,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McBride, Andrew",
+			"party": "British National Party",
+			"votes": 704,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bradbury, Farel",
+			"party": "Independent",
+			"votes": 172,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Clark, Greg",
+			"party": "Conservative Party",
+			"votes": 30181,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kerrigan, Kevin",
+			"party": "Labour Party",
+			"votes": 7307,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholson, Colin",
+			"party": "United Kingdom Independence Party",
+			"votes": 6481,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacCleary, James ",
+			"party": "Liberal Democrat",
+			"votes": 4342,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Marie",
+			"party": "Green Party",
+			"votes": 2659,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Naismith, Graham",
+			"party": "Independent",
+			"votes": 458,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

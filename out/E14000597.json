@@ -1,0 +1,99 @@
+{
+	"id": "E14000597",
+	"name": "Brighton Kemptown",
+	"y2010": [
+		{
+			"candidate": "Kirby, Simon",
+			"party": "Conservative Party",
+			"votes": 16217,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Burgess, Simon",
+			"party": "Lab Co-op",
+			"votes": 14889,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Juliet",
+			"party": "Liberal Democrat",
+			"votes": 7691,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duncan, Ben",
+			"party": "Green Party",
+			"votes": 2330,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chamberlain-Webber, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 1384,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Dave",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 194,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kirby, Simon",
+			"party": "Conservative Party",
+			"votes": 18428,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Platts, Nancy",
+			"party": "Labour Party",
+			"votes": 17738,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Buchanan, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 4446,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Davy",
+			"party": "Green Party",
+			"votes": 3187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chandler, Paul",
+			"party": "Liberal Democrat",
+			"votes": 1365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shodeke, Jacqueline",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 73,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Matt ",
+			"party": "Independent",
+			"votes": 69,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

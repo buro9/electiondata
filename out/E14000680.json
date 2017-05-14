@@ -1,0 +1,85 @@
+{
+	"id": "E14000680",
+	"name": "Hampshire East",
+	"y2010": [
+		{
+			"candidate": "Hinds, Damian",
+			"party": "Conservative Party",
+			"votes": 29137,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Carew, Adam",
+			"party": "Liberal Democrat",
+			"votes": 15640,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edbrooke, Jane",
+			"party": "Labour Party",
+			"votes": 4043,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGuinness, Hugh",
+			"party": "United Kingdom Independence Party",
+			"votes": 1477,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Matt",
+			"party": "English Democrats",
+			"votes": 710,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jerrard, Don",
+			"party": "J and AC",
+			"votes": 310,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hinds, Damian",
+			"party": "Conservative Party",
+			"votes": 31334,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Baillie, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 6187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Richard",
+			"party": "Liberal Democrat",
+			"votes": 5732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilks, Alex",
+			"party": "Labour Party",
+			"votes": 5220,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bisset, Peter",
+			"party": "Green Party",
+			"votes": 3176,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

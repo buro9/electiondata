@@ -1,0 +1,106 @@
+{
+	"id": "E14000900",
+	"name": "Romford",
+	"y2010": [
+		{
+			"candidate": "Rosindell, Andrew",
+			"party": "Conservative Party",
+			"votes": 26031,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Voller, Rachel",
+			"party": "Labour Party",
+			"votes": 9077,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duffett, Helen",
+			"party": "Liberal Democrat",
+			"votes": 5572,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailey, Robert",
+			"party": "British National Party",
+			"votes": 2438,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Batten, Gerard",
+			"party": "United Kingdom Independence Party",
+			"votes": 2050,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thorogood, Peter",
+			"party": "English Democrats",
+			"votes": 603,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haines, Gary",
+			"party": "Green Party",
+			"votes": 447,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hyde, Philip",
+			"party": "Independent",
+			"votes": 151,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sturman, David",
+			"party": "Independent",
+			"votes": 112,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Rosindell, Andrew",
+			"party": "Conservative Party",
+			"votes": 25067,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Batten, Gerard",
+			"party": "United Kingdom Independence Party",
+			"votes": 11208,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gould, Samuel",
+			"party": "Labour Party",
+			"votes": 10268,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sanderson, Ian",
+			"party": "Liberal Democrat",
+			"votes": 1413,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tooley, Lorna",
+			"party": "Green Party",
+			"votes": 1222,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

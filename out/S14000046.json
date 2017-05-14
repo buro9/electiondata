@@ -1,0 +1,85 @@
+{
+	"id": "S14000046",
+	"name": "Moray",
+	"y2010": [
+		{
+			"candidate": "Robertson, Angus",
+			"party": "Scottish National Party",
+			"votes": 16273,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ross, Douglas",
+			"party": "Conservative Party",
+			"votes": 10683,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Kieron",
+			"party": "Labour Party",
+			"votes": 7007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paterson, James",
+			"party": "Liberal Democrat",
+			"votes": 5956,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gatt, Donald",
+			"party": "United Kingdom Independence Party",
+			"votes": 1085,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Robertson, Angus",
+			"party": "Scottish National Party",
+			"votes": 24384,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ross, Douglas",
+			"party": "Conservative Party",
+			"votes": 15319,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morton, Sean",
+			"party": "Labour Party",
+			"votes": 4898,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scorer, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 1939,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paterson, Jamie",
+			"party": "Liberal Democrat",
+			"votes": 1395,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacKessack-Leitch, James",
+			"party": "Green Party",
+			"votes": 1345,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

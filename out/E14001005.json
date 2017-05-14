@@ -1,0 +1,113 @@
+{
+	"id": "E14001005",
+	"name": "Twickenham",
+	"y2010": [
+		{
+			"candidate": "Cable, Vince",
+			"party": "Liberal Democrat",
+			"votes": 32483,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Thomas, Deborah",
+			"party": "Conservative Party",
+			"votes": 20343,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tomlinson, Brian",
+			"party": "Labour Party",
+			"votes": 4583,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gilbert, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 868,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roest, Steve",
+			"party": "Green Party",
+			"votes": 674,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hurst, Chris",
+			"party": "British National Party",
+			"votes": 654,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cole, Harry",
+			"party": "R and E",
+			"votes": 76,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Armstrong, Paul",
+			"party": "Magna Carta Party",
+			"votes": 40,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mathias, Tania",
+			"party": "Conservative Party",
+			"votes": 25580,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Cable, Vince",
+			"party": "Liberal Democrat",
+			"votes": 23563,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Grant, Nick",
+			"party": "Labour Party",
+			"votes": 7129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Barry",
+			"party": "United Kingdom Independence Party",
+			"votes": 3069,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Tanya",
+			"party": "Green Party",
+			"votes": 2463,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stockford, Dominic",
+			"party": "Christian Party, Proclaiming Christ's Lordship",
+			"votes": 174,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wedgwood, David",
+			"party": "Magna Carta Party",
+			"votes": 26,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

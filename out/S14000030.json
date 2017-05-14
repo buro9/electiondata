@@ -1,0 +1,106 @@
+{
+	"id": "S14000030",
+	"name": "Glasgow East",
+	"y2010": [
+		{
+			"candidate": "Curran, Margaret",
+			"party": "Labour Party",
+			"votes": 19797,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Mason, John",
+			"party": "Scottish National Party",
+			"votes": 7957,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Kevin",
+			"party": "Liberal Democrat",
+			"votes": 1617,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Hamira",
+			"party": "Conservative Party",
+			"votes": 1453,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Finnie, Joseph",
+			"party": "British National Party",
+			"votes": 677,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curran, Frances",
+			"party": "Scottish Socialist Party",
+			"votes": 454,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thackeray, Arthur",
+			"party": "United Kingdom Independence Party",
+			"votes": 209,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McGarry, Natalie",
+			"party": "Scottish National Party",
+			"votes": 24116,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Curran, Margaret",
+			"party": "Labour Party",
+			"votes": 13729,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Morrison, Andy",
+			"party": "Conservative Party",
+			"votes": 2544,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thackeray, Arthur",
+			"party": "United Kingdom Independence Party",
+			"votes": 1105,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Long, Kim",
+			"party": "Green Party",
+			"votes": 381,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McLelland, Gary",
+			"party": "Liberal Democrat",
+			"votes": 318,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McLaughlan, Liam",
+			"party": "Soc",
+			"votes": 224,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

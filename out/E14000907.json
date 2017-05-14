@@ -1,0 +1,85 @@
+{
+	"id": "E14000907",
+	"name": "Runnymede and Weybridge",
+	"y2010": [
+		{
+			"candidate": "Hammond, Philip",
+			"party": "Conservative Party",
+			"votes": 26915,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Falconer, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 10406,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greenwood, Paul",
+			"party": "Labour Party",
+			"votes": 6446,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Micklethwait, Toby",
+			"party": "United Kingdom Independence Party",
+			"votes": 3146,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gould, Jenny",
+			"party": "Green Party",
+			"votes": 696,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sammons, David",
+			"party": "Independent",
+			"votes": 541,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hammond, Philip",
+			"party": "Conservative Party",
+			"votes": 29901,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Neathey, Arran",
+			"party": "Labour Party",
+			"votes": 7767,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Branco, Joe",
+			"party": "United Kingdom Independence Party",
+			"votes": 6951,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vincent, John",
+			"party": "Liberal Democrat",
+			"votes": 3362,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Majainah, Rustam",
+			"party": "Green Party",
+			"votes": 2071,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

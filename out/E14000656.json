@@ -1,0 +1,92 @@
+{
+	"id": "E14000656",
+	"name": "Croydon South",
+	"y2010": [
+		{
+			"candidate": "Ottaway, Richard",
+			"party": "Conservative Party",
+			"votes": 28684,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rix, Simon",
+			"party": "Liberal Democrat",
+			"votes": 12866,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Avis, Jane",
+			"party": "Labour Party",
+			"votes": 11287,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bolter, Jeffrey",
+			"party": "United Kingdom Independence Party",
+			"votes": 2504,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Gordon",
+			"party": "Green Party",
+			"votes": 981,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Philp, Chris",
+			"party": "Conservative Party",
+			"votes": 31448,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Benn, Emily ",
+			"party": "Labour Party",
+			"votes": 14038,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garner, Kathleen",
+			"party": "United Kingdom Independence Party",
+			"votes": 6068,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hickson, Gill",
+			"party": "Liberal Democrat",
+			"votes": 3448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Underwood, Peter",
+			"party": "Green Party",
+			"votes": 2154,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Samuel, Mark",
+			"party": "Putting Croydon First!",
+			"votes": 221,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bigger, Jonathan",
+			"party": "Class War",
+			"votes": 65,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

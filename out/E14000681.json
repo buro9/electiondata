@@ -1,0 +1,92 @@
+{
+	"id": "E14000681",
+	"name": "Surrey East",
+	"y2010": [
+		{
+			"candidate": "Gyimah, Sam",
+			"party": "Conservative Party",
+			"votes": 31007,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Lee, David",
+			"party": "Liberal Democrat",
+			"votes": 14133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rodda, Mathew",
+			"party": "Labour Party",
+			"votes": 4925,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Windsor, Helena",
+			"party": "United Kingdom Independence Party",
+			"votes": 3770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hogbin, Martin",
+			"party": "Monster Raving Loony Party",
+			"votes": 422,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pratt, Sandy",
+			"party": "Independent",
+			"votes": 383,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gyimah, Sam",
+			"party": "Conservative Party",
+			"votes": 32211,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Windsor, Helena",
+			"party": "United Kingdom Independence Party",
+			"votes": 9553,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Matt",
+			"party": "Labour Party",
+			"votes": 6627,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee, David",
+			"party": "Liberal Democrat",
+			"votes": 5189,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dodgson, Nicky",
+			"party": "Green Party",
+			"votes": 2159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pratt, Sandy",
+			"party": "Independent",
+			"votes": 364,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

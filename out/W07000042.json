@@ -1,0 +1,92 @@
+{
+	"id": "W07000042",
+	"name": "Delyn",
+	"y2010": [
+		{
+			"candidate": "Hanson, David",
+			"party": "Labour Party",
+			"votes": 15083,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sandbach, Antoinette",
+			"party": "Conservative Party",
+			"votes": 12811,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brereton, Bill",
+			"party": "Liberal Democrat",
+			"votes": 5747,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ryder, Peter",
+			"party": "Plaid Cymru",
+			"votes": 1844,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Matthys, Jennifer",
+			"party": "British National Party",
+			"votes": 844,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haigh, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 655,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hanson, David",
+			"party": "Labour Party",
+			"votes": 15187,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Isherwood, Mark",
+			"party": "Conservative Party",
+			"votes": 12257,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 6150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowlinson, Paul",
+			"party": "Plaid Cymru",
+			"votes": 1803,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rippeth, Tom",
+			"party": "Liberal Democrat",
+			"votes": 1380,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roney, Kay",
+			"party": "Green Party",
+			"votes": 680,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

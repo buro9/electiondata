@@ -1,0 +1,106 @@
+{
+	"id": "E14000912",
+	"name": "Salisbury",
+	"y2010": [
+		{
+			"candidate": "Glen, John",
+			"party": "Conservative Party",
+			"votes": 23859,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Radford, Nick",
+			"party": "Liberal Democrat",
+			"votes": 17893,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gann, Tom",
+			"party": "Labour Party",
+			"votes": 3690,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howard, Frances",
+			"party": "United Kingdom Independence Party",
+			"votes": 1392,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Witheridge, Sean",
+			"party": "British National Party",
+			"votes": 765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Startin, Nick",
+			"party": "Green Party",
+			"votes": 506,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Arthur, King",
+			"party": "Independent",
+			"votes": 257,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holme, John",
+			"party": "Independent",
+			"votes": 119,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Glen, John",
+			"party": "Conservative Party",
+			"votes": 28192,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Corbin, Tom",
+			"party": "Labour Party",
+			"votes": 7771,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 6152,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Banerji, Reeten",
+			"party": "Liberal Democrat",
+			"votes": 5099,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Craig, Alison",
+			"party": "Green Party",
+			"votes": 2762,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pendragon, Arthur",
+			"party": "Independent",
+			"votes": 729,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

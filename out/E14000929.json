@@ -1,0 +1,85 @@
+{
+	"id": "E14000929",
+	"name": "Sleaford and North Hykeham",
+	"y2010": [
+		{
+			"candidate": "Phillips, Stephen",
+			"party": "Conservative Party",
+			"votes": 30719,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Harding-Price, David",
+			"party": "Liberal Democrat",
+			"votes": 10814,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Normington, James",
+			"party": "Labour Party",
+			"votes": 10051,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Overton, Marianne",
+			"party": "Lincs Ind",
+			"votes": 3806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Doughty, Rodger",
+			"party": "United Kingdom Independence Party",
+			"votes": 2163,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, Mike",
+			"party": "British National Party",
+			"votes": 1977,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Phillips, Stephen",
+			"party": "Conservative Party",
+			"votes": 34805,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pandya-Wood, Jason",
+			"party": "Labour Party",
+			"votes": 10690,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hopkins, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 9716,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holden, Matthew",
+			"party": "Liberal Democrat",
+			"votes": 3500,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Overton, Marianne",
+			"party": "Lincs Ind",
+			"votes": 3233,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

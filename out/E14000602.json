@@ -1,0 +1,106 @@
+{
+	"id": "E14000602",
+	"name": "Bristol West",
+	"y2010": [
+		{
+			"candidate": "Williams, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 26593,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Paul",
+			"party": "Labour Party",
+			"votes": 15227,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Yarker, Nick",
+			"party": "Conservative Party",
+			"votes": 10169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, Ricky",
+			"party": "Green Party",
+			"votes": 2090,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lees, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 655,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kushlick, Danny",
+			"party": "Independent",
+			"votes": 343,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baker, Jon",
+			"party": "English Democrats",
+			"votes": 270,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Debbonaire, Thangam",
+			"party": "Labour Party",
+			"votes": 22900,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hall, Darren",
+			"party": "Green Party",
+			"votes": 17227,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 12103,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hiscott, Claire",
+			"party": "Conservative Party",
+			"votes": 9752,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1940,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parry, Dawn",
+			"party": "Independents for Bristol",
+			"votes": 204,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weston, Stewart",
+			"party": "Left Unity",
+			"votes": 92,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

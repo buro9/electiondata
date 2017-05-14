@@ -1,0 +1,85 @@
+{
+	"id": "E14000848",
+	"name": "Norfolk North",
+	"y2010": [
+		{
+			"candidate": "Lamb, Norman",
+			"party": "Liberal Democrat",
+			"votes": 27554,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ivory, Trevor",
+			"party": "Conservative Party",
+			"votes": 15928,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Phil",
+			"party": "Labour Party",
+			"votes": 2896,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baker, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 2680,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boswell, Andrew",
+			"party": "Green Party",
+			"votes": 508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mann, Simon",
+			"party": "Independent",
+			"votes": 95,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lamb, Norman",
+			"party": "Liberal Democrat",
+			"votes": 19299,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Steward, Ann",
+			"party": "Conservative Party",
+			"votes": 15256,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baker, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 8328,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burke, Denise",
+			"party": "Labour Party",
+			"votes": 5043,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macartney-Filgate, Mike",
+			"party": "Green Party",
+			"votes": 1488,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

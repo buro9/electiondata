@@ -1,0 +1,99 @@
+{
+	"id": "E14000671",
+	"name": "Dudley North",
+	"y2010": [
+		{
+			"candidate": "Austin, Ian",
+			"party": "Labour Party",
+			"votes": 14923,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Brown, Graeme",
+			"party": "Conservative Party",
+			"votes": 14274,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beckett, Mike",
+			"party": "Liberal Democrat",
+			"votes": 4066,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davis, Malcolm",
+			"party": "United Kingdom Independence Party",
+			"votes": 3267,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Ken",
+			"party": "British National Party",
+			"votes": 1899,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Inman, Kevin",
+			"party": "National Front",
+			"votes": 173,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Austin, Ian",
+			"party": "Labour Party",
+			"votes": 15885,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Les",
+			"party": "Conservative Party",
+			"votes": 11704,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Etheridge, Bill",
+			"party": "United Kingdom Independence Party",
+			"votes": 9113,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duckworth, Will",
+			"party": "Green Party",
+			"votes": 517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Mike",
+			"party": "Liberal Democrat",
+			"votes": 478,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Afzal, Rehan",
+			"party": "Apni Party",
+			"votes": 156,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pitt, Dave",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 139,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

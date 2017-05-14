@@ -1,0 +1,85 @@
+{
+	"id": "E14000554",
+	"name": "Berwick-upon-Tweed",
+	"y2010": [
+		{
+			"candidate": "Beith, Alan",
+			"party": "Liberal Democrat",
+			"votes": 16806,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Trevelyan, Anne-Marie",
+			"party": "Conservative Party",
+			"votes": 14116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Strickland, Alan",
+			"party": "Labour Party",
+			"votes": 5061,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weatheritt, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 1243,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mailer, Peter",
+			"party": "British National Party",
+			"votes": 1213,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Trevelyan, Anne-Marie",
+			"party": "Conservative Party",
+			"votes": 16603,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Porksen, Julie",
+			"party": "Liberal Democrat",
+			"votes": 11689,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dickinson, Scott",
+			"party": "Labour Party",
+			"votes": 6042,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coghill-Marshall, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 4513,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Rachael",
+			"party": "Green Party",
+			"votes": 1488,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Humphrey, Neil",
+			"party": "English Democrats",
+			"votes": 88,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

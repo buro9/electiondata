@@ -1,0 +1,64 @@
+{
+	"id": "E14000559",
+	"name": "Birkenhead",
+	"y2010": [
+		{
+			"candidate": "Field, Frank",
+			"party": "Labour Party",
+			"votes": 22082,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gilbert, Andrew",
+			"party": "Conservative Party",
+			"votes": 6687,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Stuart",
+			"party": "Liberal Democrat",
+			"votes": 6554,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Field, Frank",
+			"party": "Labour Party",
+			"votes": 26468,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Vasey, Clark",
+			"party": "Conservative Party",
+			"votes": 5816,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harling, Wayne",
+			"party": "United Kingdom Independence Party",
+			"votes": 3838,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peers, Kenny",
+			"party": "Green Party",
+			"votes": 1626,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brame, Allan",
+			"party": "Liberal Democrat",
+			"votes": 1396,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

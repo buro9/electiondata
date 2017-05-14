@@ -1,0 +1,78 @@
+{
+	"id": "E14000625",
+	"name": "Charnwood",
+	"y2010": [
+		{
+			"candidate": "Dorrell, Stephen",
+			"party": "Conservative Party",
+			"votes": 26560,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Webber-Jones, Robin",
+			"party": "Liberal Democrat",
+			"votes": 11531,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goodyer, Eric",
+			"party": "Labour Party",
+			"votes": 10536,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duffy, Cathy",
+			"party": "British National Party",
+			"votes": 3116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Storier, Miles",
+			"party": "United Kingdom Independence Party",
+			"votes": 1799,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Argar, Edward",
+			"party": "Conservative Party",
+			"votes": 28384,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kelly-Walsh, Sean",
+			"party": "Labour Party",
+			"votes": 11453,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Yates, Lynton",
+			"party": "United Kingdom Independence Party",
+			"votes": 8330,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sansome, Simon",
+			"party": "Liberal Democrat",
+			"votes": 3605,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duffy, Cathy",
+			"party": "British National Party",
+			"votes": 489,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

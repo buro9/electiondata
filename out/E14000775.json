@@ -1,0 +1,78 @@
+{
+	"id": "E14000775",
+	"name": "Knowsley",
+	"y2010": [
+		{
+			"candidate": "Howarth, George",
+			"party": "Labour Party",
+			"votes": 31650,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Clucas, Flo",
+			"party": "Liberal Democrat",
+			"votes": 5964,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunne, David",
+			"party": "Conservative Party",
+			"votes": 4004,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greenhalgh, Steven",
+			"party": "British National Party",
+			"votes": 1895,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rundle, Anthony",
+			"party": "United Kingdom Independence Party",
+			"votes": 1145,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Howarth, George",
+			"party": "Labour Party",
+			"votes": 39628,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bours, Louise",
+			"party": "United Kingdom Independence Party",
+			"votes": 4973,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bramall, Alice",
+			"party": "Conservative Party",
+			"votes": 3367,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cashman, Carl",
+			"party": "Liberal Democrat",
+			"votes": 1490,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gregorich, Vikki",
+			"party": "Green Party",
+			"votes": 1270,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

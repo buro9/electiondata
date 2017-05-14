@@ -1,0 +1,120 @@
+{
+	"id": "E14000789",
+	"name": "Lewisham Deptford",
+	"y2010": [
+		{
+			"candidate": "Ruddock, Joan",
+			"party": "Labour Party",
+			"votes": 22132,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Langley, Tam",
+			"party": "Liberal Democrat",
+			"votes": 9633,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Townsend, Gemma",
+			"party": "Conservative Party",
+			"votes": 5551,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Darren",
+			"party": "Green Party",
+			"votes": 2772,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Page, Ian",
+			"party": "Soc Alt",
+			"votes": 645,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Malcolm",
+			"party": "Christian Peoples Alliance",
+			"votes": 487,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Foxcroft, Vicky",
+			"party": "Labour Party",
+			"votes": 28572,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Afolami, Bim",
+			"party": "Conservative Party",
+			"votes": 7056,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coughlin, John",
+			"party": "Green Party",
+			"votes": 5932,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bukola, Michael",
+			"party": "Liberal Democrat",
+			"votes": 2497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dimambro, Massimo",
+			"party": "United Kingdom Independence Party",
+			"votes": 2013,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mercer, Helen",
+			"party": "Lewisham People Before Profit",
+			"votes": 666,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Malcolm",
+			"party": "Christian Peoples Alliance",
+			"votes": 300,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flood, Christopher",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 286,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Badger, Phillip",
+			"party": "Democratic Reform Party",
+			"votes": 74,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harvey, David",
+			"party": "Independent",
+			"votes": 30,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"id": "E14000755",
+	"name": "Hove",
+	"y2010": [
+		{
+			"candidate": "Weatherley, Mike",
+			"party": "Conservative Party",
+			"votes": 18294,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Barlow, Celia",
+			"party": "Labour Party",
+			"votes": 16426,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Elgood, Paul",
+			"party": "Liberal Democrat",
+			"votes": 11240,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davey, Ian",
+			"party": "Green Party",
+			"votes": 2568,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Perrin, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1206,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ralfe, Brian",
+			"party": "Independent",
+			"votes": 85,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kyle, Peter",
+			"party": "Labour Party",
+			"votes": 22082,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Cox, Graham",
+			"party": "Conservative Party",
+			"votes": 20846,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawtree, Christopher",
+			"party": "Green Party",
+			"votes": 3569,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Kevin",
+			"party": "United Kingdom Independence Party",
+			"votes": 3265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lambell, Peter",
+			"party": "Liberal Democrat",
+			"votes": 1861,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barnard-Langston, Jenny",
+			"party": "Independent",
+			"votes": 322,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Dave",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 144,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Dame",
+			"party": "Monster Raving Loony Party",
+			"votes": 125,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

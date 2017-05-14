@@ -1,0 +1,113 @@
+{
+	"id": "N06000010",
+	"name": "Ulster Mid",
+	"y2010": [
+		{
+			"candidate": "McGuinness, Martin",
+			"party": "Sinn Fein",
+			"votes": 21239,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McCrea, Ian",
+			"party": "Democratic Unionist Party",
+			"votes": 5876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Quinn, Tony",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 5826,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Overend, Sandra",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 4509,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Millar, Walter",
+			"party": "Traditional Unionist Voice",
+			"votes": 2995,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Ian",
+			"party": "Alliance",
+			"votes": 397,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Molloy, Francie",
+			"party": "Sinn Fein",
+			"votes": 19935,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Overend, Sandra",
+			"party": "Ulster Unionist Party",
+			"votes": 6318,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCrea, Ian",
+			"party": "Democratic Unionist Party",
+			"votes": 5465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Quinn, Malachy",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 5055,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ferguson, Gareth",
+			"party": "Traditional Unionist Voice",
+			"votes": 1892,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Day, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 863,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bullick, Eric",
+			"party": "Alliance",
+			"votes": 778,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scullion, Hugh",
+			"party": "Workers' Party",
+			"votes": 496,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholson, Lucille",
+			"party": "Conservative Party",
+			"votes": 120,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

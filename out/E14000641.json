@@ -1,0 +1,99 @@
+{
+	"id": "E14000641",
+	"name": "Durham, City of",
+	"y2010": [
+		{
+			"candidate": "Blackman-Woods, Roberta",
+			"party": "Labour Party",
+			"votes": 20496,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Woods, Carol",
+			"party": "Liberal Democrat",
+			"votes": 17429,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Varley, Nick",
+			"party": "Conservative Party",
+			"votes": 6146,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Musgrave, Ralph",
+			"party": "British National Party",
+			"votes": 1153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coghill-Marshall, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 856,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collings, Jonathan",
+			"party": "Independent",
+			"votes": 172,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Blackman-Woods, Roberta",
+			"party": "Labour Party",
+			"votes": 21596,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Coulson, Rebecca",
+			"party": "Conservative Party",
+			"votes": 10157,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Liam",
+			"party": "United Kingdom Independence Party",
+			"votes": 5232,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Craig",
+			"party": "Liberal Democrat",
+			"votes": 5153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elmer, Jonathan",
+			"party": "Green Party",
+			"votes": 2687,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marshall, John",
+			"party": "Independent",
+			"votes": 649,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collings, Jon",
+			"party": "Independent",
+			"votes": 195,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,162 @@
+{
+	"id": "E14000555",
+	"name": "Bethnal Green and Bow",
+	"y2010": [
+		{
+			"candidate": "Ali, Rushanara",
+			"party": "Labour Party",
+			"votes": 21784,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Masroor, Ajmal",
+			"party": "Liberal Democrat",
+			"votes": 10210,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miah, Abjol",
+			"party": "Respect Party",
+			"votes": 8532,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Zakir",
+			"party": "Conservative Party",
+			"votes": 7071,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marshall, Jeffrey",
+			"party": "British National Party",
+			"votes": 1405,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bakht, Farid",
+			"party": "Green Party",
+			"votes": 856,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brooks, Patrick",
+			"party": "Independent",
+			"votes": 277,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Van Terheyden, Alexander",
+			"party": "Pirate Party UK",
+			"votes": 213,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hikmat, Hasib",
+			"party": "Voice",
+			"votes": 209,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Choudhury, Haji",
+			"party": "Independent",
+			"votes": 100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malik, Ahmed",
+			"party": "Independent",
+			"votes": 71,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ali, Rushanara",
+			"party": "Labour Party",
+			"votes": 32387,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Matt",
+			"party": "Conservative Party",
+			"votes": 8070,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Polson, Alistair",
+			"party": "Green Party",
+			"votes": 4906,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McQueen, Paula",
+			"party": "United Kingdom Independence Party",
+			"votes": 3219,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lashmore, Teena",
+			"party": "Liberal Democrat",
+			"votes": 2395,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robbins, Glyn",
+			"party": "Left Unity - Trade Unionists and Socialists",
+			"votes": 949,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, M Rowshan",
+			"party": "Communities United Party",
+			"votes": 356,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dewey, Jonathan",
+			"party": "CISTAP",
+			"votes": 303,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henderson, Alasdair",
+			"party": "The Whig Party",
+			"votes": 203,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ball, Elliot",
+			"party": "The 30-50 Coalition",
+			"votes": 78,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pavlou, Jason",
+			"party": "Red Flag - Anti-Corruption",
+			"votes": 58,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

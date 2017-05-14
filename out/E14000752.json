@@ -1,0 +1,106 @@
+{
+	"id": "E14000752",
+	"name": "Hornsey and Wood Green",
+	"y2010": [
+		{
+			"candidate": "Featherstone, Lynne",
+			"party": "Liberal Democrat",
+			"votes": 25595,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jennings, Karen",
+			"party": "Labour Party",
+			"votes": 18720,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Merrin, Richard",
+			"party": "Conservative Party",
+			"votes": 9174,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McAskie, Pete",
+			"party": "Green Party",
+			"votes": 1261,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "De Roche, Stephane",
+			"party": "Independent",
+			"votes": 201,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kapur, Rohen",
+			"party": "Independent",
+			"votes": 91,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "West, Catherine",
+			"party": "Labour Party",
+			"votes": 29417,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Featherstone, Lynne",
+			"party": "Liberal Democrat",
+			"votes": 18359,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Rahuja, Suhail",
+			"party": "Conservative Party",
+			"votes": 5347,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peters, Gordon",
+			"party": "Green Party",
+			"votes": 3146,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morrison, Clive",
+			"party": "United Kingdom Independence Party",
+			"votes": 1271,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spiby-Vann, Helen",
+			"party": "Christian Peoples Alliance",
+			"votes": 118,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sweeney, Frank",
+			"party": "Workers' Revolutionary Party",
+			"votes": 82,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moseley, Geoff",
+			"party": "Hoi Polloi",
+			"votes": 45,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

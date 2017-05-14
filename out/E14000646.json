@@ -1,0 +1,92 @@
+{
+	"id": "E14000646",
+	"name": "Congleton",
+	"y2010": [
+		{
+			"candidate": "Bruce, Fiona",
+			"party": "Conservative Party",
+			"votes": 23250,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hirst, Peter",
+			"party": "Liberal Democrat",
+			"votes": 16187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bryant, David",
+			"party": "Labour Party",
+			"votes": 8747,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Slaughter, Lee",
+			"party": "United Kingdom Independence Party",
+			"votes": 2147,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Paul",
+			"party": "Independent",
+			"votes": 276,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rothwell, Paul",
+			"party": "ND",
+			"votes": 94,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parton, Adam",
+			"party": "Independent",
+			"votes": 79,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bruce, Fiona",
+			"party": "Conservative Party",
+			"votes": 27164,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Price, Darren",
+			"party": "Labour Party",
+			"votes": 10391,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Slaughter, Lee",
+			"party": "United Kingdom Independence Party",
+			"votes": 6922,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hirst, Peter",
+			"party": "Liberal Democrat",
+			"votes": 4623,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heath, Alec",
+			"party": "Green Party",
+			"votes": 1876,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

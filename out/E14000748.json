@@ -1,0 +1,92 @@
+{
+	"id": "E14000748",
+	"name": "High Peak",
+	"y2010": [
+		{
+			"candidate": "Bingham, Andrew",
+			"party": "Conservative Party",
+			"votes": 20587,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bisknell, Caitlin",
+			"party": "Labour Party",
+			"votes": 15910,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevens, Alistair",
+			"party": "Liberal Democrat",
+			"votes": 10993,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Sylvia",
+			"party": "United Kingdom Independence Party",
+			"votes": 1690,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Peter",
+			"party": "Green Party",
+			"votes": 922,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dowson, Lance",
+			"party": "Independent",
+			"votes": 161,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Alves, Tony",
+			"party": "ND",
+			"votes": 74,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bingham, Andrew",
+			"party": "Conservative Party",
+			"votes": 22836,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bisknell, Caitlin",
+			"party": "Labour Party",
+			"votes": 17942,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Guiver, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 5811,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Worrall, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 2389,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farrell, Charlotte",
+			"party": "Green Party",
+			"votes": 1811,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

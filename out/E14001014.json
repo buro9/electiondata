@@ -1,0 +1,99 @@
+{
+	"id": "E14001014",
+	"name": "Wansbeck",
+	"y2010": [
+		{
+			"candidate": "Lavery, Ian",
+			"party": "Labour Party",
+			"votes": 17548,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Reed, Simon",
+			"party": "Liberal Democrat",
+			"votes": 10517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Storey, Campbell",
+			"party": "Conservative Party",
+			"votes": 6714,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Finlay, Stephen",
+			"party": "British National Party",
+			"votes": 1418,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee-Stokoe, Linda",
+			"party": "United Kingdom Independence Party",
+			"votes": 974,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Best, Nic",
+			"party": "Green Party",
+			"votes": 601,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Malcolm",
+			"party": "Independent",
+			"votes": 359,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flynn, Michael",
+			"party": "Christian Party",
+			"votes": 142,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lavery, Ian",
+			"party": "Labour Party",
+			"votes": 19267,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Galley, Chris",
+			"party": "Conservative Party",
+			"votes": 8386,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hurst, Melanie",
+			"party": "United Kingdom Independence Party",
+			"votes": 7014,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hancock, Tom",
+			"party": "Liberal Democrat",
+			"votes": 2407,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hedley, Chris",
+			"party": "Green Party",
+			"votes": 1454,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

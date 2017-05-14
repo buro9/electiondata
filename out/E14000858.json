@@ -1,0 +1,78 @@
+{
+	"id": "E14000858",
+	"name": "Leicestershire North West",
+	"y2010": [
+		{
+			"candidate": "Bridgen, Andrew",
+			"party": "Conservative Party",
+			"votes": 23147,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Willmott, Ross",
+			"party": "Labour Party",
+			"votes": 15636,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, Paul",
+			"party": "Liberal Democrat",
+			"votes": 8639,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meller, Ian",
+			"party": "British National Party",
+			"votes": 3396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1134,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bridgen, Andrew",
+			"party": "Conservative Party",
+			"votes": 25505,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McMahon, Jamie",
+			"party": "Labour Party",
+			"votes": 14132,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McWilliam, Andy",
+			"party": "United Kingdom Independence Party",
+			"votes": 8704,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Argent, Mark",
+			"party": "Liberal Democrat",
+			"votes": 2033,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gravestock, Benjamin",
+			"party": "Green Party",
+			"votes": 1174,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

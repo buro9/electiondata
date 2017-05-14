@@ -1,0 +1,120 @@
+{
+	"id": "E14000713",
+	"name": "Gosport",
+	"y2010": [
+		{
+			"candidate": "Dinenage, Caroline",
+			"party": "Conservative Party",
+			"votes": 24300,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hylands, Rob",
+			"party": "Liberal Democrat",
+			"votes": 9887,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Giles, Graham",
+			"party": "Labour Party",
+			"votes": 7944,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rice, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 1496,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Barry",
+			"party": "British National Party",
+			"votes": 1004,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shaw, Bob",
+			"party": "English Democrats",
+			"votes": 622,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Andrea",
+			"party": "Green Party",
+			"votes": 573,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, David",
+			"party": "Independent",
+			"votes": 493,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Read, Charles",
+			"party": "Independent",
+			"votes": 331,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hart, Brian",
+			"party": "Independent",
+			"votes": 289,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dinenage, Caroline",
+			"party": "Conservative Party",
+			"votes": 26364,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wood, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 9266,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Durrant, Alan",
+			"party": "Labour Party",
+			"votes": 6926,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hylands, Rob",
+			"party": "Liberal Democrat",
+			"votes": 3298,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cassidy, Monica",
+			"party": "Green Party",
+			"votes": 1707,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Jeffrey",
+			"party": "Independent",
+			"votes": 104,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

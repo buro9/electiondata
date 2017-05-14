@@ -1,0 +1,85 @@
+{
+	"id": "E14000585",
+	"name": "Bournemouth West",
+	"y2010": [
+		{
+			"candidate": "Burns, Conor",
+			"party": "Conservative Party",
+			"votes": 18808,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Murray, Alasdair",
+			"party": "Liberal Democrat",
+			"votes": 13225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carr-Brown, Sharon",
+			"party": "Labour Party",
+			"votes": 6171,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Glover, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 2999,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Harvey",
+			"party": "Independent",
+			"votes": 456,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Burns, Conor",
+			"party": "Conservative Party",
+			"votes": 20155,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Houlden, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 7745,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stokes, David",
+			"party": "Labour Party",
+			"votes": 7386,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Plummer, Mike",
+			"party": "Liberal Democrat",
+			"votes": 3281,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McManus, Elizabeth",
+			"party": "Green Party",
+			"votes": 3107,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Franklin, Dick",
+			"party": "Patria",
+			"votes": 99,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

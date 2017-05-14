@@ -1,0 +1,78 @@
+{
+	"id": "E14000962",
+	"name": "St Helens North",
+	"y2010": [
+		{
+			"candidate": "Watts, Dave",
+			"party": "Labour Party",
+			"votes": 23041,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Greenall, Paul",
+			"party": "Conservative Party",
+			"votes": 9940,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beirne, John",
+			"party": "Liberal Democrat",
+			"votes": 8992,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Gary",
+			"party": "United Kingdom Independence Party",
+			"votes": 2100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whatham, Stephen",
+			"party": "Soc Lab",
+			"votes": 483,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McGinn, Conor",
+			"party": "Labour Party",
+			"votes": 26378,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Richardson, Paul",
+			"party": "Conservative Party",
+			"votes": 9087,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 6983,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aspinall, Denise",
+			"party": "Liberal Democrat",
+			"votes": 2046,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Elizabeth",
+			"party": "Green Party",
+			"votes": 1762,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

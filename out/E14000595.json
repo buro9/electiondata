@@ -1,0 +1,92 @@
+{
+	"id": "E14000595",
+	"name": "Bridgwater and Somerset West",
+	"y2010": [
+		{
+			"candidate": "Liddell-Grainger, Ian",
+			"party": "Conservative Party",
+			"votes": 24675,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Butt Philip, Theo",
+			"party": "Liberal Democrat",
+			"votes": 15426,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearce, Kathryn",
+			"party": "Labour Party",
+			"votes": 9332,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hollings, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 2604,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Treanor, Donna",
+			"party": "British National Party",
+			"votes": 1282,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graham, Charles",
+			"party": "Green Party",
+			"votes": 859,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cudlipp, Bob",
+			"party": "Independent",
+			"votes": 315,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Liddell-Grainger, Ian",
+			"party": "Conservative Party",
+			"votes": 25020,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fitzgerald, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 10437,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lerry, Mick",
+			"party": "Labour Party",
+			"votes": 9589,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butt Philip, Theo",
+			"party": "Liberal Democrat",
+			"votes": 6765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harvey-Smith, Julie",
+			"party": "Green Party",
+			"votes": 2636,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000549",
+	"name": "Battersea",
+	"y2010": [
+		{
+			"candidate": "Ellison, Jane",
+			"party": "Conservative Party",
+			"votes": 23103,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Linton, Martin",
+			"party": "Labour Party",
+			"votes": 17126,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Moran, Layla",
+			"party": "Liberal Democrat",
+			"votes": 7176,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Guy",
+			"party": "Green Party",
+			"votes": 559,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacDonald, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 505,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Salmon, Hugh",
+			"party": "Battersea",
+			"votes": 168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fox, Tom",
+			"party": "Independent",
+			"votes": 155,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ellison, Jane",
+			"party": "Conservative Party",
+			"votes": 26730,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Martindale, Will",
+			"party": "Labour Party",
+			"votes": 18792,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Luke",
+			"party": "Liberal Democrat",
+			"votes": 2241,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stuart, Joe",
+			"party": "Green Party",
+			"votes": 1682,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howe, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 1586,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

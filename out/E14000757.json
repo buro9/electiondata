@@ -1,0 +1,99 @@
+{
+	"id": "E14000757",
+	"name": "Huntingdon",
+	"y2010": [
+		{
+			"candidate": "Djanogly, Jonathan",
+			"party": "Conservative Party",
+			"votes": 26516,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Land, Martin",
+			"party": "Liberal Democrat",
+			"votes": 15697,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cox, Anthea",
+			"party": "Labour Party",
+			"votes": 5982,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curtis, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 3258,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Salt, Jonathan",
+			"party": "Independent",
+			"votes": 1432,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clare, John",
+			"party": "Green Party",
+			"votes": 652,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jug, Toby",
+			"party": "Monster Raving Loony Party",
+			"votes": 548,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holliman, Carrie",
+			"party": "APP",
+			"votes": 181,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Djanogly, Jonathan",
+			"party": "Conservative Party",
+			"votes": 29652,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Johnson, Nik",
+			"party": "Labour Party",
+			"votes": 10249,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bullen, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 9473,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cantrill, Rod",
+			"party": "Liberal Democrat",
+			"votes": 4375,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacLennan, Tom",
+			"party": "Green Party",
+			"votes": 2178,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000889",
+	"name": "Reading East",
+	"y2010": [
+		{
+			"candidate": "Wilson, Rob",
+			"party": "Conservative Party",
+			"votes": 21269,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Epps, Gareth",
+			"party": "Liberal Democrat",
+			"votes": 13664,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dodds, Anneliese",
+			"party": "Labour Party",
+			"votes": 12729,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pitfield, Adrian",
+			"party": "United Kingdom Independence Party",
+			"votes": 1086,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Rob",
+			"party": "Green Party",
+			"votes": 1069,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd, Joan",
+			"party": "Independent",
+			"votes": 111,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turberville, Michael",
+			"party": "Independent",
+			"votes": 57,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wilson, Rob",
+			"party": "Conservative Party",
+			"votes": 23217,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rodda, Matt",
+			"party": "Labour Party",
+			"votes": 16697,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woods, Jenny",
+			"party": "Liberal Democrat",
+			"votes": 3719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forrester, Christine",
+			"party": "United Kingdom Independence Party",
+			"votes": 3647,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Rob",
+			"party": "Green Party",
+			"votes": 3214,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

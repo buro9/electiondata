@@ -1,0 +1,78 @@
+{
+	"id": "E14001060",
+	"name": "Yeovil",
+	"y2010": [
+		{
+			"candidate": "Laws, David",
+			"party": "Liberal Democrat",
+			"votes": 31843,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davis, Kevin",
+			"party": "Conservative Party",
+			"votes": 18807,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Skevington, Lee",
+			"party": "Labour Party",
+			"votes": 2991,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearson, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 2357,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baehr, Robert",
+			"party": "British National Party",
+			"votes": 1162,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fysh, Marcus",
+			"party": "Conservative Party",
+			"votes": 24178,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Laws, David",
+			"party": "Liberal Democrat",
+			"votes": 18865,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Smedley, Simon",
+			"party": "United Kingdom Independence Party",
+			"votes": 7646,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "King, Sheena",
+			"party": "Labour Party",
+			"votes": 4053,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McIvor, Emily",
+			"party": "Green Party",
+			"votes": 2191,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

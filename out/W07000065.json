@@ -1,0 +1,99 @@
+{
+	"id": "W07000065",
+	"name": "Preseli Pembrokeshire",
+	"y2010": [
+		{
+			"candidate": "Crabb, Stephen",
+			"party": "Conservative Party",
+			"votes": 16944,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rees, Mari",
+			"party": "Labour Party",
+			"votes": 12339,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tregoning, Nick",
+			"party": "Liberal Democrat",
+			"votes": 5759,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones-Davies, Henry",
+			"party": "Plaid Cymru",
+			"votes": 3654,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawson, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 906,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Crabb, Stephen",
+			"party": "Conservative Party",
+			"votes": 16383,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Miller, Paul",
+			"party": "Labour Party",
+			"votes": 11414,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lillyman, Howard",
+			"party": "United Kingdom Independence Party",
+			"votes": 4257,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Overton, Chris",
+			"party": "ISWSL",
+			"votes": 3729,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Osmond, John",
+			"party": "Plaid Cymru",
+			"votes": 2518,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bryant, Frances",
+			"party": "Green Party",
+			"votes": 1452,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tregoning, Nick",
+			"party": "Liberal Democrat",
+			"votes": 780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maile, Rodney",
+			"party": "NSW",
+			"votes": 23,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

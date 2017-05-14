@@ -1,0 +1,106 @@
+{
+	"id": "E14000666",
+	"name": "Dewsbury",
+	"y2010": [
+		{
+			"candidate": "Reevell, Simon",
+			"party": "Conservative Party",
+			"votes": 18898,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Malik, Shahid",
+			"party": "Labour Party",
+			"votes": 17372,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hutchinson, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 9150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Iqbal, Khizar",
+			"party": "Independent",
+			"votes": 3813,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Roger",
+			"party": "British National Party",
+			"votes": 3265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cruden, Adrian",
+			"party": "Green Party",
+			"votes": 849,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Felse, Michael",
+			"party": "English Democrats",
+			"votes": 661,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Sherriff, Paula",
+			"party": "Labour Party",
+			"votes": 22406,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Reevell, Simon",
+			"party": "Conservative Party",
+			"votes": 20955,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Thackray, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 6649,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hussain, Ednan",
+			"party": "Liberal Democrat",
+			"votes": 1924,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cruden, Adrian",
+			"party": "Green Party",
+			"votes": 1366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carter, Richard",
+			"party": "Yorkshire First",
+			"votes": 236,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hakes, Steve",
+			"party": "Christian Peoples Alliance",
+			"votes": 94,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"id": "E14000913",
+	"name": "Scarborough and Whitby",
+	"y2010": [
+		{
+			"candidate": "Goodwill, Robert",
+			"party": "Conservative Party",
+			"votes": 21108,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "David, Annajoy",
+			"party": "Labour Party",
+			"votes": 12978,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Exley-Moore, Tania",
+			"party": "Liberal Democrat",
+			"votes": 11093,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "James, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 1484,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Trisha",
+			"party": "British National Party",
+			"votes": 1445,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cluer, Dilys",
+			"party": "Green Party",
+			"votes": 734,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Popple, Peter",
+			"party": "Independent",
+			"votes": 329,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boddington, Juliet",
+			"party": "Alliance for Green Socialism",
+			"votes": 111,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Goodwill, Robert",
+			"party": "Conservative Party",
+			"votes": 20613,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McInnes, Ian ",
+			"party": "Labour Party",
+			"votes": 14413,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cross, Samuel",
+			"party": "United Kingdom Independence Party",
+			"votes": 8162,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malone, David",
+			"party": "Green Party",
+			"votes": 2185,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beckett, Michael",
+			"party": "Liberal Democrat",
+			"votes": 2159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boddington, Juliet",
+			"party": "Alliance for Green Socialism",
+			"votes": 207,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

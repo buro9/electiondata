@@ -1,0 +1,92 @@
+{
+	"id": "E14000725",
+	"name": "Halton",
+	"y2010": [
+		{
+			"candidate": "Twigg, Derek",
+			"party": "Labour Party",
+			"votes": 23843,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Ben",
+			"party": "Conservative Party",
+			"votes": 8339,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harasiwka, Frank",
+			"party": "Liberal Democrat",
+			"votes": 5718,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Andrew",
+			"party": "British National Party",
+			"votes": 1563,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Craig, Jim",
+			"party": "Green Party",
+			"votes": 647,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Twigg, Derek",
+			"party": "Labour Party",
+			"votes": 28292,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lloyd, Matthew",
+			"party": "Conservative Party",
+			"votes": 8007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Redican, Glyn",
+			"party": "United Kingdom Independence Party",
+			"votes": 6333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bate, Ryan",
+			"party": "Liberal Democrat",
+			"votes": 1097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Melvin, David",
+			"party": "Green Party",
+			"votes": 1017,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turton, Vic ",
+			"party": "Independent",
+			"votes": 277,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

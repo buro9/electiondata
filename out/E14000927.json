@@ -1,0 +1,99 @@
+{
+	"id": "E14000927",
+	"name": "Sittingbourne and Sheppey",
+	"y2010": [
+		{
+			"candidate": "Henderson, Gordon",
+			"party": "Conservative Party",
+			"votes": 24313,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Harrison, Angela",
+			"party": "Labour Party",
+			"votes": 11930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nevols, Keith",
+			"party": "Liberal Democrat",
+			"votes": 7943,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davison, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 2610,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tames, Lawrence",
+			"party": "British National Party",
+			"votes": 1305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Mad Mike",
+			"party": "Monster Raving Loony Party",
+			"votes": 319,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cassidy, David",
+			"party": "Independent",
+			"votes": 158,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Henderson, Gordon",
+			"party": "Conservative Party",
+			"votes": 24425,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Palmer, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 12257,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholson, Guy",
+			"party": "Labour Party",
+			"votes": 9673,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nevols, Keith",
+			"party": "Liberal Democrat",
+			"votes": 1563,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miller, Gary",
+			"party": "Green Party",
+			"votes": 1185,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Mad Mike",
+			"party": "Monster Raving Loony Party",
+			"votes": 275,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

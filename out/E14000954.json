@@ -1,0 +1,78 @@
+{
+	"id": "E14000954",
+	"name": "Wiltshire South West",
+	"y2010": [
+		{
+			"candidate": "Murrison, Andrew",
+			"party": "Conservative Party",
+			"votes": 25321,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Carbin, Trevor",
+			"party": "Liberal Democrat",
+			"votes": 14954,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rennison, Rebecca",
+			"party": "Labour Party",
+			"votes": 5613,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cuthbert-Murray, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 2684,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Black, Crispin",
+			"party": "Independent",
+			"votes": 446,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Murrison, Andrew",
+			"party": "Conservative Party",
+			"votes": 27198,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Brown, Matthew",
+			"party": "United Kingdom Independence Party",
+			"votes": 9030,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aylett, George",
+			"party": "Labour Party",
+			"votes": 6948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carbin, Trevor",
+			"party": "Liberal Democrat",
+			"votes": 5482,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Randle, Phil",
+			"party": "Green Party",
+			"votes": 2985,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

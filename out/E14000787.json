@@ -1,0 +1,106 @@
+{
+	"id": "E14000787",
+	"name": "Lewisham East",
+	"y2010": [
+		{
+			"candidate": "Alexander, Heidi",
+			"party": "Labour Party",
+			"votes": 17966,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Pattisson, Pete",
+			"party": "Liberal Democrat",
+			"votes": 11750,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clamp, Jonathan",
+			"party": "Conservative Party",
+			"votes": 9850,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reed, Roderick",
+			"party": "United Kingdom Independence Party",
+			"votes": 771,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cotterell, Priscilla",
+			"party": "Green Party",
+			"votes": 624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rose, James",
+			"party": "English Democrats",
+			"votes": 426,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hallam, George",
+			"party": "CNBPG",
+			"votes": 332,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Alexander, Heidi",
+			"party": "Labour Party",
+			"votes": 23907,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fortune, Peter",
+			"party": "Conservative Party",
+			"votes": 9574,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waters, Anna",
+			"party": "United Kingdom Independence Party",
+			"votes": 3886,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fletcher, Julia",
+			"party": "Liberal Democrat",
+			"votes": 2455,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Poorun, Storm",
+			"party": "Green Party",
+			"votes": 2429,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Long, Nick",
+			"party": "Lewisham People Before Profit",
+			"votes": 390,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Maureen",
+			"party": "Christian Peoples Alliance",
+			"votes": 282,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

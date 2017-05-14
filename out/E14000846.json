@@ -1,0 +1,78 @@
+{
+	"id": "E14000846",
+	"name": "Somerset North East",
+	"y2010": [
+		{
+			"candidate": "Rees-Mogg, Jacob",
+			"party": "Conservative Party",
+			"votes": 21130,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Norris, Dan",
+			"party": "Labour Party",
+			"votes": 16216,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Coleshill, Gail",
+			"party": "Liberal Democrat",
+			"votes": 11433,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sandell, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1754,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jay, Michael",
+			"party": "Green Party",
+			"votes": 670,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Rees-Mogg, Jacob",
+			"party": "Conservative Party",
+			"votes": 25439,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Foreman, Todd",
+			"party": "Labour Party",
+			"votes": 12690,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blaber, Ernie",
+			"party": "United Kingdom Independence Party",
+			"votes": 6150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hobhouse, Wera",
+			"party": "Liberal Democrat",
+			"votes": 4029,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boyce, Katy",
+			"party": "Green Party",
+			"votes": 2802,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

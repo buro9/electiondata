@@ -1,0 +1,92 @@
+{
+	"id": "E14000586",
+	"name": "Bracknell",
+	"y2010": [
+		{
+			"candidate": "Lee, Phillip",
+			"party": "Conservative Party",
+			"votes": 27327,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Earwicker, Ray",
+			"party": "Liberal Democrat",
+			"votes": 11623,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Piasecki, John",
+			"party": "Labour Party",
+			"votes": 8755,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barter, Murray",
+			"party": "United Kingdom Independence Party",
+			"votes": 2297,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burke, Mark",
+			"party": "British National Party",
+			"votes": 1253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, David",
+			"party": "Green Party",
+			"votes": 825,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haycocks, Dan",
+			"party": "SMA",
+			"votes": 60,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lee, Phillip",
+			"party": "Conservative Party",
+			"votes": 29606,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Walsh, James",
+			"party": "Labour Party",
+			"votes": 8956,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 8339,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Patrick",
+			"party": "Liberal Democrat",
+			"votes": 3983,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Florey, Derek",
+			"party": "Green Party",
+			"votes": 2202,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

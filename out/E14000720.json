@@ -1,0 +1,127 @@
+{
+	"id": "E14000720",
+	"name": "Hackney North and Stoke Newington",
+	"y2010": [
+		{
+			"candidate": "Abbott, Diane",
+			"party": "Labour Party",
+			"votes": 25553,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Angus, Keith",
+			"party": "Liberal Democrat",
+			"votes": 11092,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Caplan, Darren",
+			"party": "Conservative Party",
+			"votes": 6759,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sellwood, Matt",
+			"party": "Green Party",
+			"votes": 2133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hargreaves, Maxine",
+			"party": "Christian Party",
+			"votes": 299,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, Suzanne",
+			"party": "ND",
+			"votes": 285,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knapp, Knigel",
+			"party": "Monster Raving Loony Party",
+			"votes": 182,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shaer, Paul",
+			"party": "Independent",
+			"votes": 96,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Alessandra",
+			"party": "Independent",
+			"votes": 61,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pope-De-Locksley, Jack",
+			"party": "Magna Carta Party",
+			"votes": 28,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Abbott, Diane",
+			"party": "Labour Party",
+			"votes": 31357,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gray, Amy",
+			"party": "Conservative Party",
+			"votes": 7349,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Finlay, Heather",
+			"party": "Green Party",
+			"votes": 7281,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "de Deney, Simon",
+			"party": "Liberal Democrat",
+			"votes": 2492,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fraser, Keith",
+			"party": "United Kingdom Independence Party",
+			"votes": 1085,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Homan, Jonathan",
+			"party": "Animal Welfare Party",
+			"votes": 221,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Silberman, Jonathan",
+			"party": "Comm Leagu",
+			"votes": 102,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

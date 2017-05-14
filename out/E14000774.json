@@ -1,0 +1,113 @@
+{
+	"id": "E14000774",
+	"name": "Kingswood",
+	"y2010": [
+		{
+			"candidate": "Skidmore, Chris",
+			"party": "Conservative Party",
+			"votes": 19362,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Berry, Roger",
+			"party": "Labour Party",
+			"votes": 16917,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Fitzharris, Sally",
+			"party": "Liberal Democrat",
+			"votes": 8072,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dowdney, Neil",
+			"party": "United Kingdom Independence Party",
+			"votes": 1528,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carey, Michael",
+			"party": "British National Party",
+			"votes": 1311,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foster, Nick",
+			"party": "Green Party",
+			"votes": 383,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blundell, Michael",
+			"party": "English Democrats",
+			"votes": 333,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Skidmore, Chris",
+			"party": "Conservative Party",
+			"votes": 23252,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McCarron, Jo",
+			"party": "Labour Party",
+			"votes": 14246,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Odgers, Duncan",
+			"party": "United Kingdom Independence Party",
+			"votes": 7133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boyden, Adam",
+			"party": "Liberal Democrat",
+			"votes": 1827,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nanu, Cezara",
+			"party": "Green Party",
+			"votes": 1370,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lake, Julie",
+			"party": "British National Party",
+			"votes": 164,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Worth, Richard",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 84,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bryan, Liam",
+			"party": "Vapers In Power",
+			"votes": 49,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

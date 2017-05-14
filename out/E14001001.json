@@ -1,0 +1,99 @@
+{
+	"id": "E14001001",
+	"name": "Totnes",
+	"y2010": [
+		{
+			"candidate": "Wollaston, Sarah",
+			"party": "Conservative Party",
+			"votes": 21940,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Brazil, Julian",
+			"party": "Liberal Democrat",
+			"votes": 17013,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitty, Carole",
+			"party": "Labour Party",
+			"votes": 3538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beer, Jeff",
+			"party": "United Kingdom Independence Party",
+			"votes": 2890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Somerville, Lydia",
+			"party": "Green Party",
+			"votes": 1181,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner, Mike",
+			"party": "British National Party",
+			"votes": 624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Drew, Simon",
+			"party": "Independent",
+			"votes": 390,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hopwood, Stephen",
+			"party": "Independent",
+			"votes": 267,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wollaston, Sarah",
+			"party": "Conservative Party",
+			"votes": 24941,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Haque, Justin",
+			"party": "United Kingdom Independence Party",
+			"votes": 6656,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Nicky",
+			"party": "Labour Party",
+			"votes": 5988,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coombs, Gill",
+			"party": "Green Party",
+			"votes": 4845,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brazil, Julian",
+			"party": "Liberal Democrat",
+			"votes": 4667,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

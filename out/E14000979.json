@@ -1,0 +1,99 @@
+{
+	"id": "E14000979",
+	"name": "Stretford and Urmston",
+	"y2010": [
+		{
+			"candidate": "Green, Kate",
+			"party": "Labour Party",
+			"votes": 21821,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Alex",
+			"party": "Conservative Party",
+			"votes": 12886,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooke, Steve",
+			"party": "Liberal Democrat",
+			"votes": 7601,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Owen, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Westbrook, Margaret",
+			"party": "Green Party",
+			"votes": 916,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jacob, Samuel",
+			"party": "Christian Party",
+			"votes": 178,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Green, Kate",
+			"party": "Labour Party",
+			"votes": 24601,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cooke, Lisa",
+			"party": "Conservative Party",
+			"votes": 12916,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chapman, Kalvin",
+			"party": "United Kingdom Independence Party",
+			"votes": 5068,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coggins, Geraldine",
+			"party": "Green Party",
+			"votes": 2187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ankers, Catherine",
+			"party": "Liberal Democrat",
+			"votes": 1362,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bradley-Law, Paul",
+			"party": "The Whig Party",
+			"votes": 169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carson, Paul",
+			"party": "Population Party UK",
+			"votes": 83,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

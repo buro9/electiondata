@@ -1,0 +1,106 @@
+{
+	"id": "E14000823",
+	"name": "Mitcham and Morden",
+	"y2010": [
+		{
+			"candidate": "McDonagh, Siobhain",
+			"party": "Labour Party",
+			"votes": 24722,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hampton, Melanie",
+			"party": "Conservative Party",
+			"votes": 11056,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coman, Diana",
+			"party": "Liberal Democrat",
+			"votes": 5202,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Tony",
+			"party": "British National Party",
+			"votes": 1386,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mills, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 857,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roy, Smarajit",
+			"party": "Green Party",
+			"votes": 381,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Alagaratnam, Rathy",
+			"party": "Independent",
+			"votes": 155,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Redgrave, Ernest",
+			"party": "Independent",
+			"votes": 38,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McDonagh, Siobhain",
+			"party": "Labour Party",
+			"votes": 27380,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Holmes, Paul",
+			"party": "Conservative Party",
+			"votes": 10458,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hilton, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 4287,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Redding, Mason",
+			"party": "Green Party",
+			"votes": 1422,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coman, Diana",
+			"party": "Liberal Democrat",
+			"votes": 1378,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coke, Des",
+			"party": "Christian Peoples Alliance",
+			"votes": 217,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

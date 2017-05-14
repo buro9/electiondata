@@ -1,0 +1,92 @@
+{
+	"id": "E14000728",
+	"name": "Harborough",
+	"y2010": [
+		{
+			"candidate": "Garnier, Edward",
+			"party": "Conservative Party",
+			"votes": 26894,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Haq, Zuffar",
+			"party": "Liberal Democrat",
+			"votes": 17097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKeever, Kevin",
+			"party": "Labour Party",
+			"votes": 6981,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dickens, Geoff",
+			"party": "British National Party",
+			"votes": 1715,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "King, Marrietta",
+			"party": "United Kingdom Independence Party",
+			"votes": 1462,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ball, David",
+			"party": "English Democrats",
+			"votes": 568,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephenson, Jeff",
+			"party": "Independent",
+			"votes": 228,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Garnier, Edward",
+			"party": "Conservative Party",
+			"votes": 27675,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Meghani, Sundip",
+			"party": "Labour Party",
+			"votes": 8043,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hunt, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 7539,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haq, Zuffar",
+			"party": "Liberal Democrat",
+			"votes": 7037,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woodiwiss, Darren",
+			"party": "Green Party",
+			"votes": 2177,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

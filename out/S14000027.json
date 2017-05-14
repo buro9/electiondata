@@ -1,0 +1,78 @@
+{
+	"id": "S14000027",
+	"name": "Na h-Eileanan an Iar",
+	"y2010": [
+		{
+			"candidate": "MacNeil, Angus",
+			"party": "Scottish National Party",
+			"votes": 6723,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "MacSween, Donald John",
+			"party": "Labour Party",
+			"votes": 4838,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murray, Murdo",
+			"party": "Independent",
+			"votes": 1412,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davis, Jean",
+			"party": "Liberal Democrat",
+			"votes": 1097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Norquay, Sheena",
+			"party": "Conservative Party",
+			"votes": 647,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "MacNeil, Angus",
+			"party": "Scottish National Party",
+			"votes": 8662,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Morrison, Alasdair",
+			"party": "Labour Party",
+			"votes": 4560,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Mark",
+			"party": "Conservative Party",
+			"votes": 1215,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cormack, John",
+			"party": "Christian Party, Proclaiming Christ's Lordship",
+			"votes": 1045,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ferguson, Ruaraidh",
+			"party": "Liberal Democrat",
+			"votes": 456,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

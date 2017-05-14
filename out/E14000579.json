@@ -1,0 +1,92 @@
+{
+	"id": "E14000579",
+	"name": "Bolton South East",
+	"y2010": [
+		{
+			"candidate": "Qureshi, Yasmin",
+			"party": "Labour Party",
+			"votes": 18782,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Morgan, Andy",
+			"party": "Conservative Party",
+			"votes": 10148,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Hanlon, Donal",
+			"party": "Liberal Democrat",
+			"votes": 6289,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spink, Sheila",
+			"party": "British National Party",
+			"votes": 2012,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sidaway, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 1564,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Alan",
+			"party": "Green Party",
+			"votes": 614,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Syed, Navaid",
+			"party": "Christian Peoples Alliance",
+			"votes": 195,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Qureshi, Yasmin",
+			"party": "Labour Party",
+			"votes": 20555,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Armstrong, Jeff",
+			"party": "United Kingdom Independence Party",
+			"votes": 9627,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dean, Mudasir",
+			"party": "Conservative Party",
+			"votes": 8289,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Alan",
+			"party": "Green Party",
+			"votes": 1200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, Darren",
+			"party": "Liberal Democrat",
+			"votes": 1072,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

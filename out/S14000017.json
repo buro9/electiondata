@@ -1,0 +1,78 @@
+{
+	"id": "S14000017",
+	"name": "Dunfermline and Fife West",
+	"y2010": [
+		{
+			"candidate": "Docherty, Thomas",
+			"party": "Labour Party",
+			"votes": 22639,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rennie, Willie",
+			"party": "Liberal Democrat",
+			"votes": 17169,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "McCall, Joe",
+			"party": "Scottish National Party",
+			"votes": 5201,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hacking, Belinda",
+			"party": "Conservative Party",
+			"votes": 3305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Inglis, Otto",
+			"party": "United Kingdom Independence Party",
+			"votes": 633,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Chapman, Douglas",
+			"party": "Scottish National Party",
+			"votes": 28096,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Docherty, Thomas",
+			"party": "Labour Party",
+			"votes": 17744,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Reekie, James",
+			"party": "Conservative Party",
+			"votes": 6623,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cole-Hamilton, Gillian",
+			"party": "Liberal Democrat",
+			"votes": 2232,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Lewis",
+			"party": "Green Party",
+			"votes": 1195,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "E14000992",
+	"name": "Wrekin, The",
+	"y2010": [
+		{
+			"candidate": "Pritchard, Mark",
+			"party": "Conservative Party",
+			"votes": 21922,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kalinauckas, Paul",
+			"party": "Lab Co-op",
+			"votes": 12472,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cameron-Daw, Ali",
+			"party": "Liberal Democrat",
+			"votes": 8019,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hurst, Malcolm",
+			"party": "United Kingdom Independence Party",
+			"votes": 2050,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harwood, Susan",
+			"party": "British National Party",
+			"votes": 1505,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pritchard, Mark",
+			"party": "Conservative Party",
+			"votes": 22579,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gilman, Katrina",
+			"party": "Labour Party",
+			"votes": 11836,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seymour, Jill",
+			"party": "United Kingdom Independence Party",
+			"votes": 7620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Keyes, Rod",
+			"party": "Liberal Democrat",
+			"votes": 1959,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Cath",
+			"party": "Green Party",
+			"votes": 1443,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

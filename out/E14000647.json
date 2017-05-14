@@ -1,0 +1,85 @@
+{
+	"id": "E14000647",
+	"name": "Copeland",
+	"y2010": [
+		{
+			"candidate": "Reed, Jamie",
+			"party": "Labour Party",
+			"votes": 19699,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Whiteside, Christopher",
+			"party": "Conservative Party",
+			"votes": 15866,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hollowell, Frank",
+			"party": "Liberal Democrat",
+			"votes": 4365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jefferson, Clive",
+			"party": "British National Party",
+			"votes": 1474,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Caley-Knowles, Ted",
+			"party": "United Kingdom Independence Party",
+			"votes": 994,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Perry, Jill",
+			"party": "Green Party",
+			"votes": 389,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Reed, Jamie",
+			"party": "Labour Party",
+			"votes": 16750,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Haraldsen, Stephen",
+			"party": "Conservative Party",
+			"votes": 14186,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pye, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 6148,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gallagher, Danny",
+			"party": "Liberal Democrat",
+			"votes": 1368,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Todd, Allan",
+			"party": "Green Party",
+			"votes": 1179,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

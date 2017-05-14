@@ -1,0 +1,99 @@
+{
+	"id": "E14001038",
+	"name": "Weston-Super-Mare",
+	"y2010": [
+		{
+			"candidate": "Penrose, John",
+			"party": "Conservative Party",
+			"votes": 23356,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bell, Mike",
+			"party": "Liberal Democrat",
+			"votes": 20665,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bradley, David",
+			"party": "Labour Party",
+			"votes": 5772,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spencer, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1406,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parsons, Peryn",
+			"party": "British National Party",
+			"votes": 1098,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peverelle, John",
+			"party": "English Democrats",
+			"votes": 275,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Satch, Steve",
+			"party": "Independent",
+			"votes": 144,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Penrose, John",
+			"party": "Conservative Party",
+			"votes": 25203,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Taylor, Tim",
+			"party": "Labour Party",
+			"votes": 9594,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warrender, Ernie",
+			"party": "United Kingdom Independence Party",
+			"votes": 9366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Munro, John",
+			"party": "Liberal Democrat",
+			"votes": 5486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawson, Richard",
+			"party": "Green Party",
+			"votes": 2592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lavelle, Ronald",
+			"party": "English Democrats",
+			"votes": 311,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

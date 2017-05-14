@@ -1,0 +1,78 @@
+{
+	"id": "E14000743",
+	"name": "Hereford and Herefordshire South",
+	"y2010": [
+		{
+			"candidate": "Norman, Jesse",
+			"party": "Conservative Party",
+			"votes": 22366,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Carr, Sarah",
+			"party": "Liberal Democrat",
+			"votes": 19885,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Philippa",
+			"party": "Labour Party",
+			"votes": 3506,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Valentine",
+			"party": "United Kingdom Independence Party",
+			"votes": 1638,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oliver, John",
+			"party": "British National Party",
+			"votes": 986,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Norman, Jesse",
+			"party": "Conservative Party",
+			"votes": 24844,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ely, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 7954,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coda, Anna",
+			"party": "Labour Party",
+			"votes": 6042,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hurds, Lucy",
+			"party": "Liberal Democrat",
+			"votes": 5002,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Toynbee, Diana",
+			"party": "Green Party",
+			"votes": 3415,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

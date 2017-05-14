@@ -1,0 +1,78 @@
+{
+	"id": "S14000048",
+	"name": "Ayrshire North and Arran",
+	"y2010": [
+		{
+			"candidate": "Clark, Katy",
+			"party": "Labour Party",
+			"votes": 21860,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gibson, Patricia",
+			"party": "Scottish National Party",
+			"votes": 11965,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lardner, Philip",
+			"party": "Conservative Party",
+			"votes": 7212,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cole-Hamilton, Gillian",
+			"party": "Liberal Democrat",
+			"votes": 4630,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDaid, Louise",
+			"party": "Soc Lab",
+			"votes": 449,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gibson, Patricia",
+			"party": "Scottish National Party",
+			"votes": 28641,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Clark, Katy",
+			"party": "Labour Party",
+			"votes": 15068,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Greene, Jamie",
+			"party": "Conservative Party",
+			"votes": 7968,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGonigal, Sharon",
+			"party": "United Kingdom Independence Party",
+			"votes": 1296,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirkwood, Ruby",
+			"party": "Liberal Democrat",
+			"votes": 896,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

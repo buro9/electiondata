@@ -1,0 +1,92 @@
+{
+	"id": "E14000917",
+	"name": "Selby and Ainsty",
+	"y2010": [
+		{
+			"candidate": "Adams, Nigel",
+			"party": "Conservative Party",
+			"votes": 25562,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Marshall, Jan",
+			"party": "Labour Party",
+			"votes": 13297,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holvey, Tom",
+			"party": "Liberal Democrat",
+			"votes": 9180,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haley, Darren",
+			"party": "United Kingdom Independence Party",
+			"votes": 1635,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lorriman, Duncan",
+			"party": "British National Party",
+			"votes": 1377,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Michael, Graham",
+			"party": "English Democrats",
+			"votes": 677,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Adams, Nigel",
+			"party": "Conservative Party",
+			"votes": 27725,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hayes, Mark",
+			"party": "Labour Party",
+			"votes": 14168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heath, Colin",
+			"party": "United Kingdom Independence Party",
+			"votes": 7389,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner, Nicola",
+			"party": "Liberal Democrat",
+			"votes": 1920,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richards, Ian",
+			"party": "Green Party",
+			"votes": 1465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Ian",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 137,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

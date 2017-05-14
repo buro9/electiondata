@@ -1,0 +1,85 @@
+{
+	"id": "E14000583",
+	"name": "Bosworth",
+	"y2010": [
+		{
+			"candidate": "Tredinnick, David",
+			"party": "Conservative Party",
+			"votes": 23132,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mullaney, Michael",
+			"party": "Liberal Democrat",
+			"votes": 18100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Palmer, Rory",
+			"party": "Labour Party",
+			"votes": 8674,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ryde, John",
+			"party": "British National Party",
+			"votes": 2458,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Veldhuizen, Dutch",
+			"party": "United Kingdom Independence Party",
+			"votes": 1098,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lampitt, James",
+			"party": "English Democrats",
+			"votes": 615,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brooks, Michael",
+			"party": "Science",
+			"votes": 197,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Tredinnick, David",
+			"party": "Conservative Party",
+			"votes": 22939,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mullaney, Michael",
+			"party": "Liberal Democrat",
+			"votes": 11951,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kealey, Chris",
+			"party": "Labour Party",
+			"votes": 9354,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sprason, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 9338,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

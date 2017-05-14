@@ -1,0 +1,120 @@
+{
+	"id": "E14000821",
+	"name": "Milton Keynes North",
+	"y2010": [
+		{
+			"candidate": "Lancaster, Mark",
+			"party": "Conservative Party",
+			"votes": 23419,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pakes, Andrew",
+			"party": "Labour Party",
+			"votes": 14458,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hope, Jill",
+			"party": "Liberal Democrat",
+			"votes": 11894,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 1772,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hamilton, Richard",
+			"party": "British National Party",
+			"votes": 1154,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Francis, Alan",
+			"party": "Green Party",
+			"votes": 733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lennon, John",
+			"party": "Christian Peoples Alliance",
+			"votes": 206,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fensome, Matt Bananamatt",
+			"party": "Monster Raving Loony Party",
+			"votes": 157,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vyas, Anant",
+			"party": "Independent",
+			"votes": 95,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lancaster, Mark",
+			"party": "Conservative Party",
+			"votes": 27244,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Darlington, Emily",
+			"party": "Labour Party",
+			"votes": 17491,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reilly, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 6852,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graham, Paul",
+			"party": "Liberal Democrat",
+			"votes": 3575,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marklew, Jennifer",
+			"party": "Green Party",
+			"votes": 2255,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Katie",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 163,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mortimer, David",
+			"party": "Independent",
+			"votes": 112,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

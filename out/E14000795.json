@@ -1,0 +1,113 @@
+{
+	"id": "E14000795",
+	"name": "Liverpool Wavertree",
+	"y2010": [
+		{
+			"candidate": "Berger, Luciana",
+			"party": "Lab Co-op",
+			"votes": 20132,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Eldridge, Colin",
+			"party": "Liberal Democrat",
+			"votes": 12965,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garnett, Andrew",
+			"party": "Conservative Party",
+			"votes": 2830,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miney, Neil",
+			"party": "United Kingdom Independence Party",
+			"votes": 890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawson, Rebecca",
+			"party": "Green Party",
+			"votes": 598,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Singleton, Kim",
+			"party": "Soc Lab",
+			"votes": 200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McEllenborough, Steven",
+			"party": "British National Party",
+			"votes": 150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunne, Frank",
+			"party": "Independent",
+			"votes": 149,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Berger, Luciana",
+			"party": "Labour Party",
+			"votes": 28401,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pearson, James",
+			"party": "Conservative Party",
+			"votes": 4098,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heatherington, Adam",
+			"party": "United Kingdom Independence Party",
+			"votes": 3375,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Leo",
+			"party": "Liberal Democrat",
+			"votes": 2454,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cranie, Peter",
+			"party": "Green Party",
+			"votes": 2140,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walsh, Dave",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 362,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCarthy, Niamh",
+			"party": "Independent",
+			"votes": 144,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

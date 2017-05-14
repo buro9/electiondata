@@ -1,0 +1,85 @@
+{
+	"id": "E14001019",
+	"name": "Warwick and Leamington",
+	"y2010": [
+		{
+			"candidate": "White, Chris",
+			"party": "Conservative Party",
+			"votes": 20876,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Plaskitt, James",
+			"party": "Labour Party",
+			"votes": 17363,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Beddow, Alan",
+			"party": "Liberal Democrat",
+			"votes": 8977,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lenton, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 926,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davison, Ian",
+			"party": "Green Party",
+			"votes": 693,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cullinane, Jim",
+			"party": "Independent",
+			"votes": 197,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "White, Chris",
+			"party": "Conservative Party",
+			"votes": 24249,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kelly, Lynnette",
+			"party": "Labour Party",
+			"votes": 17643,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacBrayne, Alistair",
+			"party": "United Kingdom Independence Party",
+			"votes": 4183,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Arif, Haseeb",
+			"party": "Liberal Democrat",
+			"votes": 2512,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Minott, Azzees",
+			"party": "Green Party",
+			"votes": 1994,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

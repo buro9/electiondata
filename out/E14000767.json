@@ -1,0 +1,99 @@
+{
+	"id": "E14000767",
+	"name": "Kenilworth and Southam",
+	"y2010": [
+		{
+			"candidate": "Wright, Jeremy",
+			"party": "Conservative Party",
+			"votes": 25945,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rock, Nigel",
+			"party": "Liberal Democrat",
+			"votes": 13393,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Milton, Nicholas",
+			"party": "Labour Party",
+			"votes": 6949,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1214,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harrison, James",
+			"party": "Green Party",
+			"votes": 568,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rukin, Joe",
+			"party": "Independent",
+			"votes": 362,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wright, Jeremy",
+			"party": "Conservative Party",
+			"votes": 28474,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Singh, Bally",
+			"party": "Labour Party",
+			"votes": 7472,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cottam, Harry",
+			"party": "United Kingdom Independence Party",
+			"votes": 5467,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dickson, Richard ",
+			"party": "Liberal Democrat",
+			"votes": 4913,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ballantyne, Rob",
+			"party": "Green Party",
+			"votes": 1956,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Nick",
+			"party": "Monster Raving Loony Party",
+			"votes": 370,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foster-Smith, Jon",
+			"party": "Digital Democracy",
+			"votes": 139,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

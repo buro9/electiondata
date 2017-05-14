@@ -1,0 +1,85 @@
+{
+	"id": "E14001051",
+	"name": "Wolverhampton South West",
+	"y2010": [
+		{
+			"candidate": "Uppal, Paul",
+			"party": "Conservative Party",
+			"votes": 16344,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Marris, Rob",
+			"party": "Labour Party",
+			"votes": 15653,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Lawrence, Robin",
+			"party": "Liberal Democrat",
+			"votes": 6430,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mobberley, Amanda",
+			"party": "United Kingdom Independence Party",
+			"votes": 1487,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barry, Raymond",
+			"party": "Parenting",
+			"votes": 246,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Marris, Rob",
+			"party": "Labour Party",
+			"votes": 17374,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Uppal, Paul",
+			"party": "Conservative Party",
+			"votes": 16573,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Everett, Dave",
+			"party": "United Kingdom Independence Party",
+			"votes": 4310,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cantrill, Andrea",
+			"party": "Green Party",
+			"votes": 1058,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Upstone, Neale",
+			"party": "Liberal Democrat",
+			"votes": 845,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Booth, Brian",
+			"party": "Independent",
+			"votes": 49,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

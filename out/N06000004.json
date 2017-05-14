@@ -1,0 +1,106 @@
+{
+	"id": "N06000004",
+	"name": "Belfast West",
+	"y2010": [
+		{
+			"candidate": "Adams, Gerry",
+			"party": "Sinn Fein",
+			"votes": 22840,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Attwood, Alex",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 5261,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Humphrey, William",
+			"party": "Democratic Unionist Party",
+			"votes": 2436,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Manwaring, Bill",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 1000,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hendron, Maire",
+			"party": "Alliance",
+			"votes": 596,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Maskey, Paul",
+			"party": "Sinn Fein",
+			"votes": 19163,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Carroll, Gerry ",
+			"party": "PBPA",
+			"votes": 6798,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Attwood, Alex",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 3475,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCoubrey, Frank",
+			"party": "Democratic Unionist Party",
+			"votes": 2773,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Manwaring, Bill",
+			"party": "Ulster Unionist Party",
+			"votes": 1088,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Higginson, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Catney, Gerard",
+			"party": "Alliance",
+			"votes": 636,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lowry, John",
+			"party": "Workers' Party",
+			"votes": 597,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shea, Paul",
+			"party": "Conservative Party",
+			"votes": 34,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

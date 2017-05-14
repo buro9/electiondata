@@ -1,0 +1,99 @@
+{
+	"id": "E14000860",
+	"name": "Wiltshire North",
+	"y2010": [
+		{
+			"candidate": "Gray, James",
+			"party": "Conservative Party",
+			"votes": 25114,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Evemy, Mike",
+			"party": "Liberal Democrat",
+			"votes": 17631,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Jason",
+			"party": "Labour Party",
+			"votes": 3239,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Charles",
+			"party": "United Kingdom Independence Party",
+			"votes": 1908,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chamberlain, Phil",
+			"party": "Green Party",
+			"votes": 599,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allnatt, Philip",
+			"party": "Independent",
+			"votes": 208,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gray, James",
+			"party": "Conservative Party",
+			"votes": 28938,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mathew, Brian",
+			"party": "Liberal Democrat",
+			"votes": 7892,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bryant, Patricia",
+			"party": "United Kingdom Independence Party",
+			"votes": 5813,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baldrey, Peter",
+			"party": "Labour Party",
+			"votes": 4930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chamberlain, Phil",
+			"party": "Green Party",
+			"votes": 2350,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Killane, Simon",
+			"party": "Independent",
+			"votes": 390,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wareham, Giles",
+			"party": "Independent",
+			"votes": 243,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

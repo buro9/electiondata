@@ -1,0 +1,92 @@
+{
+	"id": "E14000665",
+	"name": "Devizes",
+	"y2010": [
+		{
+			"candidate": "Perry, Claire",
+			"party": "Conservative Party",
+			"votes": 25519,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hornby, Fiona",
+			"party": "Liberal Democrat",
+			"votes": 12514,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, Jurab",
+			"party": "Labour Party",
+			"votes": 4711,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bryant, Patricia",
+			"party": "United Kingdom Independence Party",
+			"votes": 2076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fletcher, Mark",
+			"party": "Green Party",
+			"votes": 813,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Houlden, Martin",
+			"party": "Independent",
+			"votes": 566,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coombe, Nic",
+			"party": "Libertarian",
+			"votes": 141,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Perry, Claire",
+			"party": "Conservative Party",
+			"votes": 28295,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pollitt, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7544,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watts, Chris ",
+			"party": "Labour Party",
+			"votes": 6360,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rigby, Manda",
+			"party": "Liberal Democrat",
+			"votes": 3954,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dawnay, Emma",
+			"party": "Green Party",
+			"votes": 2853,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

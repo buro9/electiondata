@@ -1,0 +1,99 @@
+{
+	"id": "S14000052",
+	"name": "Paisley and Renfrewshire North",
+	"y2010": [
+		{
+			"candidate": "Sheridan, Jim",
+			"party": "Labour Party",
+			"votes": 23613,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "MacLaren, Mags",
+			"party": "Scottish National Party",
+			"votes": 8333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Alistair",
+			"party": "Conservative Party",
+			"votes": 6381,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dobson, Ruaraidh",
+			"party": "Liberal Democrat",
+			"votes": 4597,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearson, Gary",
+			"party": "Independent",
+			"votes": 550,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rollo, Chris",
+			"party": "Scottish Socialist Party",
+			"votes": 233,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Newlands, Gavin",
+			"party": "Scottish National Party",
+			"votes": 25601,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Sheridan, Jim",
+			"party": "Labour Party",
+			"votes": 16525,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Anderson, John",
+			"party": "Conservative Party",
+			"votes": 6183,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Speirs, James",
+			"party": "Liberal Democrat",
+			"votes": 1055,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morrison, Ryan",
+			"party": "Green Party",
+			"votes": 703,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Doyle, Andy",
+			"party": "CISTAP",
+			"votes": 202,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Halfpenny, Jim",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 193,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,120 @@
+{
+	"id": "E14000959",
+	"name": "Spelthorne",
+	"y2010": [
+		{
+			"candidate": "Kwarteng, Kwasi",
+			"party": "Conservative Party",
+			"votes": 22261,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Chapman, Mark",
+			"party": "Liberal Democrat",
+			"votes": 12242,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tyler-Moore, Adam",
+			"party": "Labour Party",
+			"votes": 7789,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Browne, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 4009,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Swinglehurst, Ian",
+			"party": "Independent",
+			"votes": 314,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Littlewood, Rod",
+			"party": "Best",
+			"votes": 244,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Couchman, Paul",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 176,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gore, John",
+			"party": "CIP",
+			"votes": 167,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leon-Smith, Grahame",
+			"party": "Ind Fed",
+			"votes": 102,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kwarteng, Kwasi",
+			"party": "Conservative Party",
+			"votes": 24386,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cunningham, Redvers",
+			"party": "United Kingdom Independence Party",
+			"votes": 10234,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Geach, Rebecca",
+			"party": "Labour Party",
+			"votes": 9114,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shimell, Rosie",
+			"party": "Liberal Democrat",
+			"votes": 3163,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jacobs, Paul",
+			"party": "Green Party",
+			"votes": 1724,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffith, Juliet ",
+			"party": "Independent",
+			"votes": 230,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Couchman, Paul",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 228,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

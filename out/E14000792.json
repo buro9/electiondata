@@ -1,0 +1,99 @@
+{
+	"id": "E14000792",
+	"name": "Lincoln",
+	"y2010": [
+		{
+			"candidate": "McCartney, Karl",
+			"party": "Conservative Party",
+			"votes": 17163,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Merron, Gillian",
+			"party": "Labour Party",
+			"votes": 16105,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Shore, Reg",
+			"party": "Liberal Democrat",
+			"votes": 9256,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "West, Robert",
+			"party": "British National Party",
+			"votes": 1367,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Nick",
+			"party": "United Kingdom Independence Party",
+			"votes": 1004,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coleman, Ernest",
+			"party": "English Democrats",
+			"votes": 604,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Gary",
+			"party": "Independent",
+			"votes": 222,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McCartney, Karl",
+			"party": "Conservative Party",
+			"votes": 19976,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rigby, Lucy",
+			"party": "Labour Party",
+			"votes": 18533,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Nick",
+			"party": "United Kingdom Independence Party",
+			"votes": 5721,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pepper, Ross",
+			"party": "Liberal Democrat",
+			"votes": 1992,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Elaine",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 344,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powell, Helen",
+			"party": "Lincs Ind",
+			"votes": 286,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

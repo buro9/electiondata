@@ -1,0 +1,92 @@
+{
+	"id": "E14000663",
+	"name": "Derby South",
+	"y2010": [
+		{
+			"candidate": "Beckett, Margaret",
+			"party": "Labour Party",
+			"votes": 17851,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Perschke, Jack",
+			"party": "Conservative Party",
+			"votes": 11729,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Batey, David",
+			"party": "Liberal Democrat",
+			"votes": 8430,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fowke, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 1821,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graves, Alan",
+			"party": "Independent",
+			"votes": 1357,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Beckett, Margaret",
+			"party": "Labour Party",
+			"votes": 20007,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Evonne",
+			"party": "Conservative Party",
+			"votes": 11179,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Webb, Victor",
+			"party": "United Kingdom Independence Party",
+			"votes": 6341,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Naitta, Joe",
+			"party": "Liberal Democrat",
+			"votes": 1717,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foster, David",
+			"party": "Green Party",
+			"votes": 1208,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fernandez, Chris",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gale, David",
+			"party": "British Independents",
+			"votes": 143,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

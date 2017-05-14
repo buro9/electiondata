@@ -1,0 +1,92 @@
+{
+	"id": "E14000910",
+	"name": "Saffron Walden",
+	"y2010": [
+		{
+			"candidate": "Haselhurst, Alan",
+			"party": "Conservative Party",
+			"votes": 30155,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wilcock, Peter",
+			"party": "Liberal Democrat",
+			"votes": 14913,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Light, Barbara",
+			"party": "Labour Party",
+			"votes": 5288,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lord, Roger",
+			"party": "United Kingdom Independence Party",
+			"votes": 2228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mitchell, Christine",
+			"party": "British National Party",
+			"votes": 1050,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hossain, Reza",
+			"party": "Green Party",
+			"votes": 735,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Haselhurst, Alan",
+			"party": "Conservative Party",
+			"votes": 32926,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Day, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 7935,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Berney, Jane",
+			"party": "Labour Party",
+			"votes": 6791,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hibbs, Mike",
+			"party": "Liberal Democrat",
+			"votes": 6079,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stannard, Karmel",
+			"party": "Green Party",
+			"votes": 2174,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Asker, Heather ",
+			"party": "Residents for Uttlesford",
+			"votes": 1658,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

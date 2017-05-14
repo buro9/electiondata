@@ -1,0 +1,85 @@
+{
+	"id": "E14000760",
+	"name": "Ilford South",
+	"y2010": [
+		{
+			"candidate": "Gapes, Mike",
+			"party": "Lab Co-op",
+			"votes": 25301,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Boutle, Toby",
+			"party": "Conservative Party",
+			"votes": 14014,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Al-Samerai, Anood",
+			"party": "Liberal Democrat",
+			"votes": 8679,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chowdhry, Wilson",
+			"party": "Green Party",
+			"votes": 1319,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murray, Terry",
+			"party": "United Kingdom Independence Party",
+			"votes": 1132,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jestico, John",
+			"party": "King George",
+			"votes": 746,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gapes, Mike",
+			"party": "Labour Party",
+			"votes": 33232,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Chapman, Christopher",
+			"party": "Conservative Party",
+			"votes": 13455,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Amjad",
+			"party": "United Kingdom Independence Party",
+			"votes": 2705,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warrington, Anne",
+			"party": "Green Party",
+			"votes": 1506,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holder, Ashburn",
+			"party": "Liberal Democrat",
+			"votes": 1014,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

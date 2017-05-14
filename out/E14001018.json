@@ -1,0 +1,85 @@
+{
+	"id": "E14001018",
+	"name": "Warrington South",
+	"y2010": [
+		{
+			"candidate": "Mowat, David",
+			"party": "Conservative Party",
+			"votes": 19641,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bent, Nick",
+			"party": "Labour Party",
+			"votes": 18088,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crotty, Jo",
+			"party": "Liberal Democrat",
+			"votes": 15094,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ashington, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 1624,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Steph",
+			"party": "Green Party",
+			"votes": 427,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mowat, David",
+			"party": "Conservative Party",
+			"votes": 25928,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bent, Nick",
+			"party": "Labour Party",
+			"votes": 23178,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lingley, Malcolm",
+			"party": "United Kingdom Independence Party",
+			"votes": 4909,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barr, Bob",
+			"party": "Liberal Democrat",
+			"votes": 3335,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Stephanie",
+			"party": "Green Party",
+			"votes": 1765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett, Kevin",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 238,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

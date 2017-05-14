@@ -1,0 +1,85 @@
+{
+	"id": "E14000627",
+	"name": "Cheadle",
+	"y2010": [
+		{
+			"candidate": "Hunter, Mark",
+			"party": "Liberal Democrat",
+			"votes": 24717,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jeffreys, Ben",
+			"party": "Conservative Party",
+			"votes": 21445,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miller, Martin",
+			"party": "Labour Party",
+			"votes": 4920,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, Tony",
+			"party": "United Kingdom Independence Party",
+			"votes": 1430,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Robinson, Mary",
+			"party": "Conservative Party",
+			"votes": 22889,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hunter, Mark",
+			"party": "Liberal Democrat",
+			"votes": 16436,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Miller, Martin",
+			"party": "Labour Party",
+			"votes": 8673,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hopkins, Shaun",
+			"party": "United Kingdom Independence Party",
+			"votes": 4423,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Torbitt, Matthew",
+			"party": "Independent",
+			"votes": 390,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carswell, Drew",
+			"party": "The Above and Beyond Party",
+			"votes": 208,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bashford, Helen",
+			"party": "Independence from Europe",
+			"votes": 76,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

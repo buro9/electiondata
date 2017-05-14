@@ -1,0 +1,99 @@
+{
+	"id": "E14000723",
+	"name": "Halifax",
+	"y2010": [
+		{
+			"candidate": "Riordan, Linda",
+			"party": "Labour Party",
+			"votes": 16278,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Allott, Philip",
+			"party": "Conservative Party",
+			"votes": 14806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Elisabeth",
+			"party": "Liberal Democrat",
+			"votes": 8335,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bates, Tom",
+			"party": "British National Party",
+			"votes": 2760,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Park, Diane",
+			"party": "Ind Voice",
+			"votes": 722,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sangha, Jay",
+			"party": "United Kingdom Independence Party",
+			"votes": 654,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lynch, Holly",
+			"party": "Labour Party",
+			"votes": 17506,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Allott, Philip",
+			"party": "Conservative Party",
+			"votes": 17078,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Liz",
+			"party": "United Kingdom Independence Party",
+			"votes": 5621,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ilyas, Mohammad",
+			"party": "Liberal Democrat",
+			"votes": 1629,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Gary",
+			"party": "Green Party",
+			"votes": 1142,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Javed, Asama",
+			"party": "Respect Party",
+			"votes": 465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bendrien, Trevor",
+			"party": "Christian Party, Proclaiming Christ's Lordship",
+			"votes": 312,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

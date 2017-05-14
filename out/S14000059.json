@@ -1,0 +1,85 @@
+{
+	"id": "S14000059",
+	"name": "Dunbartonshire West",
+	"y2010": [
+		{
+			"candidate": "Doyle, Gemma",
+			"party": "Labour Party",
+			"votes": 25905,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McCormick, Graeme",
+			"party": "Scottish National Party",
+			"votes": 8497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watt, Helen",
+			"party": "Liberal Democrat",
+			"votes": 3434,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McIntyre, Martyn",
+			"party": "Conservative Party",
+			"votes": 3242,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sorbie, Mitch",
+			"party": "United Kingdom Independence Party",
+			"votes": 683,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGavigan, Katharine",
+			"party": "Soc Lab",
+			"votes": 505,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Docherty, Martin",
+			"party": "Scottish National Party",
+			"votes": 30198,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Doyle, Gemma",
+			"party": "Labour Party",
+			"votes": 16027,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Corry, Maurice",
+			"party": "Conservative Party",
+			"votes": 3597,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morton, Aileen",
+			"party": "Liberal Democrat",
+			"votes": 816,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Muir, Claire",
+			"party": "Independent",
+			"votes": 503,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

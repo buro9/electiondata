@@ -1,0 +1,99 @@
+{
+	"id": "E14000921",
+	"name": "Sheffield Brightside and Hillsborough",
+	"y2010": [
+		{
+			"candidate": "Blunkett, David",
+			"party": "Labour Party",
+			"votes": 21400,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Harston, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 7768,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sharp, John",
+			"party": "Conservative Party",
+			"votes": 4468,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sheldon, John",
+			"party": "British National Party",
+			"votes": 3026,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sullivan, Pat",
+			"party": "United Kingdom Independence Party",
+			"votes": 1596,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowler, Maxine",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 656,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Harpham, Harry",
+			"party": "Labour Party",
+			"votes": 22663,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Booker, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 8856,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunweber, Elise",
+			"party": "Conservative Party",
+			"votes": 4407,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harston, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 1802,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gilligan Kubo, Christine",
+			"party": "Green Party",
+			"votes": 1712,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowler, Maxine",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 442,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saxton, Justin",
+			"party": "English Democrats",
+			"votes": 171,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

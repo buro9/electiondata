@@ -1,0 +1,85 @@
+{
+	"id": "E14000588",
+	"name": "Bradford South",
+	"y2010": [
+		{
+			"candidate": "Sutcliffe, Gerry",
+			"party": "Labour Party",
+			"votes": 15682,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Palmer, Matt",
+			"party": "Conservative Party",
+			"votes": 11060,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Alun",
+			"party": "Liberal Democrat",
+			"votes": 6948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Sharon",
+			"party": "British National Party",
+			"votes": 2651,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Illingworth, Jamie",
+			"party": "United Kingdom Independence Party",
+			"votes": 1339,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewthwaite, James",
+			"party": "D Nat",
+			"votes": 315,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cummins, Judith",
+			"party": "Labour Party",
+			"votes": 16328,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Graham, Tanya",
+			"party": "Conservative Party",
+			"votes": 9878,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Jason",
+			"party": "United Kingdom Independence Party",
+			"votes": 9057,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Andy",
+			"party": "Green Party",
+			"votes": 1243,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tear, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 1094,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

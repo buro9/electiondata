@@ -1,0 +1,99 @@
+{
+	"id": "E14000635",
+	"name": "Chippenham",
+	"y2010": [
+		{
+			"candidate": "Hames, Duncan",
+			"party": "Liberal Democrat",
+			"votes": 23970,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Emmanuel-Jones, Wilfred",
+			"party": "Conservative Party",
+			"votes": 21500,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lovell, Greg",
+			"party": "Labour Party",
+			"votes": 3620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Julia",
+			"party": "United Kingdom Independence Party",
+			"votes": 1783,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpkins, Michael",
+			"party": "British National Party",
+			"votes": 641,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fletcher, Samantha",
+			"party": "Green Party",
+			"votes": 446,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maguire, John",
+			"party": "English Democrats",
+			"votes": 307,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sexton, Richard",
+			"party": "Christian Party",
+			"votes": 118,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Donelan, Michelle",
+			"party": "Conservative Party",
+			"votes": 26354,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hames, Duncan",
+			"party": "Liberal Democrat",
+			"votes": 16278,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Julia",
+			"party": "United Kingdom Independence Party",
+			"votes": 5884,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newman, Andy",
+			"party": "Labour Party",
+			"votes": 4561,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnston, Tina",
+			"party": "Green Party",
+			"votes": 2330,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

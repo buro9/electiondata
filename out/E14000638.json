@@ -1,0 +1,71 @@
+{
+	"id": "E14000638",
+	"name": "Christchurch",
+	"y2010": [
+		{
+			"candidate": "Chope, Christopher",
+			"party": "Conservative Party",
+			"votes": 27888,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hurll, Martyn",
+			"party": "Liberal Democrat",
+			"votes": 12478,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Deeks, Robert",
+			"party": "Labour Party",
+			"votes": 4849,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 4201,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Chope, Christopher",
+			"party": "Conservative Party",
+			"votes": 28887,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Grey, Robin",
+			"party": "United Kingdom Independence Party",
+			"votes": 10663,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Satherley, Andrew",
+			"party": "Labour Party",
+			"votes": 4745,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Canning, Andy",
+			"party": "Liberal Democrat",
+			"votes": 3263,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunn, Shona",
+			"party": "Green Party",
+			"votes": 2149,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000712",
+	"name": "Gloucester",
+	"y2010": [
+		{
+			"candidate": "Graham, Richard",
+			"party": "Conservative Party",
+			"votes": 20267,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Dhanda, Parmjit",
+			"party": "Labour Party",
+			"votes": 17847,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hilton, Jeremy",
+			"party": "Liberal Democrat",
+			"votes": 9767,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 1808,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Platt, Alan",
+			"party": "English Democrats",
+			"votes": 564,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meloy, Bryan",
+			"party": "Green Party",
+			"votes": 511,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Graham, Richard",
+			"party": "Conservative Party",
+			"votes": 23837,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gardner, Sophy",
+			"party": "Labour Party",
+			"votes": 16586,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 7497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hilton, Jeremy ",
+			"party": "Liberal Democrat",
+			"votes": 2828,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ingleby, Jonathan",
+			"party": "Green Party",
+			"votes": 1485,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ridgeon, George",
+			"party": "Monster Raving Loony Party",
+			"votes": 227,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powell, Sue",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 115,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

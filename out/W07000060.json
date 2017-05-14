@@ -1,0 +1,92 @@
+{
+	"id": "W07000060",
+	"name": "Vale of Clwyd",
+	"y2010": [
+		{
+			"candidate": "Ruane, Chris",
+			"party": "Labour Party",
+			"votes": 15017,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wright, Matt",
+			"party": "Conservative Party",
+			"votes": 12508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Penlington, Paul",
+			"party": "Liberal Democrat",
+			"votes": 4472,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wyn Jones, Caryl",
+			"party": "Plaid Cymru",
+			"votes": 2068,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Si'Ree, Ian",
+			"party": "British National Party",
+			"votes": 827,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner, Tom",
+			"party": "United Kingdom Independence Party",
+			"votes": 515,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Mike",
+			"party": "Alliance for Green Socialism",
+			"votes": 127,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davies, James",
+			"party": "Conservative Party",
+			"votes": 13760,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ruane, Christopher",
+			"party": "Labour Party",
+			"votes": 13523,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Davies-Cooke, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 4577,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowlands, Mair",
+			"party": "Plaid Cymru",
+			"votes": 2486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Gwyn",
+			"party": "Liberal Democrat",
+			"votes": 915,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

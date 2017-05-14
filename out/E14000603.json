@@ -1,0 +1,85 @@
+{
+	"id": "E14000603",
+	"name": "Broadland",
+	"y2010": [
+		{
+			"candidate": "Simpson, Keith",
+			"party": "Conservative Party",
+			"votes": 24338,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Roper, Daniel",
+			"party": "Liberal Democrat",
+			"votes": 17046,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barron, Allyson",
+			"party": "Labour Party",
+			"votes": 7287,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Agnew, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 2382,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crowther, Edith",
+			"party": "British National Party",
+			"votes": 871,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curran, Susan",
+			"party": "Green Party",
+			"votes": 752,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Simpson, Keith",
+			"party": "Conservative Party",
+			"votes": 26808,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Christopher",
+			"party": "Labour Party",
+			"votes": 9970,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Agnew, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 8881,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Riley, Steve",
+			"party": "Liberal Democrat",
+			"votes": 5178,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boswell, Andrew",
+			"party": "Green Party",
+			"votes": 2252,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

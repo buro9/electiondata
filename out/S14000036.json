@@ -1,0 +1,71 @@
+{
+	"id": "S14000036",
+	"name": "Glenrothes",
+	"y2010": [
+		{
+			"candidate": "Roy, Lindsay",
+			"party": "Labour Party",
+			"votes": 25247,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Alexander, David",
+			"party": "Scottish National Party",
+			"votes": 8799,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wills, Harry",
+			"party": "Liberal Democrat",
+			"votes": 3108,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Low, Sheila",
+			"party": "Conservative Party",
+			"votes": 2922,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seunarine, Kris",
+			"party": "United Kingdom Independence Party",
+			"votes": 425,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Grant, Peter",
+			"party": "Scottish National Party",
+			"votes": 28459,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ward, Melanie",
+			"party": "Labour Party",
+			"votes": 14562,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stewart-Clark, Alex",
+			"party": "Conservative Party",
+			"votes": 3685,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Liston, Jane ",
+			"party": "Liberal Democrat",
+			"votes": 892,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

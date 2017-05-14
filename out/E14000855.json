@@ -1,0 +1,85 @@
+{
+	"id": "E14000855",
+	"name": "Cambridgeshire North West",
+	"y2010": [
+		{
+			"candidate": "Vara, Shailesh",
+			"party": "Conservative Party",
+			"votes": 29425,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wilkins, Kevin",
+			"party": "Liberal Democrat",
+			"votes": 12748,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "York, Chris",
+			"party": "Labour Party",
+			"votes": 9877,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 4826,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goldspink, Stephen",
+			"party": "English Democrats",
+			"votes": 1407,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Vara, Shailesh",
+			"party": "Conservative Party",
+			"votes": 32070,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Reeve, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 12275,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thulbourn, Nick",
+			"party": "Labour Party",
+			"votes": 10927,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sandford, Nick",
+			"party": "Liberal Democrat",
+			"votes": 3479,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Day, Nicola",
+			"party": "Green Party",
+			"votes": 2159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Belham, Fay",
+			"party": "Christian Peoples Alliance",
+			"votes": 190,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

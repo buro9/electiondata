@@ -1,0 +1,120 @@
+{
+	"id": "E14000884",
+	"name": "Portsmouth South",
+	"y2010": [
+		{
+			"candidate": "Hancock, Mike",
+			"party": "Liberal Democrat",
+			"votes": 18921,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Drummond, Flick",
+			"party": "Conservative Party",
+			"votes": 13721,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ferrett, John",
+			"party": "Labour Party",
+			"votes": 5640,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crompton, Geoff",
+			"party": "British National Party",
+			"votes": 873,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dawes, Tim",
+			"party": "Green Party",
+			"votes": 716,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "DuCane, Ian",
+			"party": "English Democrats",
+			"votes": 400,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cummings, Les",
+			"party": "J and AC",
+			"votes": 117,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Drummond, Flick",
+			"party": "Conservative Party",
+			"votes": 14585,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Vernon-Jackson, Gerald",
+			"party": "Liberal Democrat",
+			"votes": 9344,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Castillon, Sue",
+			"party": "Labour Party",
+			"votes": 8184,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 5595,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCulloch, Ian",
+			"party": "Green Party",
+			"votes": 3145,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hancock, Mike",
+			"party": "Independent",
+			"votes": 716,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hoyle, Sean",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 235,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jerrard, Don",
+			"party": "JACP",
+			"votes": 99,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

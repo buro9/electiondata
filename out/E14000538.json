@@ -1,0 +1,71 @@
+{
+	"id": "E14000538",
+	"name": "Aylesbury",
+	"y2010": [
+		{
+			"candidate": "Lidington, David",
+			"party": "Conservative Party",
+			"votes": 27736,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lambert, Steven",
+			"party": "Liberal Democrat",
+			"votes": 15118,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Kathryn",
+			"party": "Labour Party",
+			"votes": 6695,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adams, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 3613,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lidington, David",
+			"party": "Conservative Party",
+			"votes": 28083,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Adams, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 10925,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cass, Will",
+			"party": "Labour Party",
+			"votes": 8391,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lambert, Steven",
+			"party": "Liberal Democrat",
+			"votes": 5885,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lyons, David",
+			"party": "Green Party",
+			"votes": 2135,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

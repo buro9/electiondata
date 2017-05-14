@@ -1,0 +1,106 @@
+{
+	"id": "S14000045",
+	"name": "Midlothian",
+	"y2010": [
+		{
+			"candidate": "Hamilton, David",
+			"party": "Labour Party",
+			"votes": 18449,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Beattie, Colin",
+			"party": "Scottish National Party",
+			"votes": 8100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Laird, Ross",
+			"party": "Liberal Democrat",
+			"votes": 6711,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Callander, James",
+			"party": "Conservative Party",
+			"votes": 4661,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baxter, Ian",
+			"party": "Green Party",
+			"votes": 595,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Norrie, Gordon",
+			"party": "United Kingdom Independence Party",
+			"votes": 364,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCleery, George",
+			"party": "Independent",
+			"votes": 196,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duncan, Willie",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 166,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Thompson, Owen",
+			"party": "Scottish National Party",
+			"votes": 24453,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Young, Kenny",
+			"party": "Labour Party",
+			"votes": 14594,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ballantyne, Michelle",
+			"party": "Conservative Party",
+			"votes": 5760,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baxter, Ian",
+			"party": "Green Party",
+			"votes": 1219,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Norrie, Gordon",
+			"party": "United Kingdom Independence Party",
+			"votes": 1173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mir, Aisha",
+			"party": "Liberal Democrat",
+			"votes": 1132,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

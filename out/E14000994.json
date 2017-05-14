@@ -1,0 +1,85 @@
+{
+	"id": "E14000994",
+	"name": "Thornbury and Yate",
+	"y2010": [
+		{
+			"candidate": "Webb, Steve",
+			"party": "Liberal Democrat",
+			"votes": 25032,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Riddle, Matthew",
+			"party": "Conservative Party",
+			"votes": 17916,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Egan, Roxanne",
+			"party": "Labour Party",
+			"votes": 3385,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, Jenny",
+			"party": "United Kingdom Independence Party",
+			"votes": 1709,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beacham, Thomas",
+			"party": "Ind Fed",
+			"votes": 126,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clements, Anthony",
+			"party": "ND",
+			"votes": 58,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hall, Luke",
+			"party": "Conservative Party",
+			"votes": 19924,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Webb, Steven",
+			"party": "Liberal Democrat",
+			"votes": 18429,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Russ",
+			"party": "United Kingdom Independence Party",
+			"votes": 5126,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Hadleigh",
+			"party": "Labour Party",
+			"votes": 3775,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hamilton, Iain",
+			"party": "Green Party",
+			"votes": 1316,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

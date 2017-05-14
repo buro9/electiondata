@@ -1,0 +1,99 @@
+{
+	"id": "E14001027",
+	"name": "Welwyn Hatfield",
+	"y2010": [
+		{
+			"candidate": "Shapps, Grant",
+			"party": "Conservative Party",
+			"votes": 27894,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hobday, Mike",
+			"party": "Labour Party",
+			"votes": 10471,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zukowskyj, Paul",
+			"party": "Liberal Democrat",
+			"votes": 8010,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Platt, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1643,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weston, Jill",
+			"party": "Green Party",
+			"votes": 796,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parker, Nigel",
+			"party": "Independent",
+			"votes": 158,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Shapps, Grant",
+			"party": "Conservative Party",
+			"votes": 25281,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Miah, Anawar",
+			"party": "Labour Party",
+			"votes": 13128,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevens, Arthur",
+			"party": "United Kingdom Independence Party",
+			"votes": 6556,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Annand, Hugh",
+			"party": "Liberal Democrat",
+			"votes": 3140,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scheimann, Marc",
+			"party": "Green Party",
+			"votes": 1742,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Michael",
+			"party": "Independent",
+			"votes": 216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shattock, Richard",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 142,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

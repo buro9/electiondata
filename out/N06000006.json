@@ -1,0 +1,99 @@
+{
+	"id": "N06000006",
+	"name": "Londonderry East",
+	"y2010": [
+		{
+			"candidate": "Campbell, Gregory",
+			"party": "Democratic Unionist Party",
+			"votes": 12097,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "O hOisin, Cathal",
+			"party": "Sinn Fein",
+			"votes": 6742,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macaulay, Lesley",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 6218,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Conway, Thomas",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 5399,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, William",
+			"party": "Traditional Unionist Voice",
+			"votes": 2572,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitzpatrick, Bernard",
+			"party": "Alliance",
+			"votes": 1922,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Campbell, Gregory",
+			"party": "Democratic Unionist Party",
+			"votes": 14663,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Archibald, Caoimhe",
+			"party": "Sinn Fein",
+			"votes": 6859,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCandless, William",
+			"party": "Ulster Unionist Party",
+			"votes": 5333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mullan, Gerry",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 4268,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boyle, Yvonne",
+			"party": "Alliance",
+			"votes": 2642,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paine, Neil ",
+			"party": "CISTAP",
+			"votes": 527,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "St Clair-Legge, Elizabeth",
+			"party": "Conservative Party",
+			"votes": 422,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

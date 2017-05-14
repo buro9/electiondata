@@ -1,0 +1,85 @@
+{
+	"id": "E14000866",
+	"name": "Nottingham North",
+	"y2010": [
+		{
+			"candidate": "Allen, Graham",
+			"party": "Labour Party",
+			"votes": 16646,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Curtis, Martin",
+			"party": "Conservative Party",
+			"votes": 8508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ball, Tim",
+			"party": "Liberal Democrat",
+			"votes": 5849,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brindley, Bob",
+			"party": "British National Party",
+			"votes": 1944,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marriott, Irenea",
+			"party": "United Kingdom Independence Party",
+			"votes": 1338,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Allen, Graham",
+			"party": "Labour Party",
+			"votes": 19283,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Burfitt-Dons, Louise",
+			"party": "Conservative Party",
+			"votes": 7423,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crosby, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 6542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boettge, Kat",
+			"party": "Green Party",
+			"votes": 1088,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Tony",
+			"party": "Liberal Democrat",
+			"votes": 847,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meadows, Catherine",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 160,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

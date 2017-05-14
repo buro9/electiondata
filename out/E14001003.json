@@ -1,0 +1,113 @@
+{
+	"id": "E14001003",
+	"name": "Truro and Falmouth",
+	"y2010": [
+		{
+			"candidate": "Newton, Sarah",
+			"party": "Conservative Party",
+			"votes": 20349,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Teverson, Terrye",
+			"party": "Liberal Democrat",
+			"votes": 19914,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mackenzie, Charlotte",
+			"party": "Labour Party",
+			"votes": 4697,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blakeley, Harry",
+			"party": "United Kingdom Independence Party",
+			"votes": 1911,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rich, Loic",
+			"party": "Mebyon Kernow",
+			"votes": 1039,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, Ian",
+			"party": "Green Party",
+			"votes": 858,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Newton, Sarah",
+			"party": "Conservative Party",
+			"votes": 22681,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rix, Simon",
+			"party": "Liberal Democrat",
+			"votes": 8681,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roden, Stuart",
+			"party": "Labour Party",
+			"votes": 7814,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hyslop, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 5967,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Westbrook, Karen",
+			"party": "Green Party",
+			"votes": 4483,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rich, Loic",
+			"party": "Independent",
+			"votes": 792,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richardson, Stephen ",
+			"party": "Mebyon Kernow",
+			"votes": 563,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Rik",
+			"party": "National Health Action Party",
+			"votes": 526,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Guffogg, Stanley",
+			"party": "The Principles of Politics Party",
+			"votes": 37,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

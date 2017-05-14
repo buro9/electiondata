@@ -1,0 +1,78 @@
+{
+	"id": "E14000843",
+	"name": "Derbyshire North East",
+	"y2010": [
+		{
+			"candidate": "Engel, Natascha",
+			"party": "Labour Party",
+			"votes": 17948,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Merriman, Huw",
+			"party": "Conservative Party",
+			"votes": 15503,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bull, Richard",
+			"party": "Liberal Democrat",
+			"votes": 10947,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bush, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 2636,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Engel, Natascha ",
+			"party": "Labour Party",
+			"votes": 19488,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rowley, Lee",
+			"party": "Conservative Party",
+			"votes": 17605,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bush, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 7631,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Batey, David",
+			"party": "Liberal Democrat",
+			"votes": 2004,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kesteven, David",
+			"party": "Green Party",
+			"votes": 1059,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lane, Rob",
+			"party": "Independent",
+			"votes": 161,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

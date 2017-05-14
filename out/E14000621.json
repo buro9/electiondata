@@ -1,0 +1,99 @@
+{
+	"id": "E14000621",
+	"name": "Carshalton and Wallington",
+	"y2010": [
+		{
+			"candidate": "Brake, Tom",
+			"party": "Liberal Democrat",
+			"votes": 22180,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Andrew, Ken",
+			"party": "Conservative Party",
+			"votes": 16920,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Shafi",
+			"party": "Labour Party",
+			"votes": 4015,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Day, Frank",
+			"party": "United Kingdom Independence Party",
+			"votes": 1348,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Charlotte",
+			"party": "British National Party",
+			"votes": 1100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dow, George",
+			"party": "Green Party",
+			"votes": 355,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brake, Tom",
+			"party": "Liberal Democrat",
+			"votes": 16603,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Maxwell Scott, Matthew",
+			"party": "Conservative Party",
+			"votes": 15093,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tate, Siobhan",
+			"party": "Labour Party",
+			"votes": 7150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Main-Ian, Bill",
+			"party": "United Kingdom Independence Party",
+			"votes": 7049,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hemingway, Ross",
+			"party": "Green Party",
+			"votes": 1492,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dickenson, Ashley",
+			"party": "Christian Peoples Alliance",
+			"votes": 177,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edmonds, Richard",
+			"party": "National Front",
+			"votes": 49,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

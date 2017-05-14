@@ -1,0 +1,106 @@
+{
+	"id": "E14000568",
+	"name": "Birmingham Yardley",
+	"y2010": [
+		{
+			"candidate": "Hemming, John",
+			"party": "Liberal Democrat",
+			"votes": 16162,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kelly, Lynnette",
+			"party": "Labour Party",
+			"votes": 13160,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Meirion",
+			"party": "Conservative Party",
+			"votes": 7836,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lumby, Tanya",
+			"party": "British National Party",
+			"votes": 2153,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duffen, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 1190,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Paul",
+			"party": "National Front",
+			"votes": 349,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Phillips, Jess",
+			"party": "Labour Party",
+			"votes": 17129,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hemming, John",
+			"party": "Liberal Democrat",
+			"votes": 10534,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 6637,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Photay, Arun",
+			"party": "Conservative Party",
+			"votes": 5760,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bishop, Grant",
+			"party": "Green Party",
+			"votes": 698,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephens, Teval",
+			"party": "Respect Party",
+			"votes": 187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flynn, Eamonn",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 135,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Peter",
+			"party": "Social Democratic Party",
+			"votes": 71,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

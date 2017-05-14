@@ -1,0 +1,85 @@
+{
+	"id": "E14000839",
+	"name": "Dorset North",
+	"y2010": [
+		{
+			"candidate": "Walter, Bob",
+			"party": "Conservative Party",
+			"votes": 27640,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gasson, Emily",
+			"party": "Liberal Democrat",
+			"votes": 20015,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bunney, Mike",
+			"party": "Labour Party",
+			"votes": 2910,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nieboer, Jeremy",
+			"party": "United Kingdom Independence Party",
+			"votes": 2812,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hayball, Anna",
+			"party": "Green Party",
+			"votes": 546,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Monksummers, Roger",
+			"party": "Monster Raving Loony Party",
+			"votes": 218,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hoare, Simon",
+			"party": "Conservative Party",
+			"votes": 30227,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Unwin, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 9109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mieville, Hugo",
+			"party": "Liberal Democrat",
+			"votes": 6226,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fendley, Kim",
+			"party": "Labour Party",
+			"votes": 4785,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barrington, Richard",
+			"party": "Green Party",
+			"votes": 3038,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

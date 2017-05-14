@@ -1,0 +1,99 @@
+{
+	"id": "W07000076",
+	"name": "Caerphilly",
+	"y2010": [
+		{
+			"candidate": "David, Wayne",
+			"party": "Labour Party",
+			"votes": 17377,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Caulfield, Maria",
+			"party": "Conservative Party",
+			"votes": 6622,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whittle, Lindsay",
+			"party": "Plaid Cymru",
+			"votes": 6460,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "David, Kay",
+			"party": "Liberal Democrat",
+			"votes": 5988,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Laurence",
+			"party": "British National Party",
+			"votes": 1635,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Tony",
+			"party": "United Kingdom Independence Party",
+			"votes": 910,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "David, Wayne",
+			"party": "Labour Party",
+			"votes": 17864,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gould, Sam",
+			"party": "United Kingdom Independence Party",
+			"votes": 7791,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Docherty, Leo",
+			"party": "Conservative Party",
+			"votes": 6683,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newton, Beci",
+			"party": "Plaid Cymru",
+			"votes": 5895,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beddoe, Katy",
+			"party": "Green Party",
+			"votes": 937,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ayesh, Aladdin",
+			"party": "Liberal Democrat",
+			"votes": 935,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Jaime",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 178,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

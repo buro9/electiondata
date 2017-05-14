@@ -1,0 +1,85 @@
+{
+	"id": "E14000930",
+	"name": "Slough",
+	"y2010": [
+		{
+			"candidate": "Mactaggart, Fiona",
+			"party": "Labour Party",
+			"votes": 21884,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Coad, Diana",
+			"party": "Conservative Party",
+			"votes": 16361,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tucker, Chris",
+			"party": "Liberal Democrat",
+			"votes": 6943,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mason-Apps, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kennet, Miriam",
+			"party": "Green Party",
+			"votes": 542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chaudhary, Sunil",
+			"party": "Christian Party",
+			"votes": 495,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mactaggart, Fiona",
+			"party": "Labour Party",
+			"votes": 23421,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Singh, Gurcharan",
+			"party": "Conservative Party",
+			"votes": 16085,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coad, Diana",
+			"party": "United Kingdom Independence Party",
+			"votes": 6274,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCann, Thomas",
+			"party": "Liberal Democrat",
+			"votes": 1275,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edmonds, Julian",
+			"party": "Green Party",
+			"votes": 1220,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

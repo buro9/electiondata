@@ -1,0 +1,71 @@
+{
+	"id": "E14000532",
+	"name": "Altrincham and Sale West",
+	"y2010": [
+		{
+			"candidate": "Brady, Graham",
+			"party": "Conservative Party",
+			"votes": 24176,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Brophy, Jane",
+			"party": "Liberal Democrat",
+			"votes": 12581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Tom",
+			"party": "Labour Party",
+			"votes": 11073,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bullman, Kenneth",
+			"party": "United Kingdom Independence Party",
+			"votes": 1563,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brady, Graham",
+			"party": "Conservative Party",
+			"votes": 26771,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wright, James",
+			"party": "Labour Party",
+			"votes": 13481,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brophy, Jane",
+			"party": "Liberal Democrat",
+			"votes": 4235,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Frost, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 4047,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robertson-Brown, Nick",
+			"party": "Green Party",
+			"votes": 1983,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

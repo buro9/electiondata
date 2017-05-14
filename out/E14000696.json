@@ -1,0 +1,120 @@
+{
+	"id": "E14000696",
+	"name": "Erith and Thamesmead",
+	"y2010": [
+		{
+			"candidate": "Pearce, Teresa",
+			"party": "Labour Party",
+			"votes": 19068,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bloom, Colin",
+			"party": "Conservative Party",
+			"votes": 13365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cunliffe, Alexander",
+			"party": "Liberal Democrat",
+			"votes": 5116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saunders, Kevin",
+			"party": "British National Party",
+			"votes": 2184,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Perrin, Pamela",
+			"party": "United Kingdom Independence Party",
+			"votes": 1139,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Laurence",
+			"party": "English Democrats",
+			"votes": 465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Akinoshun, Abbey",
+			"party": "ND",
+			"votes": 438,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cordle, Sid",
+			"party": "Christian Peoples Alliance",
+			"votes": 379,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powley, Marek",
+			"party": "Green Party",
+			"votes": 322,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pearce, Teresa",
+			"party": "Labour Party",
+			"votes": 21209,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Firth, Anna",
+			"party": "Conservative Party",
+			"votes": 11684,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Ronie",
+			"party": "United Kingdom Independence Party",
+			"votes": 7368,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waddington, Simon",
+			"party": "Liberal Democrat",
+			"votes": 972,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garrett, Ann",
+			"party": "Green Party",
+			"votes": 941,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cordle, Sid",
+			"party": "Christian Peoples Alliance",
+			"votes": 255,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, Graham",
+			"party": "English Democrats",
+			"votes": 188,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

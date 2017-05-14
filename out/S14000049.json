@@ -1,0 +1,85 @@
+{
+	"id": "S14000049",
+	"name": "Fife North East",
+	"y2010": [
+		{
+			"candidate": "Campbell, Menzies",
+			"party": "Liberal Democrat",
+			"votes": 17763,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Briggs, Miles",
+			"party": "Conservative Party",
+			"votes": 8715,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hood, Mark",
+			"party": "Labour Party",
+			"votes": 6869,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Rod",
+			"party": "Scottish National Party",
+			"votes": 5685,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott-Hayward, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 1032,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gethins, Stephen",
+			"party": "Scottish National Party",
+			"votes": 18523,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Brett, Tim",
+			"party": "Liberal Democrat",
+			"votes": 14179,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bell, Huw",
+			"party": "Conservative Party",
+			"votes": 7373,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomson, Brian",
+			"party": "Labour Party",
+			"votes": 3476,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Andy",
+			"party": "Green Party",
+			"votes": 1387,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott-Hayward, Mike",
+			"party": "Independent",
+			"votes": 325,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

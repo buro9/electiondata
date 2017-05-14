@@ -1,0 +1,106 @@
+{
+	"id": "E14000861",
+	"name": "Northampton North",
+	"y2010": [
+		{
+			"candidate": "Ellis, Michael",
+			"party": "Conservative Party",
+			"votes": 13735,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Keeble, Sally",
+			"party": "Labour Party",
+			"votes": 11799,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 11250,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beasley, Ray",
+			"party": "British National Party",
+			"votes": 1316,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macarthur, Jim",
+			"party": "United Kingdom Independence Party",
+			"votes": 1238,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lochmuller, Tony",
+			"party": "Green Party",
+			"votes": 443,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitzpatrick, Eamonn",
+			"party": "Independent",
+			"votes": 334,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Webb, Timothy",
+			"party": "Christian Party",
+			"votes": 98,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mildren, Malcolm",
+			"party": "Independent",
+			"votes": 58,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ellis, Michael",
+			"party": "Conservative Party",
+			"votes": 16699,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Keeble, Sally",
+			"party": "Labour Party",
+			"votes": 13454,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rubython, Tom",
+			"party": "United Kingdom Independence Party",
+			"votes": 6354,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, Tony",
+			"party": "Green Party",
+			"votes": 1503,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paterson, Angela",
+			"party": "Liberal Democrat",
+			"votes": 1401,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

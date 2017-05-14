@@ -1,0 +1,78 @@
+{
+	"id": "E14000949",
+	"name": "Bedfordshire South West",
+	"y2010": [
+		{
+			"candidate": "Selous, Andrew",
+			"party": "Conservative Party",
+			"votes": 26815,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cantrill, Rod",
+			"party": "Liberal Democrat",
+			"votes": 10166,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bone, Jennifer",
+			"party": "Labour Party",
+			"votes": 9948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newman, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 2142,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tolman, Mark",
+			"party": "British National Party",
+			"votes": 1703,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Selous, Andrew",
+			"party": "Conservative Party",
+			"votes": 28212,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Scott, Daniel",
+			"party": "Labour Party",
+			"votes": 10399,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Van Weenen, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 7941,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rutherford, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 2646,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawrence, Emily",
+			"party": "Green Party",
+			"votes": 2106,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

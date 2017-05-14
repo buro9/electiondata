@@ -1,0 +1,85 @@
+{
+	"id": "E14000754",
+	"name": "Houghton and Sunderland South",
+	"y2010": [
+		{
+			"candidate": "Phillipson, Bridget",
+			"party": "Labour Party",
+			"votes": 19137,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Oliver, Robert",
+			"party": "Conservative Party",
+			"votes": 8147,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boyle, Chris",
+			"party": "Liberal Democrat",
+			"votes": 5292,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wakefield, Colin",
+			"party": "Independent",
+			"votes": 2462,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Karen",
+			"party": "British National Party",
+			"votes": 1961,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elvin, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 1022,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Phillipson, Bridget",
+			"party": "Labour Party",
+			"votes": 21218,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Elvin, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 8280,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hay, Stewart",
+			"party": "Conservative Party",
+			"votes": 7105,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Alan",
+			"party": "Green Party",
+			"votes": 1095,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murray, Jim",
+			"party": "Liberal Democrat",
+			"votes": 791,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

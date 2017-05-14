@@ -1,0 +1,92 @@
+{
+	"id": "S14000005",
+	"name": "Argyll and Bute",
+	"y2010": [
+		{
+			"candidate": "Reid, Alan",
+			"party": "Liberal Democrat",
+			"votes": 14292,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mulvaney, Gary",
+			"party": "Conservative Party",
+			"votes": 10861,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graham, David",
+			"party": "Labour Party",
+			"votes": 10274,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacKenzie, Michael",
+			"party": "Scottish National Party",
+			"votes": 8563,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morrison, Elaine",
+			"party": "Green Party",
+			"votes": 789,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Doyle, George",
+			"party": "Independent",
+			"votes": 272,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Black, John",
+			"party": "Jacobite",
+			"votes": 156,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "O'Hara, Brendan",
+			"party": "Scottish National Party",
+			"votes": 22959,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Reid, Alan",
+			"party": "Liberal Democrat",
+			"votes": 14486,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Redman, Alastair",
+			"party": "Conservative Party",
+			"votes": 7733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Galbraith, Mary",
+			"party": "Labour Party",
+			"votes": 5394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Santos, Caroline",
+			"party": "United Kingdom Independence Party",
+			"votes": 1311,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

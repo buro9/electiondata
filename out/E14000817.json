@@ -1,0 +1,106 @@
+{
+	"id": "E14000817",
+	"name": "Sussex Mid",
+	"y2010": [
+		{
+			"candidate": "Soames, Nicholas",
+			"party": "Conservative Party",
+			"votes": 28329,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Tierney, Serena",
+			"party": "Liberal Democrat",
+			"votes": 20927,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boot, David",
+			"party": "Labour Party",
+			"votes": 3689,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Montgomery, Marc",
+			"party": "United Kingdom Independence Party",
+			"votes": 1423,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Paul",
+			"party": "Green Party",
+			"votes": 645,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Minihane, Stuart",
+			"party": "British National Party",
+			"votes": 583,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thunderclap, Baron Von",
+			"party": "Monster Raving Loony Party",
+			"votes": 259,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Soames, Nicholas",
+			"party": "Conservative Party",
+			"votes": 32268,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mountain, Greg",
+			"party": "Labour Party",
+			"votes": 7982,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brothers, Toby",
+			"party": "United Kingdom Independence Party",
+			"votes": 6898,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Daisy",
+			"party": "Liberal Democrat",
+			"votes": 6604,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Diboll, Miranda",
+			"party": "Green Party",
+			"votes": 2453,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adam, Beki",
+			"party": "Independent",
+			"votes": 958,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Von Thunderclap, Baron",
+			"party": "Monster Raving Loony Party",
+			"votes": 329,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

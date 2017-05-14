@@ -1,0 +1,85 @@
+{
+	"id": "E14000661",
+	"name": "Denton and Reddish",
+	"y2010": [
+		{
+			"candidate": "Gwynne, Andrew",
+			"party": "Labour Party",
+			"votes": 19191,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Searle, Julie",
+			"party": "Conservative Party",
+			"votes": 9360,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Broadhurst, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 6727,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, William",
+			"party": "United Kingdom Independence Party",
+			"votes": 2060,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dennis, Jeff",
+			"party": "Independent",
+			"votes": 297,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gwynne, Andrew",
+			"party": "Labour Party",
+			"votes": 19661,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hempsall, Lana",
+			"party": "Conservative Party",
+			"votes": 9150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fairfoull, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 7225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Koopman, Nick",
+			"party": "Green Party",
+			"votes": 1466,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jewell, Mark",
+			"party": "Liberal Democrat",
+			"votes": 957,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lofas, Victoria",
+			"party": "Independent",
+			"votes": 222,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

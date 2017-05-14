@@ -1,0 +1,127 @@
+{
+	"id": "W07000049",
+	"name": "Aberavon",
+	"y2010": [
+		{
+			"candidate": "Francis, Hywel",
+			"party": "Labour Party",
+			"votes": 16073,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Keith",
+			"party": "Liberal Democrat",
+			"votes": 5034,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Caroline",
+			"party": "Conservative Party",
+			"votes": 4411,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholls-Jones, Paul",
+			"party": "Plaid Cymru",
+			"votes": 2198,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Kevin",
+			"party": "British National Party",
+			"votes": 1276,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tutton, Andrew",
+			"party": "Independent",
+			"votes": 919,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beany, Captain",
+			"party": "Bean",
+			"votes": 558,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Callan, Joe",
+			"party": "United Kingdom Independence Party",
+			"votes": 489,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kinnock, Stephen",
+			"party": "Labour Party",
+			"votes": 15416,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bush, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 4971,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Yi He, Edward",
+			"party": "Conservative Party",
+			"votes": 3742,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Higgitt, Duncan",
+			"party": "Plaid Cymru",
+			"votes": 3663,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, Helen ",
+			"party": "Liberal Democrat",
+			"votes": 1397,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beany, Captain",
+			"party": "Independent",
+			"votes": 1137,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tier, Jonathan",
+			"party": "Green Party",
+			"votes": 711,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jordan, Andrew",
+			"party": "Socialist Labour Party",
+			"votes": 352,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Herbert, Owen",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 134,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

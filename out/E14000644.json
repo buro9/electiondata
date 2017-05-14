@@ -1,0 +1,113 @@
+{
+	"id": "E14000644",
+	"name": "Colchester",
+	"y2010": [
+		{
+			"candidate": "Russell, Bob",
+			"party": "Liberal Democrat",
+			"votes": 22151,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Quince, Will",
+			"party": "Conservative Party",
+			"votes": 15169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newell, Jordan",
+			"party": "Labour Party",
+			"votes": 5680,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pitts, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1350,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chaney, Sidney",
+			"party": "British National Party",
+			"votes": 705,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lynn, Peter",
+			"party": "Green Party",
+			"votes": 694,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bone, Eddie",
+			"party": "English Democrats",
+			"votes": 335,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Noble, Garryck",
+			"party": "PP Essex",
+			"votes": 35,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shaw, Paul",
+			"party": "ND",
+			"votes": 20,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Quince, Will",
+			"party": "Conservative Party",
+			"votes": 18919,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Russell, Bob",
+			"party": "Liberal Democrat",
+			"votes": 13344,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Newell, Jordan",
+			"party": "Labour Party",
+			"votes": 7852,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pitts, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 5870,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goacher, Mark",
+			"party": "Green Party",
+			"votes": 2499,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scrimshaw, Ken",
+			"party": "Christian Peoples Alliance",
+			"votes": 109,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

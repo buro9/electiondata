@@ -1,0 +1,99 @@
+{
+	"id": "E14000879",
+	"name": "Plymouth Moor View",
+	"y2010": [
+		{
+			"candidate": "Seabeck, Alison",
+			"party": "Labour Party",
+			"votes": 15433,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Groves, Matthew",
+			"party": "Conservative Party",
+			"votes": 13845,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bonar, Stuart",
+			"party": "Liberal Democrat",
+			"votes": 7016,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wakeham, Bill",
+			"party": "United Kingdom Independence Party",
+			"votes": 3188,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cook, Roy",
+			"party": "British National Party",
+			"votes": 1438,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miller, Wendy",
+			"party": "Green Party",
+			"votes": 398,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marchesi, David",
+			"party": "Soc Lab",
+			"votes": 208,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mercer, Johnny ",
+			"party": "Conservative Party",
+			"votes": 16020,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Seabeck, Alison",
+			"party": "Labour Party",
+			"votes": 14994,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Mills, Penny",
+			"party": "United Kingdom Independence Party",
+			"votes": 9152,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bonar, Stuart",
+			"party": "Liberal Democrat",
+			"votes": 1265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Osborn, Benjamin",
+			"party": "Green Party",
+			"votes": 1023,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parker, Louise",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 152,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

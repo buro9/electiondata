@@ -1,0 +1,85 @@
+{
+	"id": "E14000746",
+	"name": "Hexham",
+	"y2010": [
+		{
+			"candidate": "Opperman, Guy",
+			"party": "Conservative Party",
+			"votes": 18795,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Duffield, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 13007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tinnion, Antoine",
+			"party": "Labour Party",
+			"votes": 8253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, Steve",
+			"party": "Independent",
+			"votes": 1974,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawkins, Quentin",
+			"party": "British National Party",
+			"votes": 1205,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moss, Colin",
+			"party": "Independent",
+			"votes": 249,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Opperman, Guy",
+			"party": "Conservative Party",
+			"votes": 22834,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Carr, Liam",
+			"party": "Labour Party",
+			"votes": 10803,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholson, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 4302,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Jeff",
+			"party": "Liberal Democrat",
+			"votes": 2961,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williscroft-Ferris, Lee",
+			"party": "Green Party",
+			"votes": 2445,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

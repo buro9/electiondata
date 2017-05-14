@@ -1,0 +1,113 @@
+{
+	"id": "E14000830",
+	"name": "Newbury",
+	"y2010": [
+		{
+			"candidate": "Benyon, Richard",
+			"party": "Conservative Party",
+			"votes": 33057,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rendel, David",
+			"party": "Liberal Democrat",
+			"votes": 20809,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Hannah",
+			"party": "Labour Party",
+			"votes": 2505,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Black, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1475,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hollister, Adrian",
+			"party": "Green Party",
+			"votes": 490,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burgess, Brian",
+			"party": "Independent",
+			"votes": 158,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Yates, David",
+			"party": "Apolitical Democrats",
+			"votes": 95,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Benyon, Richard",
+			"party": "Conservative Party",
+			"votes": 34973,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bunting, Judith",
+			"party": "Liberal Democrat",
+			"votes": 8605,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Anderson, Catherine",
+			"party": "United Kingdom Independence Party",
+			"votes": 6195,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Jonny",
+			"party": "Labour Party",
+			"votes": 4837,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Field, Paul",
+			"party": "Green Party",
+			"votes": 2324,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Norman, Peter",
+			"party": "Apol Dem",
+			"votes": 228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Singleton, Barrie",
+			"party": "Independent",
+			"votes": 85,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stott, Andrew",
+			"party": "Patriotic Socialist Party",
+			"votes": 53,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"id": "S14000002",
+	"name": "Aberdeen South",
+	"y2010": [
+		{
+			"candidate": "Begg, Anne",
+			"party": "Labour Party",
+			"votes": 15722,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sleigh, John",
+			"party": "Liberal Democrat",
+			"votes": 12216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harvie, Amanda",
+			"party": "Conservative Party",
+			"votes": 8914,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDonald, Mark",
+			"party": "Scottish National Party",
+			"votes": 5102,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Susan",
+			"party": "British National Party",
+			"votes": 529,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reekie, Rhonda",
+			"party": "Green Party",
+			"votes": 413,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Robert",
+			"party": "Scotland Against Crooked Lawyers",
+			"votes": 138,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McCaig, Callum",
+			"party": "Scottish National Party",
+			"votes": 20221,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Begg, Anne",
+			"party": "Labour Party",
+			"votes": 12991,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Thomson, Ross",
+			"party": "Conservative Party",
+			"votes": 11087,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rixson, Denis",
+			"party": "Liberal Democrat",
+			"votes": 2252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Yeats, Dan",
+			"party": "Green Party",
+			"votes": 964,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Skinner, Sandra",
+			"party": "United Kingdom Independence Party",
+			"votes": 897,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Christopher",
+			"party": "Independent",
+			"votes": 139,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

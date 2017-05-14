@@ -1,0 +1,78 @@
+{
+	"id": "S14000047",
+	"name": "Motherwell and Wishaw",
+	"y2010": [
+		{
+			"candidate": "Roy, Frank",
+			"party": "Labour Party",
+			"votes": 23910,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fellows, Marion",
+			"party": "Scottish National Party",
+			"votes": 7104,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Douglas, Stuart",
+			"party": "Liberal Democrat",
+			"votes": 3840,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gilroy, Patsy",
+			"party": "Conservative Party",
+			"votes": 3660,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gunnion, Ray",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 609,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fellows, Marion",
+			"party": "Scottish National Party",
+			"votes": 27275,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Roy, Frank",
+			"party": "Labour Party",
+			"votes": 15377,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Gallacher, Meghan",
+			"party": "Conservative Party",
+			"votes": 3695,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Neil",
+			"party": "United Kingdom Independence Party",
+			"votes": 1289,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Laird, Ross",
+			"party": "Liberal Democrat",
+			"votes": 601,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

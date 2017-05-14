@@ -1,0 +1,99 @@
+{
+	"id": "E14000702",
+	"name": "Filton and Bradley Stoke",
+	"y2010": [
+		{
+			"candidate": "Lopresti, Jack",
+			"party": "Conservative Party",
+			"votes": 19686,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Boulton, Ian",
+			"party": "Labour Party",
+			"votes": 12772,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tyzack, Peter",
+			"party": "Liberal Democrat",
+			"votes": 12197,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1506,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, David",
+			"party": "British National Party",
+			"votes": 1328,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lucas, Jon",
+			"party": "Green Party",
+			"votes": 441,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Ruth",
+			"party": "Christian Party",
+			"votes": 199,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zero None of the Above, Vote",
+			"party": "ND",
+			"votes": 172,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lopresti, Jack",
+			"party": "Conservative Party",
+			"votes": 22920,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Boulton, Ian",
+			"party": "Labour Party",
+			"votes": 13082,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Ben",
+			"party": "United Kingdom Independence Party",
+			"votes": 7261,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bruce, Peter",
+			"party": "Liberal Democrat",
+			"votes": 3581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warner, Diana",
+			"party": "Green Party",
+			"votes": 2257,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

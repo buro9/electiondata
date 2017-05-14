@@ -1,0 +1,127 @@
+{
+	"id": "E14000762",
+	"name": "Isle of Wight",
+	"y2010": [
+		{
+			"candidate": "Turner, Andrew",
+			"party": "Conservative Party",
+			"votes": 32810,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wareham, Jill",
+			"party": "Liberal Democrat",
+			"votes": 22283,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chiverton, Mark",
+			"party": "Labour Party",
+			"votes": 8169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tarrant, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 2435,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clynch, Geof",
+			"party": "British National Party",
+			"votes": 1457,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunsire, Ian",
+			"party": "English Democrats",
+			"votes": 1233,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Keats, Bob",
+			"party": "Green Party",
+			"votes": 931,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Paul",
+			"party": "Mid England",
+			"votes": 616,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Pete",
+			"party": "Independent",
+			"votes": 175,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Randle-Jolliffe, Paul",
+			"party": "Independent",
+			"votes": 89,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Corby, Edward",
+			"party": "Independent",
+			"votes": 66,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Turner, Andrew",
+			"party": "Conservative Party",
+			"votes": 28591,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McKie, Iain",
+			"party": "United Kingdom Independence Party",
+			"votes": 14888,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lowthion, Vix",
+			"party": "Green Party",
+			"votes": 9404,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blackmore, Stewart",
+			"party": "Labour Party",
+			"votes": 8984,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goodall, David",
+			"party": "Liberal Democrat",
+			"votes": 5235,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephens, Ian",
+			"party": "Independent",
+			"votes": 3198,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

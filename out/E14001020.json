@@ -1,0 +1,85 @@
+{
+	"id": "E14001020",
+	"name": "Washington and Sunderland West",
+	"y2010": [
+		{
+			"candidate": "Hodgson, Sharon",
+			"party": "Labour Party",
+			"votes": 19615,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cuthbert, Ian",
+			"party": "Conservative Party",
+			"votes": 8157,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Andras, Peter",
+			"party": "Liberal Democrat",
+			"votes": 6382,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDonald, Ian",
+			"party": "British National Party",
+			"votes": 1913,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hudson, Linda",
+			"party": "United Kingdom Independence Party",
+			"votes": 1267,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hodgson, Sharon",
+			"party": "Labour Party",
+			"votes": 20478,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Casey, Aileen",
+			"party": "United Kingdom Independence Party",
+			"votes": 7321,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dhillon, Bob",
+			"party": "Conservative Party",
+			"votes": 7033,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murphy, Anthony",
+			"party": "Green Party",
+			"votes": 1091,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haney, Dominic",
+			"party": "Liberal Democrat",
+			"votes": 993,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duncan, Gary",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 341,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

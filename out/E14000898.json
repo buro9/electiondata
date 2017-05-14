@@ -1,0 +1,85 @@
+{
+	"id": "E14000898",
+	"name": "Rochester and Strood",
+	"y2010": [
+		{
+			"candidate": "Reckless, Mark",
+			"party": "Conservative Party",
+			"votes": 23604,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Murray, Teresa",
+			"party": "Labour Party",
+			"votes": 13651,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Juby, Geoffrey",
+			"party": "Liberal Democrat",
+			"votes": 7800,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sands, Ron",
+			"party": "English Democrats",
+			"votes": 2182,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marchant, Simon",
+			"party": "Green Party",
+			"votes": 734,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Tolhurst, Kelly",
+			"party": "Conservative Party",
+			"votes": 23142,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Reckless, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 16009,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Naushabah",
+			"party": "Labour Party",
+			"votes": 10396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gregory, Clive",
+			"party": "Green Party",
+			"votes": 1516,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bray, Prue",
+			"party": "Liberal Democrat",
+			"votes": 1251,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burn, Daniel",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 202,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

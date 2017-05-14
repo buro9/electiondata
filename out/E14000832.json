@@ -1,0 +1,99 @@
+{
+	"id": "E14000832",
+	"name": "Newcastle upon Tyne East",
+	"y2010": [
+		{
+			"candidate": "Brown, Nicholas",
+			"party": "Labour Party",
+			"votes": 17043,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Taylor, Wendy",
+			"party": "Liberal Democrat",
+			"votes": 12590,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Llewellyn, Dominic",
+			"party": "Conservative Party",
+			"votes": 6068,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spence, Alan",
+			"party": "British National Party",
+			"votes": 1342,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Andrew",
+			"party": "Green Party",
+			"votes": 620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Levy, Martin",
+			"party": "Comm",
+			"votes": 177,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brown, Nicho;as",
+			"party": "Labour Party",
+			"votes": 19378,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Crute, Duncan",
+			"party": "Conservative Party",
+			"votes": 6884,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson-Young, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 4910,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Wendy",
+			"party": "Liberal Democrat",
+			"votes": 4332,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Andrew",
+			"party": "Green Party",
+			"votes": 3426,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Paul",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 170,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevenson, Susan",
+			"party": "Comm",
+			"votes": 122,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

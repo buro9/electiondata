@@ -1,0 +1,85 @@
+{
+	"id": "E14000816",
+	"name": "Norfolk Mid",
+	"y2010": [
+		{
+			"candidate": "Freeman, George",
+			"party": "Conservative Party",
+			"votes": 25123,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Newman, David",
+			"party": "Liberal Democrat",
+			"votes": 11267,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Elizabeth",
+			"party": "Labour Party",
+			"votes": 8857,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coke, Toby",
+			"party": "United Kingdom Independence Party",
+			"votes": 2800,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Birt, Tim",
+			"party": "Green Party",
+			"votes": 1457,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Christine",
+			"party": "British National Party",
+			"votes": 1261,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Freeman, George",
+			"party": "Conservative Party",
+			"votes": 27206,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Coke, Anna",
+			"party": "United Kingdom Independence Party",
+			"votes": 9930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, Harry ",
+			"party": "Labour Party",
+			"votes": 9585,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Speed, Paul",
+			"party": "Liberal Democrat",
+			"votes": 3300,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Simeon",
+			"party": "Green Party",
+			"votes": 2191,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

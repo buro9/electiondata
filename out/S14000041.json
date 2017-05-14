@@ -1,0 +1,99 @@
+{
+	"id": "S14000041",
+	"name": "Kirkcaldy and Cowdenbeath",
+	"y2010": [
+		{
+			"candidate": "Brown, Gordon",
+			"party": "Labour Party",
+			"votes": 29559,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Chapman, Douglas",
+			"party": "Scottish National Party",
+			"votes": 6550,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mainland, John",
+			"party": "Liberal Democrat",
+			"votes": 4269,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paterson, Lindsay",
+			"party": "Conservative Party",
+			"votes": 4258,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adams, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 760,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Archibald, Susan",
+			"party": "Independent",
+			"votes": 184,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacLaren of MacLaren, Donald",
+			"party": "Independent",
+			"votes": 165,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Derek",
+			"party": "Land",
+			"votes": 57,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mullin, Roger",
+			"party": "Scottish National Party",
+			"votes": 27628,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Selbie, Kenny",
+			"party": "Labour Party",
+			"votes": 17654,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dempsey, Dave",
+			"party": "Conservative Party",
+			"votes": 5223,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Neill, Jack",
+			"party": "United Kingdom Independence Party",
+			"votes": 1237,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leslie, Callum",
+			"party": "Liberal Democrat",
+			"votes": 1150,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

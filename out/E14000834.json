@@ -1,0 +1,78 @@
+{
+	"id": "E14000834",
+	"name": "Newcastle-under-Lyme",
+	"y2010": [
+		{
+			"candidate": "Farrelly, Paul",
+			"party": "Labour Party",
+			"votes": 16393,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jenrick, Robert",
+			"party": "Conservative Party",
+			"votes": 14841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Nigel",
+			"party": "Liberal Democrat",
+			"votes": 8466,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nixon, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 3491,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Farrelly, Paul",
+			"party": "Labour Party",
+			"votes": 16520,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cox, Tony",
+			"party": "Conservative Party",
+			"votes": 15870,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Phil",
+			"party": "United Kingdom Independence Party",
+			"votes": 7252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilkes, Ian",
+			"party": "Liberal Democrat",
+			"votes": 1826,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibbons, Sam",
+			"party": "Green Party",
+			"votes": 1246,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nixon, David",
+			"party": "Independent",
+			"votes": 283,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

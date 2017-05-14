@@ -1,0 +1,85 @@
+{
+	"id": "E14000800",
+	"name": "Luton North",
+	"y2010": [
+		{
+			"candidate": "Hopkins, Kelvin",
+			"party": "Labour Party",
+			"votes": 21192,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Brier, Jeremy",
+			"party": "Conservative Party",
+			"votes": 13672,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martins, Rabi",
+			"party": "Liberal Democrat",
+			"votes": 4784,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Colin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1564,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rose, Shelley",
+			"party": "British National Party",
+			"votes": 1316,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Simon",
+			"party": "Green Party",
+			"votes": 490,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hopkins, Kelvin",
+			"party": "Labour Party",
+			"votes": 22243,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Russell, Dean",
+			"party": "Conservative Party",
+			"votes": 12739,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Allan",
+			"party": "United Kingdom Independence Party",
+			"votes": 5318,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ulzaman, Aroosa",
+			"party": "Liberal Democrat",
+			"votes": 1299,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ahmed, Sofiya",
+			"party": "Green Party",
+			"votes": 972,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "E14000631",
+	"name": "Chesham and Amersham",
+	"y2010": [
+		{
+			"candidate": "Gillan, Cheryl",
+			"party": "Conservative Party",
+			"votes": 31658,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Starkey, Tim",
+			"party": "Liberal Democrat",
+			"votes": 14948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gajadharsingh, Anthony",
+			"party": "Labour Party",
+			"votes": 2942,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevens, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 2129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilkins, Nick",
+			"party": "Green Party",
+			"votes": 767,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gillan, Cheryl",
+			"party": "Conservative Party",
+			"votes": 31138,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Stevens, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 7218,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Benjamin ",
+			"party": "Labour Party",
+			"votes": 6712,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Kirsten",
+			"party": "Liberal Democrat",
+			"votes": 4761,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Gillian",
+			"party": "Green Party",
+			"votes": 2901,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

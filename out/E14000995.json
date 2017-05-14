@@ -1,0 +1,99 @@
+{
+	"id": "E14000995",
+	"name": "Thurrock",
+	"y2010": [
+		{
+			"candidate": "Doyle-Price, Jackie",
+			"party": "Conservative Party",
+			"votes": 16869,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Morris, Carl",
+			"party": "Labour Party",
+			"votes": 16777,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davis, Carys",
+			"party": "Liberal Democrat",
+			"votes": 4901,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Colgate, Emma",
+			"party": "British National Party",
+			"votes": 3618,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Broad, Clive",
+			"party": "United Kingdom Independence Party",
+			"votes": 3390,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Araba, Arinola",
+			"party": "Christian Party",
+			"votes": 266,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Doyle-Price, Jackie",
+			"party": "Conservative Party",
+			"votes": 16692,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Billington, Polly",
+			"party": "Labour Party",
+			"votes": 16156,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aker, Tim",
+			"party": "United Kingdom Independence Party",
+			"votes": 15718,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jamieson-Ball, Rhodri",
+			"party": "Liberal Democrat",
+			"votes": 644,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barnes, Jamie",
+			"party": "CISTAP",
+			"votes": 244,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Munyambu, Daniel",
+			"party": "Independent",
+			"votes": 79,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kristilolu, Aba",
+			"party": "All People's Party",
+			"votes": 31,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

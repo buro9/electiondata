@@ -1,0 +1,127 @@
+{
+	"id": "W07000053",
+	"name": "Torfaen",
+	"y2010": [
+		{
+			"candidate": "Murphy, Paul",
+			"party": "Labour Party",
+			"votes": 16847,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Burns, Jonathan",
+			"party": "Conservative Party",
+			"votes": 7541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morgan, David",
+			"party": "Liberal Democrat",
+			"votes": 6264,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elis, Rhys ab",
+			"party": "Plaid Cymru",
+			"votes": 2005,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Noble, Jennifer",
+			"party": "British National Party",
+			"votes": 1657,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wildgust, Fred",
+			"party": "Independent",
+			"votes": 1419,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunn, Gareth",
+			"party": "United Kingdom Independence Party",
+			"votes": 862,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner-Thomas, Richard",
+			"party": "Independent",
+			"votes": 607,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, Owen",
+			"party": "Green Party",
+			"votes": 438,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Thomas-Symonds, Nick",
+			"party": "Labour Party",
+			"votes": 16938,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Graham",
+			"party": "Conservative Party",
+			"votes": 8769,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beswick, Ken",
+			"party": "United Kingdom Independence Party",
+			"votes": 7203,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hackley-Green, Boydd",
+			"party": "Plaid Cymru",
+			"votes": 2169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Willott, Alison",
+			"party": "Liberal Democrat",
+			"votes": 1271,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooke, Matt",
+			"party": "Green Party",
+			"votes": 746,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cox, John",
+			"party": "Socialist Labour Party",
+			"votes": 697,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Mark",
+			"party": "Comm",
+			"votes": 144,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

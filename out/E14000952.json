@@ -1,0 +1,85 @@
+{
+	"id": "E14000952",
+	"name": "Norfolk South West",
+	"y2010": [
+		{
+			"candidate": "Truss, Elizabeth",
+			"party": "Conservative Party",
+			"votes": 23753,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gordon, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 10613,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Peter",
+			"party": "Labour Party",
+			"votes": 9119,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hipsey, Kay",
+			"party": "United Kingdom Independence Party",
+			"votes": 3061,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearce, Dennis",
+			"party": "British National Party",
+			"votes": 1774,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Lori",
+			"party": "Green Party",
+			"votes": 830,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Truss, Elizabeth",
+			"party": "Conservative Party",
+			"votes": 25515,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smyth, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 11654,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Peter",
+			"party": "Labour Party",
+			"votes": 8649,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moss-Eccardt, Rupert",
+			"party": "Liberal Democrat",
+			"votes": 2217,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walmsley, Sandra",
+			"party": "Green Party",
+			"votes": 2075,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

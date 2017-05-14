@@ -1,0 +1,106 @@
+{
+	"id": "E14000751",
+	"name": "Hornchurch and Upminster",
+	"y2010": [
+		{
+			"candidate": "Watkinson, Angela",
+			"party": "Conservative Party",
+			"votes": 27469,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McGuirk, Kath",
+			"party": "Labour Party",
+			"votes": 11098,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chilvers, Karen",
+			"party": "Liberal Democrat",
+			"votes": 7426,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whelpley, William",
+			"party": "British National Party",
+			"votes": 3421,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Webb, Lawrence",
+			"party": "United Kingdom Independence Party",
+			"votes": 2848,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Melanie",
+			"party": "Green Party",
+			"votes": 542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Durant, David",
+			"party": "Independent",
+			"votes": 305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Olukotun, Johnson",
+			"party": "Christian Party",
+			"votes": 281,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Watkinson, Angela",
+			"party": "Conservative Party",
+			"votes": 27051,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Webb, Lawrence",
+			"party": "United Kingdom Independence Party",
+			"votes": 13977,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGeary, Paul",
+			"party": "Labour Party",
+			"votes": 11103,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mitchell, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 1501,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Melanie",
+			"party": "Green Party",
+			"votes": 1411,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Borg, Paul",
+			"party": "British National Party",
+			"votes": 193,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

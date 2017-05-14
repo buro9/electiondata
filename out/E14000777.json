@@ -1,0 +1,92 @@
+{
+	"id": "E14000777",
+	"name": "Leeds Central",
+	"y2010": [
+		{
+			"candidate": "Benn, Hilary",
+			"party": "Labour Party",
+			"votes": 18434,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Taylor, Michael",
+			"party": "Liberal Democrat",
+			"votes": 7789,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lamb, Alan",
+			"party": "Conservative Party",
+			"votes": 7541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meeson, Kevin",
+			"party": "British National Party",
+			"votes": 3066,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Procter, Dave",
+			"party": "Independent",
+			"votes": 409,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "One-Nil, We Beat The Scum",
+			"party": "ND",
+			"votes": 155,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Benn, Hilary",
+			"party": "Labour Party",
+			"votes": 24758,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wilson, Nicola",
+			"party": "Conservative Party",
+			"votes": 7791,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Senior, Luke",
+			"party": "United Kingdom Independence Party",
+			"votes": 7082,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hayton, Michael",
+			"party": "Green Party",
+			"votes": 3558,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spriggs, Emma",
+			"party": "Liberal Democrat",
+			"votes": 1529,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kitching, Liz",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 330,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

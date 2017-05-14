@@ -1,0 +1,92 @@
+{
+	"id": "E14000694",
+	"name": "Epsom and Ewell",
+	"y2010": [
+		{
+			"candidate": "Grayling, Chris",
+			"party": "Conservative Party",
+			"votes": 30868,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lees, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 14734,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Montgomery, Craig",
+			"party": "Labour Party",
+			"votes": 6538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wallace, Elizabeth",
+			"party": "United Kingdom Independence Party",
+			"votes": 2549,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ticher, Peter",
+			"party": "RRG",
+			"votes": 266,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Grayling, Christopher",
+			"party": "Conservative Party",
+			"votes": 33309,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Carlson, Sheila",
+			"party": "Labour Party",
+			"votes": 8866,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leach, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 7117,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gee, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 5002,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGrath, Susan",
+			"party": "Green Party",
+			"votes": 2116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blackman, Lionel",
+			"party": "Independent",
+			"votes": 612,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harfoot, Gareth",
+			"party": "Independent",
+			"votes": 121,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

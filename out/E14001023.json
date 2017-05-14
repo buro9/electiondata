@@ -1,0 +1,78 @@
+{
+	"id": "E14001023",
+	"name": "Wealden",
+	"y2010": [
+		{
+			"candidate": "Hendry, Charles",
+			"party": "Conservative Party",
+			"votes": 31090,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bowers, Chris",
+			"party": "Liberal Democrat",
+			"votes": 13911,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blackmore, Lorna",
+			"party": "Labour Party",
+			"votes": 5266,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Docker, Dan",
+			"party": "United Kingdom Independence Party",
+			"votes": 3319,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jonas, David",
+			"party": "Green Party",
+			"votes": 1383,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ghani, Nus",
+			"party": "Conservative Party",
+			"votes": 32508,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Griffiths, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 9541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curtis, Solomon",
+			"party": "Labour Party",
+			"votes": 6165,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goodall, Giles",
+			"party": "Liberal Democrat",
+			"votes": 5180,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Mark",
+			"party": "Green Party",
+			"votes": 3623,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

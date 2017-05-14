@@ -1,0 +1,99 @@
+{
+	"id": "S14000008",
+	"name": "Berwickshire, Roxburgh and Selkirk",
+	"y2010": [
+		{
+			"candidate": "Moore, Michael",
+			"party": "Liberal Democrat",
+			"votes": 22230,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lamont, John",
+			"party": "Conservative Party",
+			"votes": 16555,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miller, Ian",
+			"party": "Labour Party",
+			"votes": 5003,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wheelhouse, Paul",
+			"party": "Scottish National Party",
+			"votes": 4497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fowler, Sherry",
+			"party": "United Kingdom Independence Party",
+			"votes": 595,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Black, Chris",
+			"party": "Jacobite",
+			"votes": 134,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kerr, Calum",
+			"party": "Scottish National Party",
+			"votes": 20145,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Lamont, John",
+			"party": "Conservative Party",
+			"votes": 19817,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, Michael",
+			"party": "Liberal Democrat",
+			"votes": 10294,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd-Jones, Kenryck",
+			"party": "Labour Party",
+			"votes": 2700,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Neilson, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1316,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stewart, Pauline",
+			"party": "Green Party",
+			"votes": 631,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rae, Jesse",
+			"party": "Independent",
+			"votes": 135,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

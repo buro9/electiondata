@@ -1,0 +1,99 @@
+{
+	"id": "S14000034",
+	"name": "Glasgow South",
+	"y2010": [
+		{
+			"candidate": "Harris, Tom",
+			"party": "Labour Party",
+			"votes": 20736,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fleming, Malcolm",
+			"party": "Scottish National Party",
+			"votes": 8078,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mustapha, Shabnum",
+			"party": "Liberal Democrat",
+			"votes": 4739,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rankin, Davena",
+			"party": "Conservative Party",
+			"votes": 4592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Marie",
+			"party": "Green Party",
+			"votes": 961,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coyle, Mike",
+			"party": "British National Party",
+			"votes": 637,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Brian",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 351,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McDonald, Stewart",
+			"party": "Scottish National Party",
+			"votes": 26773,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Harris, Tom",
+			"party": "Labour Party",
+			"votes": 14504,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Thornton, Kyle",
+			"party": "Conservative Party",
+			"votes": 4752,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitelaw, Alastair",
+			"party": "Green Party",
+			"votes": 1431,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hoyle, Ewan",
+			"party": "Liberal Democrat",
+			"votes": 1019,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Brian",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 299,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

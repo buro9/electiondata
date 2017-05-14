@@ -1,0 +1,92 @@
+{
+	"id": "E14000600",
+	"name": "Bristol North West",
+	"y2010": [
+		{
+			"candidate": "Leslie, Charlotte",
+			"party": "Conservative Party",
+			"votes": 19115,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Harrod, Paul",
+			"party": "Liberal Democrat",
+			"votes": 15841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Townend, Sam",
+			"party": "Labour Party",
+			"votes": 13059,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Upton, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 1175,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carr, Ray",
+			"party": "English Democrats",
+			"votes": 635,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunn, Alex",
+			"party": "Green Party",
+			"votes": 511,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Leslie, Charlotte",
+			"party": "Conservative Party",
+			"votes": 22767,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Darren",
+			"party": "Labour Party",
+			"votes": 17823,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Frost, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 4889,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campion-Smith, Clare",
+			"party": "Liberal Democrat",
+			"votes": 3214,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Quinnell, Justin",
+			"party": "Green Party",
+			"votes": 2952,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lemon, Anne",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 160,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

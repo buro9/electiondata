@@ -1,0 +1,71 @@
+{
+	"id": "S14000011",
+	"name": "Coatbridge, Chryston and Bellshill",
+	"y2010": [
+		{
+			"candidate": "Clarke, Tom",
+			"party": "Labour Party",
+			"votes": 27728,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McGlinchey, Frances",
+			"party": "Scottish National Party",
+			"votes": 7014,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elder, Kenneth",
+			"party": "Liberal Democrat",
+			"votes": 3519,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Houston, Fiona",
+			"party": "Conservative Party",
+			"votes": 3374,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Boswell, Philip",
+			"party": "Scottish National Party",
+			"votes": 28696,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Clarke, Tom",
+			"party": "Labour Party",
+			"votes": 17195,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Fraser, Mhairi",
+			"party": "Conservative Party",
+			"votes": 3209,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cairns, Scott",
+			"party": "United Kingdom Independence Party",
+			"votes": 1049,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Robert",
+			"party": "Liberal Democrat",
+			"votes": 549,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

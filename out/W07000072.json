@@ -1,0 +1,106 @@
+{
+	"id": "W07000072",
+	"name": "Blaenau Gwent",
+	"y2010": [
+		{
+			"candidate": "Smith, Nick",
+			"party": "Labour Party",
+			"votes": 16974,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Dai",
+			"party": "Blaenau Voice",
+			"votes": 6458,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Matt",
+			"party": "Liberal Democrat",
+			"votes": 3285,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevenson, Liz",
+			"party": "Conservative Party",
+			"votes": 2265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Rhodri",
+			"party": "Plaid Cymru",
+			"votes": 1333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "King, Anthony",
+			"party": "British National Party",
+			"votes": 1211,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kocan, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 488,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Connell, Alyson",
+			"party": "Soc Lab",
+			"votes": 381,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Nick",
+			"party": "Labour Party",
+			"votes": 18380,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Boucher, Susan",
+			"party": "United Kingdom Independence Party",
+			"votes": 5677,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "West, Tracey",
+			"party": "Conservative Party",
+			"votes": 3419,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Steffan",
+			"party": "Plaid Cymru",
+			"votes": 2849,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pond, Mark",
+			"party": "Green Party",
+			"votes": 738,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rees, Samuel",
+			"party": "Liberal Democrat",
+			"votes": 620,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

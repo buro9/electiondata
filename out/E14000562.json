@@ -1,0 +1,92 @@
+{
+	"id": "E14000562",
+	"name": "Birmingham Hall Green",
+	"y2010": [
+		{
+			"candidate": "Godsiff, Roger",
+			"party": "Labour Party",
+			"votes": 16039,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Yaqoob, Salma",
+			"party": "Respect Party",
+			"votes": 12240,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Jerry",
+			"party": "Liberal Democrat",
+			"votes": 11988,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barker, Jo",
+			"party": "Conservative Party",
+			"votes": 7320,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blumenthal, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gardner, Andrew",
+			"party": "Independent",
+			"votes": 190,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Godsiff, Roger",
+			"party": "Labour Party",
+			"votes": 28147,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bird, James",
+			"party": "Conservative Party",
+			"votes": 8329,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Jerry",
+			"party": "Liberal Democrat",
+			"votes": 5459,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stanton, Elly",
+			"party": "Green Party",
+			"votes": 2200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mondair, Rashpal",
+			"party": "United Kingdom Independence Party",
+			"votes": 2131,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peer, Shiraz",
+			"party": "Respect Party",
+			"votes": 780,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

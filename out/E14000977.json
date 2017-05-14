@@ -1,0 +1,99 @@
+{
+	"id": "E14000977",
+	"name": "Stratford-on-Avon",
+	"y2010": [
+		{
+			"candidate": "Zahawi, Nadhim",
+			"party": "Conservative Party",
+			"votes": 26052,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Turner, Martin",
+			"party": "Liberal Democrat",
+			"votes": 14706,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnston, Robert",
+			"party": "Labour Party",
+			"votes": 4809,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parsons, Brett",
+			"party": "United Kingdom Independence Party",
+			"votes": 1846,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, George",
+			"party": "British National Party",
+			"votes": 1097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Basnett, Neil",
+			"party": "Independent",
+			"votes": 1032,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Varga, Karen",
+			"party": "Green Party",
+			"votes": 527,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bishop, Fred",
+			"party": "English Democrats",
+			"votes": 473,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Zahawi, Nadhim",
+			"party": "Conservative Party",
+			"votes": 29674,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fila, Edward",
+			"party": "United Kingdom Independence Party",
+			"votes": 6798,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kenner, Jeff",
+			"party": "Labour Party",
+			"votes": 6677,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adams, Elizabeth",
+			"party": "Liberal Democrat",
+			"votes": 6182,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Giles, Dominic",
+			"party": "Green Party",
+			"votes": 2128,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

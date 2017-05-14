@@ -1,0 +1,92 @@
+{
+	"id": "E14000793",
+	"name": "Liverpool Riverside",
+	"y2010": [
+		{
+			"candidate": "Ellman, Louise",
+			"party": "Labour Party",
+			"votes": 22998,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Marbrow, Richard",
+			"party": "Liberal Democrat",
+			"votes": 8825,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wu, Kegang",
+			"party": "Conservative Party",
+			"votes": 4243,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crone, Tom",
+			"party": "Green Party",
+			"votes": 1355,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stafford, Peter",
+			"party": "British National Party",
+			"votes": 706,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gaskell, Pat",
+			"party": "United Kingdom Independence Party",
+			"votes": 674,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ellman, Louise",
+			"party": "Labour Party",
+			"votes": 29835,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dobson, Martin",
+			"party": "Green Party",
+			"votes": 5372,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ng, Jackson",
+			"party": "Conservative Party",
+			"votes": 4245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chiffers, Joe",
+			"party": "United Kingdom Independence Party",
+			"votes": 2510,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Childs, Paul",
+			"party": "Liberal Democrat",
+			"votes": 1719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mulhearn, Tony",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 582,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

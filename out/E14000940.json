@@ -1,0 +1,71 @@
+{
+	"id": "E14000940",
+	"name": "Leicestershire South",
+	"y2010": [
+		{
+			"candidate": "Robathan, Andrew",
+			"party": "Conservative Party",
+			"votes": 27000,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ayesh, Aladdin",
+			"party": "Liberal Democrat",
+			"votes": 11476,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gimson, Sally",
+			"party": "Labour Party",
+			"votes": 11392,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Preston, Paul",
+			"party": "British National Party",
+			"votes": 2721,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1988,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Costa, Alberto",
+			"party": "Conservative Party",
+			"votes": 28700,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hack, Amanda",
+			"party": "Labour Party",
+			"votes": 11876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mahoney, Barry",
+			"party": "United Kingdom Independence Party",
+			"votes": 9363,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Welsh, Geoffrey",
+			"party": "Liberal Democrat",
+			"votes": 3987,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

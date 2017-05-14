@@ -1,0 +1,106 @@
+{
+	"id": "W07000078",
+	"name": "Vale of Glamorgan",
+	"y2010": [
+		{
+			"candidate": "Cairns, Alun",
+			"party": "Conservative Party",
+			"votes": 20341,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Alana",
+			"party": "Labour Party",
+			"votes": 16034,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parrott, Eluned",
+			"party": "Liberal Democrat",
+			"votes": 7403,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Ian",
+			"party": "Plaid Cymru",
+			"votes": 2667,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mahoney, Kevin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1529,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Rhodri",
+			"party": "Green Party",
+			"votes": 457,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harrold, John",
+			"party": "Christian Party",
+			"votes": 236,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cairns, Alun",
+			"party": "Conservative Party",
+			"votes": 23607,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Elmore, Chris",
+			"party": "Labour Party",
+			"votes": 16727,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mahoney, Kevin",
+			"party": "United Kingdom Independence Party",
+			"votes": 5489,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Ian",
+			"party": "Plaid Cymru",
+			"votes": 2869,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morgan, David",
+			"party": "Liberal Democrat",
+			"votes": 1309,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Armstrong, Alan",
+			"party": "Green Party",
+			"votes": 1054,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reed, Steve",
+			"party": "CISTAP",
+			"votes": 238,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

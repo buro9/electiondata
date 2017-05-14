@@ -1,0 +1,78 @@
+{
+	"id": "E14000722",
+	"name": "Halesowen and Rowley Regis",
+	"y2010": [
+		{
+			"candidate": "Morris, James",
+			"party": "Conservative Party",
+			"votes": 18115,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hayman, Sue",
+			"party": "Labour Party",
+			"votes": 16092,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tibbets, Philip",
+			"party": "Liberal Democrat",
+			"votes": 6515,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baddeley, Derek",
+			"party": "United Kingdom Independence Party",
+			"votes": 2824,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Derek",
+			"party": "Independent",
+			"votes": 433,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Morris, James",
+			"party": "Conservative Party",
+			"votes": 18933,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Peacock, Stephanie",
+			"party": "Labour Party",
+			"votes": 15851,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Perks, Dean",
+			"party": "United Kingdom Independence Party",
+			"votes": 7280,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tyzack, Peter",
+			"party": "Liberal Democrat",
+			"votes": 905,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Payne, John",
+			"party": "Green Party",
+			"votes": 849,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

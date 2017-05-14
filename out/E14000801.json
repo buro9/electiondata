@@ -1,0 +1,141 @@
+{
+	"id": "E14000801",
+	"name": "Luton South",
+	"y2010": [
+		{
+			"candidate": "Shuker, Gavin",
+			"party": "Lab Co-op",
+			"votes": 14725,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Huddleston, Nigel",
+			"party": "Conservative Party",
+			"votes": 12396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hussain, Qurban",
+			"party": "Liberal Democrat",
+			"votes": 9567,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rantzen, Esther",
+			"party": "Ind Rantzen",
+			"votes": 1872,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blakey, Tony",
+			"party": "British National Party",
+			"votes": 1299,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawman, Charles",
+			"party": "United Kingdom Independence Party",
+			"votes": 975,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rhodes, Stephen",
+			"party": "Independent",
+			"votes": 463,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scheimann, Marc",
+			"party": "Green Party",
+			"votes": 366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Joe",
+			"party": "Independent",
+			"votes": 264,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Choudhury, Faruk",
+			"party": "Independent",
+			"votes": 130,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lathwell, Stephen",
+			"party": "Independent",
+			"votes": 84,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sweeney, Frank",
+			"party": "Workers' Revolutionary Party",
+			"votes": 75,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Shuker, Gavin",
+			"party": "Labour Party",
+			"votes": 18660,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Redmond, Katie",
+			"party": "Conservative Party",
+			"votes": 12949,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rehman, Muhammad",
+			"party": "United Kingdom Independence Party",
+			"votes": 5129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ahmed, Ashuk",
+			"party": "Liberal Democrat",
+			"votes": 3183,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Simon",
+			"party": "Green Party",
+			"votes": 1237,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malik, Attiq",
+			"party": "Independent",
+			"votes": 900,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weston, Paul",
+			"party": "Independent",
+			"votes": 158,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"id": "E14000943",
+	"name": "South Ribble",
+	"y2010": [
+		{
+			"candidate": "Fullbrook, Lorraine",
+			"party": "Conservative Party",
+			"votes": 23396,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Borrow, David",
+			"party": "Labour Party",
+			"votes": 17842,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Fisher, Peter",
+			"party": "Liberal Democrat",
+			"votes": 7271,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duxbury, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1895,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gauci, Rosalind",
+			"party": "British National Party",
+			"votes": 1054,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kennedy, Seema",
+			"party": "Conservative Party",
+			"votes": 24313,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bennett, Veronica",
+			"party": "Labour Party",
+			"votes": 18368,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gallagher, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7377,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGuire, Sue",
+			"party": "Liberal Democrat",
+			"votes": 2312,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

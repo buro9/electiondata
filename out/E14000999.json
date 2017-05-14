@@ -1,0 +1,85 @@
+{
+	"id": "E14000999",
+	"name": "Torbay",
+	"y2010": [
+		{
+			"candidate": "Sanders, Adrian",
+			"party": "Liberal Democrat",
+			"votes": 23126,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wood, Marcus",
+			"party": "Conservative Party",
+			"votes": 19048,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pedrick-Friend, David",
+			"party": "Labour Party",
+			"votes": 3231,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parrott, Julien",
+			"party": "United Kingdom Independence Party",
+			"votes": 2628,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Conway, Ann",
+			"party": "British National Party",
+			"votes": 709,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moss, Sam",
+			"party": "Green Party",
+			"votes": 468,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Foster, Kevin ",
+			"party": "Conservative Party",
+			"votes": 19551,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Sanders, Adrian",
+			"party": "Liberal Democrat",
+			"votes": 16265,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "McIntyre, Tony",
+			"party": "United Kingdom Independence Party",
+			"votes": 6540,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maddock, Su",
+			"party": "Labour Party",
+			"votes": 4166,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hermes, Paula",
+			"party": "Green Party",
+			"votes": 1557,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

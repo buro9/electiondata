@@ -1,0 +1,99 @@
+{
+	"id": "S14000035",
+	"name": "Glasgow South West",
+	"y2010": [
+		{
+			"candidate": "Davidson, Ian",
+			"party": "Lab Co-op",
+			"votes": 19863,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Stephens, Chris",
+			"party": "Scottish National Party",
+			"votes": 5192,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nelson, Isabel",
+			"party": "Liberal Democrat",
+			"votes": 2870,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henderson Forrest, Maya",
+			"party": "Conservative Party",
+			"votes": 2084,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sheridan, Tommy",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 931,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Orr, David",
+			"party": "British National Party",
+			"votes": 841,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stephens, Christopher",
+			"party": "Scottish National Party",
+			"votes": 23388,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Davidson, Ian",
+			"party": "Labour Party",
+			"votes": 13438,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "McCaskill, Gordon",
+			"party": "Conservative Party",
+			"votes": 2036,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hemy, Sarah",
+			"party": "United Kingdom Independence Party",
+			"votes": 970,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Templeton, Sean",
+			"party": "Green Party",
+			"votes": 507,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nelson, Isabel",
+			"party": "Liberal Democrat",
+			"votes": 406,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bonnar, Bill",
+			"party": "Soc",
+			"votes": 176,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

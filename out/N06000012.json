@@ -1,0 +1,120 @@
+{
+	"id": "N06000012",
+	"name": "Antrim North",
+	"y2010": [
+		{
+			"candidate": "Paisley Junior, Ian",
+			"party": "Democratic Unionist Party",
+			"votes": 19672,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Allister, Jim",
+			"party": "Traditional Unionist Voice",
+			"votes": 7114,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKay, Daithi",
+			"party": "Sinn Fein",
+			"votes": 5265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Armstrong, Irwin",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 4634,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Loan, Declan",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 3738,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunlop, Jayne",
+			"party": "Alliance",
+			"votes": 1368,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cubitt, Lyle",
+			"party": "ND",
+			"votes": 606,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Paisley, Ian",
+			"party": "Democratic Unionist Party",
+			"votes": 18107,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gaston, Timothy",
+			"party": "Traditional Unionist Voice",
+			"votes": 6561,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKay, Daithi",
+			"party": "Sinn Fein",
+			"votes": 5143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Swann, Robin",
+			"party": "Ulster Unionist Party",
+			"votes": 5054,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Loan, Declan",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 2925,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunlop, Jayne",
+			"party": "Alliance",
+			"votes": 2351,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 1341,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Freeman, Carol",
+			"party": "Conservative Party",
+			"votes": 368,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Palmer, Thomas",
+			"party": "Independent",
+			"votes": 57,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

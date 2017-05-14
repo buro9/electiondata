@@ -1,0 +1,92 @@
+{
+	"id": "E14000854",
+	"name": "Warwickshire North",
+	"y2010": [
+		{
+			"candidate": "Byles, Dan",
+			"party": "Conservative Party",
+			"votes": 18993,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "O'Brien, Mike",
+			"party": "Labour Party",
+			"votes": 18939,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 5481,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holmes, Jason",
+			"party": "British National Party",
+			"votes": 2106,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fowler, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 1335,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lane, David",
+			"party": "English Democrats",
+			"votes": 411,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Tracey, Craig",
+			"party": "Conservative Party",
+			"votes": 20042,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "O'Brien, Mike",
+			"party": "Labour Party",
+			"votes": 17069,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cash, William",
+			"party": "United Kingdom Independence Party",
+			"votes": 8256,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beddow, Alan",
+			"party": "Liberal Democrat",
+			"votes": 978,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bonner, Ian",
+			"party": "Green Party",
+			"votes": 894,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hunter, Eileen",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 138,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

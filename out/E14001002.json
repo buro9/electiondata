@@ -1,0 +1,127 @@
+{
+	"id": "E14001002",
+	"name": "Tottenham",
+	"y2010": [
+		{
+			"candidate": "Lammy, David",
+			"party": "Labour Party",
+			"votes": 24128,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Schmitz, David",
+			"party": "Liberal Democrat",
+			"votes": 7197,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sullivan, Sean",
+			"party": "Conservative Party",
+			"votes": 6064,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Jenny",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 1057,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Anne",
+			"party": "Green Party",
+			"votes": 980,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenzie, Winston",
+			"party": "United Kingdom Independence Party",
+			"votes": 466,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watson, Neville",
+			"party": "Ind People",
+			"votes": 265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kadara, Abimbola",
+			"party": "Christian Party",
+			"votes": 262,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Sheik",
+			"party": "Independent",
+			"votes": 143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carr, Errol",
+			"party": "Independent",
+			"votes": 125,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lammy, David",
+			"party": "Labour Party",
+			"votes": 28654,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mrozinski, Stefan",
+			"party": "Conservative Party",
+			"votes": 5090,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Searle, Dee",
+			"party": "Green Party",
+			"votes": 3931,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ozen, Turhan",
+			"party": "Liberal Democrat",
+			"votes": 1756,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saeed, Tariq",
+			"party": "United Kingdom Independence Party",
+			"votes": 1512,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Jenny",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 1324,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mahmood, Tania",
+			"party": "TPP",
+			"votes": 291,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

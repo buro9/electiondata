@@ -1,0 +1,106 @@
+{
+	"id": "E14001061",
+	"name": "York Central",
+	"y2010": [
+		{
+			"candidate": "Bayley, Hugh",
+			"party": "Labour Party",
+			"votes": 18573,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wade Weeks, Susan",
+			"party": "Conservative Party",
+			"votes": 12122,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vassie, Christian",
+			"party": "Liberal Democrat",
+			"votes": 11694,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chase, Andy",
+			"party": "Green Party",
+			"votes": 1669,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Jeff",
+			"party": "British National Party",
+			"votes": 1171,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Abbott, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vee, Eddie",
+			"party": "Monster Raving Loony Party",
+			"votes": 154,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Maskell, Rachael",
+			"party": "Labour Party",
+			"votes": 20212,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McIlveen, Robert",
+			"party": "Conservative Party",
+			"votes": 13496,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Guest, Ken",
+			"party": "United Kingdom Independence Party",
+			"votes": 4795,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tyler, Jonathan",
+			"party": "Green Party",
+			"votes": 4791,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Love, Nick",
+			"party": "Liberal Democrat",
+			"votes": 3804,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitwood, Chris",
+			"party": "Yorkshire First",
+			"votes": 291,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ollerhead, Megan",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 288,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

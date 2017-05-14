@@ -1,0 +1,92 @@
+{
+	"id": "E14000535",
+	"name": "Ashfield",
+	"y2010": [
+		{
+			"candidate": "de Piero, Gloria",
+			"party": "Labour Party",
+			"votes": 16239,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Zadrozny, Jason",
+			"party": "Liberal Democrat",
+			"votes": 16047,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hickton, Garry",
+			"party": "Conservative Party",
+			"votes": 10698,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holmes, Edward",
+			"party": "British National Party",
+			"votes": 2781,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ellis, Tony",
+			"party": "English Democrats",
+			"votes": 1102,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coleman, Terry",
+			"party": "United Kingdom Independence Party",
+			"votes": 933,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Eddie",
+			"party": "Independent",
+			"votes": 396,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "De Piero, Gloria",
+			"party": "Labour Party",
+			"votes": 19448,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Harrison, Helen",
+			"party": "Conservative Party",
+			"votes": 10628,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ashcroft, Simon",
+			"party": "United Kingdom Independence Party",
+			"votes": 10150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Philip",
+			"party": "Liberal Democrat",
+			"votes": 7030,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Buchanan, Mike",
+			"party": "Justice for Men \u0026 Boys",
+			"votes": 153,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

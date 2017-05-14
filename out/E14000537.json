@@ -1,0 +1,78 @@
+{
+	"id": "E14000537",
+	"name": "Ashton Under Lyne",
+	"y2010": [
+		{
+			"candidate": "Heyes, David",
+			"party": "Labour Party",
+			"votes": 18604,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kennedy, Seema",
+			"party": "Conservative Party",
+			"votes": 9510,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Larkin, Paul",
+			"party": "Liberal Democrat",
+			"votes": 5703,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lomas, David",
+			"party": "British National Party",
+			"votes": 2929,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McManus, Angela",
+			"party": "United Kingdom Independence Party",
+			"votes": 1686,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Rayner, Angela",
+			"party": "Labour Party",
+			"votes": 19366,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Sutton, Tracy",
+			"party": "Conservative Party",
+			"votes": 8610,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Maurice",
+			"party": "United Kingdom Independence Party",
+			"votes": 8468,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Charlotte",
+			"party": "Green Party",
+			"votes": 1531,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hicks, Carly",
+			"party": "Liberal Democrat",
+			"votes": 943,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

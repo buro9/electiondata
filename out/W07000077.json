@@ -1,0 +1,120 @@
+{
+	"id": "W07000077",
+	"name": "Islwyn",
+	"y2010": [
+		{
+			"candidate": "Evans, Christopher",
+			"party": "Lab Co-op",
+			"votes": 17069,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Thomas, Daniel",
+			"party": "Conservative Party",
+			"votes": 4854,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Steffan",
+			"party": "Plaid Cymru",
+			"votes": 4518,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, Asghar",
+			"party": "Liberal Democrat",
+			"votes": 3597,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rees, Dave",
+			"party": "Independent",
+			"votes": 1495,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Voisey, John",
+			"party": "British National Party",
+			"votes": 1320,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crew, Jason",
+			"party": "United Kingdom Independence Party",
+			"votes": 936,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Paul",
+			"party": "Independent",
+			"votes": 901,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Evans, Chris",
+			"party": "Labour Party",
+			"votes": 17336,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smyth, Joe",
+			"party": "United Kingdom Independence Party",
+			"votes": 6932,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Laura",
+			"party": "Conservative Party",
+			"votes": 5366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ackerman, Lyn",
+			"party": "Plaid Cymru",
+			"votes": 3794,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "D'Cruz, Brendan",
+			"party": "Liberal Democrat",
+			"votes": 950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Varley, Peter",
+			"party": "Green Party",
+			"votes": 659,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Von Magpie, Von",
+			"party": "Monster Raving Loony Party",
+			"votes": 213,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rawcliffe, Josh",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 151,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

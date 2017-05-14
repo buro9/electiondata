@@ -1,0 +1,113 @@
+{
+	"id": "S14000032",
+	"name": "Glasgow North East",
+	"y2010": [
+		{
+			"candidate": "Bain, Willie",
+			"party": "Labour Party",
+			"votes": 20100,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McAllister, Billy",
+			"party": "Scottish National Party",
+			"votes": 4158,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baxendale, Eileen",
+			"party": "Liberal Democrat",
+			"votes": 2262,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davidson, Ruth",
+			"party": "Conservative Party",
+			"votes": 1569,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hamilton, Walter",
+			"party": "British National Party",
+			"votes": 798,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Graham",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McVey, Kevin",
+			"party": "Scottish Socialist Party",
+			"votes": 179,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Berrington, Jim",
+			"party": "Soc Lab",
+			"votes": 156,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McLaughlin, Anne",
+			"party": "Scottish National Party",
+			"votes": 21976,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bain, Willie ",
+			"party": "Labour Party",
+			"votes": 12754,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Wells, Annie",
+			"party": "Conservative Party",
+			"votes": 1769,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kitson, Zara",
+			"party": "Green Party",
+			"votes": 615,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baxendale, Eileen",
+			"party": "Liberal Democrat",
+			"votes": 300,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Geoff",
+			"party": "CISTAP",
+			"votes": 225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cocozza, Jamie",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 218,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

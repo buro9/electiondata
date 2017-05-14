@@ -1,0 +1,106 @@
+{
+	"id": "E14000716",
+	"name": "Great Grimsby",
+	"y2010": [
+		{
+			"candidate": "Mitchell, Austin",
+			"party": "Labour Party",
+			"votes": 10777,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ayling, Victoria",
+			"party": "Conservative Party",
+			"votes": 10063,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "de Freitas, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 7388,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hudson, Henry",
+			"party": "United Kingdom Independence Party",
+			"votes": 2043,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fyfe, Steve",
+			"party": "British National Party",
+			"votes": 1517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Ernie",
+			"party": "Independent",
+			"votes": 835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howe, Adrian",
+			"party": "PNDP",
+			"votes": 331,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Onn, Melanie",
+			"party": "Labour Party",
+			"votes": 13414,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Marc",
+			"party": "Conservative Party",
+			"votes": 8874,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ayling, Victoria",
+			"party": "United Kingdom Independence Party",
+			"votes": 8417,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beasant, Steve",
+			"party": "Liberal Democrat",
+			"votes": 1680,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunn, Vicky",
+			"party": "Green Party",
+			"votes": 783,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Calder, Gary",
+			"party": "Independent",
+			"votes": 390,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Flynn, Val",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 173,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

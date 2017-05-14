@@ -1,0 +1,106 @@
+{
+	"id": "N06000005",
+	"name": "Antrim East",
+	"y2010": [
+		{
+			"candidate": "Wilson, Sammy",
+			"party": "Democratic Unionist Party",
+			"votes": 13993,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McCune, Rodney",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 7223,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lynch, Gerry",
+			"party": "Alliance",
+			"votes": 3377,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McMullan, Oliver",
+			"party": "Sinn Fein",
+			"votes": 2064,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCamphill, Justin",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 2019,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morrison, Samuel",
+			"party": "Traditional Unionist Voice",
+			"votes": 1826,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wilson, Sammy",
+			"party": "Democratic Unionist Party",
+			"votes": 12103,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Beggs, Roy",
+			"party": "Ulster Unionist Party",
+			"votes": 6308,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dickson, Stewart",
+			"party": "Alliance",
+			"votes": 5021,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jordan, Noel",
+			"party": "United Kingdom Independence Party",
+			"votes": 3660,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McMullan, Oliver",
+			"party": "Sinn Fein",
+			"votes": 2314,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Ruth",
+			"party": "Traditional Unionist Voice",
+			"votes": 1903,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKillop, Margaret Anne",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 1639,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Alex",
+			"party": "Conservative Party",
+			"votes": 549,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

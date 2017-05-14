@@ -1,0 +1,92 @@
+{
+	"id": "E14000571",
+	"name": "Blackley and Broughton",
+	"y2010": [
+		{
+			"candidate": "Stringer, Graham",
+			"party": "Labour Party",
+			"votes": 18563,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Edsberg, James",
+			"party": "Conservative Party",
+			"votes": 6260,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hobhouse, William",
+			"party": "Liberal Democrat",
+			"votes": 4861,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adams, Derek",
+			"party": "British National Party",
+			"votes": 2469,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Kay",
+			"party": "Respect Party",
+			"votes": 996,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Willescroft, Bob",
+			"party": "United Kingdom Independence Party",
+			"votes": 894,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zaman, Shafiq-Uz",
+			"party": "Christian Party",
+			"votes": 161,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stringer, Graham",
+			"party": "Labour Party",
+			"votes": 22982,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Power, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 6108,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tanfield-Johnson, Michelle",
+			"party": "Conservative Party",
+			"votes": 5581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, David",
+			"party": "Green Party",
+			"votes": 1567,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gadsden, Richard",
+			"party": "Liberal Democrat",
+			"votes": 874,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

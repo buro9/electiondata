@@ -1,0 +1,127 @@
+{
+	"id": "E14000968",
+	"name": "Stevenage",
+	"y2010": [
+		{
+			"candidate": "McPartland, Stephen",
+			"party": "Conservative Party",
+			"votes": 18491,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Taylor, Sharon",
+			"party": "Lab Co-op",
+			"votes": 14913,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Julia",
+			"party": "Liberal Democrat",
+			"votes": 7432,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mason, Marion",
+			"party": "United Kingdom Independence Party",
+			"votes": 2004,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Andrew",
+			"party": "British National Party",
+			"votes": 1007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vickers, Charles",
+			"party": "English Democrats",
+			"votes": 366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Stephen",
+			"party": "No vote",
+			"votes": 327,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cox, David",
+			"party": "Independent",
+			"votes": 80,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ralph, Andrew",
+			"party": "YRDPL",
+			"votes": 31,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McPartland, Stephen",
+			"party": "Conservative Party",
+			"votes": 21291,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Taylor, Sharon",
+			"party": "Labour Party",
+			"votes": 16336,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 6864,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Van De Ven, Susan",
+			"party": "Liberal Democrat",
+			"votes": 1582,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Graham",
+			"party": "Green Party",
+			"votes": 1369,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Palmer, Trevor",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 175,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vickers, Charles",
+			"party": "English Democrats",
+			"votes": 115,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cox, David",
+			"party": "Independent",
+			"votes": 67,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

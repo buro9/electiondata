@@ -1,0 +1,92 @@
+{
+	"id": "S14000014",
+	"name": "Dumfriesshire, Clydesdale and Tweeddale",
+	"y2010": [
+		{
+			"candidate": "Mundell, David",
+			"party": "Conservative Party",
+			"votes": 17457,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Beamish, Claudia",
+			"party": "Labour Party",
+			"votes": 13263,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhatia, Catriona",
+			"party": "Liberal Democrat",
+			"votes": 9080,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Orr, Aileen",
+			"party": "Scottish National Party",
+			"votes": 4945,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKeane, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 637,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ballance, Alis",
+			"party": "Green Party",
+			"votes": 510,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mundell, David",
+			"party": "Conservative Party",
+			"votes": 20759,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Harper, Emma",
+			"party": "Scottish National Party",
+			"votes": 19961,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dryburgh, Archie",
+			"party": "Labour Party",
+			"votes": 7711,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newton, Kevin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1472,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kubie, Amanda",
+			"party": "Liberal Democrat",
+			"votes": 1392,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jamieson, Jody",
+			"party": "Green Party",
+			"votes": 839,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

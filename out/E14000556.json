@@ -1,0 +1,99 @@
+{
+	"id": "E14000556",
+	"name": "Beverley and Holderness",
+	"y2010": [
+		{
+			"candidate": "Stuart, Graham",
+			"party": "Conservative Party",
+			"votes": 25063,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dobson, Craig",
+			"party": "Liberal Democrat",
+			"votes": 12076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saunders, Ian",
+			"party": "Labour Party",
+			"votes": 11224,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitelam, Neil",
+			"party": "British National Party",
+			"votes": 2080,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Horsfield, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 1845,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rigby, Bill",
+			"party": "Green Party",
+			"votes": 686,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Ron",
+			"party": "Independent",
+			"votes": 225,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stuart, Graham",
+			"party": "Conservative Party",
+			"votes": 25363,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pinder, Margaret",
+			"party": "Labour Party",
+			"votes": 13160,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shores, Gary",
+			"party": "United Kingdom Independence Party",
+			"votes": 8794,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Healy, Denis",
+			"party": "Liberal Democrat",
+			"votes": 2900,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howarth, Richard",
+			"party": "Green Party",
+			"votes": 1802,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walton, Lee",
+			"party": "Yorkshire First",
+			"votes": 658,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

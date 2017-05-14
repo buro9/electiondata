@@ -1,0 +1,106 @@
+{
+	"id": "E14000771",
+	"name": "Hull East",
+	"y2010": [
+		{
+			"candidate": "Turner, Karl",
+			"party": "Labour Party",
+			"votes": 16387,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Wilcock, Jeremy",
+			"party": "Liberal Democrat",
+			"votes": 7790,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mackay, Christine",
+			"party": "Conservative Party",
+			"votes": 5667,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hookem, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 2745,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Uttley, Joe",
+			"party": "National Front",
+			"votes": 880,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burton, Mike",
+			"party": "English Democrats",
+			"votes": 715,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Turner, Karl",
+			"party": "Labour Party",
+			"votes": 18180,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Barrett, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 7861,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mackay, Christine",
+			"party": "Conservative Party",
+			"votes": 5593,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nolan, David",
+			"party": "Liberal Democrat",
+			"votes": 2294,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walpole, Sarah ",
+			"party": "Green Party",
+			"votes": 806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, Martin",
+			"party": "Yorkshire First",
+			"votes": 270,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Mike",
+			"party": "National Front",
+			"votes": 86,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hoodless, Val",
+			"party": "Social Democratic Party",
+			"votes": 54,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

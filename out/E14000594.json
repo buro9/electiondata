@@ -1,0 +1,113 @@
+{
+	"id": "E14000594",
+	"name": "Brentwood and Ongar",
+	"y2010": [
+		{
+			"candidate": "Pickles, Eric",
+			"party": "Conservative Party",
+			"votes": 28793,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kendall, David",
+			"party": "Liberal Democrat",
+			"votes": 11872,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Benzing, Heidi",
+			"party": "Labour Party",
+			"votes": 4992,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGough, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 2037,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Paul",
+			"party": "British National Party",
+			"votes": 1447,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barnecutt, Jess",
+			"party": "Green Party",
+			"votes": 584,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tilbrook, Robin",
+			"party": "English Democrats",
+			"votes": 491,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sapwell, James",
+			"party": "Independent",
+			"votes": 263,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Attfield, Danny",
+			"party": "ND",
+			"votes": 113,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pickles, Eric",
+			"party": "Conservative Party",
+			"votes": 30534,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McGough, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 8724,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Preston, Liam",
+			"party": "Labour Party",
+			"votes": 6492,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kendall, David",
+			"party": "Liberal Democrat",
+			"votes": 4577,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hossain, Reza",
+			"party": "Green Party",
+			"votes": 1397,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tilbrook, Robin",
+			"party": "English Democrats",
+			"votes": 173,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

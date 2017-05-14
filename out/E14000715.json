@@ -1,0 +1,92 @@
+{
+	"id": "E14000715",
+	"name": "Gravesham",
+	"y2010": [
+		{
+			"candidate": "Holloway, Adam",
+			"party": "Conservative Party",
+			"votes": 22956,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Kathryn",
+			"party": "Lab Co-op",
+			"votes": 13644,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Arrowsmith, Anna",
+			"party": "Liberal Democrat",
+			"votes": 6293,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Geoffrey",
+			"party": "United Kingdom Independence Party",
+			"votes": 2265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Uncles, Steven",
+			"party": "English Democrats",
+			"votes": 1005,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crawford, Richard",
+			"party": "Green Party",
+			"votes": 675,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dartnell, Alice",
+			"party": "Independent",
+			"votes": 465,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Holloway, Adam",
+			"party": "Conservative Party",
+			"votes": 23484,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dhesi, Tan",
+			"party": "Labour Party",
+			"votes": 15114,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marriott, Sean",
+			"party": "United Kingdom Independence Party",
+			"votes": 9306,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lindop, Mark",
+			"party": "Green Party",
+			"votes": 1124,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bunting, Anne-Marie",
+			"party": "Liberal Democrat",
+			"votes": 1111,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

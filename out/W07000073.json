@@ -1,0 +1,120 @@
+{
+	"id": "W07000073",
+	"name": "Bridgend",
+	"y2010": [
+		{
+			"candidate": "Moon, Madeleine",
+			"party": "Labour Party",
+			"votes": 13931,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Baker, Helen",
+			"party": "Conservative Party",
+			"votes": 11668,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morgan, Wayne",
+			"party": "Liberal Democrat",
+			"votes": 8658,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Nick",
+			"party": "Plaid Cymru",
+			"votes": 2269,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Urch, Brian",
+			"party": "British National Party",
+			"votes": 1020,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fulton, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 801,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Moon, Madeleine",
+			"party": "Labour Party",
+			"votes": 14624,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jenkins, Meirion",
+			"party": "Conservative Party",
+			"votes": 12697,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Caroline",
+			"party": "United Kingdom Independence Party",
+			"votes": 5911,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Radcliffe, James",
+			"party": "Plaid Cymru",
+			"votes": 2784,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Anita",
+			"party": "Liberal Democrat",
+			"votes": 1648,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tallon-Morris, Les",
+			"party": "Independent",
+			"votes": 763,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Tony",
+			"party": "Green Party",
+			"votes": 736,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "David, Aaron",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 118,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elston, David",
+			"party": "Pirate Party UK",
+			"votes": 106,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd, Adam",
+			"party": "National Front",
+			"votes": 66,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

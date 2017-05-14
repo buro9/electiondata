@@ -1,0 +1,99 @@
+{
+	"id": "E14000675",
+	"name": "Ealing North",
+	"y2010": [
+		{
+			"candidate": "Pound, Stephen",
+			"party": "Labour Party",
+			"votes": 24023,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gibb, Ian",
+			"party": "Conservative Party",
+			"votes": 14722,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lucas, Chris",
+			"party": "Liberal Democrat",
+			"votes": 6283,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Furness, Dave",
+			"party": "British National Party",
+			"votes": 1045,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "De Wulverton, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 685,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warleigh-Lack, Christopher",
+			"party": "Green Party",
+			"votes": 505,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ljubisic, Petar",
+			"party": "Christian Party",
+			"votes": 415,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pound, Stephen",
+			"party": "Labour Party",
+			"votes": 26745,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "O'Malley, Thomas",
+			"party": "Conservative Party",
+			"votes": 14419,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Akram, Afzal",
+			"party": "United Kingdom Independence Party",
+			"votes": 3922,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hans, Meena",
+			"party": "Green Party",
+			"votes": 1635,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McNamara, Kevin",
+			"party": "Liberal Democrat",
+			"votes": 1575,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hofman, David",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 214,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

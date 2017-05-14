@@ -1,0 +1,71 @@
+{
+	"id": "E14000648",
+	"name": "Corby",
+	"y2010": [
+		{
+			"candidate": "Bagshawe, Louise",
+			"party": "Conservative Party",
+			"votes": 22886,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hope, Phil",
+			"party": "Labour Party",
+			"votes": 20991,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Portia",
+			"party": "Liberal Democrat",
+			"votes": 7834,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Roy",
+			"party": "British National Party",
+			"votes": 2525,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pursglove, Tom",
+			"party": "Conservative Party",
+			"votes": 24023,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Sawford, Andy",
+			"party": "Labour Party",
+			"votes": 21611,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Parker, Margot",
+			"party": "United Kingdom Independence Party",
+			"votes": 7708,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Peter",
+			"party": "Liberal Democrat",
+			"votes": 1458,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hornett, Jonathan",
+			"party": "Green Party",
+			"votes": 1374,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

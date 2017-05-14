@@ -1,0 +1,120 @@
+{
+	"id": "E14000589",
+	"name": "Bradford West",
+	"y2010": [
+		{
+			"candidate": "Singh, Marsha",
+			"party": "Labour Party",
+			"votes": 18401,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Iqbal, Zahid",
+			"party": "Conservative Party",
+			"votes": 12638,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall-Matthews, David",
+			"party": "Liberal Democrat",
+			"votes": 4732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sampson, Jenny",
+			"party": "British National Party",
+			"votes": 1370,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, Arshad",
+			"party": "Respect Party",
+			"votes": 1245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, David",
+			"party": "Green Party",
+			"votes": 940,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Jason",
+			"party": "United Kingdom Independence Party",
+			"votes": 812,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Craig, Neil",
+			"party": "D Nat",
+			"votes": 438,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Shah, Naseem ",
+			"party": "Labour Party",
+			"votes": 19977,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Galloway, George",
+			"party": "Respect Party",
+			"votes": 8557,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Grant, George",
+			"party": "Conservative Party",
+			"votes": 6160,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boota, Harry",
+			"party": "United Kingdom Independence Party",
+			"votes": 3140,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Alun",
+			"party": "Liberal Democrat",
+			"votes": 1173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hickson, Celia",
+			"party": "Green Party",
+			"votes": 1085,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirkcaldy, James",
+			"party": "Independent",
+			"votes": 100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hirst, Therese",
+			"party": "English Democrats",
+			"votes": 98,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

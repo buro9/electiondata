@@ -1,0 +1,99 @@
+{
+	"id": "E14001054",
+	"name": "Worsley and Eccles South",
+	"y2010": [
+		{
+			"candidate": "Keeley, Barbara",
+			"party": "Labour Party",
+			"votes": 17892,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lindley, Iain",
+			"party": "Conservative Party",
+			"votes": 13555,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gadsden, Richard",
+			"party": "Liberal Democrat",
+			"votes": 6883,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Townsend, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 2037,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitelegg, Paul",
+			"party": "English Democrats",
+			"votes": 1334,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Keeley, Barbara",
+			"party": "Labour Party",
+			"votes": 18600,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lindley, Iain",
+			"party": "Conservative Party",
+			"votes": 12654,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hammond, Owen",
+			"party": "United Kingdom Independence Party",
+			"votes": 7688,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bertenshaw, Chris",
+			"party": "Green Party",
+			"votes": 1242,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarkson, Kate ",
+			"party": "Liberal Democrat",
+			"votes": 1100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "North, Steven",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 380,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McNally, Mags",
+			"party": "We Are The Reality Party",
+			"votes": 200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Berg, Geoffrey",
+			"party": "Independent",
+			"votes": 184,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

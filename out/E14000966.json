@@ -1,0 +1,71 @@
+{
+	"id": "E14000966",
+	"name": "Staffordshire Moorlands",
+	"y2010": [
+		{
+			"candidate": "Bradley, Karen",
+			"party": "Conservative Party",
+			"votes": 19793,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Atkins, Charlotte",
+			"party": "Labour Party",
+			"votes": 13104,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Jebb, Henry",
+			"party": "Liberal Democrat",
+			"votes": 7338,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Povey, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 3580,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bradley, Karen",
+			"party": "Conservative Party",
+			"votes": 21770,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McGuinness, Trudie",
+			"party": "Labour Party",
+			"votes": 11596,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Langley-Poole, George",
+			"party": "United Kingdom Independence Party",
+			"votes": 6236,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Redfern, John",
+			"party": "Liberal Democrat",
+			"votes": 1759,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Brian",
+			"party": "Green Party",
+			"votes": 1226,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

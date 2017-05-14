@@ -1,0 +1,92 @@
+{
+	"id": "E14000899",
+	"name": "Rochford and Southend East",
+	"y2010": [
+		{
+			"candidate": "Duddridge, James",
+			"party": "Conservative Party",
+			"votes": 19509,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bonavia, Kevin",
+			"party": "Labour Party",
+			"votes": 8459,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Longley, Graham",
+			"party": "Liberal Democrat",
+			"votes": 8084,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moyies, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 2405,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Strobridge, Geoff",
+			"party": "British National Party",
+			"votes": 1856,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vaughan, Andrew",
+			"party": "Green Party",
+			"votes": 707,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chytry, Anthony",
+			"party": "Independent",
+			"votes": 611,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Duddridge, James",
+			"party": "Conservative Party",
+			"votes": 20241,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gilbert, Ian",
+			"party": "Labour Party",
+			"votes": 10765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waterworth, Floyd",
+			"party": "United Kingdom Independence Party",
+			"votes": 8948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cross, Simon",
+			"party": "Green Party",
+			"votes": 2195,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gwizdala, Peter",
+			"party": "Liberal Democrat",
+			"votes": 1459,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

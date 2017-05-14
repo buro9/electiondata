@@ -1,0 +1,85 @@
+{
+	"id": "E14001045",
+	"name": "Witham",
+	"y2010": [
+		{
+			"candidate": "Patel, Priti",
+			"party": "Conservative Party",
+			"votes": 24448,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Phelps, Margaret",
+			"party": "Liberal Democrat",
+			"votes": 9252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spademan, John",
+			"party": "Labour Party",
+			"votes": 8656,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hodges, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 3060,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Abbott, James",
+			"party": "Green Party",
+			"votes": 1419,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Patel, Priti",
+			"party": "Conservative Party",
+			"votes": 27123,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cockrill, Garry",
+			"party": "United Kingdom Independence Party",
+			"votes": 7569,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, John",
+			"party": "Labour Party",
+			"votes": 7467,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hayes, Jo",
+			"party": "Liberal Democrat",
+			"votes": 2891,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Abbott, James",
+			"party": "Green Party",
+			"votes": 2038,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scrimshaw, Doreen",
+			"party": "Christian Peoples Alliance",
+			"votes": 80,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

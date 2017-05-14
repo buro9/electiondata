@@ -1,0 +1,85 @@
+{
+	"id": "E14000735",
+	"name": "Hastings and Rye",
+	"y2010": [
+		{
+			"candidate": "Rudd, Amber",
+			"party": "Conservative Party",
+			"votes": 20468,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Foster, Michael",
+			"party": "Labour Party",
+			"votes": 18475,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Perry, Nicholas",
+			"party": "Liberal Democrat",
+			"votes": 7825,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Anthony",
+			"party": "United Kingdom Independence Party",
+			"votes": 1397,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Prince, Nicholas",
+			"party": "British National Party",
+			"votes": 1310,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bridger, Rodney",
+			"party": "English Democrats",
+			"votes": 339,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Rudd, Amber",
+			"party": "Conservative Party",
+			"votes": 22686,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Owen, Sarah",
+			"party": "Labour Party",
+			"votes": 17890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Michael, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 6786,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowers, Jake",
+			"party": "Green Party",
+			"votes": 1951,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Perry, Nick",
+			"party": "Liberal Democrat",
+			"votes": 1614,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

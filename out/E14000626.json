@@ -1,0 +1,113 @@
+{
+	"id": "E14000626",
+	"name": "Chatham and Aylesford",
+	"y2010": [
+		{
+			"candidate": "Crouch, Tracey",
+			"party": "Conservative Party",
+			"votes": 20230,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Shaw, Jonathan",
+			"party": "Labour Party",
+			"votes": 14161,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "McClintock, John",
+			"party": "Liberal Democrat",
+			"votes": 5832,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCarthy-Stewart, Colin",
+			"party": "British National Party",
+			"votes": 1365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newton, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 1314,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Varnham, Sean",
+			"party": "English Democrats",
+			"votes": 400,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Arthur, Dave",
+			"party": "Green Party",
+			"votes": 396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Maureen",
+			"party": "Christian Party",
+			"votes": 109,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Crouch, Tracey",
+			"party": "Conservative Party",
+			"votes": 21614,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Osborne, Tristan",
+			"party": "Labour Party",
+			"votes": 10159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wallace, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 8581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Quinton, Thomas",
+			"party": "Liberal Democrat",
+			"votes": 1360,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Balnave, Luke ",
+			"party": "Green Party",
+			"votes": 1101,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibson, John-Wesley",
+			"party": "Christian Peoples Alliance",
+			"votes": 133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Riddell, Ivor",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 125,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

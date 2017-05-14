@@ -1,0 +1,85 @@
+{
+	"id": "E14000982",
+	"name": "Sunderland Central",
+	"y2010": [
+		{
+			"candidate": "Elliott, Julie",
+			"party": "Labour Party",
+			"votes": 19495,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Martin, Lee",
+			"party": "Conservative Party",
+			"votes": 12770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Paul",
+			"party": "Liberal Democrat",
+			"votes": 7191,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCaffrey, John",
+			"party": "British National Party",
+			"votes": 1913,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Featonby-Warren, Pauline",
+			"party": "United Kingdom Independence Party",
+			"votes": 1094,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Elliott, Julie",
+			"party": "Labour Party",
+			"votes": 20959,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Townsend, Jeffrey",
+			"party": "Conservative Party",
+			"votes": 9780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foster, Bryan",
+			"party": "United Kingdom Independence Party",
+			"votes": 7997,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Featherstone, Rachel",
+			"party": "Green Party",
+			"votes": 1706,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Page, Adrian",
+			"party": "Liberal Democrat",
+			"votes": 1105,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Joseph",
+			"party": "Independent",
+			"votes": 215,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14000819",
+	"name": "Middlesbrough",
+	"y2010": [
+		{
+			"candidate": "Bell, Stuart",
+			"party": "Labour Party",
+			"votes": 15351,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Foote-Wood, Chris",
+			"party": "Liberal Democrat",
+			"votes": 6662,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walsh, John",
+			"party": "Conservative Party",
+			"votes": 6283,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McTigue, Joan",
+			"party": "Independent",
+			"votes": 1969,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ferguson, Michael",
+			"party": "British National Party",
+			"votes": 1954,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parker, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 1236,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McDonald, Andy",
+			"party": "Labour Party",
+			"votes": 18584,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Baker, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 6107,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, Simon",
+			"party": "Conservative Party",
+			"votes": 5388,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graham, Hannah",
+			"party": "Green Party",
+			"votes": 1407,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kilpatrick, Richard",
+			"party": "Liberal Democrat",
+			"votes": 1220,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000642",
+	"name": "Clacton",
+	"y2010": [
+		{
+			"candidate": "Carswell, Douglas",
+			"party": "Conservative Party",
+			"votes": 22867,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Henderson, Ivan",
+			"party": "Labour Party",
+			"votes": 10799,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Michael",
+			"party": "Liberal Democrat",
+			"votes": 5577,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Jim",
+			"party": "British National Party",
+			"votes": 1975,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Terry",
+			"party": "Tendring",
+			"votes": 1078,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Southall, Chris",
+			"party": "Green Party",
+			"votes": 535,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Humphrey, Christopher",
+			"party": "Independent",
+			"votes": 292,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Carswell, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 19642,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Watling, Giles",
+			"party": "Conservative Party",
+			"votes": 16205,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Tim",
+			"party": "Labour Party",
+			"votes": 6364,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Southall, Chris",
+			"party": "Green Party",
+			"votes": 1184,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grace, David",
+			"party": "Liberal Democrat",
+			"votes": 812,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

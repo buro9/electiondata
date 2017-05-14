@@ -1,0 +1,92 @@
+{
+	"id": "E14001056",
+	"name": "Wycombe",
+	"y2010": [
+		{
+			"candidate": "Baker, Steven",
+			"party": "Conservative Party",
+			"votes": 23423,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Guy, Steve",
+			"party": "Liberal Democrat",
+			"votes": 13863,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lomas, Andrew",
+			"party": "Labour Party",
+			"votes": 8326,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wiseman, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 2123,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khokar, Madassar",
+			"party": "Independent",
+			"votes": 228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitton, David",
+			"party": "Independent",
+			"votes": 188,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Baker, Steve",
+			"party": "Conservative Party",
+			"votes": 26444,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, David",
+			"party": "Labour Party",
+			"votes": 11588,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meacock, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 5198,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Guy, Steve",
+			"party": "Liberal Democrat",
+			"votes": 4546,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailey, Jem",
+			"party": "Green Party",
+			"votes": 3086,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitton, David",
+			"party": "Independent",
+			"votes": 577,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

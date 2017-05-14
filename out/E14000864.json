@@ -1,0 +1,106 @@
+{
+	"id": "E14000864",
+	"name": "Norwich South",
+	"y2010": [
+		{
+			"candidate": "Wright, Simon",
+			"party": "Liberal Democrat",
+			"votes": 13960,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Clarke, Charles",
+			"party": "Labour Party",
+			"votes": 13650,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Little, Antony",
+			"party": "Conservative Party",
+			"votes": 10902,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ramsay, Adrian",
+			"party": "Green Party",
+			"votes": 7095,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Emmens, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 1145,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heather, Leonard",
+			"party": "British National Party",
+			"votes": 697,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Polley, Gabriel",
+			"party": "Workers' Revolutionary Party",
+			"votes": 102,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lewis, Clive ",
+			"party": "Labour Party",
+			"votes": 19033,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Townsend, Lisa",
+			"party": "Conservative Party",
+			"votes": 11379,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grahame, Lesley",
+			"party": "Green Party",
+			"votes": 6749,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, Simon",
+			"party": "Liberal Democrat",
+			"votes": 6607,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Emmens, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 4539,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peel, David",
+			"party": "Class War",
+			"votes": 96,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ceker, Cengiz",
+			"party": "Independent",
+			"votes": 60,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "S14000058",
+	"name": "Aberdeenshire West and Kincardine",
+	"y2010": [
+		{
+			"candidate": "Smith, Robert",
+			"party": "Liberal Democrat",
+			"votes": 17362,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Johnstone, Alex",
+			"party": "Conservative Party",
+			"votes": 13678,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robertson, Dennis",
+			"party": "Scottish National Party",
+			"votes": 7086,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Greg",
+			"party": "Labour Party",
+			"votes": 6159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Raikes, Gary",
+			"party": "British National Party",
+			"votes": 513,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Atkinson, Anthony",
+			"party": "United Kingdom Independence Party",
+			"votes": 397,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Donaldson, Stuart",
+			"party": "Scottish National Party",
+			"votes": 22949,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Burnett, Alexander",
+			"party": "Conservative Party",
+			"votes": 15916,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Robert",
+			"party": "Liberal Democrat",
+			"votes": 11812,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Black, Barry",
+			"party": "Labour Party",
+			"votes": 2487,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lansdell, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1006,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Openshaw, Richard",
+			"party": "Green Party",
+			"votes": 885,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Graham",
+			"party": "Independent",
+			"votes": 141,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

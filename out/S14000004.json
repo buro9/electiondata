@@ -1,0 +1,85 @@
+{
+	"id": "S14000004",
+	"name": "Angus",
+	"y2010": [
+		{
+			"candidate": "Weir, Mike",
+			"party": "Scottish National Party",
+			"votes": 15020,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Costa, Alberto",
+			"party": "Conservative Party",
+			"votes": 11738,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hutchens, Kevin",
+			"party": "Labour Party",
+			"votes": 6535,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Samani, Sanjay",
+			"party": "Liberal Democrat",
+			"votes": 4090,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 577,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Weir, Mike",
+			"party": "Scottish National Party",
+			"votes": 24130,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wann, Derek",
+			"party": "Conservative Party",
+			"votes": 12900,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McMahon, Gerard",
+			"party": "Labour Party",
+			"votes": 3919,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Calum",
+			"party": "United Kingdom Independence Party",
+			"votes": 1355,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Samani, Sanjay",
+			"party": "Liberal Democrat",
+			"votes": 1216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mumford, David",
+			"party": "Green Party",
+			"votes": 965,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

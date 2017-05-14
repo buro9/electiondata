@@ -1,0 +1,99 @@
+{
+	"id": "E14000605",
+	"name": "Bromsgrove",
+	"y2010": [
+		{
+			"candidate": "Javid, Sajid",
+			"party": "Conservative Party",
+			"votes": 22558,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Burden, Sam",
+			"party": "Labour Party",
+			"votes": 11250,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ling, Philip",
+			"party": "Liberal Democrat",
+			"votes": 10124,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morson, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 2950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kriss, Adrian",
+			"party": "BIC",
+			"votes": 2182,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wainwright, Elizabeth",
+			"party": "British National Party",
+			"votes": 1923,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "France, Mark",
+			"party": "Independent",
+			"votes": 336,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wheatley, Ken",
+			"party": "Independent",
+			"votes": 307,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Javid, Sajid",
+			"party": "Conservative Party",
+			"votes": 28133,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ebbutt, Tom",
+			"party": "Labour Party",
+			"votes": 11604,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cross, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 8163,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ricketts, Bart",
+			"party": "Liberal Democrat",
+			"votes": 2616,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Esposito, Spoz",
+			"party": "Green Party",
+			"votes": 1729,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

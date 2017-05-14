@@ -1,0 +1,99 @@
+{
+	"id": "S14000025",
+	"name": "Edinburgh South West",
+	"y2010": [
+		{
+			"candidate": "Darling, Alistair",
+			"party": "Labour Party",
+			"votes": 19473,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rust, Jason",
+			"party": "Conservative Party",
+			"votes": 11026,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKay, Tim",
+			"party": "Liberal Democrat",
+			"votes": 8194,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stewart, Kaukab",
+			"party": "Scottish National Party",
+			"votes": 5530,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooney, Clare",
+			"party": "Green Party",
+			"votes": 872,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fox, Colin",
+			"party": "Scottish Socialist Party",
+			"votes": 319,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bellamy, Caroline",
+			"party": "Comm Lge",
+			"votes": 48,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cherry, Joanna",
+			"party": "Scottish National Party",
+			"votes": 22168,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Henderson, Ricky",
+			"party": "Labour Party",
+			"votes": 14033,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lindhurst, Gordon",
+			"party": "Conservative Party",
+			"votes": 10444,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Doherty, Richard",
+			"party": "Green Party",
+			"votes": 1965,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farthing-Sykes, Daniel",
+			"party": "Liberal Democrat",
+			"votes": 1920,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lucas, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 1072,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

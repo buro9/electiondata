@@ -1,0 +1,99 @@
+{
+	"id": "E14000616",
+	"name": "Camborne and Redruth",
+	"y2010": [
+		{
+			"candidate": "Eustice, George",
+			"party": "Conservative Party",
+			"votes": 15969,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Goldsworthy, Julia",
+			"party": "Liberal Democrat",
+			"votes": 15903,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Jude",
+			"party": "Labour Party",
+			"votes": 6945,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elliott, Derek",
+			"party": "United Kingdom Independence Party",
+			"votes": 2152,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkin, Loveday",
+			"party": "Mebyon Kernow",
+			"votes": 775,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McPhee, Euan",
+			"party": "Green Party",
+			"votes": 581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawkins, Robert",
+			"party": "Soc Lab",
+			"votes": 168,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Eustice, George",
+			"party": "Conservative Party",
+			"votes": 18452,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Foster, Michael",
+			"party": "Labour Party",
+			"votes": 11448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Bob",
+			"party": "United Kingdom Independence Party",
+			"votes": 6776,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goldsworthy, Julia",
+			"party": "Liberal Democrat",
+			"votes": 5687,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garbett, Geoffrey",
+			"party": "Green Party",
+			"votes": 2608,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkin, Loveday",
+			"party": "Mebyon Kernow",
+			"votes": 897,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

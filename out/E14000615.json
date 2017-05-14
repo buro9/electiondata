@@ -1,0 +1,162 @@
+{
+	"id": "E14000615",
+	"name": "Camberwell and Peckham",
+	"y2010": [
+		{
+			"candidate": "Harman, Harriet",
+			"party": "Labour Party",
+			"votes": 27619,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Blango, Columba",
+			"party": "Liberal Democrat",
+			"votes": 10432,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stranack, Andy",
+			"party": "Conservative Party",
+			"votes": 6080,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Jenny",
+			"party": "Green Party",
+			"votes": 1361,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robby Munilla, Yohara",
+			"party": "English Democrats",
+			"votes": 435,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ogunleye, Joshua",
+			"party": "Workers' Revolutionary Party",
+			"votes": 211,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sharkey, Margaret",
+			"party": "Soc Lab",
+			"votes": 184,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Francis, Decima",
+			"party": "Independent",
+			"votes": 93,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robbins, Steven",
+			"party": "Independent",
+			"votes": 87,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knox, Patricia",
+			"party": "ND",
+			"votes": 82,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mountford, Jill",
+			"party": "Workers Lib",
+			"votes": 75,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Harman, Harriet",
+			"party": "Labour Party",
+			"votes": 32614,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Newstead, Naomi",
+			"party": "Conservative Party",
+			"votes": 6790,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Womack, Amelia",
+			"party": "Green Party",
+			"votes": 5187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kiingi, Yahaya",
+			"party": "Liberal Democrat",
+			"votes": 2580,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kurten, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 2413,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goyal, Prem",
+			"party": "All People's Party",
+			"votes": 829,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fox, Rebecca",
+			"party": "National Health Action Party",
+			"votes": 466,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wrack, Nick",
+			"party": "Left Unity - Trade Unionists and Socialists",
+			"votes": 292,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robertson, Alex",
+			"party": "CISTAP",
+			"votes": 197,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ogunleye, Joshua",
+			"party": "Workers' Revolutionary Party",
+			"votes": 107,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Anscomb, Felicity ",
+			"party": "The Whig Party",
+			"votes": 86,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

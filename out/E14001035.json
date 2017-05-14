@@ -1,0 +1,78 @@
+{
+	"id": "E14001035",
+	"name": "Worcestershire West",
+	"y2010": [
+		{
+			"candidate": "Baldwin, Harriett",
+			"party": "Conservative Party",
+			"votes": 27213,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Burt, Richard",
+			"party": "Liberal Democrat",
+			"votes": 20459,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barber, Penelope",
+			"party": "Labour Party",
+			"votes": 3661,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bovey, Caroline",
+			"party": "United Kingdom Independence Party",
+			"votes": 2119,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Victory, Malcolm",
+			"party": "Green Party",
+			"votes": 641,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Baldwin, Harriett",
+			"party": "Conservative Party",
+			"votes": 30342,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Chamings, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 7764,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walton, Daniel",
+			"party": "Labour Party",
+			"votes": 7244,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wharton, Dennis",
+			"party": "Liberal Democrat",
+			"votes": 5245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roskams, Julian",
+			"party": "Green Party",
+			"votes": 3505,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

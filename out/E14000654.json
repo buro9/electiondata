@@ -1,0 +1,127 @@
+{
+	"id": "E14000654",
+	"name": "Croydon Central",
+	"y2010": [
+		{
+			"candidate": "Barwell, Gavin",
+			"party": "Conservative Party",
+			"votes": 19657,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ryan, Gerry",
+			"party": "Lab Co-op",
+			"votes": 16688,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lambell, Peter",
+			"party": "Liberal Democrat",
+			"votes": 6553,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pelling, Andrew",
+			"party": "Independent",
+			"votes": 3239,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Le May, Cliff",
+			"party": "British National Party",
+			"votes": 1448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Atkinson, Ralph",
+			"party": "United Kingdom Independence Party",
+			"votes": 997,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Golberg, Bernice",
+			"party": "Green Party",
+			"votes": 581,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gitau, James",
+			"party": "Christian Party",
+			"votes": 264,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cartwright, John",
+			"party": "Monster Raving Loony Party",
+			"votes": 192,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Castle, Michael",
+			"party": "Independent",
+			"votes": 138,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Barwell, Gavin",
+			"party": "Conservative Party",
+			"votes": 22753,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Sarah",
+			"party": "Labour Party",
+			"votes": 22588,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Staveley, Peter ",
+			"party": "United Kingdom Independence Party",
+			"votes": 4810,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Esther",
+			"party": "Green Party",
+			"votes": 1454,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fearnley, James ",
+			"party": "Liberal Democrat",
+			"votes": 1152,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ashley, April",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 127,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Camden, Martin",
+			"party": "The UK Progressive Democracy Party",
+			"votes": 57,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

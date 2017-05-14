@@ -1,0 +1,99 @@
+{
+	"id": "E14000719",
+	"name": "Guildford",
+	"y2010": [
+		{
+			"candidate": "Milton, Anne",
+			"party": "Conservative Party",
+			"votes": 29618,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Doughty, Sue",
+			"party": "Liberal Democrat",
+			"votes": 21836,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shand, Tim",
+			"party": "Labour Party",
+			"votes": 2812,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Manzoor, Mazhar",
+			"party": "United Kingdom Independence Party",
+			"votes": 1021,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, John",
+			"party": "PPN-V",
+			"votes": 280,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Milton, Anne",
+			"party": "Conservative Party",
+			"votes": 30802,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Blundell, Kelly-Marie",
+			"party": "Liberal Democrat",
+			"votes": 8354,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Richard",
+			"party": "Labour Party",
+			"votes": 6534,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aldridge, Harry",
+			"party": "United Kingdom Independence Party",
+			"votes": 4774,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pletts, John",
+			"party": "Green Party",
+			"votes": 2558,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parker, Susan",
+			"party": "Guildford Greenbelt Group",
+			"votes": 538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, John",
+			"party": "TPP",
+			"votes": 230,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smyth, Gerri",
+			"party": "CISTAP",
+			"votes": 196,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"id": "E14001043",
+	"name": "Wirral South",
+	"y2010": [
+		{
+			"candidate": "McGovern, Alison",
+			"party": "Labour Party",
+			"votes": 16276,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Clarke, Jeff",
+			"party": "Conservative Party",
+			"votes": 15745,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saddler, Jamie",
+			"party": "Liberal Democrat",
+			"votes": 6611,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1274,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McGovern, Alison",
+			"party": "Labour Party",
+			"votes": 20165,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bell, John",
+			"party": "Conservative Party",
+			"votes": 15566,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 3737,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jewkes, Elizabeth",
+			"party": "Liberal Democrat",
+			"votes": 1474,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cartlidge, Paul",
+			"party": "Green Party",
+			"votes": 895,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

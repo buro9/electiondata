@@ -1,0 +1,78 @@
+{
+	"id": "E14000557",
+	"name": "Bexhill and Battle",
+	"y2010": [
+		{
+			"candidate": "Barker, Greg",
+			"party": "Conservative Party",
+			"votes": 28147,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Varrall, Mary",
+			"party": "Liberal Democrat",
+			"votes": 15267,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Royston, James",
+			"party": "Labour Party",
+			"votes": 6524,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wheeler, Stuart",
+			"party": "Trust",
+			"votes": 2699,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Neil",
+			"party": "British National Party",
+			"votes": 1950,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Merriman, Huw",
+			"party": "Conservative Party",
+			"votes": 30245,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bastin, Geoffrey",
+			"party": "United Kingdom Independence Party",
+			"votes": 10170,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thew, Michelle",
+			"party": "Labour Party",
+			"votes": 7797,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sadler, Rachel",
+			"party": "Liberal Democrat",
+			"votes": 4199,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kent, Jonathan ",
+			"party": "Green Party",
+			"votes": 2807,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

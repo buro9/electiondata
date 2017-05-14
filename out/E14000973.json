@@ -1,0 +1,92 @@
+{
+	"id": "E14000973",
+	"name": "Stoke-on-Trent North",
+	"y2010": [
+		{
+			"candidate": "Walley, Joan",
+			"party": "Labour Party",
+			"votes": 17815,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Large, Andy",
+			"party": "Conservative Party",
+			"votes": 9580,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fisher, John",
+			"party": "Liberal Democrat",
+			"votes": 7120,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baddeley, Melanie",
+			"party": "British National Party",
+			"votes": 3196,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Locke, Geoffrey",
+			"party": "United Kingdom Independence Party",
+			"votes": 2485,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smeeth, Ruth",
+			"party": "Labour Party",
+			"votes": 15429,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Adams, Ben",
+			"party": "Conservative Party",
+			"votes": 10593,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Locke, Geoffrey",
+			"party": "United Kingdom Independence Party",
+			"votes": 9542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Paul ",
+			"party": "Liberal Democrat",
+			"votes": 1137,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adam, Sean",
+			"party": "Green Party",
+			"votes": 1091,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Millward, John",
+			"party": "Independent",
+			"votes": 508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pond, Craig",
+			"party": "Independent",
+			"votes": 354,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

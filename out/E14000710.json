@@ -1,0 +1,78 @@
+{
+	"id": "E14000710",
+	"name": "Gedling",
+	"y2010": [
+		{
+			"candidate": "Coaker, Vernon",
+			"party": "Labour Party",
+			"votes": 19821,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Laughton, Bruce",
+			"party": "Conservative Party",
+			"votes": 17962,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bateman, Julia",
+			"party": "Liberal Democrat",
+			"votes": 7350,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adcock, Stephen",
+			"party": "British National Party",
+			"votes": 1598,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marshall, Dave",
+			"party": "United Kingdom Independence Party",
+			"votes": 1459,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Coaker, Vernon",
+			"party": "Labour Party",
+			"votes": 20307,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Abbott, Carolyn",
+			"party": "Conservative Party",
+			"votes": 17321,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waters, Lee",
+			"party": "United Kingdom Independence Party",
+			"votes": 6930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Swift, Robert",
+			"party": "Liberal Democrat",
+			"votes": 1906,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Norris, Jim",
+			"party": "Green Party",
+			"votes": 1534,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

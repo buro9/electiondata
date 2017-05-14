@@ -1,0 +1,78 @@
+{
+	"id": "E14001031",
+	"name": "Dorset West",
+	"y2010": [
+		{
+			"candidate": "Letwin, Oliver",
+			"party": "Conservative Party",
+			"votes": 27287,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Farrant, Sue",
+			"party": "Liberal Democrat",
+			"votes": 23364,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bick, Steve",
+			"party": "Labour Party",
+			"votes": 3815,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chisholm, Oliver",
+			"party": "United Kingdom Independence Party",
+			"votes": 2196,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greene, Susan",
+			"party": "Green Party",
+			"votes": 675,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Letwin, Oliver",
+			"party": "Conservative Party",
+			"votes": 28329,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kayes, Ros",
+			"party": "Liberal Democrat",
+			"votes": 12199,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Glossop, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7055,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogers, Rachel",
+			"party": "Labour Party",
+			"votes": 5633,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barton, Peter",
+			"party": "Green Party",
+			"votes": 3242,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

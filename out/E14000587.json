@@ -1,0 +1,99 @@
+{
+	"id": "E14000587",
+	"name": "Bradford East",
+	"y2010": [
+		{
+			"candidate": "Ward, David",
+			"party": "Liberal Democrat",
+			"votes": 13637,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rooney, Terry",
+			"party": "Labour Party",
+			"votes": 13272,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Riaz, Mohammed",
+			"party": "Conservative Party",
+			"votes": 10860,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Poynton, Neville",
+			"party": "British National Party",
+			"votes": 1854,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hussain, Raja",
+			"party": "Independent",
+			"votes": 375,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shields, Peter",
+			"party": "Independent",
+			"votes": 237,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Gerry",
+			"party": "National Front",
+			"votes": 222,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hussain, Imran",
+			"party": "Labour Party",
+			"votes": 19312,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ward, David",
+			"party": "Liberal Democrat",
+			"votes": 12228,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Ahmed, Iftikhar",
+			"party": "Conservative Party",
+			"votes": 4682,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rajput, Owais",
+			"party": "United Kingdom Independence Party",
+			"votes": 4103,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevens, Dave",
+			"party": "Green Party",
+			"votes": 871,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewthwaite, James",
+			"party": "British Democratic Party",
+			"votes": 210,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

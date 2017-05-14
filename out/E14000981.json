@@ -1,0 +1,78 @@
+{
+	"id": "E14000981",
+	"name": "Suffolk Coastal",
+	"y2010": [
+		{
+			"candidate": "Coffey, Therese",
+			"party": "Conservative Party",
+			"votes": 25475,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Cooper, Daisy",
+			"party": "Liberal Democrat",
+			"votes": 16347,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leeder, Adam",
+			"party": "Labour Party",
+			"votes": 8812,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bush, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 3156,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fulcher, Rachel",
+			"party": "Green Party",
+			"votes": 1103,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Coffey, Therese",
+			"party": "Conservative Party",
+			"votes": 28855,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Whiting, Russell",
+			"party": "Labour Party",
+			"votes": 10013,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pitcher, Daryll",
+			"party": "United Kingdom Independence Party",
+			"votes": 8655,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sandbach, James",
+			"party": "Liberal Democrat",
+			"votes": 4777,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith-Lyte, Rachel",
+			"party": "Green Party",
+			"votes": 3294,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

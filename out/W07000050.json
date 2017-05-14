@@ -1,0 +1,127 @@
+{
+	"id": "W07000050",
+	"name": "Cardiff Central",
+	"y2010": [
+		{
+			"candidate": "Willott, Jenny",
+			"party": "Liberal Democrat",
+			"votes": 14976,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rathbone, Jenny",
+			"party": "Labour Party",
+			"votes": 10400,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robson, Karen",
+			"party": "Conservative Party",
+			"votes": 7799,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Chris",
+			"party": "Plaid Cymru",
+			"votes": 1246,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Susan",
+			"party": "United Kingdom Independence Party",
+			"votes": 765,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coates, Sam",
+			"party": "Green Party",
+			"votes": 575,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saunders, Ross",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 162,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beech, Mark",
+			"party": "Monster Raving Loony Party",
+			"votes": 142,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mathias, Alun",
+			"party": "Independent",
+			"votes": 86,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stevens, Jo ",
+			"party": "Labour Party",
+			"votes": 15462,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Willott, Jenny",
+			"party": "Liberal Democrat",
+			"votes": 10481,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hopkin, Richard",
+			"party": "Conservative Party",
+			"votes": 5674,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Raybould, Anthony",
+			"party": "United Kingdom Independence Party",
+			"votes": 2499,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "von Ruhland, Christopher",
+			"party": "Green Party",
+			"votes": 2461,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pollard, Martin",
+			"party": "Plaid Cymru",
+			"votes": 1925,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Steve",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 110,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hubert, Kazimir",
+			"party": "Independent",
+			"votes": 34,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

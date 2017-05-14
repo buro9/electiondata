@@ -1,0 +1,78 @@
+{
+	"id": "E14000840",
+	"name": "Durham North",
+	"y2010": [
+		{
+			"candidate": "Jones, Kevan",
+			"party": "Labour Party",
+			"votes": 20698,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Skelton, David",
+			"party": "Conservative Party",
+			"votes": 8622,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lindley, Ian",
+			"party": "Liberal Democrat",
+			"votes": 8617,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Molloy, Pete",
+			"party": "British National Party",
+			"votes": 1686,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Bruce",
+			"party": "United Kingdom Independence Party",
+			"votes": 1344,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jones, Kevan",
+			"party": "Labour Party",
+			"votes": 22047,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Glossop, Laetitia",
+			"party": "Conservative Party",
+			"votes": 8403,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bint, Malcolm",
+			"party": "United Kingdom Independence Party",
+			"votes": 6404,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maughan, Peter",
+			"party": "Liberal Democrat",
+			"votes": 2046,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nolan, Vicki",
+			"party": "Green Party",
+			"votes": 1246,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

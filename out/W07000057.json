@@ -1,0 +1,85 @@
+{
+	"id": "W07000057",
+	"name": "Arfon",
+	"y2010": [
+		{
+			"candidate": "Williams, Hywel",
+			"party": "Plaid Cymru",
+			"votes": 9383,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pugh, Alan",
+			"party": "Labour Party",
+			"votes": 7928,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Millar, Robin",
+			"party": "Conservative Party",
+			"votes": 4416,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Sarah",
+			"party": "Liberal Democrat",
+			"votes": 3666,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Elwyn",
+			"party": "United Kingdom Independence Party",
+			"votes": 685,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Williams, Hywel",
+			"party": "Plaid Cymru",
+			"votes": 11790,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pugh, Alun",
+			"party": "Labour Party",
+			"votes": 8122,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barry, Anwen",
+			"party": "Conservative Party",
+			"votes": 3521,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wall, Simon",
+			"party": "United Kingdom Independence Party",
+			"votes": 2277,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shultan, Mohammed",
+			"party": "Liberal Democrat",
+			"votes": 718,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Kathrine",
+			"party": "Socialist Labour Party",
+			"votes": 409,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

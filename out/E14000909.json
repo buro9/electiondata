@@ -1,0 +1,92 @@
+{
+	"id": "E14000909",
+	"name": "Rutland and Melton",
+	"y2010": [
+		{
+			"candidate": "Duncan, Alan",
+			"party": "Conservative Party",
+			"votes": 28228,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hudson, Grahame",
+			"party": "Liberal Democrat",
+			"votes": 14228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morgan, John",
+			"party": "Labour Party",
+			"votes": 7893,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baker, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 2526,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Addison, Keith",
+			"party": "British National Party",
+			"votes": 1757,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Higgins, Leigh",
+			"party": "Independent",
+			"votes": 588,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Duncan, Alan",
+			"party": "Conservative Party",
+			"votes": 30383,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Billington, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 8678,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, James",
+			"party": "Labour Party",
+			"votes": 8383,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, Ed",
+			"party": "Liberal Democrat",
+			"votes": 4407,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McQuillan, Alastair",
+			"party": "Green Party",
+			"votes": 2325,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gordon, Marilyn",
+			"party": "Independent",
+			"votes": 427,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

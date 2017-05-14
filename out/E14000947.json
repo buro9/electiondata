@@ -1,0 +1,92 @@
+{
+	"id": "E14000947",
+	"name": "Swindon South",
+	"y2010": [
+		{
+			"candidate": "Buckland, Robert",
+			"party": "Conservative Party",
+			"votes": 19687,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Snelgrove, Anne",
+			"party": "Labour Party",
+			"votes": 16143,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hooton, Damon",
+			"party": "Liberal Democrat",
+			"votes": 8305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tingey, Robin",
+			"party": "United Kingdom Independence Party",
+			"votes": 2029,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miles, Jenni",
+			"party": "Green Party",
+			"votes": 619,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirk, Alastair",
+			"party": "Christian Party",
+			"votes": 176,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Karsten",
+			"party": "Independent",
+			"votes": 160,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Buckland, Robert",
+			"party": "Conservative Party",
+			"votes": 22777,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Snelgrove, Anne",
+			"party": "Labour Party",
+			"votes": 16992,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Short, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 5920,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hooton, Damon",
+			"party": "Liberal Democrat",
+			"votes": 1817,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kimberley-Fairbourn, Talis",
+			"party": "Green Party",
+			"votes": 1757,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

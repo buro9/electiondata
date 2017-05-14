@@ -1,0 +1,99 @@
+{
+	"id": "E14000874",
+	"name": "Oxford West and Abingdon",
+	"y2010": [
+		{
+			"candidate": "Blackwood, Nicola",
+			"party": "Conservative Party",
+			"votes": 23906,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Harris, Evan",
+			"party": "Liberal Democrat",
+			"votes": 23730,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Stevens, Richard",
+			"party": "Labour Party",
+			"votes": 5999,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1518,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goodall, Chris",
+			"party": "Green Party",
+			"votes": 1184,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mann, Keith",
+			"party": "APP",
+			"votes": 143,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Blackwood, Nicola",
+			"party": "Conservative Party",
+			"votes": 26153,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Moran, Layla",
+			"party": "Liberal Democrat",
+			"votes": 16571,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Copley, Sally",
+			"party": "Labour Party",
+			"votes": 7274,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 3963,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sanders, Larry",
+			"party": "Green Party",
+			"votes": 2497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Salisbury, Helen",
+			"party": "National Health Action Party",
+			"votes": 723,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foster, Mike",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 66,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

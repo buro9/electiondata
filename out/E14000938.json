@@ -1,0 +1,99 @@
+{
+	"id": "E14000938",
+	"name": "Cornwall South East",
+	"y2010": [
+		{
+			"candidate": "Murray, Sheryll",
+			"party": "Conservative Party",
+			"votes": 22390,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gillard, Karen",
+			"party": "Liberal Democrat",
+			"votes": 19170,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sparling, Michael",
+			"party": "Labour Party",
+			"votes": 3507,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McWilliam, Stephanie",
+			"party": "United Kingdom Independence Party",
+			"votes": 3083,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Creagh-Osborne, Roger",
+			"party": "Green Party",
+			"votes": 826,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holmes, Roger",
+			"party": "Mebyon Kernow",
+			"votes": 641,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Murray, Sheryll",
+			"party": "Conservative Party",
+			"votes": 25516,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hutty, Phil ",
+			"party": "Liberal Democrat",
+			"votes": 8521,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Monk, Bradley",
+			"party": "United Kingdom Independence Party",
+			"votes": 7698,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd, Declan",
+			"party": "Labour Party",
+			"votes": 4692,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Corney, Martin",
+			"party": "Green Party",
+			"votes": 2718,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Long, Andrew",
+			"party": "Mebyon Kernow",
+			"votes": 1003,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Trubody, George",
+			"party": "Independent",
+			"votes": 350,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

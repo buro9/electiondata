@@ -1,0 +1,71 @@
+{
+	"id": "E14000672",
+	"name": "Dudley South",
+	"y2010": [
+		{
+			"candidate": "Kelly, Chris",
+			"party": "Conservative Party",
+			"votes": 16450,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Harris, Rachel",
+			"party": "Labour Party",
+			"votes": 12594,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bramall, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 5989,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowe, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 3132,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wood, Mike",
+			"party": "Conservative Party",
+			"votes": 16723,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Millward, Natasha ",
+			"party": "Labour Party",
+			"votes": 12453,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brothwood, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 7236,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duckworth, Vicky",
+			"party": "Green Party",
+			"votes": 970,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Turner, Martin",
+			"party": "Liberal Democrat",
+			"votes": 828,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

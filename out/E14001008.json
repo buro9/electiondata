@@ -1,0 +1,141 @@
+{
+	"id": "E14001008",
+	"name": "Vauxhall",
+	"y2010": [
+		{
+			"candidate": "Hoey, Kate",
+			"party": "Labour Party",
+			"votes": 21498,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pidgeon, Caroline",
+			"party": "Liberal Democrat",
+			"votes": 10847,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chambers, Glyn",
+			"party": "Conservative Party",
+			"votes": 9301,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Healy, Joseph",
+			"party": "Green Party",
+			"votes": 708,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Navarro, Jose",
+			"party": "English Democrats",
+			"votes": 289,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Lana",
+			"party": "Christian Party",
+			"votes": 200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lambert, Daniel",
+			"party": "Soc",
+			"votes": 143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Drinkall, Jeremy",
+			"party": "Workers' Party",
+			"votes": 109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kapetanos, James",
+			"party": "APP",
+			"votes": 96,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hoey, Kate",
+			"party": "Labour Party",
+			"votes": 25778,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bellis, James",
+			"party": "Conservative Party",
+			"votes": 13070,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hasnain, Gulnar",
+			"party": "Green Party",
+			"votes": 3658,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hyyrylainen-Trett, Adrian",
+			"party": "Liberal Democrat",
+			"votes": 3312,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nnorom, Ace",
+			"party": "United Kingdom Independence Party",
+			"votes": 1385,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chapman, Mark",
+			"party": "Pirate Party UK",
+			"votes": 201,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hardy, Simon",
+			"party": "Left Unity",
+			"votes": 188,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jensen, Louis",
+			"party": "CISTAP",
+			"votes": 164,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ghani, Waleed ",
+			"party": "The Whig Party",
+			"votes": 103,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lambert, Danny",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 82,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

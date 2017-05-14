@@ -1,0 +1,85 @@
+{
+	"id": "E14001006",
+	"name": "Tynemouth",
+	"y2010": [
+		{
+			"candidate": "Campbell, Alan",
+			"party": "Labour Party",
+			"votes": 23860,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Morton, Wendy",
+			"party": "Conservative Party",
+			"votes": 18121,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Appleby, John",
+			"party": "Liberal Democrat",
+			"votes": 7845,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brooke, Dorothy",
+			"party": "British National Party",
+			"votes": 1404,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Payne, Natasha",
+			"party": "United Kingdom Independence Party",
+			"votes": 900,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Erskine, Julia",
+			"party": "Green Party",
+			"votes": 538,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Campbell, Alan",
+			"party": "Labour Party",
+			"votes": 25791,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hall, Glenn",
+			"party": "Conservative Party",
+			"votes": 17551,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Legg, Gary",
+			"party": "United Kingdom Independence Party",
+			"votes": 6541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Erskine, Julia",
+			"party": "Green Party",
+			"votes": 2017,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paton-Day, John",
+			"party": "Liberal Democrat",
+			"votes": 1595,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "W07000062",
+	"name": "Clwyd South",
+	"y2010": [
+		{
+			"candidate": "Jones, Susan Elan",
+			"party": "Labour Party",
+			"votes": 13311,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bell, John",
+			"party": "Conservative Party",
+			"votes": 10477,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Bruce",
+			"party": "Liberal Democrat",
+			"votes": 5965,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ryder, Janet",
+			"party": "Plaid Cymru",
+			"votes": 3009,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hynes, Sarah",
+			"party": "British National Party",
+			"votes": 1100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powell, Nick",
+			"party": "United Kingdom Independence Party",
+			"votes": 819,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jones, Susan ",
+			"party": "Labour Party",
+			"votes": 13051,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Nicholls, David",
+			"party": "Conservative Party",
+			"votes": 10649,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Mandy",
+			"party": "United Kingdom Independence Party",
+			"votes": 5480,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "ap Gwynfor, Mabon",
+			"party": "Plaid Cymru",
+			"votes": 3620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Bruce",
+			"party": "Liberal Democrat",
+			"votes": 1349,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rees, Duncan",
+			"party": "Green Party",
+			"votes": 915,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000570",
+	"name": "Blackburn",
+	"y2010": [
+		{
+			"candidate": "Straw, Jack",
+			"party": "Labour Party",
+			"votes": 21751,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Law-Riding, Michael",
+			"party": "Conservative Party",
+			"votes": 11895,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "English, Paul",
+			"party": "Liberal Democrat",
+			"votes": 6918,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Robin",
+			"party": "British National Party",
+			"votes": 2158,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Irfanullah, Bushra",
+			"party": "BIB",
+			"votes": 1424,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Anwar, Bobby",
+			"party": "United Kingdom Independence Party",
+			"votes": 942,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Astley, Grace",
+			"party": "Independent",
+			"votes": 238,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sharp, Janis",
+			"party": "Independent",
+			"votes": 173,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hollern, Kate",
+			"party": "Labour Party",
+			"votes": 24762,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Eastwood, Bob",
+			"party": "Conservative Party",
+			"votes": 12002,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Dayle",
+			"party": "United Kingdom Independence Party",
+			"votes": 6280,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lishman, Gordan",
+			"party": "Liberal Democrat",
+			"votes": 955,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

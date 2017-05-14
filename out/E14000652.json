@@ -1,0 +1,99 @@
+{
+	"id": "E14000652",
+	"name": "Crawley",
+	"y2010": [
+		{
+			"candidate": "Smith, Henry",
+			"party": "Conservative Party",
+			"votes": 21264,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Oxlade, Chris",
+			"party": "Labour Party",
+			"votes": 15336,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vincent, John",
+			"party": "Liberal Democrat",
+			"votes": 6844,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Trower, Richard",
+			"party": "British National Party",
+			"votes": 1672,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "French, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 1382,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Phil",
+			"party": "Green Party",
+			"votes": 598,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Arshad",
+			"party": "JP",
+			"votes": 265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hubner, Andrew",
+			"party": "Independent",
+			"votes": 143,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Henry",
+			"party": "Conservative Party",
+			"votes": 22829,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Oxlade, Chris",
+			"party": "Labour Party",
+			"votes": 16303,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 6979,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Osborne, Sarah",
+			"party": "Liberal Democrat",
+			"votes": 1339,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hudson, Guy",
+			"party": "Green Party",
+			"votes": 1100,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "S14000043",
+	"name": "Linlithgow and Falkirk East",
+	"y2010": [
+		{
+			"candidate": "Connarty, Michael",
+			"party": "Labour Party",
+			"votes": 25634,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Tam",
+			"party": "Scottish National Party",
+			"votes": 13081,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Glenn, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 6589,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephenson, Andrea",
+			"party": "Conservative Party",
+			"votes": 6146,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Day, Martyn ",
+			"party": "Scottish National Party",
+			"votes": 32055,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Connarty, Michael",
+			"party": "Labour Party",
+			"votes": 19121,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Batho, Sandy",
+			"party": "Conservative Party",
+			"votes": 7384,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forrest, Alistair",
+			"party": "United Kingdom Independence Party",
+			"votes": 1682,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farthing-Sykes, Emma",
+			"party": "Liberal Democrat",
+			"votes": 1252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McIvor, Neil",
+			"party": "National Front",
+			"votes": 103,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

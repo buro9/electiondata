@@ -1,0 +1,113 @@
+{
+	"id": "N06000016",
+	"name": "Strangford",
+	"y2010": [
+		{
+			"candidate": "Shannon, Jim",
+			"party": "Democratic Unionist Party",
+			"votes": 14926,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Nesbitt, Mike",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 9050,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Girvan, Deborah",
+			"party": "Alliance",
+			"votes": 2828,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hanna, Claire",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 2164,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Terry",
+			"party": "Traditional Unionist Voice",
+			"votes": 1814,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coogan, Michael",
+			"party": "Sinn Fein",
+			"votes": 1161,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haig, Barbara",
+			"party": "Green Party",
+			"votes": 562,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Shannon, Jim",
+			"party": "Democratic Unionist Party",
+			"votes": 15053,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Burgess, Robert",
+			"party": "Ulster Unionist Party",
+			"votes": 4868,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Armstrong, Kellie",
+			"party": "Alliance",
+			"votes": 4687,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boyle, Joe",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 2335,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jordan, Joe",
+			"party": "United Kingdom Independence Party",
+			"votes": 2237,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Andrews, Johnny",
+			"party": "Conservative Party",
+			"votes": 2167,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Stephen",
+			"party": "Traditional Unionist Voice",
+			"votes": 1701,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailie, Sheila",
+			"party": "Sinn Fein",
+			"votes": 876,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

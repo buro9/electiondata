@@ -1,0 +1,92 @@
+{
+	"id": "E14000961",
+	"name": "St Austell and Newquay",
+	"y2010": [
+		{
+			"candidate": "Gilbert, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 20189,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Righton, Caroline",
+			"party": "Conservative Party",
+			"votes": 18877,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jameson, Lee",
+			"party": "Labour Party",
+			"votes": 3386,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cole, Dick",
+			"party": "Mebyon Kernow",
+			"votes": 2007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Medway, Clive",
+			"party": "United Kingdom Independence Party",
+			"votes": 1757,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitton, James",
+			"party": "British National Party",
+			"votes": 1022,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Double, Steve",
+			"party": "Conservative Party",
+			"votes": 20250,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gilbert, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 12077,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Mathews, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 8503,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hopkins, Deborah",
+			"party": "Labour Party",
+			"votes": 5150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Slade, Steve",
+			"party": "Green Party",
+			"votes": 2318,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cole, Dick",
+			"party": "Mebyon Kernow",
+			"votes": 2063,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

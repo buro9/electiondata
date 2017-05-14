@@ -1,0 +1,85 @@
+{
+	"id": "E14000967",
+	"name": "Stalybridge and Hyde",
+	"y2010": [
+		{
+			"candidate": "Reynolds, Jonathan",
+			"party": "Labour Party",
+			"votes": 16189,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Adlard, Rob",
+			"party": "Conservative Party",
+			"votes": 13445,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Potter, John",
+			"party": "Liberal Democrat",
+			"votes": 6965,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Anthony",
+			"party": "British National Party",
+			"votes": 2259,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooke, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1342,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bergan, Ruth",
+			"party": "Green Party",
+			"votes": 679,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Reynolds, Jonathan",
+			"party": "Labour Party",
+			"votes": 18447,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Riley, Martin",
+			"party": "Conservative Party",
+			"votes": 11761,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McManus, Angela",
+			"party": "United Kingdom Independence Party",
+			"votes": 7720,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Jenny",
+			"party": "Green Party",
+			"votes": 1850,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flynn, Peter",
+			"party": "Liberal Democrat",
+			"votes": 1256,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

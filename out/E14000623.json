@@ -1,0 +1,85 @@
+{
+	"id": "E14000623",
+	"name": "Devon Central",
+	"y2010": [
+		{
+			"candidate": "Stride, Mel",
+			"party": "Conservative Party",
+			"votes": 27737,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hutty, Philip",
+			"party": "Liberal Democrat",
+			"votes": 18507,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macdonald, Moira",
+			"party": "Labour Party",
+			"votes": 3715,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Bob",
+			"party": "United Kingdom Independence Party",
+			"votes": 2870,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mathews, Colin",
+			"party": "Green Party",
+			"votes": 1044,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stride, Mel",
+			"party": "Conservative Party",
+			"votes": 28436,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Conway, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 7171,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richards, Lynne",
+			"party": "Labour Party",
+			"votes": 6985,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Alex",
+			"party": "Liberal Democrat",
+			"votes": 6643,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williamson, Andy",
+			"party": "Green Party",
+			"votes": 4866,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Price, Arthur",
+			"party": "Independent",
+			"votes": 347,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

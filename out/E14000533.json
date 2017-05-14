@@ -1,0 +1,85 @@
+{
+	"id": "E14000533",
+	"name": "Amber Valley",
+	"y2010": [
+		{
+			"candidate": "Mills, Nigel",
+			"party": "Conservative Party",
+			"votes": 17746,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Mallaber, Judy",
+			"party": "Labour Party",
+			"votes": 17210,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Snowdon, Tom",
+			"party": "Liberal Democrat",
+			"votes": 6636,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, Michael",
+			"party": "British National Party",
+			"votes": 3195,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ransome, Sue",
+			"party": "United Kingdom Independence Party",
+			"votes": 906,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thing, Sam",
+			"party": "Monster Raving Loony Party",
+			"votes": 265,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mills, Nigel",
+			"party": "Conservative Party",
+			"votes": 20106,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gillott, Kevin",
+			"party": "Labour Party",
+			"votes": 15901,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bent, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 7263,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Kate",
+			"party": "Liberal Democrat",
+			"votes": 1360,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Devine, John",
+			"party": "Green Party",
+			"votes": 1087,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

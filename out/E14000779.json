@@ -1,0 +1,92 @@
+{
+	"id": "E14000779",
+	"name": "Leeds North East",
+	"y2010": [
+		{
+			"candidate": "Hamilton, Fabian",
+			"party": "Labour Party",
+			"votes": 20287,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lobley, Matthew",
+			"party": "Conservative Party",
+			"votes": 15742,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Choudhry, Aqila",
+			"party": "Liberal Democrat",
+			"votes": 9310,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hendon, Warren",
+			"party": "United Kingdom Independence Party",
+			"votes": 842,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Redmond, Tom",
+			"party": "British National Party",
+			"votes": 758,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foote, Celia",
+			"party": "Alliance for Green Socialism",
+			"votes": 596,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hamilton, Fabian",
+			"party": "Labour Party",
+			"votes": 23137,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wilson, Simon",
+			"party": "Conservative Party",
+			"votes": 15887,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hendon, Warren",
+			"party": "United Kingdom Independence Party",
+			"votes": 3706,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Choudhry, Aqila",
+			"party": "Liberal Democrat",
+			"votes": 2569,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carter, Emma",
+			"party": "Green Party",
+			"votes": 2541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foote, Celia",
+			"party": "Alliance for Green Socialism",
+			"votes": 451,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

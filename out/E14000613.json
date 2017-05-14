@@ -1,0 +1,78 @@
+{
+	"id": "E14000613",
+	"name": "Bury St Edmunds",
+	"y2010": [
+		{
+			"candidate": "Ruffley, David",
+			"party": "Conservative Party",
+			"votes": 27899,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Chappell, David",
+			"party": "Liberal Democrat",
+			"votes": 15519,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hind, Kevin",
+			"party": "Labour Party",
+			"votes": 9776,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howlett, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 3003,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ereira-Guyer, Mark",
+			"party": "Green Party",
+			"votes": 2521,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Churchill, Jo",
+			"party": "Conservative Party",
+			"votes": 31815,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Edwards, William",
+			"party": "Labour Party",
+			"votes": 10514,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howlett, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 8739,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Geake, Helen",
+			"party": "Green Party",
+			"votes": 4692,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chappell, David",
+			"party": "Liberal Democrat",
+			"votes": 3581,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

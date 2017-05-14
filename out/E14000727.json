@@ -1,0 +1,113 @@
+{
+	"id": "E14000727",
+	"name": "Hampstead and Kilburn",
+	"y2010": [
+		{
+			"candidate": "Jackson, Glenda",
+			"party": "Labour Party",
+			"votes": 17332,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Philp, Chris",
+			"party": "Conservative Party",
+			"votes": 17290,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fordham, Edward",
+			"party": "Liberal Democrat",
+			"votes": 16491,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Bea",
+			"party": "Green Party",
+			"votes": 759,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nielsen, Magnus",
+			"party": "United Kingdom Independence Party",
+			"votes": 408,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moore, Victoria",
+			"party": "British National Party",
+			"votes": 328,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Omond, Tamsin",
+			"party": "TOC",
+			"votes": 123,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Alcantara, Gene",
+			"party": "Independent",
+			"votes": 91,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Siddiq, Tulip",
+			"party": "Labour Party",
+			"votes": 23977,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Marcus, Simon",
+			"party": "Conservative Party",
+			"votes": 22839,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nawaz, Maajid",
+			"party": "Liberal Democrat",
+			"votes": 3039,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Rebecca",
+			"party": "Green Party",
+			"votes": 2387,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nielsen, Magnus",
+			"party": "United Kingdom Independence Party",
+			"votes": 1532,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carroll, The Eurovisionary",
+			"party": "Independent",
+			"votes": 113,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ellison, Robin",
+			"party": "U(niversal) Party",
+			"votes": 77,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

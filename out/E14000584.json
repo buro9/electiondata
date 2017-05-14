@@ -1,0 +1,85 @@
+{
+	"id": "E14000584",
+	"name": "Bournemouth East",
+	"y2010": [
+		{
+			"candidate": "Ellwood, Tobias",
+			"party": "Conservative Party",
+			"votes": 21320,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Northover, Lisa",
+			"party": "Liberal Democrat",
+			"votes": 13592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stokes, David",
+			"party": "Labour Party",
+			"votes": 5836,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 3027,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Humphrey, Steven",
+			"party": "Independent",
+			"votes": 249,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ellwood, Tobias",
+			"party": "Conservative Party",
+			"votes": 22060,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Stokes, Peter",
+			"party": "Labour Party",
+			"votes": 7448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7401,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholas, Jon",
+			"party": "Liberal Democrat",
+			"votes": 3752,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Keddie, Alasdair ",
+			"party": "Green Party",
+			"votes": 3263,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, David",
+			"party": "Bournemouth Independent Alliance",
+			"votes": 903,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

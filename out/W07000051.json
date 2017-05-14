@@ -1,0 +1,113 @@
+{
+	"id": "W07000051",
+	"name": "Cardiff North",
+	"y2010": [
+		{
+			"candidate": "Evans, Jonathan",
+			"party": "Conservative Party",
+			"votes": 17860,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Morgan, Julie",
+			"party": "Labour Party",
+			"votes": 17666,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, John",
+			"party": "Liberal Democrat",
+			"votes": 8724,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rhys, Llywelyn",
+			"party": "Plaid Cymru",
+			"votes": 1588,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gwynn, Lawrence",
+			"party": "United Kingdom Independence Party",
+			"votes": 1130,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "von Ruhland, Christopher",
+			"party": "Green Party",
+			"votes": 362,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomson, Derek",
+			"party": "Christian Party",
+			"votes": 300,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Williams, Craig",
+			"party": "Conservative Party",
+			"votes": 21709,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Mari",
+			"party": "Labour Party",
+			"votes": 19572,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilkinson, Ethan",
+			"party": "United Kingdom Independence Party",
+			"votes": 3953,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker Jones, Elin",
+			"party": "Plaid Cymru",
+			"votes": 2301,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Elizabeth",
+			"party": "Liberal Democrat",
+			"votes": 1953,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Osner, Ruth",
+			"party": "Green Party",
+			"votes": 1254,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Jeff",
+			"party": "Christian Party, Proclaiming Christ's Lordship",
+			"votes": 331,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Shaun",
+			"party": "Alter Change - Politics. Only Different.",
+			"votes": 78,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "E14001028",
+	"name": "Wentworth and Dearne",
+	"y2010": [
+		{
+			"candidate": "Healey, John",
+			"party": "Labour Party",
+			"votes": 21316,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Donelan, Michelle",
+			"party": "Conservative Party",
+			"votes": 7396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Love, Nick",
+			"party": "Liberal Democrat",
+			"votes": 6787,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilkinson, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 3418,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baldwin, George",
+			"party": "British National Party",
+			"votes": 3189,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Healey, John",
+			"party": "Labour Party",
+			"votes": 24571,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hookem, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 10733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Naughton, Michael",
+			"party": "Conservative Party",
+			"votes": 6441,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Edwin",
+			"party": "Liberal Democrat",
+			"votes": 1135,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "England, Alan ",
+			"party": "English Democrats",
+			"votes": 309,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

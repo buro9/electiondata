@@ -1,0 +1,92 @@
+{
+	"id": "W07000058",
+	"name": "Aberconwy",
+	"y2010": [
+		{
+			"candidate": "Bebb, Guto",
+			"party": "Conservative Party",
+			"votes": 10734,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hughes, Ronald",
+			"party": "Labour Party",
+			"votes": 7336,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Priestley, Mike",
+			"party": "Liberal Democrat",
+			"votes": 5786,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Phil",
+			"party": "Plaid Cymru",
+			"votes": 5341,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wieteska, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 632,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wynne-Jones, Louise",
+			"party": "Christian Party",
+			"votes": 137,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bebb, Guto ",
+			"party": "Conservative Party",
+			"votes": 12513,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wimbury, Mary",
+			"party": "Labour Party",
+			"votes": 8514,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meurig, Dafydd",
+			"party": "Plaid Cymru",
+			"votes": 3536,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haigh, Andrew ",
+			"party": "United Kingdom Independence Party",
+			"votes": 3467,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Babu, Victor",
+			"party": "Liberal Democrat",
+			"votes": 1391,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haig, Petra ",
+			"party": "Green Party",
+			"votes": 727,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

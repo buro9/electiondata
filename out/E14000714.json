@@ -1,0 +1,99 @@
+{
+	"id": "E14000714",
+	"name": "Grantham and Stamford",
+	"y2010": [
+		{
+			"candidate": "Boles, Nicholas",
+			"party": "Conservative Party",
+			"votes": 26552,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bisnauthsing, Harrish",
+			"party": "Liberal Democrat",
+			"votes": 11726,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bartlett, Mark",
+			"party": "Labour Party",
+			"votes": 9503,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Christopher",
+			"party": "British National Party",
+			"votes": 2485,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wells, Tony",
+			"party": "United Kingdom Independence Party",
+			"votes": 1604,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Horn, Mark",
+			"party": "Lincs Ind",
+			"votes": 929,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Boles, Nick",
+			"party": "Conservative Party",
+			"votes": 28399,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "King, Marietta",
+			"party": "United Kingdom Independence Party",
+			"votes": 9410,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fairbairn, Barrie",
+			"party": "Labour Party",
+			"votes": 9070,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bisnauthsing, Harrish",
+			"party": "Liberal Democrat",
+			"votes": 3263,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Aidan",
+			"party": "Green Party",
+			"votes": 1872,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Selby, Ian",
+			"party": "Independent",
+			"votes": 1017,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hansen, Jan",
+			"party": "Lincs Ind",
+			"votes": 724,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "S14000003",
+	"name": "Airdrie and Shotts",
+	"y2010": [
+		{
+			"candidate": "Nash, Pamela",
+			"party": "Labour Party",
+			"votes": 20849,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Coyle, Sophia",
+			"party": "Scottish National Party",
+			"votes": 8441,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitfield, Ruth",
+			"party": "Conservative Party",
+			"votes": 3133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Love, John",
+			"party": "Liberal Democrat",
+			"votes": 2898,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGeechan, John",
+			"party": "Independent",
+			"votes": 528,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gray, Neil",
+			"party": "Scottish National Party",
+			"votes": 23887,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Nash, Pamela",
+			"party": "Labour Party",
+			"votes": 15108,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Holford, Eric",
+			"party": "Conservative Party",
+			"votes": 3389,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Matt",
+			"party": "United Kingdom Independence Party",
+			"votes": 1088,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Love, John",
+			"party": "Liberal Democrat",
+			"votes": 678,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beaumont, Deryck",
+			"party": "Independent",
+			"votes": 136,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

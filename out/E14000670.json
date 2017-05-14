@@ -1,0 +1,99 @@
+{
+	"id": "E14000670",
+	"name": "Dover",
+	"y2010": [
+		{
+			"candidate": "Elphicke, Charlie",
+			"party": "Conservative Party",
+			"votes": 22174,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Prosser, Gwyn",
+			"party": "Labour Party",
+			"votes": 16900,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Brigden, John",
+			"party": "Liberal Democrat",
+			"votes": 7962,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Matcham, Victor",
+			"party": "United Kingdom Independence Party",
+			"votes": 1747,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whiting, Dennis",
+			"party": "British National Party",
+			"votes": 1104,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walters, Michael",
+			"party": "English Democrats",
+			"votes": 216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, David",
+			"party": "Christian Peoples Alliance",
+			"votes": 200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee-Delisle, George",
+			"party": "Independent",
+			"votes": 82,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Elphicke, Charlie",
+			"party": "Conservative Party",
+			"votes": 21737,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hawkins, Clair",
+			"party": "Labour Party",
+			"votes": 15443,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Little, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 10177,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Sarah",
+			"party": "Liberal Democrat",
+			"votes": 1572,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Trimingham, Jolyon",
+			"party": "Green Party",
+			"votes": 1295,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

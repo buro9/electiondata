@@ -1,0 +1,99 @@
+{
+	"id": "E14000812",
+	"name": "Meriden",
+	"y2010": [
+		{
+			"candidate": "Spelman, Caroline",
+			"party": "Conservative Party",
+			"votes": 26956,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Ed",
+			"party": "Labour Party",
+			"votes": 10703,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Slater, Simon",
+			"party": "Liberal Democrat",
+			"votes": 9278,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Brien, Frank",
+			"party": "British National Party",
+			"votes": 2511,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allcock, Barry",
+			"party": "United Kingdom Independence Party",
+			"votes": 1378,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stanton, Elly",
+			"party": "Green Party",
+			"votes": 678,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sinclaire, Nikki",
+			"party": "RA",
+			"votes": 658,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Spelman, Caroline",
+			"party": "Conservative Party",
+			"votes": 28791,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McNeil, Tom",
+			"party": "Labour Party",
+			"votes": 9996,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gee, Mick",
+			"party": "United Kingdom Independence Party",
+			"votes": 8908,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adeyemo, Ade",
+			"party": "Liberal Democrat",
+			"votes": 2638,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gavin, Alison",
+			"party": "Green Party",
+			"votes": 2170,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Booth, Chris",
+			"party": "Independence from Europe",
+			"votes": 100,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

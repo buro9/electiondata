@@ -1,0 +1,85 @@
+{
+	"id": "E14000975",
+	"name": "Stone",
+	"y2010": [
+		{
+			"candidate": "Cash, Bill",
+			"party": "Conservative Party",
+			"votes": 23890,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Tinker, Christine",
+			"party": "Liberal Democrat",
+			"votes": 10598,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Jo",
+			"party": "Labour Party",
+			"votes": 9770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Illsley, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 2481,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hoppe, Damon",
+			"party": "Green Party",
+			"votes": 490,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cash, Bill",
+			"party": "Conservative Party",
+			"votes": 25733,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hale, Sam",
+			"party": "Labour Party",
+			"votes": 9483,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Illsley, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 7620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Martin",
+			"party": "Liberal Democrat",
+			"votes": 2473,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Naylon, Wenslie",
+			"party": "Green Party",
+			"votes": 1191,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coutouvidis, John",
+			"party": "Independent",
+			"votes": 531,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

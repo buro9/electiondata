@@ -1,0 +1,71 @@
+{
+	"id": "E14000577",
+	"name": "Bolsover",
+	"y2010": [
+		{
+			"candidate": "Skinner, Dennis",
+			"party": "Labour Party",
+			"votes": 21994,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rowley, Lee",
+			"party": "Conservative Party",
+			"votes": 10812,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawksworth, Denise",
+			"party": "Liberal Democrat",
+			"votes": 6821,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Radford, Martin",
+			"party": "British National Party",
+			"votes": 2640,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Callaldine, Ray",
+			"party": "United Kingdom Independence Party",
+			"votes": 1721,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Skinner, Dennis",
+			"party": "Labour Party",
+			"votes": 22542,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bedford, Peter",
+			"party": "Conservative Party",
+			"votes": 10764,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Calladine, Ray",
+			"party": "United Kingdom Independence Party",
+			"votes": 9228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lomax, David",
+			"party": "Liberal Democrat",
+			"votes": 1464,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

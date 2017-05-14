@@ -1,0 +1,113 @@
+{
+	"id": "E14001024",
+	"name": "Weaver Vale",
+	"y2010": [
+		{
+			"candidate": "Evans, Graham",
+			"party": "Conservative Party",
+			"votes": 16953,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Stockton, John",
+			"party": "Labour Party",
+			"votes": 15962,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hampson, Peter",
+			"party": "Liberal Democrat",
+			"votes": 8196,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marsh, Colin",
+			"party": "British National Party",
+			"votes": 1063,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Remfry, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1018,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thorp, Howard",
+			"party": "Green Party",
+			"votes": 338,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooksley, Mike",
+			"party": "Independent",
+			"votes": 270,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, Tom",
+			"party": "Independent",
+			"votes": 133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Charlton, Will",
+			"party": "Independent",
+			"votes": 57,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Evans, Graham",
+			"party": "Conservative Party",
+			"votes": 20227,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Tickridge, Julia",
+			"party": "Labour Party",
+			"votes": 19421,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, Amos",
+			"party": "United Kingdom Independence Party",
+			"votes": 4547,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Di Mauro, Mary",
+			"party": "Liberal Democrat",
+			"votes": 1395,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Copeman, Chris",
+			"party": "Green Party",
+			"votes": 1183,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whyte, Joseph",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 94,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

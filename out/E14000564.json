@@ -1,0 +1,85 @@
+{
+	"id": "E14000564",
+	"name": "Birmingham Ladywood",
+	"y2010": [
+		{
+			"candidate": "Mahmood, Shabana",
+			"party": "Labour Party",
+			"votes": 19950,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Khan, Ayoub",
+			"party": "Liberal Democrat",
+			"votes": 9845,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ghani, Nusrat",
+			"party": "Conservative Party",
+			"votes": 4277,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Booth, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 902,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beck, Peter",
+			"party": "Green Party",
+			"votes": 859,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mahmood, Shabana",
+			"party": "Labour Party",
+			"votes": 26444,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sigmac, Isabel",
+			"party": "Conservative Party",
+			"votes": 4576,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Braund, Clair",
+			"party": "United Kingdom Independence Party",
+			"votes": 1805,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Okole, Anne",
+			"party": "Green Party",
+			"votes": 1501,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Iqbal, Shazad",
+			"party": "Liberal Democrat",
+			"votes": 1374,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burton, Timothy",
+			"party": "Liberty GB",
+			"votes": 216,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

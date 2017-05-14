@@ -1,0 +1,78 @@
+{
+	"id": "E14000546",
+	"name": "Bassetlaw",
+	"y2010": [
+		{
+			"candidate": "Mann, John",
+			"party": "Labour Party",
+			"votes": 25018,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Girling, Keith",
+			"party": "Conservative Party",
+			"votes": 16803,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dobbie, David",
+			"party": "Liberal Democrat",
+			"votes": 5570,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hamilton, Andrea",
+			"party": "United Kingdom Independence Party",
+			"votes": 1779,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whithurst, Grahame",
+			"party": "Independent",
+			"votes": 407,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mann, John",
+			"party": "Labour Party",
+			"votes": 23965,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Downes, Sarah",
+			"party": "Conservative Party",
+			"votes": 15122,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7865,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duveen, Leon",
+			"party": "Liberal Democrat",
+			"votes": 1331,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wragg, Kris",
+			"party": "Green Party",
+			"votes": 1006,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

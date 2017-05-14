@@ -1,0 +1,92 @@
+{
+	"id": "W07000070",
+	"name": "Cynon Valley",
+	"y2010": [
+		{
+			"candidate": "Clwyd, Ann",
+			"party": "Labour Party",
+			"votes": 15681,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Dafydd Trystan",
+			"party": "Plaid Cymru",
+			"votes": 6064,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thacker, Lee",
+			"party": "Liberal Democrat",
+			"votes": 4120,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ash, Juliette",
+			"party": "Conservative Party",
+			"votes": 3010,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Frank",
+			"party": "United Kingdom Independence Party",
+			"votes": 1001,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Clwyd, Ann",
+			"party": "Labour Party",
+			"votes": 14532,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Griffiths, Cerith",
+			"party": "Plaid Cymru",
+			"votes": 5126,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rees-Evans, Rebecca",
+			"party": "United Kingdom Independence Party",
+			"votes": 4976,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dewhurst, Keith",
+			"party": "Conservative Party",
+			"votes": 3676,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Angharad",
+			"party": "Liberal Democrat",
+			"votes": 830,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Matthews, John",
+			"party": "Green Party",
+			"votes": 799,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beggs, Chris ",
+			"party": "Socialist Labour Party",
+			"votes": 533,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

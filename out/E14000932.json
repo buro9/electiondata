@@ -1,0 +1,85 @@
+{
+	"id": "E14000932",
+	"name": "Somerton and Frome",
+	"y2010": [
+		{
+			"candidate": "Heath, David",
+			"party": "Liberal Democrat",
+			"votes": 28793,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rees-Mogg, Annunziata",
+			"party": "Conservative Party",
+			"votes": 26976,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oakensen, David",
+			"party": "Labour Party",
+			"votes": 2675,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harding, Barry",
+			"party": "United Kingdom Independence Party",
+			"votes": 1932,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warry, Niall",
+			"party": "Leave EU",
+			"votes": 236,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Warburton, David",
+			"party": "Conservative Party",
+			"votes": 31960,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rendel, David",
+			"party": "Liberal Democrat",
+			"votes": 11692,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dimmick, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 6439,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simon, Theo",
+			"party": "Green Party",
+			"votes": 5434,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oakensen, David",
+			"party": "Labour Party",
+			"votes": 4419,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Angell, Ian",
+			"party": "Independent",
+			"votes": 365,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

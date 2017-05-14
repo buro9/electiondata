@@ -1,0 +1,78 @@
+{
+	"id": "E14000946",
+	"name": "Suffolk South",
+	"y2010": [
+		{
+			"candidate": "Yeo, Tim",
+			"party": "Conservative Party",
+			"votes": 24550,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bennett, Nigel",
+			"party": "Liberal Democrat",
+			"votes": 15861,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bishton, Emma",
+			"party": "Labour Party",
+			"votes": 7368,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell Bannerman, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 3637,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cartlidge, James",
+			"party": "Conservative Party",
+			"votes": 27546,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Basham, Jane",
+			"party": "Labour Party",
+			"votes": 10001,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whalley, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 7897,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weaver, Grace",
+			"party": "Liberal Democrat",
+			"votes": 4044,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lindsay, Robert",
+			"party": "Green Party",
+			"votes": 2253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Todd, Stephen",
+			"party": "Christian Peoples Alliance",
+			"votes": 166,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

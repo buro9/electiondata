@@ -1,0 +1,99 @@
+{
+	"id": "W07000063",
+	"name": "Montgomeryshire",
+	"y2010": [
+		{
+			"candidate": "Davies, Glyn",
+			"party": "Conservative Party",
+			"votes": 13976,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Opik, Lembit",
+			"party": "Liberal Democrat",
+			"votes": 12792,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Fychan, Heledd",
+			"party": "Plaid Cymru",
+			"votes": 2802,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Colbourne, Nick",
+			"party": "Labour Party",
+			"votes": 2407,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowlands, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1128,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ellis, Milton",
+			"party": "National Front",
+			"votes": 384,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawson, Bruce",
+			"party": "Independent",
+			"votes": 324,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davies, Glyn",
+			"party": "Conservative Party",
+			"votes": 15204,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dodds, Jane",
+			"party": "Liberal Democrat",
+			"votes": 9879,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parkinson, Des",
+			"party": "United Kingdom Independence Party",
+			"votes": 3769,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Singleton, Martyn",
+			"party": "Labour Party",
+			"votes": 1900,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffith, Ann",
+			"party": "Plaid Cymru",
+			"votes": 1745,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chaloner, Richard",
+			"party": "Green Party",
+			"votes": 1260,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

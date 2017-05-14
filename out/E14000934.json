@@ -1,0 +1,85 @@
+{
+	"id": "E14000934",
+	"name": "Cambridgeshire South",
+	"y2010": [
+		{
+			"candidate": "Lansley, Andrew",
+			"party": "Conservative Party",
+			"votes": 27995,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kindersley, Sebastian",
+			"party": "Liberal Democrat",
+			"votes": 20157,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sadiq, Tariq",
+			"party": "Labour Party",
+			"votes": 6024,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Page, Robin",
+			"party": "Independent",
+			"votes": 1968,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies-Green, Helene",
+			"party": "United Kingdom Independence Party",
+			"votes": 1873,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saggers, Simon",
+			"party": "Green Party",
+			"votes": 1039,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Allen, Heidi",
+			"party": "Conservative Party",
+			"votes": 31454,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Greef, Dan",
+			"party": "Labour Party",
+			"votes": 10860,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kindersley, Sebastian",
+			"party": "Liberal Democrat",
+			"votes": 9368,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mason, Marion",
+			"party": "United Kingdom Independence Party",
+			"votes": 6010,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saggers, Simon",
+			"party": "Green Party",
+			"votes": 3848,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

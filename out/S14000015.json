@@ -1,0 +1,106 @@
+{
+	"id": "S14000015",
+	"name": "Dundee East",
+	"y2010": [
+		{
+			"candidate": "Hosie, Stewart",
+			"party": "Scottish National Party",
+			"votes": 15350,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Murray, Katrina",
+			"party": "Labour Party",
+			"votes": 13529,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bustin, Chris",
+			"party": "Conservative Party",
+			"votes": 6177,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sneddon, Clive",
+			"party": "Liberal Democrat",
+			"votes": 4285,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baird, Shiona",
+			"party": "Green Party",
+			"votes": 542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Arthur, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 431,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gorrie, Angela",
+			"party": "Scottish Socialist Party",
+			"votes": 254,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hosie, Stewart",
+			"party": "Scottish National Party",
+			"votes": 28765,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Brennan, Lesley",
+			"party": "Labour Party",
+			"votes": 9603,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowman, Bill",
+			"party": "Conservative Party",
+			"votes": 7206,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duncan, Craig",
+			"party": "Liberal Democrat",
+			"votes": 1387,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grayshan, Helen",
+			"party": "Green Party",
+			"votes": 895,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parker-Hamilton, Lesley",
+			"party": "CISTAP",
+			"votes": 225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morelli, Carlo",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 104,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

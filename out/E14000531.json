@@ -1,0 +1,85 @@
+{
+	"id": "E14000531",
+	"name": "Aldridge-Brownhills",
+	"y2010": [
+		{
+			"candidate": "Shepherd, Richard",
+			"party": "Conservative Party",
+			"votes": 22913,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hussain, Ashiq",
+			"party": "Labour Party",
+			"votes": 7647,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Ian",
+			"party": "Liberal Democrat",
+			"votes": 6833,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macnaughton, Karl",
+			"party": "Green Party",
+			"votes": 847,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Sue",
+			"party": "Christian Party",
+			"votes": 394,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Morton, Wendy",
+			"party": "Conservative Party",
+			"votes": 20558,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Fisher, John",
+			"party": "Labour Party",
+			"votes": 8835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson, Anthony",
+			"party": "United Kingdom Independence Party",
+			"votes": 7751,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garrett, Ian",
+			"party": "Liberal Democrat",
+			"votes": 1330,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curzey, Martyn",
+			"party": "Green Party",
+			"votes": 826,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beech, Mark",
+			"party": "Monster Raving Loony Party",
+			"votes": 197,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

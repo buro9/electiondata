@@ -1,0 +1,85 @@
+{
+	"id": "E14001044",
+	"name": "Wirral West",
+	"y2010": [
+		{
+			"candidate": "McVey, Esther",
+			"party": "Conservative Party",
+			"votes": 16726,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Phillip",
+			"party": "Labour Party",
+			"votes": 14290,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reisdorf, Peter",
+			"party": "Liberal Democrat",
+			"votes": 6630,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 899,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirwan, David",
+			"party": "Independent",
+			"votes": 506,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "James, David",
+			"party": "CSP",
+			"votes": 321,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Greenwood, Margaret",
+			"party": "Labour Party",
+			"votes": 18898,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McVey, Esther",
+			"party": "Conservative Party",
+			"votes": 18481,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Hilary",
+			"party": "United Kingdom Independence Party",
+			"votes": 2772,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reisdorf, Peter",
+			"party": "Liberal Democrat",
+			"votes": 1433,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "James, David",
+			"party": "Independent",
+			"votes": 274,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000772",
+	"name": "Hull North",
+	"y2010": [
+		{
+			"candidate": "Johnson, Diana",
+			"party": "Labour Party",
+			"votes": 13044,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Healy, Denis",
+			"party": "Liberal Democrat",
+			"votes": 12403,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aitken, Victoria",
+			"party": "Conservative Party",
+			"votes": 4365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mainprize, John",
+			"party": "British National Party",
+			"votes": 1443,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barlow, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1358,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Deane, Martin",
+			"party": "Green Party",
+			"votes": 478,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cassidy, Michael",
+			"party": "English Democrats",
+			"votes": 200,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Johnson, Diana",
+			"party": "Labour Party",
+			"votes": 18661,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Singh, Sergi",
+			"party": "United Kingdom Independence Party",
+			"votes": 5762,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davison, Dehenna",
+			"party": "Conservative Party",
+			"votes": 5306,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Mike",
+			"party": "Liberal Democrat",
+			"votes": 3175,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Deane, Martin",
+			"party": "Green Party",
+			"votes": 2066,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Vicky",
+			"party": "Yorkshire First",
+			"votes": 366,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

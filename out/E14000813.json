@@ -1,0 +1,99 @@
+{
+	"id": "E14000813",
+	"name": "Bedfordshire Mid",
+	"y2010": [
+		{
+			"candidate": "Dorries, Nadine",
+			"party": "Conservative Party",
+			"votes": 28815,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jack, Linda",
+			"party": "Liberal Democrat",
+			"votes": 13663,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reeves, David",
+			"party": "Labour Party",
+			"votes": 8108,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Bill",
+			"party": "United Kingdom Independence Party",
+			"votes": 2826,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailey, Malcolm",
+			"party": "Green Party",
+			"votes": 773,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, John",
+			"party": "English Democrats",
+			"votes": 712,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dorries, Nadine",
+			"party": "Conservative Party",
+			"votes": 32544,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pullen, Charlynne",
+			"party": "Labour Party",
+			"votes": 9217,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wickens, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 8966,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jack, Linda",
+			"party": "Liberal Democrat",
+			"votes": 4193,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ellis, Gareth",
+			"party": "Green Party",
+			"votes": 2462,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ireland, Tim",
+			"party": "Independent",
+			"votes": 384,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Ann",
+			"party": "Monster Raving Loony Party",
+			"votes": 294,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

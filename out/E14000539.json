@@ -1,0 +1,92 @@
+{
+	"id": "E14000539",
+	"name": "Banbury",
+	"y2010": [
+		{
+			"candidate": "Baldry, Tony",
+			"party": "Conservative Party",
+			"votes": 29703,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rundle, David",
+			"party": "Liberal Democrat",
+			"votes": 11476,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sibley, Les",
+			"party": "Labour Party",
+			"votes": 10773,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fairweather, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 2806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Alastair",
+			"party": "Green Party",
+			"votes": 959,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Roseanne",
+			"party": "Independent",
+			"votes": 524,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Prentis, Victoria",
+			"party": "Conservative Party",
+			"votes": 30749,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Woodcock, Sean",
+			"party": "Labour Party",
+			"votes": 12354,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bird, Dickie",
+			"party": "United Kingdom Independence Party",
+			"votes": 8050,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howson, John",
+			"party": "Liberal Democrat",
+			"votes": 3440,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Middleton, Ian",
+			"party": "Green Party",
+			"votes": 2686,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Roseanne",
+			"party": "National Health Action Party",
+			"votes": 729,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14000945",
+	"name": "Staffordshire South",
+	"y2010": [
+		{
+			"candidate": "Williamson, Gavin",
+			"party": "Conservative Party",
+			"votes": 26834,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McElduff, Kevin",
+			"party": "Labour Party",
+			"votes": 10244,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fellows, Sarah",
+			"party": "Liberal Democrat",
+			"votes": 8427,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nattrass, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 2753,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bradnock, David",
+			"party": "British National Party",
+			"votes": 1928,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Andrew",
+			"party": "Independent",
+			"votes": 254,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Williamson, Gavin",
+			"party": "Conservative Party",
+			"votes": 29478,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McElduff, Kevin",
+			"party": "Labour Party",
+			"votes": 9107,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Lyndon",
+			"party": "United Kingdom Independence Party",
+			"votes": 8267,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woodthorpe Browne, Robert",
+			"party": "Liberal Democrat",
+			"votes": 1448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McIlvenna, Claire",
+			"party": "Green Party",
+			"votes": 1298,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000980",
+	"name": "Stroud",
+	"y2010": [
+		{
+			"candidate": "Carmichael, Neil",
+			"party": "Conservative Party",
+			"votes": 23679,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Drew, David",
+			"party": "Lab Co-op",
+			"votes": 22380,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Andrewartha, Dennis",
+			"party": "Liberal Democrat",
+			"votes": 8955,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whiteside, Martin",
+			"party": "Green Party",
+			"votes": 1542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parker, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 1301,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lomas, Alan",
+			"party": "Independent",
+			"votes": 116,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Carmichael, Neil",
+			"party": "Conservative Party",
+			"votes": 27813,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Drew, David",
+			"party": "Labour Party",
+			"votes": 22947,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephens, Caroline",
+			"party": "United Kingdom Independence Party",
+			"votes": 4848,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lunnon, Sarah",
+			"party": "Green Party",
+			"votes": 2779,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker-Smith, Adrian",
+			"party": "Liberal Democrat",
+			"votes": 2086,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilson, Rich",
+			"party": "Independent",
+			"votes": 246,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Michael, David",
+			"party": "Free Public Transport Party",
+			"votes": 100,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

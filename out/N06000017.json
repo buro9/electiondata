@@ -1,0 +1,99 @@
+{
+	"id": "N06000017",
+	"name": "Upper Bann",
+	"y2010": [
+		{
+			"candidate": "Simpson, Thomas",
+			"party": "Democratic Unionist Party",
+			"votes": 14000,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hamilton, Harry",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 10639,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Dowd, John",
+			"party": "Sinn Fein",
+			"votes": 10237,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Dolores",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 5276,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heading, Brendan",
+			"party": "Alliance",
+			"votes": 1231,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Simpson, David",
+			"party": "Democratic Unionist Party",
+			"votes": 15430,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dobson, Jo-Anne",
+			"party": "Ulster Unionist Party",
+			"votes": 13166,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seeley, Catherine",
+			"party": "Sinn Fein",
+			"votes": 11593,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Dolores",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 4238,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lavery, Peter",
+			"party": "Alliance",
+			"votes": 1780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Martin ",
+			"party": "CISTAP",
+			"votes": 460,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harte, Damien",
+			"party": "Workers' Party",
+			"votes": 351,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhogal, Amandeep ",
+			"party": "Conservative Party",
+			"votes": 201,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

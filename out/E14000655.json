@@ -1,0 +1,127 @@
+{
+	"id": "E14000655",
+	"name": "Croydon North",
+	"y2010": [
+		{
+			"candidate": "Wicks, Malcolm",
+			"party": "Labour Party",
+			"votes": 28949,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hadden, Jason",
+			"party": "Conservative Party",
+			"votes": 12466,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jerome, Gerry",
+			"party": "Liberal Democrat",
+			"votes": 7226,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Shasha",
+			"party": "Green Party",
+			"votes": 1017,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Serter, Jonathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 891,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Novlette",
+			"party": "Christian Party",
+			"votes": 586,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shaikh, Mohommad",
+			"party": "Respect Party",
+			"votes": 272,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevenson, Ben",
+			"party": "Comm",
+			"votes": 160,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seyed, Mohamed",
+			"party": "Independent",
+			"votes": 111,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Reed, Steve",
+			"party": "Labour Party",
+			"votes": 33513,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mohan, Vidhi",
+			"party": "Conservative Party",
+			"votes": 12149,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenzie, Winston",
+			"party": "United Kingdom Independence Party",
+			"votes": 2899,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Shasha",
+			"party": "Green Party",
+			"votes": 2515,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Corbin, Joanna",
+			"party": "Liberal Democrat",
+			"votes": 1919,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hart, Glen",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 261,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Berks, Lee",
+			"party": "Independent",
+			"votes": 141,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevenson, Ben",
+			"party": "Comm",
+			"votes": 125,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

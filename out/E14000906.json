@@ -1,0 +1,106 @@
+{
+	"id": "E14000906",
+	"name": "Ruislip, Northwood and Pinner",
+	"y2010": [
+		{
+			"candidate": "Hurd, Nick",
+			"party": "Conservative Party",
+			"votes": 28866,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McDonald, Anita",
+			"party": "Labour Party",
+			"votes": 9806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Papworth, Thomas",
+			"party": "Liberal Democrat",
+			"votes": 8345,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pontey, Jason",
+			"party": "United Kingdom Independence Party",
+			"votes": 1351,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edward, Ian",
+			"party": "National Front",
+			"votes": 899,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee, Graham",
+			"party": "Green Party",
+			"votes": 740,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Akhtar, Ruby",
+			"party": "Christian Party",
+			"votes": 198,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hurd, Nick",
+			"party": "Conservative Party",
+			"votes": 30521,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Borio, Michael",
+			"party": "Labour Party",
+			"votes": 10297,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barry, Gerard",
+			"party": "United Kingdom Independence Party",
+			"votes": 5598,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Joshua",
+			"party": "Liberal Democrat",
+			"votes": 2537,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pillai, Karen",
+			"party": "Green Party",
+			"votes": 1801,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kennedy, Wally",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 302,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Yogalingam, Sockalingam",
+			"party": "National Liberal Party",
+			"votes": 166,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

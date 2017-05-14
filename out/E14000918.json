@@ -1,0 +1,92 @@
+{
+	"id": "E14000918",
+	"name": "Sevenoaks",
+	"y2010": [
+		{
+			"candidate": "Fallon, Michael",
+			"party": "Conservative Party",
+			"votes": 28076,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bullion, Alan",
+			"party": "Liberal Democrat",
+			"votes": 10561,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Siddorn, Gareth",
+			"party": "Labour Party",
+			"votes": 6541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heath, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 1782,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Golding, Paul",
+			"party": "British National Party",
+			"votes": 1384,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Uncles, Louise",
+			"party": "English Democrats",
+			"votes": 806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ellis, Mark",
+			"party": "Independent",
+			"votes": 258,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fallon, Michael",
+			"party": "Conservative Party",
+			"votes": 28531,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lindsay, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 8970,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Christopher",
+			"party": "Labour Party",
+			"votes": 6448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bullion, Alan",
+			"party": "Liberal Democrat",
+			"votes": 3937,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boleyn, Amelie",
+			"party": "Green Party",
+			"votes": 2238,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

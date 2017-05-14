@@ -1,0 +1,99 @@
+{
+	"id": "S14000022",
+	"name": "Edinburgh East",
+	"y2010": [
+		{
+			"candidate": "Gilmore, Sheila",
+			"party": "Labour Party",
+			"votes": 17314,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kerevan, George",
+			"party": "Scottish National Party",
+			"votes": 8133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hope, Beverley",
+			"party": "Liberal Democrat",
+			"votes": 7751,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Donald, Martin",
+			"party": "Conservative Party",
+			"votes": 4358,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harper, Robin",
+			"party": "Green Party",
+			"votes": 2035,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Gary",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 274,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Sheppard, Tommy",
+			"party": "Scottish National Party",
+			"votes": 23188,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gilmore, Sheila",
+			"party": "Labour Party",
+			"votes": 14082,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "McMordie, James",
+			"party": "Conservative Party",
+			"votes": 4670,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McColl, Peter",
+			"party": "Green Party",
+			"votes": 2809,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Utting, Karen",
+			"party": "Liberal Democrat",
+			"votes": 1325,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Corbishley, Oliver",
+			"party": "United Kingdom Independence Party",
+			"votes": 898,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saleem, Ayesha",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 117,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

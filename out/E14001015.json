@@ -1,0 +1,78 @@
+{
+	"id": "E14001015",
+	"name": "Wantage",
+	"y2010": [
+		{
+			"candidate": "Vaizey, Ed",
+			"party": "Conservative Party",
+			"votes": 29284,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Armitage, Alan",
+			"party": "Liberal Democrat",
+			"votes": 15737,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mitchell, Steven",
+			"party": "Labour Party",
+			"votes": 7855,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Jacqueline",
+			"party": "United Kingdom Independence Party",
+			"votes": 2421,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Twine, Adam",
+			"party": "Green Party",
+			"votes": 1044,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Vaizey, Ed",
+			"party": "Conservative Party",
+			"votes": 31092,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Webb, Stephen",
+			"party": "Labour Party",
+			"votes": 9343,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meredith, Alex",
+			"party": "Liberal Democrat",
+			"votes": 7611,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Upcraft, Lee",
+			"party": "United Kingdom Independence Party",
+			"votes": 7288,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Prendergast, Kate",
+			"party": "Green Party",
+			"votes": 2986,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

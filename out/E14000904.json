@@ -1,0 +1,99 @@
+{
+	"id": "E14000904",
+	"name": "Rotherham",
+	"y2010": [
+		{
+			"candidate": "MacShane, Denis",
+			"party": "Labour Party",
+			"votes": 16741,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Whiteley, Jackie",
+			"party": "Conservative Party",
+			"votes": 6279,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Rebecca",
+			"party": "Liberal Democrat",
+			"votes": 5994,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Guest, Marlene",
+			"party": "British National Party",
+			"votes": 3906,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thirlwall, Peter",
+			"party": "Independent",
+			"votes": 2366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vines, Caven",
+			"party": "United Kingdom Independence Party",
+			"votes": 2220,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Champion, Sarah",
+			"party": "Labour Party",
+			"votes": 19860,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Collins, Jane",
+			"party": "United Kingdom Independence Party",
+			"votes": 11414,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lowe, Sebastian",
+			"party": "Conservative Party",
+			"votes": 4656,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Middleton, Janice",
+			"party": "Liberal Democrat",
+			"votes": 1093,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McLaughlin, Pat",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 409,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Adam",
+			"party": "British National Party",
+			"votes": 225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Dean",
+			"party": "English Democrats",
+			"votes": 166,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

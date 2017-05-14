@@ -1,0 +1,71 @@
+{
+	"id": "E14001016",
+	"name": "Warley",
+	"y2010": [
+		{
+			"candidate": "Spellar, John",
+			"party": "Labour Party",
+			"votes": 20240,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Parmar, Jasbir",
+			"party": "Conservative Party",
+			"votes": 9484,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Keating, Edward",
+			"party": "Liberal Democrat",
+			"votes": 5929,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harvey, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 2617,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Spellar, John",
+			"party": "Labour Party",
+			"votes": 22012,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Tom",
+			"party": "Conservative Party",
+			"votes": 7310,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Durnell, Pete",
+			"party": "United Kingdom Independence Party",
+			"votes": 6237,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Buckman, Robert",
+			"party": "Green Party",
+			"votes": 1465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Catherine",
+			"party": "Liberal Democrat",
+			"votes": 805,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "W07000045",
+	"name": "Llanelli",
+	"y2010": [
+		{
+			"candidate": "Griffith, Nia",
+			"party": "Labour Party",
+			"votes": 15916,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Davies, Myfanwy",
+			"party": "Plaid Cymru",
+			"votes": 11215,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Salmon, Christopher",
+			"party": "Conservative Party",
+			"votes": 5381,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Myrddin",
+			"party": "Liberal Democrat",
+			"votes": 3902,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marshall, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 1047,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Griffith, Nia",
+			"party": "Labour Party",
+			"votes": 15948,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, Vaughan",
+			"party": "Plaid Cymru",
+			"votes": 8853,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rees, Kenneth",
+			"party": "United Kingdom Independence Party",
+			"votes": 6269,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saxby, Selaine",
+			"party": "Conservative Party",
+			"votes": 5534,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Cen",
+			"party": "Liberal Democrat",
+			"votes": 751,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Guy",
+			"party": "Green Party",
+			"votes": 689,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Caiach, Sian",
+			"party": "People First - Gwerin Gyntaf",
+			"votes": 407,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Scott",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 123,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

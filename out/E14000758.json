@@ -1,0 +1,106 @@
+{
+	"id": "E14000758",
+	"name": "Hyndburn",
+	"y2010": [
+		{
+			"candidate": "Jones, Graham",
+			"party": "Labour Party",
+			"votes": 17531,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Buckley, Karen",
+			"party": "Conservative Party",
+			"votes": 14441,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rankine, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 5033,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shapcott, David",
+			"party": "British National Party",
+			"votes": 2137,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barker, Granville",
+			"party": "United Kingdom Independence Party",
+			"votes": 1481,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Logan, Kevin",
+			"party": "Christian Peoples Alliance",
+			"votes": 795,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gormley, Kerry",
+			"party": "Green Party",
+			"votes": 463,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Christopher",
+			"party": "English Democrats",
+			"votes": 413,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Craig",
+			"party": "Independent",
+			"votes": 378,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jones, Graham",
+			"party": "Labour Party",
+			"votes": 18076,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Horkin, Kevin",
+			"party": "Conservative Party",
+			"votes": 13676,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Janet",
+			"party": "United Kingdom Independence Party",
+			"votes": 9154,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gormley, Kerry",
+			"party": "Green Party",
+			"votes": 1122,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Firth, Alison",
+			"party": "Liberal Democrat",
+			"votes": 859,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

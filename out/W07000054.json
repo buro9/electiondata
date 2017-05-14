@@ -1,0 +1,99 @@
+{
+	"id": "W07000054",
+	"name": "Monmouth",
+	"y2010": [
+		{
+			"candidate": "Davies, David",
+			"party": "Conservative Party",
+			"votes": 22466,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sandison, Hamish",
+			"party": "Labour Party",
+			"votes": 12041,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blakebrough, Martin",
+			"party": "Liberal Democrat",
+			"votes": 9026,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Jonathan",
+			"party": "Plaid Cymru",
+			"votes": 1273,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowe, Derek",
+			"party": "United Kingdom Independence Party",
+			"votes": 1126,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Millson, Steve",
+			"party": "Green Party",
+			"votes": 587,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davies, David",
+			"party": "Conservative Party",
+			"votes": 23701,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Ruth",
+			"party": "Labour Party",
+			"votes": 12719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunn, Gareth",
+			"party": "United Kingdom Independence Party",
+			"votes": 4942,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "German, Veronica",
+			"party": "Liberal Democrat",
+			"votes": 2496,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Jonathan ",
+			"party": "Plaid Cymru",
+			"votes": 1875,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Were, Chris",
+			"party": "Green Party",
+			"votes": 1629,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Stephen",
+			"party": "English Democrats",
+			"votes": 100,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

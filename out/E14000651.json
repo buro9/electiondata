@@ -1,0 +1,99 @@
+{
+	"id": "E14000651",
+	"name": "Coventry South",
+	"y2010": [
+		{
+			"candidate": "Cunningham, Jim",
+			"party": "Labour Party",
+			"votes": 19197,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Foster, Kevin",
+			"party": "Conservative Party",
+			"votes": 15352,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Patton, Brian",
+			"party": "Liberal Democrat",
+			"votes": 8278,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 1767,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Judy",
+			"party": "Soc Alt",
+			"votes": 691,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Stephen",
+			"party": "Green Party",
+			"votes": 639,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cunningham, Jim",
+			"party": "Labour Party",
+			"votes": 18472,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ridley, Gary",
+			"party": "Conservative Party",
+			"votes": 15284,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 5709,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Judge, Greg",
+			"party": "Liberal Democrat",
+			"votes": 1779,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gallaher, Ben",
+			"party": "Green Party",
+			"votes": 1719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Judy",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 650,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rooney, Chris",
+			"party": "Mainstream",
+			"votes": 86,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

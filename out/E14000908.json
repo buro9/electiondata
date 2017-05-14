@@ -1,0 +1,78 @@
+{
+	"id": "E14000908",
+	"name": "Rushcliffe",
+	"y2010": [
+		{
+			"candidate": "Clarke, Kenneth",
+			"party": "Conservative Party",
+			"votes": 27470,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Khan, Karrar",
+			"party": "Liberal Democrat",
+			"votes": 11659,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayworth, Andrew",
+			"party": "Labour Party",
+			"votes": 11128,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Faithfull, Matthew",
+			"party": "United Kingdom Independence Party",
+			"votes": 2179,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mallender, Richard",
+			"party": "Green Party",
+			"votes": 1251,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Clarke, Kenneth",
+			"party": "Conservative Party",
+			"votes": 28354,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mellen, David",
+			"party": "Labour Party",
+			"votes": 14525,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Faithfull, Matthew",
+			"party": "United Kingdom Independence Party",
+			"votes": 5943,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mallender, George",
+			"party": "Green Party",
+			"votes": 3559,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnston, Bob",
+			"party": "Liberal Democrat",
+			"votes": 2783,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

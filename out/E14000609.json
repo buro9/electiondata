@@ -1,0 +1,92 @@
+{
+	"id": "E14000609",
+	"name": "Burnley",
+	"y2010": [
+		{
+			"candidate": "Birtwistle, Gordon",
+			"party": "Liberal Democrat",
+			"votes": 14932,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Cooper, Julie",
+			"party": "Labour Party",
+			"votes": 13114,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ali, Richard",
+			"party": "Conservative Party",
+			"votes": 6950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilkinson, Sharon",
+			"party": "British National Party",
+			"votes": 3747,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Andrew",
+			"party": "Independent",
+			"votes": 1876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wignall, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 929,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hennessey, Andrew",
+			"party": "Independent",
+			"votes": 297,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cooper, Julie",
+			"party": "Labour Party",
+			"votes": 14951,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Birtwistle, Gordon",
+			"party": "Liberal Democrat",
+			"votes": 11707,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Commis, Tom",
+			"party": "United Kingdom Independence Party",
+			"votes": 6864,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cockburn-Price, Sarah",
+			"party": "Conservative Party",
+			"votes": 5374,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hargreaves, Mike",
+			"party": "Green Party",
+			"votes": 850,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

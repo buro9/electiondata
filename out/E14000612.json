@@ -1,0 +1,99 @@
+{
+	"id": "E14000612",
+	"name": "Bury South",
+	"y2010": [
+		{
+			"candidate": "Lewis, Ivan",
+			"party": "Labour Party",
+			"votes": 19508,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wiseman, Michelle",
+			"party": "Conservative Party",
+			"votes": 16216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "D'Albert, Vic",
+			"party": "Liberal Democrat",
+			"votes": 8796,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Purdy, Jean",
+			"party": "British National Party",
+			"votes": 1743,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chadwick, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1017,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Valerie",
+			"party": "English Democrats",
+			"votes": 494,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heron, George",
+			"party": "Green Party",
+			"votes": 493,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lewis, Ivan",
+			"party": "Labour Party",
+			"votes": 21272,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Critchlow, Daniel",
+			"party": "Conservative Party",
+			"votes": 16350,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Seamus",
+			"party": "United Kingdom Independence Party",
+			"votes": 6299,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ankers, Paul",
+			"party": "Liberal Democrat",
+			"votes": 1690,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heath, Glyn",
+			"party": "Green Party",
+			"votes": 1434,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Valerie",
+			"party": "English Democrats",
+			"votes": 170,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14001029",
+	"name": "West Bromwich East",
+	"y2010": [
+		{
+			"candidate": "Watson, Tom",
+			"party": "Labour Party",
+			"votes": 17657,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Thompson, Alistair",
+			"party": "Conservative Party",
+			"votes": 10961,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garrett, Ian",
+			"party": "Liberal Democrat",
+			"votes": 4993,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewin, Terry",
+			"party": "British National Party",
+			"votes": 2205,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cowles, Mark",
+			"party": "English Democrats",
+			"votes": 1150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grey, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 984,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Watson, Tom",
+			"party": "Labour Party",
+			"votes": 18817,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Seccombe, Olivia",
+			"party": "Conservative Party",
+			"votes": 9347,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Latham, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 7949,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clucas, Flo",
+			"party": "Liberal Democrat",
+			"votes": 751,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lim, Barry",
+			"party": "Green Party",
+			"votes": 628,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

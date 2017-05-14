@@ -1,0 +1,106 @@
+{
+	"id": "E14001047",
+	"name": "Woking",
+	"y2010": [
+		{
+			"candidate": "Lord, Jonathan",
+			"party": "Conservative Party",
+			"votes": 26551,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Sharpley, Rosie",
+			"party": "Liberal Democrat",
+			"votes": 19744,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miller, Tom",
+			"party": "Labour Party",
+			"votes": 4246,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burberry, Rob",
+			"party": "United Kingdom Independence Party",
+			"votes": 1997,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roxburgh, Julie",
+			"party": "PPN-V",
+			"votes": 204,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Temple, Ruth",
+			"party": "Magna Carta Party",
+			"votes": 44,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lord, Jonathan",
+			"party": "Conservative Party",
+			"votes": 29199,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rawling, Jill",
+			"party": "Labour Party",
+			"votes": 8389,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Took, Chris",
+			"party": "Liberal Democrat",
+			"votes": 6047,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burberry, Rob",
+			"party": "United Kingdom Independence Party",
+			"votes": 5873,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robson, Martin",
+			"party": "Green Party",
+			"votes": 2109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wade, Declan",
+			"party": "CISTAP",
+			"votes": 229,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Temple, Ruth",
+			"party": "Magna Carta Conservation Party Great Britain",
+			"votes": 77,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woolford, Angela",
+			"party": "The Evolution Party",
+			"votes": 41,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

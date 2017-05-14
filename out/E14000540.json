@@ -1,0 +1,120 @@
+{
+	"id": "E14000540",
+	"name": "Barking",
+	"y2010": [
+		{
+			"candidate": "Hodge, Margaret",
+			"party": "Labour Party",
+			"votes": 24628,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Marcus, Simon",
+			"party": "Conservative Party",
+			"votes": 8073,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffin, Nick",
+			"party": "British National Party",
+			"votes": 6620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carman, Dominic",
+			"party": "Liberal Democrat",
+			"votes": 3719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maloney, Frank",
+			"party": "United Kingdom Independence Party",
+			"votes": 1300,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hargreaves, George",
+			"party": "Christian Party",
+			"votes": 482,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forbes, Jayne",
+			"party": "Green Party",
+			"votes": 317,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dowling, Crucial Chris",
+			"party": "Monster Raving Loony Party",
+			"votes": 82,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Darwood, Thomas",
+			"party": "Independent",
+			"votes": 77,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sijuwola, Dapo",
+			"party": "RP",
+			"votes": 45,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hodge, Margaret",
+			"party": "Labour Party",
+			"votes": 24826,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gravett, Roger",
+			"party": "United Kingdom Independence Party",
+			"votes": 9554,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rahman, Mina",
+			"party": "Conservative Party",
+			"votes": 7019,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rablen, Tony ",
+			"party": "Green Party",
+			"votes": 897,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilcock, Peter",
+			"party": "Liberal Democrat",
+			"votes": 562,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mambuliya, Joseph",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 183,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

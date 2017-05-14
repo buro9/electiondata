@@ -1,0 +1,92 @@
+{
+	"id": "S14000019",
+	"name": "East Kilbride, Strathaven and Lesmahagow",
+	"y2010": [
+		{
+			"candidate": "McCann, Michael",
+			"party": "Labour Party",
+			"votes": 26241,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McKenna, John",
+			"party": "Scottish National Party",
+			"votes": 11738,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Graham",
+			"party": "Conservative Party",
+			"votes": 6613,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Loughton, John",
+			"party": "Liberal Democrat",
+			"votes": 5052,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robb, Kirsten",
+			"party": "Green Party",
+			"votes": 1003,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Houston, John",
+			"party": "Independent",
+			"votes": 299,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cameron, Lisa",
+			"party": "Scottish National Party",
+			"votes": 33678,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McCann, Michael",
+			"party": "Labour Party",
+			"votes": 17151,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Graham",
+			"party": "Conservative Party",
+			"votes": 7129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sale, Rob",
+			"party": "United Kingdom Independence Party",
+			"votes": 1221,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGarry, Paul",
+			"party": "Liberal Democrat",
+			"votes": 1042,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Houston, John",
+			"party": "Independent",
+			"votes": 318,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

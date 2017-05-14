@@ -1,0 +1,120 @@
+{
+	"id": "E14000784",
+	"name": "Leicester West",
+	"y2010": [
+		{
+			"candidate": "Kendall, Elizabeth",
+			"party": "Labour Party",
+			"votes": 13745,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Harvey, Celia",
+			"party": "Conservative Party",
+			"votes": 9728,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coley, Peter",
+			"party": "Liberal Democrat",
+			"votes": 8107,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, Gary",
+			"party": "British National Party",
+			"votes": 2158,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ingall, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 883,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forse, Geoff",
+			"party": "Green Party",
+			"votes": 639,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Huggins, Steven",
+			"party": "Independent",
+			"votes": 181,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Score, Steve",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 157,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dyer, Shaun",
+			"party": "Pirate Party UK",
+			"votes": 113,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowley, David",
+			"party": "Independent",
+			"votes": 108,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kendall, Liz",
+			"party": "Labour Party",
+			"votes": 16051,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bessant, Paul",
+			"party": "Conservative Party",
+			"votes": 8848,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 5950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hague, Peter",
+			"party": "Green Party",
+			"votes": 1878,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bradwell, Ian",
+			"party": "Liberal Democrat",
+			"votes": 1507,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rawling, Heather",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 288,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000565",
+	"name": "Birmingham Northfield",
+	"y2010": [
+		{
+			"candidate": "Burden, Richard",
+			"party": "Labour Party",
+			"votes": 16841,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Huxtable, Keely",
+			"party": "Conservative Party",
+			"votes": 14059,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Mike",
+			"party": "Liberal Democrat",
+			"votes": 6550,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Orton, Les",
+			"party": "British National Party",
+			"votes": 2290,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Borthwick, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1363,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearce, Susan",
+			"party": "Green Party",
+			"votes": 406,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rodgers, Dick",
+			"party": "Good",
+			"votes": 305,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Burden, Richard",
+			"party": "Labour Party",
+			"votes": 17673,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Maclean, Rachel",
+			"party": "Conservative Party",
+			"votes": 15164,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowe, Keith",
+			"party": "United Kingdom Independence Party",
+			"votes": 7106,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haynes, Steven",
+			"party": "Liberal Democrat",
+			"votes": 1349,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Masters, Anna",
+			"party": "Green Party",
+			"votes": 1169,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

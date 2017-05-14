@@ -1,0 +1,99 @@
+{
+	"id": "E14000776",
+	"name": "Lancaster and Fleetwood",
+	"y2010": [
+		{
+			"candidate": "Ollerenshaw, Eric",
+			"party": "Conservative Party",
+			"votes": 15404,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Grunshaw, Clive",
+			"party": "Labour Party",
+			"votes": 15071,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Langhorn, Stuart",
+			"party": "Liberal Democrat",
+			"votes": 8167,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dowding, Gina",
+			"party": "Green Party",
+			"votes": 1888,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGlade, Fred",
+			"party": "United Kingdom Independence Party",
+			"votes": 1020,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kent, Debra",
+			"party": "British National Party",
+			"votes": 938,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Riley, Keith",
+			"party": "Independent",
+			"votes": 213,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Catherine",
+			"party": "Labour Party",
+			"votes": 17643,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ollerenshaw, Eric",
+			"party": "Conservative Party",
+			"votes": 16378,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Atkins, Matthew",
+			"party": "United Kingdom Independence Party",
+			"votes": 4060,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coates, Chris",
+			"party": "Green Party",
+			"votes": 2093,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Long, Robin",
+			"party": "Liberal Democrat",
+			"votes": 1390,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elletson, Harold",
+			"party": "Independent",
+			"votes": 174,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

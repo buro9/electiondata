@@ -1,0 +1,99 @@
+{
+	"id": "S14000044",
+	"name": "Livingston",
+	"y2010": [
+		{
+			"candidate": "Morrice, Graeme",
+			"party": "Labour Party",
+			"votes": 23215,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bardell, Lis",
+			"party": "Scottish National Party",
+			"votes": 12424,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dundas, Charles",
+			"party": "Liberal Democrat",
+			"votes": 5316,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adamson-Ross, Alison",
+			"party": "Conservative Party",
+			"votes": 5158,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Orr, David",
+			"party": "British National Party",
+			"votes": 960,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forrest, Alistair",
+			"party": "United Kingdom Independence Party",
+			"votes": 443,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hendry, Ally",
+			"party": "Scottish Socialist Party",
+			"votes": 242,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Slavin, Jim",
+			"party": "Independent",
+			"votes": 149,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bardell, Hannah",
+			"party": "Scottish National Party",
+			"votes": 32736,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Morrice, Graeme",
+			"party": "Labour Party",
+			"votes": 15893,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Donnelly, Christopher",
+			"party": "Conservative Party",
+			"votes": 5929,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Somerville, Nathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 1757,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dundas, Charles",
+			"party": "Liberal Democrat",
+			"votes": 1232,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

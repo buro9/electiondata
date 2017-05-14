@@ -1,0 +1,99 @@
+{
+	"id": "E14000933",
+	"name": "Basildon South and Thurrock East",
+	"y2010": [
+		{
+			"candidate": "Metcalfe, Stephen",
+			"party": "Conservative Party",
+			"votes": 19624,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Angela",
+			"party": "Lab Co-op",
+			"votes": 13852,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Geoff",
+			"party": "Liberal Democrat",
+			"votes": 5977,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Kerry",
+			"party": "United Kingdom Independence Party",
+			"votes": 2639,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Chris",
+			"party": "British National Party",
+			"votes": 2518,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "X, None Of The Above",
+			"party": "ND",
+			"votes": 125,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Metcalfe, Stephen",
+			"party": "Conservative Party",
+			"votes": 19788,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Luder, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 12097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Le-Surf, Mike",
+			"party": "Labour Party",
+			"votes": 11493,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Geoff",
+			"party": "Liberal Democrat",
+			"votes": 1356,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Kerry",
+			"party": "Independent",
+			"votes": 401,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "X, None Of The Above",
+			"party": "Independent",
+			"votes": 253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hooper, Stuart",
+			"party": "Independent",
+			"votes": 205,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

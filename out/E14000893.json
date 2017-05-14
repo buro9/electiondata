@@ -1,0 +1,85 @@
+{
+	"id": "E14000893",
+	"name": "Reigate",
+	"y2010": [
+		{
+			"candidate": "Blunt, Crispin",
+			"party": "Conservative Party",
+			"votes": 26688,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kulka, Jane",
+			"party": "Liberal Democrat",
+			"votes": 13097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hull, Robert",
+			"party": "Labour Party",
+			"votes": 5672,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fox, Joe",
+			"party": "United Kingdom Independence Party",
+			"votes": 2089,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Keith",
+			"party": "British National Party",
+			"votes": 1345,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Essex, Jonathan",
+			"party": "Green Party",
+			"votes": 1087,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Blunt, Crispin",
+			"party": "Conservative Party",
+			"votes": 29151,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fox, Joseph",
+			"party": "United Kingdom Independence Party",
+			"votes": 6817,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aklakul, Ali",
+			"party": "Labour Party",
+			"votes": 6578,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tarrant, Anna",
+			"party": "Liberal Democrat",
+			"votes": 5369,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Essex, Jonathan",
+			"party": "Green Party",
+			"votes": 3434,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14000814",
+	"name": "Derbyshire Mid",
+	"y2010": [
+		{
+			"candidate": "Latham, Pauline",
+			"party": "Conservative Party",
+			"votes": 22877,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Dhindsa, Hardyal",
+			"party": "Labour Party",
+			"votes": 11585,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McIntosh, Sally",
+			"party": "Liberal Democrat",
+			"votes": 9711,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allsebrook, Lewis",
+			"party": "British National Party",
+			"votes": 1698,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kay, Anthony",
+			"party": "United Kingdom Independence Party",
+			"votes": 1252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seerius, RU",
+			"party": "Monster Raving Loony Party",
+			"votes": 219,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Latham, Pauline",
+			"party": "Conservative Party",
+			"votes": 24908,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Heaton, Nicola",
+			"party": "Labour Party",
+			"votes": 12134,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitzpatrick, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 6497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Hilary",
+			"party": "Liberal Democrat",
+			"votes": 2292,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacFarlane, Sue",
+			"party": "Green Party",
+			"votes": 1898,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

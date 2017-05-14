@@ -1,0 +1,106 @@
+{
+	"id": "E14000957",
+	"name": "Southend West",
+	"y2010": [
+		{
+			"candidate": "Amess, David",
+			"party": "Conservative Party",
+			"votes": 20086,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Welch, Peter",
+			"party": "Liberal Democrat",
+			"votes": 12816,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flynn, Thomas",
+			"party": "Labour Party",
+			"votes": 5850,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cockrill, Garry",
+			"party": "United Kingdom Independence Party",
+			"votes": 1714,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gladwin, Tony",
+			"party": "British National Party",
+			"votes": 1333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bolton, Barry",
+			"party": "Green Party",
+			"votes": 644,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vel, Dr",
+			"party": "Independent",
+			"votes": 617,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Terry",
+			"party": "English Democrats",
+			"votes": 546,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Amess, David",
+			"party": "Conservative Party",
+			"votes": 22175,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ware-Lane, Julian",
+			"party": "Labour Party",
+			"votes": 8154,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Otridge, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 7803,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Paul",
+			"party": "Liberal Democrat",
+			"votes": 4129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fuller, Jonathan",
+			"party": "Green Party",
+			"votes": 2083,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moss, Jeremy",
+			"party": "English Democrats",
+			"votes": 165,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

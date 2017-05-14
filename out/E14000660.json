@@ -1,0 +1,85 @@
+{
+	"id": "E14000660",
+	"name": "Daventry",
+	"y2010": [
+		{
+			"candidate": "Heaton-Harris, Chris",
+			"party": "Conservative Party",
+			"votes": 29252,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "McGlynn, Christopher",
+			"party": "Liberal Democrat",
+			"votes": 10064,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Corazzo, Paul",
+			"party": "Labour Party",
+			"votes": 8168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Broomfield, Jim",
+			"party": "United Kingdom Independence Party",
+			"votes": 2333,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennett-Spencer, Alan",
+			"party": "English Democrats",
+			"votes": 1187,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whiffen, Steve",
+			"party": "Green Party",
+			"votes": 770,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Heaton-Harris, Chris",
+			"party": "Conservative Party",
+			"votes": 30550,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Campbell, Abigail",
+			"party": "Labour Party",
+			"votes": 9491,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gerard, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 8296,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Delhoy, Callum",
+			"party": "Liberal Democrat",
+			"votes": 2352,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whiffen, Steve ",
+			"party": "Green Party",
+			"votes": 1829,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

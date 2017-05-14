@@ -1,0 +1,120 @@
+{
+	"id": "E14000911",
+	"name": "Salford and Eccles",
+	"y2010": [
+		{
+			"candidate": "Blears, Hazel",
+			"party": "Labour Party",
+			"votes": 16655,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Owen, Norman",
+			"party": "Liberal Democrat",
+			"votes": 10930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sephton, Matthew",
+			"party": "Conservative Party",
+			"votes": 8497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wingfield, Tina",
+			"party": "British National Party",
+			"votes": 2632,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Dwyer, Duran",
+			"party": "United Kingdom Independence Party",
+			"votes": 1084,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henry, David",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 730,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Stephen",
+			"party": "English Democrats",
+			"votes": 621,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carvath, Richard",
+			"party": "Independent",
+			"votes": 384,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Long-Bailey, Rebecca",
+			"party": "Labour Party",
+			"votes": 21364,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Downes, Greg",
+			"party": "Conservative Party",
+			"votes": 8823,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Doyle, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 7806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Van Dyke, Emma",
+			"party": "Green Party",
+			"votes": 2251,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Briggs, Charlie",
+			"party": "Liberal Democrat",
+			"votes": 1614,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Berry, Bez",
+			"party": "We Are The Reality Party",
+			"votes": 703,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailey, Noreen",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Sam",
+			"party": "Pirate Party UK",
+			"votes": 183,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

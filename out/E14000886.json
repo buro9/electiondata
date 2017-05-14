@@ -1,0 +1,78 @@
+{
+	"id": "E14000886",
+	"name": "Pudsey",
+	"y2010": [
+		{
+			"candidate": "Andrew, Stuart",
+			"party": "Conservative Party",
+			"votes": 18874,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hanley, Jamie",
+			"party": "Labour Party",
+			"votes": 17215,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Matthews, Jamie",
+			"party": "Liberal Democrat",
+			"votes": 10224,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibson, Ian",
+			"party": "British National Party",
+			"votes": 1549,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dews, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1221,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Andrew, Stuart",
+			"party": "Conservative Party",
+			"votes": 23637,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hanley, Jamie",
+			"party": "Labour Party",
+			"votes": 19136,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tattersall, Roger",
+			"party": "United Kingdom Independence Party",
+			"votes": 4689,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Downes, Ryk",
+			"party": "Liberal Democrat",
+			"votes": 1926,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Claire",
+			"party": "Green Party",
+			"votes": 1539,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

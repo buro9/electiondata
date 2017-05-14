@@ -1,0 +1,120 @@
+{
+	"id": "E14000542",
+	"name": "Barnsley East",
+	"y2010": [
+		{
+			"candidate": "Dugher, Michael",
+			"party": "Labour Party",
+			"votes": 18059,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Brown, John",
+			"party": "Liberal Democrat",
+			"votes": 6969,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hockney, James",
+			"party": "Conservative Party",
+			"votes": 6329,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Porter, Colin",
+			"party": "British National Party",
+			"votes": 3301,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watson, Tony",
+			"party": "United Kingdom Independence Party",
+			"votes": 1731,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hogan, Kevin",
+			"party": "Independent",
+			"votes": 712,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Devoy, Eddie",
+			"party": "Independent",
+			"votes": 684,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Capstick, Ken",
+			"party": "Soc Lab",
+			"votes": 601,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dugher, Michael",
+			"party": "Labour Party",
+			"votes": 21079,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Swiffen, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 9045,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harborne, Katharine",
+			"party": "Conservative Party",
+			"votes": 5622,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coleman-Taylor, Ruth",
+			"party": "Liberal Democrat",
+			"votes": 1217,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Devoy, Tony",
+			"party": "Yorkshire First",
+			"votes": 647,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Riddiough, Kevin",
+			"party": "English Democrats",
+			"votes": 440,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dyson, Ralph",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 364,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marsden, Billy",
+			"party": "Vapers In Power",
+			"votes": 103,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

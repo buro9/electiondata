@@ -1,0 +1,134 @@
+{
+	"id": "W07000047",
+	"name": "Swansea West",
+	"y2010": [
+		{
+			"candidate": "Davies, Geraint",
+			"party": "Labour Party",
+			"votes": 12335,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "May, Peter",
+			"party": "Liberal Democrat",
+			"votes": 11831,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kinzett, Rene",
+			"party": "Conservative Party",
+			"votes": 7407,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Harri",
+			"party": "Plaid Cymru",
+			"votes": 1437,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bateman, Alan",
+			"party": "British National Party",
+			"votes": 910,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Tim",
+			"party": "United Kingdom Independence Party",
+			"votes": 716,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Keith",
+			"party": "Green Party",
+			"votes": 404,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCloy, Ian",
+			"party": "Independent",
+			"votes": 374,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Rob",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 179,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davies, Geraint",
+			"party": "Labour Party",
+			"votes": 14967,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lane, Emma",
+			"party": "Conservative Party",
+			"votes": 7931,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, Martyn",
+			"party": "United Kingdom Independence Party",
+			"votes": 4744,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holley, Chris",
+			"party": "Liberal Democrat",
+			"votes": 3178,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Harri",
+			"party": "Plaid Cymru",
+			"votes": 2266,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wakeling, Ashley",
+			"party": "Green Party",
+			"votes": 1784,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Job, Ronnie",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rosser, Maxwell",
+			"party": "Independent",
+			"votes": 78,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Brian",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 49,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

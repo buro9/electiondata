@@ -1,0 +1,92 @@
+{
+	"id": "E14000833",
+	"name": "Newcastle upon Tyne North",
+	"y2010": [
+		{
+			"candidate": "McKinnell, Catherine",
+			"party": "Labour Party",
+			"votes": 17950,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Beadle, Ronald",
+			"party": "Liberal Democrat",
+			"votes": 14536,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parkinson, Stephen",
+			"party": "Conservative Party",
+			"votes": 7966,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibson, Terry",
+			"party": "British National Party",
+			"votes": 1890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Proud, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 1285,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heyman, Anna",
+			"party": "Green Party",
+			"votes": 319,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McKinnell, Catherine",
+			"party": "Labour Party",
+			"votes": 20689,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bates, Stephen",
+			"party": "Conservative Party",
+			"votes": 10536,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marron, Timothy",
+			"party": "United Kingdom Independence Party",
+			"votes": 7447,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lower, Anita",
+			"party": "Liberal Democrat",
+			"votes": 4366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whalley, Alison",
+			"party": "Green Party",
+			"votes": 1515,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rook, Violet",
+			"party": "North East Party",
+			"votes": 338,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

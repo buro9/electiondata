@@ -41,6 +41,13 @@ type Answer struct {
 	Votes  int
 }
 
+type ByConstituency struct {
+	ID    string   `json:"id"`
+	Name  string   `json:"name"`
+	Y2010 []Result `json:"y2010"`
+	Y2015 []Result `json:"y2015"`
+}
+
 func (e *Election) Totals() (
 	constituencies int,
 	candidates int,

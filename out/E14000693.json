@@ -1,0 +1,99 @@
+{
+	"id": "E14000693",
+	"name": "Epping Forest",
+	"y2010": [
+		{
+			"candidate": "Laing, Eleanor",
+			"party": "Conservative Party",
+			"votes": 25148,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Haigh, Ann",
+			"party": "Liberal Democrat",
+			"votes": 10017,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curtis, Katie",
+			"party": "Labour Party",
+			"votes": 6641,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richardson, Pat",
+			"party": "British National Party",
+			"votes": 1982,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 1852,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pepper, Simon",
+			"party": "Green Party",
+			"votes": 659,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sawyer, Kim",
+			"party": "English Democrats",
+			"votes": 285,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Laing, Eleanor",
+			"party": "Conservative Party",
+			"votes": 27027,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 9049,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barrett, Gareth",
+			"party": "Labour Party",
+			"votes": 7962,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitehouse, Jon",
+			"party": "Liberal Democrat",
+			"votes": 3448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Widdup, Anna",
+			"party": "Green Party",
+			"votes": 1782,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wadsworth, Gerard",
+			"party": "Young People's Party",
+			"votes": 80,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

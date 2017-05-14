@@ -1,0 +1,106 @@
+{
+	"id": "E14000788",
+	"name": "Lewisham West and Penge",
+	"y2010": [
+		{
+			"candidate": "Dowd, Jim",
+			"party": "Labour Party",
+			"votes": 18501,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Feakes, Alex",
+			"party": "Liberal Democrat",
+			"votes": 12673,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Chris",
+			"party": "Conservative Party",
+			"votes": 11489,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Staveley, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1117,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phoenix, Romayne",
+			"party": "Green Party",
+			"votes": 931,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hammond, Stephen",
+			"party": "Christian Peoples Alliance",
+			"votes": 317,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dowd, Jim",
+			"party": "Labour Party",
+			"votes": 24347,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jackson, Russell",
+			"party": "Conservative Party",
+			"votes": 11633,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chance, Tom",
+			"party": "Green Party",
+			"votes": 4077,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harding, Gary",
+			"party": "United Kingdom Independence Party",
+			"votes": 3764,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Feakes, Alex",
+			"party": "Liberal Democrat",
+			"votes": 3709,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powell-Davies, Martin",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 391,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hansom, David",
+			"party": "Independent",
+			"votes": 160,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whale, George",
+			"party": "Liberty GB",
+			"votes": 44,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

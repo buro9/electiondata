@@ -1,0 +1,78 @@
+{
+	"id": "E14000703",
+	"name": "Finchley and Golders Green",
+	"y2010": [
+		{
+			"candidate": "Freer, Mike",
+			"party": "Conservative Party",
+			"votes": 21688,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Moore, Alison",
+			"party": "Labour Party",
+			"votes": 15879,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edge, Laura",
+			"party": "Liberal Democrat",
+			"votes": 8036,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cummins, Susan",
+			"party": "United Kingdom Independence Party",
+			"votes": 817,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lyven, Donald",
+			"party": "Green Party",
+			"votes": 737,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Freer, Mike",
+			"party": "Conservative Party",
+			"votes": 25835,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sackman, Sarah",
+			"party": "Labour Party",
+			"votes": 20173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "King, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 1732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 1662,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Adele",
+			"party": "Green Party",
+			"votes": 1357,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

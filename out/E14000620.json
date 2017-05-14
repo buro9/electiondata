@@ -1,0 +1,106 @@
+{
+	"id": "E14000620",
+	"name": "Carlisle",
+	"y2010": [
+		{
+			"candidate": "Stevenson, John",
+			"party": "Conservative Party",
+			"votes": 16589,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Boaden, Michael",
+			"party": "Labour Party",
+			"votes": 15736,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Neil",
+			"party": "Liberal Democrat",
+			"votes": 6567,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stafford, Paul",
+			"party": "British National Party",
+			"votes": 1086,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Owen, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 969,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reardon, John",
+			"party": "Green Party",
+			"votes": 614,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Metcalfe, John",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 376,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howe, Peter",
+			"party": "ND",
+			"votes": 263,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stevenson, John",
+			"party": "Conservative Party",
+			"votes": 18873,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sherriff, Lee",
+			"party": "Labour Party",
+			"votes": 16099,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mills, Fiona",
+			"party": "United Kingdom Independence Party",
+			"votes": 5277,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davison, Helen",
+			"party": "Green Party",
+			"votes": 1125,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Birchall, Loraine",
+			"party": "Liberal Democrat",
+			"votes": 1087,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Okam, Alfred",
+			"party": "Independent",
+			"votes": 126,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

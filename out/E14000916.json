@@ -1,0 +1,71 @@
+{
+	"id": "E14000916",
+	"name": "Sefton Central",
+	"y2010": [
+		{
+			"candidate": "Esterson, Bill",
+			"party": "Labour Party",
+			"votes": 20307,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Jones, Debi",
+			"party": "Conservative Party",
+			"votes": 16445,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clein, Richard",
+			"party": "Liberal Democrat",
+			"votes": 9656,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harper, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 2055,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Esterson, Bill",
+			"party": "Labour Party",
+			"votes": 26359,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Allen, Valerie",
+			"party": "Conservative Party",
+			"votes": 14513,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Power, Tim",
+			"party": "United Kingdom Independence Party",
+			"votes": 4879,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Keaveney, Paula",
+			"party": "Liberal Democrat",
+			"votes": 2086,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Melia, Lindsay",
+			"party": "Green Party",
+			"votes": 1184,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

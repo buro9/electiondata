@@ -1,0 +1,92 @@
+{
+	"id": "E14001034",
+	"name": "Suffolk West",
+	"y2010": [
+		{
+			"candidate": "Hancock, Matthew",
+			"party": "Conservative Party",
+			"votes": 24312,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Brooks-Gordon, Belinda",
+			"party": "Liberal Democrat",
+			"votes": 11262,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ahmed, Ohid",
+			"party": "Labour Party",
+			"votes": 7089,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Ian",
+			"party": "United Kingdom Independence Party",
+			"votes": 3085,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johns, Ramon",
+			"party": "British National Party",
+			"votes": 1428,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Appleby, Andrew",
+			"party": "Independent",
+			"votes": 540,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Colin",
+			"party": "Christian Peoples Alliance",
+			"votes": 373,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hancock, Matthew",
+			"party": "Conservative Party",
+			"votes": 25684,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Flood, Julian",
+			"party": "United Kingdom Independence Party",
+			"votes": 10700,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jefferys, Michael",
+			"party": "Labour Party",
+			"votes": 8604,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tealby-Watson, Elfreda",
+			"party": "Liberal Democrat",
+			"votes": 2465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pettitt, Niall",
+			"party": "Green Party",
+			"votes": 1779,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

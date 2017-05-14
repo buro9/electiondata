@@ -1,0 +1,127 @@
+{
+	"id": "E14000922",
+	"name": "Sheffield Hallam",
+	"y2010": [
+		{
+			"candidate": "Clegg, Nick",
+			"party": "Liberal Democrat",
+			"votes": 27324,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bates, Nicola",
+			"party": "Conservative Party",
+			"votes": 12040,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Jack",
+			"party": "Labour Party",
+			"votes": 8228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "James, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 1195,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barnard, Steve",
+			"party": "Green Party",
+			"votes": 919,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wildgoose, David",
+			"party": "English Democrats",
+			"votes": 586,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fitzpatrick, Martin",
+			"party": "Independent",
+			"votes": 429,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Ray",
+			"party": "Christian Party",
+			"votes": 250,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adshead, Mark",
+			"party": "Monster Raving Loony Party",
+			"votes": 164,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Clegg, Nick",
+			"party": "Liberal Democrat",
+			"votes": 22215,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Coppard, Oliver",
+			"party": "Labour Party",
+			"votes": 19862,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Ian",
+			"party": "Conservative Party",
+			"votes": 7544,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Joe",
+			"party": "United Kingdom Independence Party",
+			"votes": 3575,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garbutt, Peter",
+			"party": "Green Party",
+			"votes": 1772,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reeve, Carlton",
+			"party": "Independent",
+			"votes": 249,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clegg, Steven",
+			"party": "English Democrats",
+			"votes": 167,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stop the fiasco Wild, Jim",
+			"party": "Independent",
+			"votes": 97,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000993",
+	"name": "Thirsk and Malton",
+	"y2010": [
+		{
+			"candidate": "McIntosh, Anne",
+			"party": "Conservative Party",
+			"votes": 20167,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Keal, Howard",
+			"party": "Liberal Democrat",
+			"votes": 8886,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Jonathan",
+			"party": "Labour Party",
+			"votes": 5169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Horton, Toby",
+			"party": "United Kingdom Independence Party",
+			"votes": 2502,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, John",
+			"party": "Lib",
+			"votes": 1418,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hollinrake, Kevin",
+			"party": "Conservative Party",
+			"votes": 27545,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Avery, Alan",
+			"party": "Labour Party",
+			"votes": 8089,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Horton, Toby",
+			"party": "United Kingdom Independence Party",
+			"votes": 7805,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Keal, Dinah",
+			"party": "Liberal Democrat",
+			"votes": 4703,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newsam, Chris",
+			"party": "Green Party",
+			"votes": 2404,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, John",
+			"party": "Lib",
+			"votes": 1127,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tate, Philip",
+			"party": "Independent",
+			"votes": 692,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "S14000010",
+	"name": "Ayrshire Central",
+	"y2010": [
+		{
+			"candidate": "Donohoe, Brian",
+			"party": "Labour Party",
+			"votes": 20950,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Golden, Maurice",
+			"party": "Conservative Party",
+			"votes": 8943,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mullen, John",
+			"party": "Scottish National Party",
+			"votes": 8364,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chamberlain, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 5236,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDaid, James",
+			"party": "Soc Lab",
+			"votes": 422,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Whitford, Philippa",
+			"party": "Scottish National Party",
+			"votes": 26999,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Donohoe, Brian",
+			"party": "Labour Party",
+			"votes": 13410,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hope, Marc",
+			"party": "Conservative Party",
+			"votes": 8803,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bain, Gordon",
+			"party": "Liberal Democrat",
+			"votes": 917,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tudhope, Veronika",
+			"party": "Green Party",
+			"votes": 645,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

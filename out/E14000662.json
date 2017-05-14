@@ -1,0 +1,92 @@
+{
+	"id": "E14000662",
+	"name": "Derby North",
+	"y2010": [
+		{
+			"candidate": "Williamson, Chris",
+			"party": "Labour Party",
+			"votes": 14896,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Mold, Stephen",
+			"party": "Conservative Party",
+			"votes": 14283,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Care, Lucy",
+			"party": "Liberal Democrat",
+			"votes": 12638,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cheeseman, Peter",
+			"party": "British National Party",
+			"votes": 2000,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ransome, Elizabeth",
+			"party": "United Kingdom Independence Party",
+			"votes": 829,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gale, David",
+			"party": "Independent",
+			"votes": 264,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Geraghty, David",
+			"party": "Pirate Party UK",
+			"votes": 170,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Solloway, Amanda",
+			"party": "Conservative Party",
+			"votes": 16402,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Williamson, Chris",
+			"party": "Labour Party",
+			"votes": 16361,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Tilly",
+			"party": "United Kingdom Independence Party",
+			"votes": 6532,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Care, Lucy",
+			"party": "Liberal Democrat",
+			"votes": 3832,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mason-Power, Alice",
+			"party": "Green Party",
+			"votes": 1618,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

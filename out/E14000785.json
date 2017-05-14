@@ -1,0 +1,99 @@
+{
+	"id": "E14000785",
+	"name": "Leigh",
+	"y2010": [
+		{
+			"candidate": "Burnham, Andy",
+			"party": "Labour Party",
+			"votes": 21295,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Awan, Shazia",
+			"party": "Conservative Party",
+			"votes": 9284,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blackburn, Chris",
+			"party": "Liberal Democrat",
+			"votes": 8049,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chadwick, Gary",
+			"party": "British National Party",
+			"votes": 2724,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lavelle, Mary",
+			"party": "United Kingdom Independence Party",
+			"votes": 1535,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bradbury, Norman",
+			"party": "Independent",
+			"votes": 988,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dainty, Terry",
+			"party": "Independent",
+			"votes": 320,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hessell, Ryan",
+			"party": "Christian Party",
+			"votes": 137,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Burnham, Andy",
+			"party": "Labour Party",
+			"votes": 24312,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Townson, Louisa",
+			"party": "Conservative Party",
+			"votes": 10216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leggett, Les",
+			"party": "United Kingdom Independence Party",
+			"votes": 8903,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Winlow, Bill",
+			"party": "Liberal Democrat",
+			"votes": 1150,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Stephen",
+			"party": "Left Unity - Trade Unionists and Socialists",
+			"votes": 542,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "W07000044",
+	"name": "Wrexham",
+	"y2010": [
+		{
+			"candidate": "Lucas, Ian",
+			"party": "Labour Party",
+			"votes": 12161,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rippeth, Tom",
+			"party": "Liberal Democrat",
+			"votes": 8503,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Gareth",
+			"party": "Conservative Party",
+			"votes": 8375,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Arfon",
+			"party": "Plaid Cymru",
+			"votes": 2029,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Melvin",
+			"party": "British National Party",
+			"votes": 1134,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Humberstone, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 774,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lucas, Ian",
+			"party": "Labour Party",
+			"votes": 12181,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Atkinson, Andrew",
+			"party": "Conservative Party",
+			"votes": 10350,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Plevin-Kelly, Niall",
+			"party": "United Kingdom Independence Party",
+			"votes": 5072,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harper, Carrie",
+			"party": "Plaid Cymru",
+			"votes": 2501,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walsh, Rob",
+			"party": "Liberal Democrat",
+			"votes": 1735,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Munnerley, David",
+			"party": "Green Party",
+			"votes": 669,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Brian",
+			"party": "Independent",
+			"votes": 211,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

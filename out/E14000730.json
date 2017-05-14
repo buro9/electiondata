@@ -1,0 +1,78 @@
+{
+	"id": "E14000730",
+	"name": "Harrogate and Knaresborough",
+	"y2010": [
+		{
+			"candidate": "Jones, Andrew",
+			"party": "Conservative Party",
+			"votes": 24305,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kelley, Claire",
+			"party": "Liberal Democrat",
+			"votes": 23266,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McNerney, Kevin",
+			"party": "Labour Party",
+			"votes": 3413,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gill, Steven",
+			"party": "British National Party",
+			"votes": 1094,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Upex, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1056,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jones, Andrew",
+			"party": "Conservative Party",
+			"votes": 28153,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Flynn, Helen",
+			"party": "Liberal Democrat",
+			"votes": 11782,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simister, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 5681,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Jan",
+			"party": "Labour Party",
+			"votes": 5409,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oakes, Shan",
+			"party": "Green Party",
+			"votes": 2351,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

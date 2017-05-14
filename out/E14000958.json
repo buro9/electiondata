@@ -1,0 +1,78 @@
+{
+	"id": "E14000958",
+	"name": "Southport",
+	"y2010": [
+		{
+			"candidate": "Pugh, John",
+			"party": "Liberal Democrat",
+			"votes": 21707,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Porter, Brenda",
+			"party": "Conservative Party",
+			"votes": 15683,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Conalty, Jim",
+			"party": "Labour Party",
+			"votes": 4116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Durrance, Terry",
+			"party": "United Kingdom Independence Party",
+			"votes": 2251,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pugh, John",
+			"party": "Liberal Democrat",
+			"votes": 13652,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Moore, Damien",
+			"party": "Conservative Party",
+			"votes": 12330,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Savage, Liz",
+			"party": "Labour Party",
+			"votes": 8468,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Durrance, Terry",
+			"party": "United Kingdom Independence Party",
+			"votes": 7429,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rankin, Laurence",
+			"party": "Green Party",
+			"votes": 1230,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barlow, Jacqueline",
+			"party": "Southport Party",
+			"votes": 992,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

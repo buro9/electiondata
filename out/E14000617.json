@@ -1,0 +1,99 @@
+{
+	"id": "E14000617",
+	"name": "Cambridge",
+	"y2010": [
+		{
+			"candidate": "Huppert, Julian",
+			"party": "Liberal Democrat",
+			"votes": 19621,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hillman, Nick",
+			"party": "Conservative Party",
+			"votes": 12829,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zeichner, Daniel",
+			"party": "Labour Party",
+			"votes": 12174,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Juniper, Tony",
+			"party": "Green Party",
+			"votes": 3804,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burkinshaw, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1195,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Booth, Martin",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 362,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Old, Holborn",
+			"party": "Independent",
+			"votes": 145,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Zeichner, Daniel",
+			"party": "Labour Party",
+			"votes": 18646,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Huppert, Julian",
+			"party": "Liberal Democrat",
+			"votes": 18047,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Fernando, Chamali",
+			"party": "Conservative Party",
+			"votes": 8117,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Read, Rupert",
+			"party": "Green Party",
+			"votes": 4109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Flynn, Patrick",
+			"party": "United Kingdom Independence Party",
+			"votes": 2668,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garrett, Keith",
+			"party": "Rebooting Democracy",
+			"votes": 187,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

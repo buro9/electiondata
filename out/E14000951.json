@@ -1,0 +1,92 @@
+{
+	"id": "E14000951",
+	"name": "Hertfordshire South West",
+	"y2010": [
+		{
+			"candidate": "Gauke, David",
+			"party": "Conservative Party",
+			"votes": 30773,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Townsend, Christopher",
+			"party": "Liberal Democrat",
+			"votes": 15853,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mann, Harry",
+			"party": "Labour Party",
+			"votes": 6526,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Benson, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 1450,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gates, Deirdre",
+			"party": "British National Party",
+			"votes": 1302,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hannaway, James",
+			"party": "Independent",
+			"votes": 846,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gauke, David",
+			"party": "Conservative Party",
+			"votes": 32608,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Diggins, Simon",
+			"party": "Labour Party",
+			"votes": 9345,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Anderson, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 6603,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Quinton, Nigel",
+			"party": "Liberal Democrat",
+			"votes": 5872,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pardy, Charlotte",
+			"party": "Green Party",
+			"votes": 2583,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cartmell, Graham",
+			"party": "CSP",
+			"votes": 256,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14000990",
+	"name": "Tewkesbury",
+	"y2010": [
+		{
+			"candidate": "Robertson, Laurence",
+			"party": "Conservative Party",
+			"votes": 25472,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cameron, Alistair",
+			"party": "Liberal Democrat",
+			"votes": 19162,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Emmerson, Stuart",
+			"party": "Labour Party",
+			"votes": 6253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 2230,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sidford, Matthew",
+			"party": "Green Party",
+			"votes": 525,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ridgeon, George",
+			"party": "Monster Raving Loony Party",
+			"votes": 319,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Robertson, Laurence",
+			"party": "Conservative Party",
+			"votes": 30176,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Buxton, Ed",
+			"party": "Labour Party",
+			"votes": 8204,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cameron, Alistair",
+			"party": "Liberal Democrat",
+			"votes": 7629,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adair, Stuart",
+			"party": "United Kingdom Independence Party",
+			"votes": 7128,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, Jemma",
+			"party": "Green Party",
+			"votes": 2207,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14000826",
+	"name": "Morley and Outwood",
+	"y2010": [
+		{
+			"candidate": "Balls, Ed",
+			"party": "Lab Co-op",
+			"votes": 18365,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Calvert, Antony",
+			"party": "Conservative Party",
+			"votes": 17264,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Monaghan, James",
+			"party": "Liberal Democrat",
+			"votes": 8186,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beverley, Chris",
+			"party": "British National Party",
+			"votes": 3535,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Daniel, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1506,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jenkyns, Andrea",
+			"party": "Conservative Party",
+			"votes": 18776,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Balls, Ed",
+			"party": "Labour Party",
+			"votes": 18354,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Dews, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7951,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Rebecca",
+			"party": "Liberal Democrat",
+			"votes": 1426,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hemingway, Martin",
+			"party": "Green Party",
+			"votes": 1264,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Craven, Arnie",
+			"party": "Yorkshire First",
+			"votes": 479,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

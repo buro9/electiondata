@@ -1,0 +1,78 @@
+{
+	"id": "E14000963",
+	"name": "St Helens South and Whiston",
+	"y2010": [
+		{
+			"candidate": "Woodward, Shaun",
+			"party": "Labour Party",
+			"votes": 24364,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Spencer, Brian",
+			"party": "Liberal Democrat",
+			"votes": 10242,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Val",
+			"party": "Conservative Party",
+			"votes": 8209,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Winstanley, James",
+			"party": "British National Party",
+			"votes": 2040,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sumner, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1226,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Rimmer, Marie",
+			"party": "Labour Party",
+			"votes": 28950,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Keegan, Gillian",
+			"party": "Conservative Party",
+			"votes": 7707,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beirne, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 6766,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spencer, Brian",
+			"party": "Liberal Democrat",
+			"votes": 2737,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chan, James",
+			"party": "Green Party",
+			"votes": 2237,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000955",
+	"name": "Southampton Itchen",
+	"y2010": [
+		{
+			"candidate": "Denham, John",
+			"party": "Labour Party",
+			"votes": 16326,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Royston",
+			"party": "Conservative Party",
+			"votes": 16134,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goodall, David",
+			"party": "Liberal Democrat",
+			"votes": 9256,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kebbell, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 1928,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spottiswoode, John",
+			"party": "Green Party",
+			"votes": 600,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cutter, Tim",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 168,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Royston",
+			"party": "Conservative Party",
+			"votes": 18656,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Davis, Rowenna",
+			"party": "Labour Party",
+			"votes": 16340,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rose, Kim",
+			"party": "United Kingdom Independence Party",
+			"votes": 6010,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spottiswoode, John",
+			"party": "Green Party",
+			"votes": 1876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bell, Eleanor",
+			"party": "Liberal Democrat",
+			"votes": 1595,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Atkins, Sue",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 233,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

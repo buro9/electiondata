@@ -1,0 +1,99 @@
+{
+	"id": "E14000667",
+	"name": "Don Valley",
+	"y2010": [
+		{
+			"candidate": "Flint, Caroline",
+			"party": "Labour Party",
+			"votes": 16472,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Stephens, Matthew",
+			"party": "Conservative Party",
+			"votes": 12877,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Edward",
+			"party": "Liberal Democrat",
+			"votes": 7422,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Toseland, Erwin",
+			"party": "British National Party",
+			"votes": 2112,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shaw, William",
+			"party": "United Kingdom Independence Party",
+			"votes": 1904,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aston, Bernie",
+			"party": "English Democrats",
+			"votes": 1756,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Martin",
+			"party": "Independent",
+			"votes": 887,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Flint, Caroline",
+			"party": "Labour Party",
+			"votes": 19621,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jackson, Carl",
+			"party": "Conservative Party",
+			"votes": 10736,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aston, Charles",
+			"party": "United Kingdom Independence Party",
+			"votes": 9963,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Paterson, Rene",
+			"party": "Liberal Democrat",
+			"votes": 1487,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Steve",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 437,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dutton, Louise",
+			"party": "English Democrats",
+			"votes": 242,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

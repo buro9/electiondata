@@ -1,0 +1,78 @@
+{
+	"id": "S14000028",
+	"name": "Falkirk",
+	"y2010": [
+		{
+			"candidate": "Joyce, Eric",
+			"party": "Labour Party",
+			"votes": 23207,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McNally, John",
+			"party": "Scottish National Party",
+			"votes": 15364,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mackie, Katie",
+			"party": "Conservative Party",
+			"votes": 5698,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leach, Kieran",
+			"party": "Liberal Democrat",
+			"votes": 5225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goldie, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 1283,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McNally, John",
+			"party": "Scottish National Party",
+			"votes": 34831,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Whitefield, Karen",
+			"party": "Labour Party",
+			"votes": 15130,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, Alison",
+			"party": "Conservative Party",
+			"votes": 7325,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coburn, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1829,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Milne, Galen",
+			"party": "Liberal Democrat",
+			"votes": 1225,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

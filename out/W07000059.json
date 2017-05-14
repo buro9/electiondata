@@ -1,0 +1,106 @@
+{
+	"id": "W07000059",
+	"name": "Clwyd West",
+	"y2010": [
+		{
+			"candidate": "Jones, David",
+			"party": "Conservative Party",
+			"votes": 15833,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hutton, Donna",
+			"party": "Labour Party",
+			"votes": 9414,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gruffydd, Llyr Huws",
+			"party": "Plaid Cymru",
+			"votes": 5864,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Michele",
+			"party": "Liberal Democrat",
+			"votes": 5801,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholson, Warwick",
+			"party": "United Kingdom Independence Party",
+			"votes": 864,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, David",
+			"party": "Christian Party",
+			"votes": 239,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blakesley, Joe",
+			"party": "Independent",
+			"votes": 96,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jones, David",
+			"party": "Conservative Party",
+			"votes": 16463,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Thomas, Gareth",
+			"party": "Labour Party",
+			"votes": 9733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholson, Warwick",
+			"party": "United Kingdom Independence Party",
+			"votes": 4988,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Marc",
+			"party": "Plaid Cymru",
+			"votes": 4651,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lesiter-Burgess, Sarah",
+			"party": "Liberal Democrat",
+			"votes": 1387,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "English, Bob",
+			"party": "Socialist Labour Party",
+			"votes": 612,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jepson, Rory",
+			"party": "The Above and Beyond Party",
+			"votes": 194,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

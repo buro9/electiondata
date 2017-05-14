@@ -1,0 +1,92 @@
+{
+	"id": "E14000676",
+	"name": "Ealing Southall",
+	"y2010": [
+		{
+			"candidate": "Sharma, Virendra",
+			"party": "Labour Party",
+			"votes": 22024,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Singh, Gurcharan",
+			"party": "Conservative Party",
+			"votes": 12733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bakhai, Nigel",
+			"party": "Liberal Democrat",
+			"votes": 6383,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Basu, Suneil",
+			"party": "Green Party",
+			"votes": 705,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Anil, Mehboob",
+			"party": "Christian Party",
+			"votes": 503,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chaggar, Sati",
+			"party": "English Democrats",
+			"votes": 408,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Sharma, Virendra",
+			"party": "Labour Party",
+			"votes": 28147,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Symes, James",
+			"party": "Conservative Party",
+			"votes": 9387,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mahal, Jaspreet",
+			"party": "Green Party",
+			"votes": 2007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Poynton, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1769,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kaushik, Kavya",
+			"party": "Liberal Democrat",
+			"votes": 1550,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Singh, Jagdeesh",
+			"party": "National Liberal Party",
+			"votes": 461,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

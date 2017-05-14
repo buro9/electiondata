@@ -1,0 +1,78 @@
+{
+	"id": "E14000925",
+	"name": "Shipley",
+	"y2010": [
+		{
+			"candidate": "Davies, Philip",
+			"party": "Conservative Party",
+			"votes": 24002,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hinchcliffe, Susan",
+			"party": "Labour Party",
+			"votes": 14058,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harris, John",
+			"party": "Liberal Democrat",
+			"votes": 9890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warnes, Kevin",
+			"party": "Green Party",
+			"votes": 1477,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davies, Philip",
+			"party": "Conservative Party",
+			"votes": 25269,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Clapcote, Steve",
+			"party": "Labour Party",
+			"votes": 15645,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khan, Waqas",
+			"party": "United Kingdom Independence Party",
+			"votes": 4479,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warnes, Kevin",
+			"party": "Green Party",
+			"votes": 2657,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 1949,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Darren",
+			"party": "Yorkshire First",
+			"votes": 543,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

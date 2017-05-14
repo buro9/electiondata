@@ -1,0 +1,71 @@
+{
+	"id": "E14000857",
+	"name": "Hampshire North West",
+	"y2010": [
+		{
+			"candidate": "Young, George",
+			"party": "Conservative Party",
+			"votes": 31072,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McCann, Thomas",
+			"party": "Liberal Democrat",
+			"votes": 12489,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Evans, Sarah",
+			"party": "Labour Party",
+			"votes": 6980,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oram, Stan",
+			"party": "United Kingdom Independence Party",
+			"votes": 2751,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Malthouse, Kit",
+			"party": "Conservative Party",
+			"votes": 32052,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Perkins, Sue",
+			"party": "United Kingdom Independence Party",
+			"votes": 8109,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adams, Andrew",
+			"party": "Labour Party",
+			"votes": 7342,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Payton, Alexander",
+			"party": "Liberal Democrat",
+			"votes": 5151,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Dan",
+			"party": "Green Party",
+			"votes": 2541,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

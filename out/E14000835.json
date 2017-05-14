@@ -1,0 +1,92 @@
+{
+	"id": "E14000835",
+	"name": "Newton Abbot",
+	"y2010": [
+		{
+			"candidate": "Morris, Anne-Marie",
+			"party": "Conservative Party",
+			"votes": 20774,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Younger-Ross, Richard",
+			"party": "Liberal Democrat",
+			"votes": 20251,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Canavan, Patrick",
+			"party": "Labour Party",
+			"votes": 3387,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hooper, Jackie",
+			"party": "United Kingdom Independence Party",
+			"votes": 3088,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lindsey, Corinne",
+			"party": "Green Party",
+			"votes": 701,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sharp, Keith",
+			"party": "Independent",
+			"votes": 82,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Morris, Anne-Marie",
+			"party": "Conservative Party",
+			"votes": 22794,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Younger-Ross, Richard",
+			"party": "Liberal Democrat",
+			"votes": 11560,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peers, Rod",
+			"party": "United Kingdom Independence Party",
+			"votes": 6726,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Freer, Roy",
+			"party": "Labour Party",
+			"votes": 4736,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smyth-Bonfield, Steven",
+			"party": "Green Party",
+			"votes": 2216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brogan, Sean ",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 221,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

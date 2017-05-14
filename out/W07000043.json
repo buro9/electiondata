@@ -1,0 +1,92 @@
+{
+	"id": "W07000043",
+	"name": "Alyn and Deeside",
+	"y2010": [
+		{
+			"candidate": "Tami, Mark",
+			"party": "Labour Party",
+			"votes": 15804,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gallagher, Will",
+			"party": "Conservative Party",
+			"votes": 12885,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brighton, Paul",
+			"party": "Liberal Democrat",
+			"votes": 7308,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Maurice",
+			"party": "Plaid Cymru",
+			"votes": 1549,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, John",
+			"party": "British National Party",
+			"votes": 1368,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howson, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 1009,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Tami, Mark",
+			"party": "Labour Party",
+			"votes": 16540,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Knightly, Laura",
+			"party": "Conservative Party",
+			"votes": 13197,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smillie, Blair",
+			"party": "United Kingdom Independence Party",
+			"votes": 7260,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Tudor",
+			"party": "Liberal Democrat",
+			"votes": 1733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hurst, Jacqueline",
+			"party": "Plaid Cymru",
+			"votes": 1608,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ibbotson, Alasdair",
+			"party": "Green Party",
+			"votes": 976,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

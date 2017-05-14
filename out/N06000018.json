@@ -1,0 +1,113 @@
+{
+	"id": "N06000018",
+	"name": "Tyrone West",
+	"y2010": [
+		{
+			"candidate": "Doherty, Pat",
+			"party": "Sinn Fein",
+			"votes": 18050,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Buchanan, Thomas",
+			"party": "Democratic Unionist Party",
+			"votes": 7365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hussey, Ross",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 5281,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Byrne, Joe",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 5212,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bower, Michael",
+			"party": "Alliance",
+			"votes": 859,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McClean, Ciaran",
+			"party": "Independent",
+			"votes": 508,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Doherty, Pat",
+			"party": "Sinn Fein",
+			"votes": 16807,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Buchanan, Tom",
+			"party": "Democratic Unionist Party",
+			"votes": 6747,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCrossan, Daniel",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 6444,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hussey, Ross",
+			"party": "Ulster Unionist Party",
+			"votes": 6144,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Donnelly, Stephen",
+			"party": "Alliance",
+			"votes": 869,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McClean, Ciaran",
+			"party": "Green Party",
+			"votes": 780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Barry",
+			"party": "CISTAP",
+			"votes": 528,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leyland, Claire-Louise",
+			"party": "Conservative Party",
+			"votes": 169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Susan Anne",
+			"party": "Independent",
+			"votes": 166,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

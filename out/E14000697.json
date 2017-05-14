@@ -1,0 +1,113 @@
+{
+	"id": "E14000697",
+	"name": "Esher and Walton",
+	"y2010": [
+		{
+			"candidate": "Raab, Dominic",
+			"party": "Conservative Party",
+			"votes": 32134,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Blackman, Lionel",
+			"party": "Liberal Democrat",
+			"votes": 13541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Eldergill, Francis",
+			"party": "Labour Party",
+			"votes": 5829,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collignon, Bernard",
+			"party": "United Kingdom Independence Party",
+			"votes": 1783,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Popham, Tony",
+			"party": "Independent",
+			"votes": 378,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chinnery, Chinners",
+			"party": "Monster Raving Loony Party",
+			"votes": 341,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kearsley, Mike",
+			"party": "English Democrats",
+			"votes": 307,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lear, Andy",
+			"party": "Best",
+			"votes": 230,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Raab, Dominic",
+			"party": "Conservative Party",
+			"votes": 35845,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Eldergill, Francis",
+			"party": "Labour Party",
+			"votes": 7229,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Nicholas",
+			"party": "United Kingdom Independence Party",
+			"votes": 5551,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davis, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 5372,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Palmer, Olivia",
+			"party": "Green Party",
+			"votes": 2355,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heenan, Matt",
+			"party": "CISTAP",
+			"votes": 396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, Della",
+			"party": "Independent",
+			"votes": 228,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000737",
+	"name": "Hayes and Harlington",
+	"y2010": [
+		{
+			"candidate": "McDonnell, John",
+			"party": "Labour Party",
+			"votes": 23377,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Seaman-Digby, Scott",
+			"party": "Conservative Party",
+			"votes": 12553,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khalsa, Satnam Kaur",
+			"party": "Liberal Democrat",
+			"votes": 3726,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forster, Chris",
+			"party": "British National Party",
+			"votes": 1520,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cripps, Andrew",
+			"party": "National Front",
+			"votes": 566,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Cliff",
+			"party": "English Democrats",
+			"votes": 464,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee, Jessica",
+			"party": "Green Party",
+			"votes": 348,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shahzad, Aneel",
+			"party": "Christian Party",
+			"votes": 83,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McDonnell, John",
+			"party": "Labour Party",
+			"votes": 26843,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lewis, Pearl",
+			"party": "Conservative Party",
+			"votes": 11143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Cliff",
+			"party": "United Kingdom Independence Party",
+			"votes": 5388,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Khalsa, Satnam",
+			"party": "Liberal Democrat",
+			"votes": 888,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Munro, Alick",
+			"party": "Green Party",
+			"votes": 794,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

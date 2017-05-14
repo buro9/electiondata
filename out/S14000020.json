@@ -1,0 +1,99 @@
+{
+	"id": "S14000020",
+	"name": "East Lothian",
+	"y2010": [
+		{
+			"candidate": "O'Donnell, Fiona",
+			"party": "Labour Party",
+			"votes": 21919,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Veitch, Michael",
+			"party": "Conservative Party",
+			"votes": 9661,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ritchie, Stuart",
+			"party": "Liberal Democrat",
+			"votes": 8288,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sharp, Andrew",
+			"party": "Scottish National Party",
+			"votes": 7883,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mackenzie, James",
+			"party": "Green Party",
+			"votes": 862,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd, Jon",
+			"party": "United Kingdom Independence Party",
+			"votes": 548,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kerevan, George ",
+			"party": "Scottish National Party",
+			"votes": 25104,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "O'Donnell, Fiona",
+			"party": "Labour Party",
+			"votes": 18301,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Roach, David",
+			"party": "Conservative Party",
+			"votes": 11511,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spencer, Ettie",
+			"party": "Liberal Democrat",
+			"votes": 1517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rose, Jason",
+			"party": "Green Party",
+			"votes": 1245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marshall, Oluf",
+			"party": "United Kingdom Independence Party",
+			"votes": 1178,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allan, Mike",
+			"party": "Independent",
+			"votes": 158,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

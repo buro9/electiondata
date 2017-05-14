@@ -1,0 +1,92 @@
+{
+	"id": "E14000891",
+	"name": "Redcar",
+	"y2010": [
+		{
+			"candidate": "Swales, Ian",
+			"party": "Liberal Democrat",
+			"votes": 18955,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Baird, Vera",
+			"party": "Labour Party",
+			"votes": 13741,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Mastin, Steve",
+			"party": "Conservative Party",
+			"votes": 5790,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bulmer, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1875,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Broughton, Kevin",
+			"party": "British National Party",
+			"votes": 1475,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walter, Hannah",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 127,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Turley, Anna",
+			"party": "Labour Party",
+			"votes": 17946,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Mason, Josh",
+			"party": "Liberal Democrat",
+			"votes": 7558,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gallacher, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 7516,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Young, Jacob",
+			"party": "Conservative Party",
+			"votes": 6630,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pinkney, Peter",
+			"party": "Green Party",
+			"votes": 880,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lockey, Philip",
+			"party": "North East Party",
+			"votes": 389,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "W07000066",
+	"name": "Carmarthen West and Pembrokeshire South",
+	"y2010": [
+		{
+			"candidate": "Hart, Simon",
+			"party": "Conservative Party",
+			"votes": 16649,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ainger, Nick",
+			"party": "Labour Party",
+			"votes": 13226,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Gossage, John",
+			"party": "Liberal Democrat",
+			"votes": 4890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, John",
+			"party": "Plaid Cymru",
+			"votes": 4232,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clarke, Ray",
+			"party": "United Kingdom Independence Party",
+			"votes": 1146,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Langen, Henry",
+			"party": "Independent",
+			"votes": 364,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hart, Simon",
+			"party": "Conservative Party",
+			"votes": 17626,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Evans, Delyth",
+			"party": "Labour Party",
+			"votes": 11572,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Atkinson, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 4698,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Elwyn",
+			"party": "Plaid Cymru",
+			"votes": 4201,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tapley, Gary",
+			"party": "Green Party",
+			"votes": 1290,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Runnett, Selwyn",
+			"party": "Liberal Democrat",
+			"votes": 963,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

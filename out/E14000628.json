@@ -1,0 +1,106 @@
+{
+	"id": "E14000628",
+	"name": "Chelmsford",
+	"y2010": [
+		{
+			"candidate": "Burns, Simon",
+			"party": "Conservative Party",
+			"votes": 25207,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Robinson, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 20097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixon, Peter",
+			"party": "Labour Party",
+			"votes": 5980,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wedon, Ken",
+			"party": "United Kingdom Independence Party",
+			"votes": 1527,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bateman, Mike",
+			"party": "British National Party",
+			"votes": 899,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomson, Angela",
+			"party": "Green Party",
+			"votes": 476,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Breed, Claire",
+			"party": "English Democrats",
+			"votes": 254,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sherman, Ben",
+			"party": "Beer",
+			"votes": 153,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Burns, Simon",
+			"party": "Conservative Party",
+			"votes": 27732,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Vince, Chris",
+			"party": "Labour Party",
+			"votes": 9482,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gough, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 7652,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 6394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomson, Angela",
+			"party": "Green Party",
+			"votes": 1892,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Boyle, Henry",
+			"party": "Lib",
+			"votes": 665,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

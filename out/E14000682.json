@@ -1,0 +1,92 @@
+{
+	"id": "E14000682",
+	"name": "Worthing East and Shoreham",
+	"y2010": [
+		{
+			"candidate": "Loughton, Tim",
+			"party": "Conservative Party",
+			"votes": 23458,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Doyle, James",
+			"party": "Liberal Democrat",
+			"votes": 12353,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Benn, Emily",
+			"party": "Labour Party",
+			"votes": 8087,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Glennon, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 2984,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Board, Susan",
+			"party": "Green Party",
+			"votes": 1126,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maltby, Clive",
+			"party": "English Democrats",
+			"votes": 389,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Loughton, Timothy",
+			"party": "Conservative Party",
+			"votes": 24686,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Macpherson, Tim",
+			"party": "Labour Party",
+			"votes": 9737,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Glennon, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 8267,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smytherman, Bob",
+			"party": "Liberal Democrat",
+			"votes": 3360,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Doyle, James",
+			"party": "Green Party",
+			"votes": 2605,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Carl",
+			"party": "National Health Action Party",
+			"votes": 1243,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

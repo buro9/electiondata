@@ -1,0 +1,92 @@
+{
+	"id": "N06000002",
+	"name": "Belfast North",
+	"y2010": [
+		{
+			"candidate": "Dodds, Nigel",
+			"party": "Democratic Unionist Party",
+			"votes": 14812,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kelly, Gerry",
+			"party": "Sinn Fein",
+			"votes": 12588,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maginness, Alban",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 4544,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cobain, Fred",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 2837,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Webb, William",
+			"party": "Alliance",
+			"votes": 1809,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McAuley, Martin",
+			"party": "Independent",
+			"votes": 403,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dodds, Nigel",
+			"party": "Democratic Unionist Party",
+			"votes": 19096,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kelly, Gerry",
+			"party": "Sinn Fein",
+			"votes": 13770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maginness, Alban",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 3338,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Neill, Jason",
+			"party": "Alliance",
+			"votes": 2941,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weir, Gemma",
+			"party": "Workers' Party",
+			"votes": 919,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Fra",
+			"party": "Independent",
+			"votes": 529,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "E14001062",
+	"name": "York Outer",
+	"y2010": [
+		{
+			"candidate": "Sturdy, Julian",
+			"party": "Conservative Party",
+			"votes": 22912,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kirk, Madeleine",
+			"party": "Liberal Democrat",
+			"votes": 19224,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Alexander, James",
+			"party": "Labour Party",
+			"votes": 9108,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Judith",
+			"party": "United Kingdom Independence Party",
+			"votes": 1100,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smurthwaite, Cathy",
+			"party": "British National Party",
+			"votes": 956,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Sturdy, Julian",
+			"party": "Conservative Party",
+			"votes": 26477,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Riches, Joseph",
+			"party": "Labour Party",
+			"votes": 13348,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blanchard, James",
+			"party": "Liberal Democrat",
+			"votes": 6269,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Abbott, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 5251,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shaw, Ginnie",
+			"party": "Green Party",
+			"votes": 2558,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

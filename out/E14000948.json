@@ -1,0 +1,113 @@
+{
+	"id": "E14000948",
+	"name": "Thanet South",
+	"y2010": [
+		{
+			"candidate": "Sandys, Laura",
+			"party": "Conservative Party",
+			"votes": 22043,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ladyman, Stephen",
+			"party": "Labour Party",
+			"votes": 14426,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Bucklitsch, Peter",
+			"party": "Liberal Democrat",
+			"votes": 6935,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shonk, Trevor",
+			"party": "United Kingdom Independence Party",
+			"votes": 2529,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mackinlay, Craig",
+			"party": "Conservative Party",
+			"votes": 18838,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Farage, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 16026,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scobie, Will",
+			"party": "Labour Party",
+			"votes": 11740,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Driver, Ian",
+			"party": "Green Party",
+			"votes": 1076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Timpson, Russell",
+			"party": "Liberal Democrat",
+			"votes": 932,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murray, Al",
+			"party": "Independent",
+			"votes": 318,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailey, Ruth",
+			"party": "Manston Airport Independent Party",
+			"votes": 191,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Askew, Nigel",
+			"party": "We Are The Reality Party",
+			"votes": 126,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Birchall, Grahame",
+			"party": "Party for a United Thanet",
+			"votes": 63,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCastree, Dean",
+			"party": "Independent",
+			"votes": 61,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Abu-Obadiah, Zebadiah",
+			"party": "Al-Zebabist Nation of Ooog",
+			"votes": 30,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

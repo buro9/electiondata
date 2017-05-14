@@ -1,0 +1,78 @@
+{
+	"id": "E14000545",
+	"name": "Basingstoke",
+	"y2010": [
+		{
+			"candidate": "Miller, Maria",
+			"party": "Conservative Party",
+			"votes": 25590,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Shaw, John",
+			"party": "Liberal Democrat",
+			"votes": 12414,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pepperell, Funda",
+			"party": "Labour Party",
+			"votes": 10327,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howell, Stella",
+			"party": "United Kingdom Independence Party",
+			"votes": 2076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saul, Steve",
+			"party": "BCP",
+			"votes": 247,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Miller, Maria",
+			"party": "Conservative Party",
+			"votes": 25769,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Harvey, Paul",
+			"party": "Labour Party",
+			"votes": 14706,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stone, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 8290,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spalding, Janice",
+			"party": "Liberal Democrat",
+			"votes": 3919,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Selim, Omar",
+			"party": "Independent",
+			"votes": 392,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

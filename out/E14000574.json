@@ -1,0 +1,71 @@
+{
+	"id": "E14000574",
+	"name": "Blaydon",
+	"y2010": [
+		{
+			"candidate": "Anderson, Dave",
+			"party": "Labour Party",
+			"votes": 22297,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bradbury, Neil",
+			"party": "Liberal Democrat",
+			"votes": 13180,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Glenn",
+			"party": "Conservative Party",
+			"votes": 7159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McFarlane, Keith",
+			"party": "British National Party",
+			"votes": 2277,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Anderson, Dave",
+			"party": "Labour Party",
+			"votes": 22090,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bell, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 7863,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Alison",
+			"party": "Conservative Party",
+			"votes": 7838,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wallace, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 5497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McNally, Paul",
+			"party": "Green Party",
+			"votes": 1648,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

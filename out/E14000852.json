@@ -1,0 +1,78 @@
+{
+	"id": "E14000852",
+	"name": "Thanet North",
+	"y2010": [
+		{
+			"candidate": "Gale, Roger",
+			"party": "Conservative Party",
+			"votes": 22826,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Britton, Michael",
+			"party": "Labour Party",
+			"votes": 9298,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murphy, Laura",
+			"party": "Liberal Democrat",
+			"votes": 8400,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parker, Rosamund",
+			"party": "United Kingdom Independence Party",
+			"votes": 2819,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Gale, Roger",
+			"party": "Conservative Party",
+			"votes": 23045,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wauchope, Piers",
+			"party": "United Kingdom Independence Party",
+			"votes": 12097,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rehal, Frances",
+			"party": "Labour Party",
+			"votes": 8411,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Targett, Edward",
+			"party": "Green Party",
+			"votes": 1719,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cunningham, George",
+			"party": "Liberal Democrat",
+			"votes": 1645,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenzie, Cemanthe",
+			"party": "Party for a United Thanet",
+			"votes": 136,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

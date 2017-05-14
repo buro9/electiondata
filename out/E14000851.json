@@ -1,0 +1,85 @@
+{
+	"id": "E14000851",
+	"name": "Swindon North",
+	"y2010": [
+		{
+			"candidate": "Tomlinson, Justin",
+			"party": "Conservative Party",
+			"votes": 22408,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Agarwal, Victor",
+			"party": "Labour Party",
+			"votes": 15348,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lock, Jane",
+			"party": "Liberal Democrat",
+			"votes": 8668,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Halden, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 1842,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bates, Reginald",
+			"party": "British National Party",
+			"votes": 1542,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Bill",
+			"party": "Green Party",
+			"votes": 487,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Tomlinson, Justin",
+			"party": "Conservative Party",
+			"votes": 26295,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dempsey, Mark",
+			"party": "Labour Party",
+			"votes": 14509,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Faulkner, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 8011,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hebden-Leeder, Poppy",
+			"party": "Green Party",
+			"votes": 1723,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ellard, Janet",
+			"party": "Liberal Democrat",
+			"votes": 1704,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

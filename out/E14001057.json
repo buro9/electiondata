@@ -1,0 +1,71 @@
+{
+	"id": "E14001057",
+	"name": "Wyre and Preston North",
+	"y2010": [
+		{
+			"candidate": "Wallace, Ben",
+			"party": "Conservative Party",
+			"votes": 26877,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gallagher, Danny",
+			"party": "Liberal Democrat",
+			"votes": 11033,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Cat",
+			"party": "Labour Party",
+			"votes": 10932,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cecil, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 2466,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wallace, Ben",
+			"party": "Conservative Party",
+			"votes": 26528,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Whittingham, Ben",
+			"party": "Labour Party",
+			"votes": 12377,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walsh, Kate",
+			"party": "United Kingdom Independence Party",
+			"votes": 6577,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Potter, John",
+			"party": "Liberal Democrat",
+			"votes": 2712,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Power, Anne",
+			"party": "Green Party",
+			"votes": 1699,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

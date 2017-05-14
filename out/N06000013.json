@@ -1,0 +1,127 @@
+{
+	"id": "N06000013",
+	"name": "Down North",
+	"y2010": [
+		{
+			"candidate": "Hermon, Sylvia",
+			"party": "Independent",
+			"votes": 21181,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Parsley, Ian",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 6817,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farry, Stephen",
+			"party": "Alliance",
+			"votes": 1876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kilpatrick, Mary",
+			"party": "Traditional Unionist Voice",
+			"votes": 1634,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Agnew, Steven",
+			"party": "Green Party",
+			"votes": 1043,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Logan, Liam",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 680,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parker, Vincent",
+			"party": "Sinn Fein",
+			"votes": 250,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hermon, Sylvia",
+			"party": "Independent",
+			"votes": 17689,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Easton, Alex",
+			"party": "Democratic Unionist Party",
+			"votes": 8487,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Muir, Andrew",
+			"party": "Alliance",
+			"votes": 3086,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Agnew, Steven",
+			"party": "Green Party",
+			"votes": 1958,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brotherston, Mark",
+			"party": "Conservative Party",
+			"votes": 1593,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lavery, Jonny",
+			"party": "United Kingdom Independence Party",
+			"votes": 1482,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cudworth, William",
+			"party": "Traditional Unionist Voice",
+			"votes": 686,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woolley, Tom",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 355,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Donnelly, Glenn",
+			"party": "CISTAP",
+			"votes": 338,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCartney, Therese",
+			"party": "Sinn Fein",
+			"votes": 273,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000543",
+	"name": "Barrow and Furness",
+	"y2010": [
+		{
+			"candidate": "Woodcock, John",
+			"party": "Lab Co-op",
+			"votes": 21226,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gough, John",
+			"party": "Conservative Party",
+			"votes": 16018,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rabone, Barry",
+			"party": "Liberal Democrat",
+			"votes": 4424,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ashburner, Mike",
+			"party": "British National Party",
+			"votes": 840,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Loynes, Christopher",
+			"party": "Green Party",
+			"votes": 530,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greaves, Brian",
+			"party": "Independent",
+			"votes": 245,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Woodcock, John",
+			"party": "Labour Party",
+			"votes": 18320,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fell, Simon",
+			"party": "Conservative Party",
+			"votes": 17525,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cecil, Nigel ",
+			"party": "United Kingdom Independence Party",
+			"votes": 5070,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peaple, Clive",
+			"party": "Liberal Democrat",
+			"votes": 1169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Hara, Robert",
+			"party": "Green Party",
+			"votes": 1061,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Ian",
+			"party": "Independent",
+			"votes": 130,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

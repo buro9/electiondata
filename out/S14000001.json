@@ -1,0 +1,92 @@
+{
+	"id": "S14000001",
+	"name": "Aberdeen North",
+	"y2010": [
+		{
+			"candidate": "Doran, Frank",
+			"party": "Labour Party",
+			"votes": 16746,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Strathdee, Joanna",
+			"party": "Scottish National Party",
+			"votes": 8385,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chapman, Kristian",
+			"party": "Liberal Democrat",
+			"votes": 7001,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whyte, Stewart",
+			"party": "Conservative Party",
+			"votes": 4666,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Roy",
+			"party": "British National Party",
+			"votes": 635,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robertson, Ewan",
+			"party": "Scottish Socialist Party",
+			"votes": 268,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Blackman, Kirsty",
+			"party": "Scottish National Party",
+			"votes": 24793,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Baker, Richard",
+			"party": "Labour Party",
+			"votes": 11397,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sen, Sanjoy",
+			"party": "Conservative Party",
+			"votes": 5304,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davidson, Euan",
+			"party": "Liberal Democrat",
+			"votes": 2050,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rutherford, Tyrinne",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 206,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Willett, Christopher",
+			"party": "National Front",
+			"votes": 186,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

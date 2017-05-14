@@ -1,0 +1,92 @@
+{
+	"id": "E14000607",
+	"name": "Broxtowe",
+	"y2010": [
+		{
+			"candidate": "Soubry, Anna",
+			"party": "Conservative Party",
+			"votes": 20585,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Palmer, Nick",
+			"party": "Labour Party",
+			"votes": 20196,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Watts, David",
+			"party": "Liberal Democrat",
+			"votes": 8907,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shore, Mike",
+			"party": "British National Party",
+			"votes": 1422,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cobb, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 1194,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mitchell, David",
+			"party": "Green Party",
+			"votes": 423,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Soubry, Anna",
+			"party": "Conservative Party",
+			"votes": 24163,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Palmer, Nick ",
+			"party": "Labour Party",
+			"votes": 19876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dunne, Frank",
+			"party": "United Kingdom Independence Party",
+			"votes": 5674,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heptinstall, Stan",
+			"party": "Liberal Democrat",
+			"votes": 2120,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirwan, David",
+			"party": "Green Party",
+			"votes": 1544,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barry, Raymond",
+			"party": "Justice for Men \u0026 Boys",
+			"votes": 63,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

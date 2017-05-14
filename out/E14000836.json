@@ -1,0 +1,71 @@
+{
+	"id": "E14000836",
+	"name": "Normanton, Pontefract and Castleford",
+	"y2010": [
+		{
+			"candidate": "Cooper, Yvette",
+			"party": "Labour Party",
+			"votes": 22293,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pickles, Nick",
+			"party": "Conservative Party",
+			"votes": 11314,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rush, Chris",
+			"party": "Liberal Democrat",
+			"votes": 7585,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thewlis-Hardy, Graham",
+			"party": "British National Party",
+			"votes": 3864,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Gareth",
+			"party": "Independent",
+			"votes": 1183,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cooper, Yvette",
+			"party": "Labour Party",
+			"votes": 25213,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Garbutt, Nathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 9785,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Prescott, Beth",
+			"party": "Conservative Party",
+			"votes": 9569,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McMillan-Scott, Edward",
+			"party": "Liberal Democrat",
+			"votes": 1330,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

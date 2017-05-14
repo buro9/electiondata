@@ -1,0 +1,106 @@
+{
+	"id": "E14000561",
+	"name": "Birmingham Erdington",
+	"y2010": [
+		{
+			"candidate": "Dromey, Jack",
+			"party": "Labour Party",
+			"votes": 14869,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Alden, Robert",
+			"party": "Conservative Party",
+			"votes": 11592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holtom, Ann",
+			"party": "Liberal Democrat",
+			"votes": 5742,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McHugh, Kevin",
+			"party": "British National Party",
+			"votes": 1815,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Foy, Maria",
+			"party": "United Kingdom Independence Party",
+			"votes": 842,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tomkins, Tony",
+			"party": "Independent",
+			"votes": 240,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Terry",
+			"party": "National Front",
+			"votes": 229,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, Timothy",
+			"party": "Christian Party",
+			"votes": 217,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Dromey, Jack",
+			"party": "Labour Party",
+			"votes": 15824,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Alden, Robert",
+			"party": "Conservative Party",
+			"votes": 10695,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garcarz, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 6040,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holtom, Ann",
+			"party": "Liberal Democrat",
+			"votes": 965,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Belcher, Joe",
+			"party": "Green Party",
+			"votes": 948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woodley, Ted",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 212,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

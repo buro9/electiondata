@@ -1,0 +1,78 @@
+{
+	"id": "E14001030",
+	"name": "West Bromwich West",
+	"y2010": [
+		{
+			"candidate": "Bailey, Adrian",
+			"party": "Labour Party",
+			"votes": 16263,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hardie, Andrew",
+			"party": "Conservative Party",
+			"votes": 10612,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Sadie",
+			"party": "Liberal Democrat",
+			"votes": 4336,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Russ",
+			"party": "British National Party",
+			"votes": 3394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, Mac",
+			"party": "United Kingdom Independence Party",
+			"votes": 1566,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bailey, Adrian",
+			"party": "Labour Party",
+			"votes": 16578,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Eardley, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 8836,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ratner, Paul",
+			"party": "Conservative Party",
+			"votes": 8365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Redding, Mark",
+			"party": "Green Party",
+			"votes": 697,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Trench, Karen",
+			"party": "Liberal Democrat",
+			"votes": 550,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

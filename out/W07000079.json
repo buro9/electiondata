@@ -1,0 +1,99 @@
+{
+	"id": "W07000079",
+	"name": "Cardiff West",
+	"y2010": [
+		{
+			"candidate": "Brennan, Kevin",
+			"party": "Labour Party",
+			"votes": 16893,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jones-Evans, Angela",
+			"party": "Conservative Party",
+			"votes": 12143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hitchinson, Rachael",
+			"party": "Liberal Democrat",
+			"votes": 7186,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Islam, Mohammed Sarul",
+			"party": "Plaid Cymru",
+			"votes": 2868,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henessey, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 1117,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Jake",
+			"party": "Green Party",
+			"votes": 750,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brennan, Kevin",
+			"party": "Labour Party",
+			"votes": 17803,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Taghdissian, James",
+			"party": "Conservative Party",
+			"votes": 11014,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McEvoy, Neil",
+			"party": "Plaid Cymru",
+			"votes": 6096,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 4923,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "ap Tomos, Cadan",
+			"party": "Liberal Democrat",
+			"votes": 2069,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barker, Ken",
+			"party": "Green Party",
+			"votes": 1704,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Helen",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 183,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

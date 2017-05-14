@@ -1,0 +1,85 @@
+{
+	"id": "E14000630",
+	"name": "Cheltenham",
+	"y2010": [
+		{
+			"candidate": "Horwood, Martin",
+			"party": "Liberal Democrat",
+			"votes": 26659,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Coote, Mark",
+			"party": "Conservative Party",
+			"votes": 21739,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, James",
+			"party": "Labour Party",
+			"votes": 2703,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowman, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 1192,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hanks, Dancing Ken",
+			"party": "Monster Raving Loony Party",
+			"votes": 493,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Chalk, Alex",
+			"party": "Conservative Party",
+			"votes": 24790,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Horwood, Martin",
+			"party": "Liberal Democrat",
+			"votes": 18274,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Gilbert, Paul",
+			"party": "Labour Party",
+			"votes": 3902,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simmonds, Christina",
+			"party": "United Kingdom Independence Party",
+			"votes": 3808,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Van Coevorden, Adam",
+			"party": "Green Party",
+			"votes": 2689,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lupson-Darnell, Richard",
+			"party": "Independent",
+			"votes": 272,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

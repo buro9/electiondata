@@ -1,0 +1,92 @@
+{
+	"id": "S14000016",
+	"name": "Dundee West",
+	"y2010": [
+		{
+			"candidate": "McGovern, Jim",
+			"party": "Labour Party",
+			"votes": 17994,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Barrie, Jim",
+			"party": "Scottish National Party",
+			"votes": 10716,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barnett, John",
+			"party": "Liberal Democrat",
+			"votes": 4233,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stewart, Colin",
+			"party": "Conservative Party",
+			"votes": 3461,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McBride, Andy",
+			"party": "Independent",
+			"votes": 365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McFarlane, Jim",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 357,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Law, Chris",
+			"party": "Scottish National Party",
+			"votes": 27684,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Marra, Michael",
+			"party": "Labour Party",
+			"votes": 10592,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Nicola",
+			"party": "Conservative Party",
+			"votes": 3852,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hinchion, Pauline",
+			"party": "Green Party",
+			"votes": 1225,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coleman, Daniel",
+			"party": "Liberal Democrat",
+			"votes": 1057,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McFarlane, Jim",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 304,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

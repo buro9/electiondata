@@ -1,0 +1,120 @@
+{
+	"id": "E14000553",
+	"name": "Bermondsey and Old Southwark",
+	"y2010": [
+		{
+			"candidate": "Hughes, Simon",
+			"party": "Liberal Democrat",
+			"votes": 21590,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Shawcross, Val",
+			"party": "Labour Party",
+			"votes": 13060,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morrison, Loanna",
+			"party": "Conservative Party",
+			"votes": 7638,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tyler, Stephen",
+			"party": "British National Party",
+			"votes": 1370,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chance, Tom",
+			"party": "Green Party",
+			"votes": 718,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirkby, Alan",
+			"party": "Independent",
+			"votes": 155,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Freeman, Steve",
+			"party": "ND",
+			"votes": 120,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Coyle, Neil ",
+			"party": "Labour Party",
+			"votes": 22146,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Hughes, Simon",
+			"party": "Liberal Democrat",
+			"votes": 17657,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Floru, JP",
+			"party": "Conservative Party",
+			"votes": 6051,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beadle, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 3254,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lavin, William",
+			"party": "Green Party",
+			"votes": 2023,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Abrams, Kingsley",
+			"party": "Left Unity - Trade Unionists and Socialists",
+			"votes": 142,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Lucy",
+			"party": "Independent",
+			"votes": 72,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cole, Donald",
+			"party": "All People's Party",
+			"votes": 59,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Freeman, Steve",
+			"party": "The Republican Socialist Party",
+			"votes": 20,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

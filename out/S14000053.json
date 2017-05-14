@@ -1,0 +1,92 @@
+{
+	"id": "S14000053",
+	"name": "Paisley and Renfrewshire South",
+	"y2010": [
+		{
+			"candidate": "Alexander, Douglas",
+			"party": "Labour Party",
+			"votes": 23842,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Doig, Andy",
+			"party": "Scottish National Party",
+			"votes": 7228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCaskill, Gordon",
+			"party": "Conservative Party",
+			"votes": 3979,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ghai, Ashay",
+			"party": "Liberal Democrat",
+			"votes": 3812,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mack, Paul",
+			"party": "Independent",
+			"votes": 513,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kerr, Jimmy",
+			"party": "Scottish Socialist Party",
+			"votes": 375,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hendry, William",
+			"party": "Independent",
+			"votes": 249,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Black, Mhairi",
+			"party": "Scottish National Party",
+			"votes": 23548,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Alexander, Douglas",
+			"party": "Labour Party",
+			"votes": 17864,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Galloway, Fraser",
+			"party": "Conservative Party",
+			"votes": 3526,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCartin, Eileen",
+			"party": "Liberal Democrat",
+			"votes": 1010,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Webster, Sandra",
+			"party": "Scottish Socialist Party",
+			"votes": 278,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

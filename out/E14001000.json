@@ -1,0 +1,85 @@
+{
+	"id": "E14001000",
+	"name": "Devon West and Torridge",
+	"y2010": [
+		{
+			"candidate": "Cox, Geoffrey",
+			"party": "Conservative Party",
+			"votes": 25230,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Symons, Adam",
+			"party": "Liberal Democrat",
+			"votes": 22273,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Julian, Robin",
+			"party": "United Kingdom Independence Party",
+			"votes": 3021,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Darren",
+			"party": "Labour Party",
+			"votes": 2917,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simmons, Cathrine",
+			"party": "Green Party",
+			"votes": 1050,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baker, Nick",
+			"party": "British National Party",
+			"votes": 766,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cox, Geoffrey",
+			"party": "Conservative Party",
+			"votes": 28774,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sargent, Derek",
+			"party": "United Kingdom Independence Party",
+			"votes": 10371,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dolphin, Paula",
+			"party": "Liberal Democrat",
+			"votes": 7483,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sparling, Mike",
+			"party": "Labour Party",
+			"votes": 6015,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simmons, Cathrine",
+			"party": "Green Party",
+			"votes": 3941,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

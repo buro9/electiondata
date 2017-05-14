@@ -1,0 +1,113 @@
+{
+	"id": "E14000808",
+	"name": "Manchester Gorton",
+	"y2010": [
+		{
+			"candidate": "Kaufman, Gerald",
+			"party": "Labour Party",
+			"votes": 19211,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Afzal, Qassim",
+			"party": "Liberal Democrat",
+			"votes": 12508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Healy, Caroline",
+			"party": "Conservative Party",
+			"votes": 4224,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Justine",
+			"party": "Green Party",
+			"votes": 1048,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reissman, Karen",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 507,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zulfikar, Mohammed",
+			"party": "Respect Party",
+			"votes": 337,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harrison, Peter",
+			"party": "Christian Party",
+			"votes": 254,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dobson, Tim",
+			"party": "Pirate Party UK",
+			"votes": 236,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Kaufman, Gerald",
+			"party": "Labour Party",
+			"votes": 28187,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bannister, Laura",
+			"party": "Green Party",
+			"votes": 4108,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Afzal, Mohammed",
+			"party": "Conservative Party",
+			"votes": 4063,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Eckersley, Phil",
+			"party": "United Kingdom Independence Party",
+			"votes": 3434,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Page, Dave",
+			"party": "Liberal Democrat",
+			"votes": 1782,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hickman, Simon",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 264,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chesha, Cris",
+			"party": "Pirate Party UK",
+			"votes": 181,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

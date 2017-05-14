@@ -1,0 +1,78 @@
+{
+	"id": "E14000740",
+	"name": "Hemsworth",
+	"y2010": [
+		{
+			"candidate": "Trickett, Jon",
+			"party": "Labour Party",
+			"votes": 20506,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Myatt, Ann",
+			"party": "Conservative Party",
+			"votes": 10662,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Belmore, Alan",
+			"party": "Liberal Democrat",
+			"votes": 5667,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Womersley, Ian",
+			"party": "Independent",
+			"votes": 3946,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kitchen, Ian",
+			"party": "British National Party",
+			"votes": 3059,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Trickett, Jon",
+			"party": "Labour Party",
+			"votes": 21772,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pearson, Christopher",
+			"party": "Conservative Party",
+			"votes": 9694,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ashton, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 8565,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macqueen, Mary",
+			"party": "Liberal Democrat",
+			"votes": 1357,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Martin",
+			"party": "Yorkshire First",
+			"votes": 1018,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

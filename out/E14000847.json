@@ -1,0 +1,85 @@
+{
+	"id": "E14000847",
+	"name": "Herefordshire North",
+	"y2010": [
+		{
+			"candidate": "Wiggin, Bill",
+			"party": "Conservative Party",
+			"votes": 24631,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hurds, Lucy",
+			"party": "Liberal Democrat",
+			"votes": 14744,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sabharwal, Neil",
+			"party": "Labour Party",
+			"votes": 3373,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oakton, Jonathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 2701,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Norman, Felicity",
+			"party": "Green Party",
+			"votes": 1533,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "King, John",
+			"party": "Independent",
+			"votes": 586,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wiggin, Bill",
+			"party": "Conservative Party",
+			"votes": 26716,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Oakton, Jonathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 6720,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Falconer, Jeanie",
+			"party": "Liberal Democrat",
+			"votes": 5768,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Prentice, Sally ",
+			"party": "Labour Party",
+			"votes": 5478,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blench, Daisy",
+			"party": "Green Party",
+			"votes": 3341,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

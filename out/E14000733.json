@@ -1,0 +1,99 @@
+{
+	"id": "E14000733",
+	"name": "Hartlepool",
+	"y2010": [
+		{
+			"candidate": "Wright, Iain",
+			"party": "Labour Party",
+			"votes": 16267,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wright, Alan",
+			"party": "Conservative Party",
+			"votes": 10758,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Reg",
+			"party": "Liberal Democrat",
+			"votes": 6533,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allison, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 2682,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bage, Ronnie",
+			"party": "British National Party",
+			"votes": 2002,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wright, Iain",
+			"party": "Labour Party",
+			"votes": 14076,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Broughton, Phillip",
+			"party": "United Kingdom Independence Party",
+			"votes": 11052,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Royal, Richard",
+			"party": "Conservative Party",
+			"votes": 8256,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Picton, Stephen",
+			"party": "Independent",
+			"votes": 2954,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Holt, Michael",
+			"party": "Green Party",
+			"votes": 1341,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allison, Sandra",
+			"party": "SHH",
+			"votes": 849,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Hilary",
+			"party": "Liberal Democrat",
+			"votes": 761,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hobbs, John",
+			"party": "Independent",
+			"votes": 201,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14000742",
+	"name": "Henley",
+	"y2010": [
+		{
+			"candidate": "Howell, John",
+			"party": "Conservative Party",
+			"votes": 30054,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Crick, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 13466,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenzie, Richard",
+			"party": "Labour Party",
+			"votes": 5835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Laurence",
+			"party": "United Kingdom Independence Party",
+			"votes": 1817,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevenson, Mark",
+			"party": "Green Party",
+			"votes": 1328,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bews, John",
+			"party": "British National Party",
+			"votes": 1020,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Howell, John",
+			"party": "Conservative Party",
+			"votes": 32292,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Juthani, Sam",
+			"party": "Labour Party",
+			"votes": 6917,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Sue",
+			"party": "Liberal Democrat",
+			"votes": 6205,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Chris",
+			"party": "United Kingdom Independence Party",
+			"votes": 6007,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stevenson, Mark",
+			"party": "Green Party",
+			"votes": 3815,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

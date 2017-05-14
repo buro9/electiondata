@@ -1,0 +1,78 @@
+{
+	"id": "E14000828",
+	"name": "New Forest West",
+	"y2010": [
+		{
+			"candidate": "Swayne, Desmond",
+			"party": "Conservative Party",
+			"votes": 27980,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Plummer, Mike",
+			"party": "Liberal Democrat",
+			"votes": 11084,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hurne, Janice",
+			"party": "Labour Party",
+			"votes": 4666,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lyon, Martin",
+			"party": "United Kingdom Independence Party",
+			"votes": 2783,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richards, Janet",
+			"party": "Green Party",
+			"votes": 1059,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Swayne, Desmond",
+			"party": "Conservative Party",
+			"votes": 28420,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bailey, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 7816,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Samuels, Lena",
+			"party": "Labour Party",
+			"votes": 5133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shepherd-DuBey, Imogen",
+			"party": "Liberal Democrat",
+			"votes": 3293,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richards, Janet",
+			"party": "Green Party",
+			"votes": 2748,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

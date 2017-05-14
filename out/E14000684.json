@@ -1,0 +1,106 @@
+{
+	"id": "E14000684",
+	"name": "Eastbourne",
+	"y2010": [
+		{
+			"candidate": "Lloyd, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 24658,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Waterson, Nigel",
+			"party": "Conservative Party",
+			"votes": 21223,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Brinson, Dave",
+			"party": "Labour Party",
+			"votes": 2497,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shing, Stephen",
+			"party": "Independent",
+			"votes": 1327,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Needham, Roger",
+			"party": "United Kingdom Independence Party",
+			"votes": 1305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Poulter, Colin",
+			"party": "British National Party",
+			"votes": 939,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baldry, Michael",
+			"party": "Independent",
+			"votes": 101,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gell, Keith",
+			"party": "Independent",
+			"votes": 74,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ansell, Caroline",
+			"party": "Conservative Party",
+			"votes": 20934,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Lloyd, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 20201,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 6139,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lambert, Jake",
+			"party": "Labour Party",
+			"votes": 4143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Durling, Andrew",
+			"party": "Green Party",
+			"votes": 1351,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howard, Paul",
+			"party": "Independent",
+			"votes": 139,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

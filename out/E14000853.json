@@ -1,0 +1,99 @@
+{
+	"id": "E14000853",
+	"name": "Tyneside North",
+	"y2010": [
+		{
+			"candidate": "Glindon, Mary",
+			"party": "Labour Party",
+			"votes": 23505,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ord, David",
+			"party": "Liberal Democrat",
+			"votes": 10621,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mohindra, Gagan",
+			"party": "Conservative Party",
+			"votes": 8514,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burrows, John",
+			"party": "British National Party",
+			"votes": 1860,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blake, Claudia",
+			"party": "United Kingdom Independence Party",
+			"votes": 1306,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Batten, Bob",
+			"party": "National Front",
+			"votes": 599,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Glindon, Mary",
+			"party": "Labour Party",
+			"votes": 26191,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McGann, Martin",
+			"party": "Conservative Party",
+			"votes": 8997,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hartley, Scott",
+			"party": "United Kingdom Independence Party",
+			"votes": 7618,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Appleby, John",
+			"party": "Liberal Democrat",
+			"votes": 2075,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Collins, Martin",
+			"party": "Green Party",
+			"votes": 1442,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wall, Tim ",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 304,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Batten, Bob",
+			"party": "National Front",
+			"votes": 191,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

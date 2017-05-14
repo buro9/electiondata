@@ -1,0 +1,113 @@
+{
+	"id": "E14000634",
+	"name": "Chingford and Woodford Green",
+	"y2010": [
+		{
+			"candidate": "Duncan Smith, Iain",
+			"party": "Conservative Party",
+			"votes": 22743,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Arakelian, Cath",
+			"party": "Labour Party",
+			"votes": 9780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seeff, Geoffrey",
+			"party": "Liberal Democrat",
+			"votes": 7242,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leppert, Julian",
+			"party": "British National Party",
+			"votes": 1288,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Nick",
+			"party": "United Kingdom Independence Party",
+			"votes": 1133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Craig, Lucy",
+			"party": "Green Party",
+			"votes": 650,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Above, None of The",
+			"party": "Independent",
+			"votes": 202,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Barry",
+			"party": "Independent",
+			"votes": 68,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Duncan Smith, Iain",
+			"party": "Conservative Party",
+			"votes": 20999,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mahmood, Bilal",
+			"party": "Labour Party",
+			"votes": 12613,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vachha, Freddy",
+			"party": "United Kingdom Independence Party",
+			"votes": 5644,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crook, Anne",
+			"party": "Liberal Democrat",
+			"votes": 2400,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tully, Rebecca",
+			"party": "Green Party",
+			"votes": 1854,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hockey, Len",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 241,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKenzie, Lisa",
+			"party": "Class War",
+			"votes": 53,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

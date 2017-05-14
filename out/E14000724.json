@@ -1,0 +1,92 @@
+{
+	"id": "E14000724",
+	"name": "Haltemprice and Howden",
+	"y2010": [
+		{
+			"candidate": "Davis, David",
+			"party": "Conservative Party",
+			"votes": 24486,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Neal, Jon",
+			"party": "Liberal Democrat",
+			"votes": 12884,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marten, Danny",
+			"party": "Labour Party",
+			"votes": 7630,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cornell, James",
+			"party": "British National Party",
+			"votes": 1583,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Joanne",
+			"party": "English Democrats",
+			"votes": 1485,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oakes, Shan",
+			"party": "Green Party",
+			"votes": 669,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Davis, David",
+			"party": "Conservative Party",
+			"votes": 26414,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hart, Edward",
+			"party": "Labour Party",
+			"votes": 10219,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kitchener, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 6781,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Minns, Carl",
+			"party": "Liberal Democrat",
+			"votes": 3055,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greene, Tim",
+			"party": "Green Party",
+			"votes": 1809,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wallis, Diana",
+			"party": "Yorkshire First",
+			"votes": 479,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

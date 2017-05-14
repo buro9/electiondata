@@ -1,0 +1,85 @@
+{
+	"id": "E14000859",
+	"name": "Norfolk North West",
+	"y2010": [
+		{
+			"candidate": "Bellingham, Henry",
+			"party": "Conservative Party",
+			"votes": 25916,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Summers, William",
+			"party": "Liberal Democrat",
+			"votes": 11106,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sood, Manish",
+			"party": "Labour Party",
+			"votes": 6353,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 1841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fleming, David",
+			"party": "British National Party",
+			"votes": 1839,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "de Whalley, Michael",
+			"party": "Green Party",
+			"votes": 745,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bellingham, Henry",
+			"party": "Conservative Party",
+			"votes": 24727,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rust, Jo",
+			"party": "Labour Party",
+			"votes": 10779,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coke, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 8412,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "de Whalley, Michael",
+			"party": "Green Party",
+			"votes": 1780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lanham, Hugh",
+			"party": "Liberal Democrat",
+			"votes": 1673,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

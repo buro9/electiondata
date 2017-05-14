@@ -1,0 +1,78 @@
+{
+	"id": "S14000026",
+	"name": "Edinburgh West",
+	"y2010": [
+		{
+			"candidate": "Crockart, Michael",
+			"party": "Liberal Democrat",
+			"votes": 16684,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Day, Cameron",
+			"party": "Labour Party",
+			"votes": 12881,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Geddes, Stewart",
+			"party": "Conservative Party",
+			"votes": 10767,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cleland, Sheena",
+			"party": "Scottish National Party",
+			"votes": 6115,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Thomson, Michelle",
+			"party": "Scottish National Party",
+			"votes": 21378,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Crockart, Mike",
+			"party": "Liberal Democrat",
+			"votes": 18168,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Paterson, Lindsay",
+			"party": "Conservative Party",
+			"votes": 6732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Day, Cammy",
+			"party": "Labour Party",
+			"votes": 6425,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Black, Pat",
+			"party": "Green Party",
+			"votes": 1140,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Inglis, George",
+			"party": "United Kingdom Independence Party",
+			"votes": 1015,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

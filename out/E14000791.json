@@ -1,0 +1,78 @@
+{
+	"id": "E14000791",
+	"name": "Lichfield",
+	"y2010": [
+		{
+			"candidate": "Fabricant, Michael",
+			"party": "Conservative Party",
+			"votes": 28048,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jackson, Ian",
+			"party": "Liberal Democrat",
+			"votes": 10365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hyden, Steve",
+			"party": "Labour Party",
+			"votes": 10230,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maunder, Karen",
+			"party": "United Kingdom Independence Party",
+			"votes": 2920,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fabricant, Michael",
+			"party": "Conservative Party",
+			"votes": 28389,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Worsey, Chris ",
+			"party": "Labour Party",
+			"votes": 10200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rackham, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 8082,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ray, Paul",
+			"party": "Liberal Democrat",
+			"votes": 2700,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pass, Robert",
+			"party": "Green Party",
+			"votes": 1976,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennetts, Andy",
+			"party": "Class War",
+			"votes": 120,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

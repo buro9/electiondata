@@ -1,0 +1,99 @@
+{
+	"id": "E14000759",
+	"name": "Ilford North",
+	"y2010": [
+		{
+			"candidate": "Scott, Lee",
+			"party": "Conservative Party",
+			"votes": 21506,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Klein, Sonia",
+			"party": "Labour Party",
+			"votes": 16102,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Berhanu, Alex",
+			"party": "Liberal Democrat",
+			"votes": 5966,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warville, Danny",
+			"party": "British National Party",
+			"votes": 1545,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "van der Stighelen, Henri",
+			"party": "United Kingdom Independence Party",
+			"votes": 871,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Caroline",
+			"party": "Green Party",
+			"votes": 572,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hampson, Robert",
+			"party": "Christian Peoples Alliance",
+			"votes": 456,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Streeting, Wes",
+			"party": "Labour Party",
+			"votes": 21463,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Scott, Lee",
+			"party": "Conservative Party",
+			"votes": 20874,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Hyde, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 4355,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clare, Richard",
+			"party": "Liberal Democrat",
+			"votes": 1130,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reynolds, David",
+			"party": "Green Party",
+			"votes": 1023,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Osen, Doris",
+			"party": "Independent",
+			"votes": 87,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

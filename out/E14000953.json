@@ -1,0 +1,113 @@
+{
+	"id": "E14000953",
+	"name": "Surrey South West",
+	"y2010": [
+		{
+			"candidate": "Hunt, Jeremy",
+			"party": "Conservative Party",
+			"votes": 33605,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Simpson, Mike",
+			"party": "Liberal Democrat",
+			"votes": 17287,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mollet, Richard",
+			"party": "Labour Party",
+			"votes": 3419,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meekins, Roger",
+			"party": "United Kingdom Independence Party",
+			"votes": 1486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allan, Cherry",
+			"party": "Green Party",
+			"votes": 690,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hamilton, Helen",
+			"party": "British National Party",
+			"votes": 644,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leighton, Luke",
+			"party": "Pirate Party UK",
+			"votes": 94,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Price, Arthur",
+			"party": "Independent",
+			"votes": 34,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hunt, Jeremy",
+			"party": "Conservative Party",
+			"votes": 34199,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Webber, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 5643,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kaye, Howard",
+			"party": "Labour Party",
+			"votes": 5415,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Irvine, Louise",
+			"party": "National Health Action Party",
+			"votes": 4851,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Haveron, Patrick",
+			"party": "Liberal Democrat",
+			"votes": 3586,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ryland, Susan",
+			"party": "Green Party",
+			"votes": 3105,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Paul",
+			"party": "Something New",
+			"votes": 320,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

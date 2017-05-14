@@ -1,0 +1,92 @@
+{
+	"id": "E14000806",
+	"name": "Maldon",
+	"y2010": [
+		{
+			"candidate": "Whittingdale, John",
+			"party": "Conservative Party",
+			"votes": 28661,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Tealby-Watson, Elfreda",
+			"party": "Liberal Democrat",
+			"votes": 9254,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nandanwar, Swatantra",
+			"party": "Labour Party",
+			"votes": 6070,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pryke, Jesse",
+			"party": "United Kingdom Independence Party",
+			"votes": 2446,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blaine, Len",
+			"party": "British National Party",
+			"votes": 1464,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Whittingdale, John",
+			"party": "Conservative Party",
+			"votes": 29112,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Acevedo, Beverley",
+			"party": "United Kingdom Independence Party",
+			"votes": 7042,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Peter",
+			"party": "Labour Party",
+			"votes": 5690,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Ken",
+			"party": "Independent",
+			"votes": 2424,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Connell, Zoe",
+			"party": "Liberal Democrat",
+			"votes": 2157,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graves, Robert",
+			"party": "Green Party",
+			"votes": 1504,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marett, John",
+			"party": "The Sustainable Population Party",
+			"votes": 116,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

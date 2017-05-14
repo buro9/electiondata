@@ -1,0 +1,99 @@
+{
+	"id": "E14000726",
+	"name": "Hammersmith",
+	"y2010": [
+		{
+			"candidate": "Slaughter, Andy",
+			"party": "Labour Party",
+			"votes": 20810,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bailey, Shaun",
+			"party": "Conservative Party",
+			"votes": 17261,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Emerson, Merlene",
+			"party": "Liberal Democrat",
+			"votes": 7567,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miles, Rollo",
+			"party": "Green Party",
+			"votes": 696,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crichton, Vanessa",
+			"party": "United Kingdom Independence Party",
+			"votes": 551,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Searle, Lawrence",
+			"party": "British National Party",
+			"votes": 432,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brennan, Stephen",
+			"party": "Independent",
+			"votes": 135,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Slaughter, Andy",
+			"party": "Labour Party",
+			"votes": 23981,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dewhirst, Charlie",
+			"party": "Conservative Party",
+			"votes": 17463,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Millicent ",
+			"party": "Liberal Democrat",
+			"votes": 2224,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Akan, Richard ",
+			"party": "United Kingdom Independence Party",
+			"votes": 2105,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, David",
+			"party": "Green Party",
+			"votes": 2105,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brennan, Stephen",
+			"party": "Independent",
+			"votes": 82,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

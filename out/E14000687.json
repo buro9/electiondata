@@ -1,0 +1,106 @@
+{
+	"id": "E14000687",
+	"name": "Edmonton",
+	"y2010": [
+		{
+			"candidate": "Love, Andy",
+			"party": "Lab Co-op",
+			"votes": 21665,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Charalambous, Andrew",
+			"party": "Conservative Party",
+			"votes": 12052,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kilbane-Dawe, Iarla",
+			"party": "Liberal Democrat",
+			"votes": 4252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Freshwater, Roy",
+			"party": "United Kingdom Independence Party",
+			"votes": 1036,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Jack",
+			"party": "Green Party",
+			"votes": 516,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Basarik, Erol",
+			"party": "Reform",
+			"votes": 379,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morrison, Clive",
+			"party": "Christian Party",
+			"votes": 350,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mclean, David",
+			"party": "Independent",
+			"votes": 127,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Osamor, Kate",
+			"party": "Labour Party",
+			"votes": 25388,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Daniels, Gonul",
+			"party": "Conservative Party",
+			"votes": 9969,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watson, Neville",
+			"party": "United Kingdom Independence Party",
+			"votes": 3366,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coker, Douglas",
+			"party": "Green Party",
+			"votes": 1358,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Schmitz, David",
+			"party": "Liberal Democrat",
+			"votes": 897,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peacock, Lewis",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 360,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

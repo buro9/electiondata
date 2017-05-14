@@ -1,0 +1,113 @@
+{
+	"id": "E14000897",
+	"name": "Rochdale",
+	"y2010": [
+		{
+			"candidate": "Danczuk, Simon",
+			"party": "Labour Party",
+			"votes": 16699,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rowen, Paul",
+			"party": "Liberal Democrat",
+			"votes": 15810,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Dean, Mudasir",
+			"party": "Conservative Party",
+			"votes": 8305,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Chris",
+			"party": "National Front",
+			"votes": 2236,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Denby, Colin",
+			"party": "United Kingdom Independence Party",
+			"votes": 1999,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Salim, Mohammed",
+			"party": "Islam Zinda Baad Platform",
+			"votes": 545,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitehead, John",
+			"party": "Independent",
+			"votes": 313,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Danczuk, Simon",
+			"party": "Labour Party",
+			"votes": 20961,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Masud, Mohammed",
+			"party": "United Kingdom Independence Party",
+			"votes": 8519,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ahmed, Azi",
+			"party": "Conservative Party",
+			"votes": 7742,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kelly, Andy",
+			"party": "Liberal Democrat",
+			"votes": 4667,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ahmed, Farooq",
+			"party": "Rochdale First Party",
+			"votes": 1535,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hollinrake, Mark",
+			"party": "Green Party",
+			"votes": 1382,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bryan, Kevin",
+			"party": "National Front",
+			"votes": 433,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Salim, Mohammed",
+			"party": "Islam Zinda Baad Platform",
+			"votes": 191,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

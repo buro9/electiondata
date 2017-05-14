@@ -1,0 +1,92 @@
+{
+	"id": "E14000796",
+	"name": "Liverpool West Derby",
+	"y2010": [
+		{
+			"candidate": "Twigg, Stephen",
+			"party": "Lab Co-op",
+			"votes": 22953,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Twigger, Paul",
+			"party": "Liberal Democrat",
+			"votes": 4486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Radford, Stephen",
+			"party": "Lib",
+			"votes": 3327,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hall, Pamela",
+			"party": "Conservative Party",
+			"votes": 3311,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Hilary",
+			"party": "United Kingdom Independence Party",
+			"votes": 1093,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Andersen, Kai",
+			"party": "Soc Lab",
+			"votes": 614,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Twigg, Stephen",
+			"party": "Labour Party",
+			"votes": 30842,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Miney, Neil",
+			"party": "United Kingdom Independence Party",
+			"votes": 3475,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McRandal, Ed",
+			"party": "Conservative Party",
+			"votes": 2710,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Radford, Steve",
+			"party": "Lib",
+			"votes": 2049,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawson, Rebecca",
+			"party": "Green Party",
+			"votes": 996,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Twigger, Paul",
+			"party": "Liberal Democrat",
+			"votes": 959,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

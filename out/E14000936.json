@@ -1,0 +1,99 @@
+{
+	"id": "E14000936",
+	"name": "Dorset South",
+	"y2010": [
+		{
+			"candidate": "Drax, Richard",
+			"party": "Conservative Party",
+			"votes": 22667,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Knight, Jim",
+			"party": "Labour Party",
+			"votes": 15224,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Kayes, Ros",
+			"party": "Liberal Democrat",
+			"votes": 9557,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hobson, Mike",
+			"party": "United Kingdom Independence Party",
+			"votes": 2034,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heatley, Brian",
+			"party": "Green Party",
+			"votes": 595,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirkwood, Andy",
+			"party": "YP",
+			"votes": 233,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Drax, Richard",
+			"party": "Conservative Party",
+			"votes": 23756,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bowkett, Simon",
+			"party": "Labour Party",
+			"votes": 11762,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shakesby, Malcolm",
+			"party": "United Kingdom Independence Party",
+			"votes": 7304,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Legg, Howard",
+			"party": "Liberal Democrat",
+			"votes": 2901,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burnet, Jane",
+			"party": "Green Party",
+			"votes": 2275,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stewkesbury, Mervyn",
+			"party": "Independent",
+			"votes": 435,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirkwood, Andy",
+			"party": "Movement for Active Democracy",
+			"votes": 164,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

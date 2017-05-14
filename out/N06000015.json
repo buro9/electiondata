@@ -1,0 +1,106 @@
+{
+	"id": "N06000015",
+	"name": "Down South",
+	"y2010": [
+		{
+			"candidate": "Ritchie, Margaret",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 20648,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ruane, Caitriona",
+			"party": "Sinn Fein",
+			"votes": 12236,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wells, Jim",
+			"party": "Democratic Unionist Party",
+			"votes": 3645,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McCallister, John",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 3093,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McConnell, Ivor",
+			"party": "Traditional Unionist Voice",
+			"votes": 1506,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Enright, Cadogan",
+			"party": "Green Party",
+			"votes": 901,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffin, David",
+			"party": "Alliance",
+			"votes": 560,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ritchie, Margaret",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 18077,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hazzard, Chris",
+			"party": "Sinn Fein",
+			"votes": 12186,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McKee, Harold",
+			"party": "Ulster Unionist Party",
+			"votes": 3964,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wells, Jim",
+			"party": "Democratic Unionist Party",
+			"votes": 3486,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reilly, Henry",
+			"party": "United Kingdom Independence Party",
+			"votes": 3044,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Todd, Martyn",
+			"party": "Alliance",
+			"votes": 1622,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Buchan, Felicity",
+			"party": "Conservative Party",
+			"votes": 318,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

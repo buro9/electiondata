@@ -1,0 +1,120 @@
+{
+	"id": "E14000547",
+	"name": "Bath",
+	"y2010": [
+		{
+			"candidate": "Foster, Don",
+			"party": "Liberal Democrat",
+			"votes": 26651,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Richter, Fabian",
+			"party": "Conservative Party",
+			"votes": 14768,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ajderian, Hattie",
+			"party": "Labour Party",
+			"votes": 3251,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lucas, Eric",
+			"party": "Green Party",
+			"votes": 1120,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warrender, Ernie",
+			"party": "United Kingdom Independence Party",
+			"votes": 890,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hewett, Steve",
+			"party": "Christian Party",
+			"votes": 250,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "ANON",
+			"party": "ND",
+			"votes": 69,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Geddis, Sean",
+			"party": "Independent",
+			"votes": 56,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Craig, Robert",
+			"party": "South",
+			"votes": 31,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Howlett, Ben",
+			"party": "Conservative Party",
+			"votes": 17833,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bradley, Steve",
+			"party": "Liberal Democrat",
+			"votes": 14000,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Middleton, Ollie",
+			"party": "Labour Party",
+			"votes": 6216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tristram, Dominic",
+			"party": "Green Party",
+			"votes": 5634,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Deverell, Julian",
+			"party": "United Kingdom Independence Party",
+			"votes": 2922,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morgan-Brinkhurst, Loraine",
+			"party": "Independent",
+			"votes": 499,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knight, Jenny",
+			"party": "English Democrats",
+			"votes": 63,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

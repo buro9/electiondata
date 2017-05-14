@@ -1,0 +1,85 @@
+{
+	"id": "N06000011",
+	"name": "Newry and Armagh",
+	"y2010": [
+		{
+			"candidate": "Murphy, Conor",
+			"party": "Sinn Fein",
+			"votes": 18857,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Bradley, Dominic",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 10526,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kennedy, Danny",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 8558,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Irwin, William",
+			"party": "Democratic Unionist Party",
+			"votes": 5764,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Frazer, William",
+			"party": "Independent",
+			"votes": 656,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Muir, Andrew",
+			"party": "Alliance",
+			"votes": 545,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brady, Mickey",
+			"party": "Sinn Fein",
+			"votes": 20488,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Kennedy, Danny ",
+			"party": "Ulster Unionist Party",
+			"votes": 16312,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McNulty, Justin",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 12026,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholl, Kate",
+			"party": "Alliance",
+			"votes": 841,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rigby, Robert",
+			"party": "Conservative Party",
+			"votes": 210,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

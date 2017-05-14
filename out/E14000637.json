@@ -1,0 +1,85 @@
+{
+	"id": "E14000637",
+	"name": "Chorley",
+	"y2010": [
+		{
+			"candidate": "Hoyle, Lindsay",
+			"party": "Labour Party",
+			"votes": 21515,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cullens, Alan",
+			"party": "Conservative Party",
+			"votes": 18922,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fenn, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 6957,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hogan, Nick",
+			"party": "United Kingdom Independence Party",
+			"votes": 2021,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curtis, Chris",
+			"party": "Independent",
+			"votes": 359,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hoyle, Lindsay",
+			"party": "Labour Party",
+			"votes": 23322,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Loughenbury, Rob",
+			"party": "Conservative Party",
+			"votes": 18792,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 6995,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fenn, Stephen ",
+			"party": "Liberal Democrat",
+			"votes": 1354,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Straw, Alistair",
+			"party": "Green Party",
+			"votes": 1111,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Maudsley, Adrian",
+			"party": "Independent",
+			"votes": 138,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

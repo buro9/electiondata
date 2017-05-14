@@ -1,0 +1,113 @@
+{
+	"id": "N06000009",
+	"name": "Lagan Valley",
+	"y2010": [
+		{
+			"candidate": "Donaldson, Jeffrey",
+			"party": "Democratic Unionist Party",
+			"votes": 18199,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Trimble, Daphne",
+			"party": "Ulster Conservatives and Unionists - New Force",
+			"votes": 7713,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lunn, Trevor",
+			"party": "Alliance",
+			"votes": 4174,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harbinson, Keith",
+			"party": "Traditional Unionist Voice",
+			"votes": 3154,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Heading, Brian",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 1835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butler, Paul",
+			"party": "Sinn Fein",
+			"votes": 1465,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Donaldson, Jeffrey",
+			"party": "Democratic Unionist Party",
+			"votes": 19055,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Redpath, Alexander",
+			"party": "Ulster Unionist Party",
+			"votes": 6055,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lunn, Trevor",
+			"party": "Alliance",
+			"votes": 5544,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Catney, Pat",
+			"party": "Social Democratic \u0026 Labour Party",
+			"votes": 2500,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Love, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 2200,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morrison, Samuel",
+			"party": "Traditional Unionist Voice",
+			"votes": 1887,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGeough, Jacqui",
+			"party": "Sinn Fein",
+			"votes": 1144,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Orr, Jonny",
+			"party": "Independent",
+			"votes": 756,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Osborne, Helen",
+			"party": "Conservative Party",
+			"votes": 654,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

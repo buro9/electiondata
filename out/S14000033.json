@@ -1,0 +1,106 @@
+{
+	"id": "S14000033",
+	"name": "Glasgow North West",
+	"y2010": [
+		{
+			"candidate": "Robertson, John",
+			"party": "Labour Party",
+			"votes": 19233,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McKee, Natalie",
+			"party": "Liberal Democrat",
+			"votes": 5622,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Park, Mags",
+			"party": "Scottish National Party",
+			"votes": 5430,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sullivan, Richard",
+			"party": "Conservative Party",
+			"votes": 3537,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crawford, Moira",
+			"party": "Green Party",
+			"votes": 882,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mclean, Scott",
+			"party": "British National Party",
+			"votes": 699,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Livingstone, Marc",
+			"party": "Comm",
+			"votes": 179,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Monaghan, Carol",
+			"party": "Scottish National Party",
+			"votes": 23908,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Robertson, John",
+			"party": "Labour Party",
+			"votes": 13544,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Roger",
+			"party": "Conservative Party",
+			"votes": 3692,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harrison, James",
+			"party": "Liberal Democrat",
+			"votes": 1194,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crawford, Moira",
+			"party": "Green Party",
+			"votes": 1167,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacKenzie, Chris",
+			"party": "CISTAP",
+			"votes": 213,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Streatfield, Zoe",
+			"party": "Comm",
+			"votes": 136,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

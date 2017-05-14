@@ -1,0 +1,92 @@
+{
+	"id": "E14000988",
+	"name": "Taunton Deane",
+	"y2010": [
+		{
+			"candidate": "Browne, Jeremy",
+			"party": "Liberal Democrat",
+			"votes": 28531,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Formosa, Mark",
+			"party": "Conservative Party",
+			"votes": 24538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jevon, Martin",
+			"party": "Labour Party",
+			"votes": 2967,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McIntyre, Tony",
+			"party": "United Kingdom Independence Party",
+			"votes": 2114,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pow, Rebecca",
+			"party": "Conservative Party",
+			"votes": 27849,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Gilmour, Rachel",
+			"party": "Liberal Democrat",
+			"votes": 12358,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailhache, Laura",
+			"party": "United Kingdom Independence Party",
+			"votes": 6921,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Guild, Neil",
+			"party": "Labour Party",
+			"votes": 5347,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Clive",
+			"party": "Green Party",
+			"votes": 2630,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rigby, Mike",
+			"party": "Independent",
+			"votes": 2568,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "German, Steve",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 118,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gauld, Bruce",
+			"party": "Independent",
+			"votes": 96,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

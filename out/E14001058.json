@@ -1,0 +1,92 @@
+{
+	"id": "E14001058",
+	"name": "Wyre Forest",
+	"y2010": [
+		{
+			"candidate": "Garnier, Mark",
+			"party": "Conservative Party",
+			"votes": 18793,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Taylor, Richard",
+			"party": "Ind CHC",
+			"votes": 16150,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Knowles, Nigel",
+			"party": "Labour Party",
+			"votes": 7298,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farmer, Neville",
+			"party": "Liberal Democrat",
+			"votes": 6040,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wrench, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 1498,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howells, Gordon",
+			"party": "British National Party",
+			"votes": 1120,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Garnier, Mark",
+			"party": "Conservative Party",
+			"votes": 22394,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lamb, Matt",
+			"party": "Labour Party",
+			"votes": 9523,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wrench, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 7967,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Richard",
+			"party": "Independent Community and Health Concern",
+			"votes": 7211,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crick, Andy",
+			"party": "Liberal Democrat",
+			"votes": 1228,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McVey, Natalie",
+			"party": "Green Party",
+			"votes": 1117,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000809",
+	"name": "Manchester Withington",
+	"y2010": [
+		{
+			"candidate": "Leech, John",
+			"party": "Liberal Democrat",
+			"votes": 20110,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Powell, Lucy",
+			"party": "Labour Party",
+			"votes": 18216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Christopher",
+			"party": "Conservative Party",
+			"votes": 5005,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Candeland, Brian",
+			"party": "Green Party",
+			"votes": 798,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gutfreund-Walmsley, Bob",
+			"party": "United Kingdom Independence Party",
+			"votes": 698,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zalzala, Yasmin",
+			"party": "Independent",
+			"votes": 147,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farmer, Marcus",
+			"party": "Independent",
+			"votes": 57,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Jeff",
+			"party": "Labour Party",
+			"votes": 26843,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Leech, John",
+			"party": "Liberal Democrat",
+			"votes": 11970,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Manning, Robert",
+			"party": "Conservative Party",
+			"votes": 4872,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bannister, Lucy",
+			"party": "Green Party",
+			"votes": 4048,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 2172,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farmer, Marcus",
+			"party": "Independent",
+			"votes": 61,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

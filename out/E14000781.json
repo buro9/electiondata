@@ -1,0 +1,99 @@
+{
+	"id": "E14000781",
+	"name": "Leeds West",
+	"y2010": [
+		{
+			"candidate": "Reeves, Rachel",
+			"party": "Labour Party",
+			"votes": 16389,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Coleman, Ruth",
+			"party": "Liberal Democrat",
+			"votes": 9373,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marjoram, Joe",
+			"party": "Conservative Party",
+			"votes": 7641,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beverley, Joanna",
+			"party": "British National Party",
+			"votes": 2377,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blackburn, David",
+			"party": "Green Party",
+			"votes": 1832,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miles, Jeff",
+			"party": "United Kingdom Independence Party",
+			"votes": 1140,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Reeves, Rachel",
+			"party": "Labour Party",
+			"votes": 18456,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pierre-Traves, Alex",
+			"party": "Conservative Party",
+			"votes": 7729,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murgatroyd, Anne",
+			"party": "United Kingdom Independence Party",
+			"votes": 7104,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pointon, Andrew",
+			"party": "Green Party",
+			"votes": 3217,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coyle, Laura",
+			"party": "Liberal Democrat",
+			"votes": 1495,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "West, Matthew",
+			"party": "CISTAP",
+			"votes": 217,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mayor, Ben",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 205,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

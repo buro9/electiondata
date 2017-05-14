@@ -1,0 +1,113 @@
+{
+	"id": "E14000541",
+	"name": "Barnsley Central",
+	"y2010": [
+		{
+			"candidate": "Illsley, Eric",
+			"party": "Labour Party",
+			"votes": 17487,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wiggin, Christopher",
+			"party": "Liberal Democrat",
+			"votes": 6394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tempest, Piers",
+			"party": "Conservative Party",
+			"votes": 6388,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Ian",
+			"party": "British National Party",
+			"votes": 3307,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Silver, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1727,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Donald",
+			"party": "Independent",
+			"votes": 732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Devoy, Tony",
+			"party": "Independent",
+			"votes": 610,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Terry",
+			"party": "Soc Lab",
+			"votes": 356,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jarvis, Dan",
+			"party": "Labour Party",
+			"votes": 20376,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hunter, Lee",
+			"party": "United Kingdom Independence Party",
+			"votes": 7941,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carter, Kay",
+			"party": "Conservative Party",
+			"votes": 5485,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Short, Michael ",
+			"party": "Green Party",
+			"votes": 938,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ridgway, John",
+			"party": "Liberal Democrat",
+			"votes": 770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibson, Dave",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 573,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Ian",
+			"party": "English Democrats",
+			"votes": 477,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

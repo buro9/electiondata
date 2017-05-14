@@ -1,0 +1,78 @@
+{
+	"id": "E14000841",
+	"name": "Bedfordshire North East",
+	"y2010": [
+		{
+			"candidate": "Burt, Alistair",
+			"party": "Conservative Party",
+			"votes": 30989,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pitt, Mike",
+			"party": "Liberal Democrat",
+			"votes": 12047,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Edward",
+			"party": "Labour Party",
+			"votes": 8957,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Capell, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 2294,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Seeby, Ian",
+			"party": "British National Party",
+			"votes": 1265,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Burt, Alistair",
+			"party": "Conservative Party",
+			"votes": 34891,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ali, Saqhib",
+			"party": "Labour Party",
+			"votes": 9247,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smyth, Adrianne",
+			"party": "United Kingdom Independence Party",
+			"votes": 8579,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Morris, Peter",
+			"party": "Liberal Democrat",
+			"votes": 3418,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowler, Mark",
+			"party": "Green Party",
+			"votes": 2537,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

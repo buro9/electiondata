@@ -1,0 +1,92 @@
+{
+	"id": "E14001033",
+	"name": "Lancashire West",
+	"y2010": [
+		{
+			"candidate": "Cooper, Rosie",
+			"party": "Labour Party",
+			"votes": 21883,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Owens, Adrian",
+			"party": "Conservative Party",
+			"votes": 17540,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibson, John",
+			"party": "Liberal Democrat",
+			"votes": 6573,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Noone, Damon",
+			"party": "United Kingdom Independence Party",
+			"votes": 1775,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cranie, Peter",
+			"party": "Green Party",
+			"votes": 485,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Braid, David",
+			"party": "Clause 28",
+			"votes": 217,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cooper, Rosie",
+			"party": "Labour Party",
+			"votes": 24474,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Greenall, Paul",
+			"party": "Conservative Party",
+			"votes": 16114,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sen, Jack",
+			"party": "United Kingdom Independence Party",
+			"votes": 6058,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Basson, Ben",
+			"party": "Green Party",
+			"votes": 1582,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Daniel",
+			"party": "Liberal Democrat",
+			"votes": 1298,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Braid, David ",
+			"party": "War Veteran's Pro-Traditional Family Party",
+			"votes": 150,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

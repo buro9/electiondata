@@ -1,0 +1,78 @@
+{
+	"id": "S14000021",
+	"name": "Renfrewshire East",
+	"y2010": [
+		{
+			"candidate": "Murphy, Jim",
+			"party": "Labour Party",
+			"votes": 25987,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cook, Richard",
+			"party": "Conservative Party",
+			"votes": 15567,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macdonald, Gordon",
+			"party": "Liberal Democrat",
+			"votes": 4720,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Archer, Gordon",
+			"party": "Scottish National Party",
+			"votes": 4535,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "MacKay, Donald",
+			"party": "United Kingdom Independence Party",
+			"votes": 372,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Oswald, Kirsten",
+			"party": "Scottish National Party",
+			"votes": 23013,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Murphy, Jim",
+			"party": "Labour Party",
+			"votes": 19295,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Montgomery, David",
+			"party": "Conservative Party",
+			"votes": 12465,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cowie, Graeme",
+			"party": "Liberal Democrat",
+			"votes": 1069,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Malyn, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 888,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "S14000024",
+	"name": "Edinburgh South",
+	"y2010": [
+		{
+			"candidate": "Murray, Ian",
+			"party": "Labour Party",
+			"votes": 15215,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Mackintosh, Fred",
+			"party": "Liberal Democrat",
+			"votes": 14899,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hudson, Neil",
+			"party": "Conservative Party",
+			"votes": 9452,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howat, Sandy",
+			"party": "Scottish National Party",
+			"votes": 3354,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burgess, Steve",
+			"party": "Green Party",
+			"votes": 881,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Murray, Ian",
+			"party": "Labour Party",
+			"votes": 19293,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hay, Neil",
+			"party": "Scottish National Party",
+			"votes": 16656,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Briggs, Miles",
+			"party": "Conservative Party",
+			"votes": 8626,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meyer, Phyl",
+			"party": "Green Party",
+			"votes": 2090,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Subbaraman, Pramod",
+			"party": "Liberal Democrat",
+			"votes": 1823,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marshall, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 601,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fox, Colin",
+			"party": "Scottish Socialist Party",
+			"votes": 197,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

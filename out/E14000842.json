@@ -1,0 +1,92 @@
+{
+	"id": "E14000842",
+	"name": "Cambridgeshire North East",
+	"y2010": [
+		{
+			"candidate": "Barclay, Stephen",
+			"party": "Conservative Party",
+			"votes": 26862,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Spenceley, Lorna",
+			"party": "Liberal Democrat",
+			"votes": 10437,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roberts, Peter",
+			"party": "Labour Party",
+			"votes": 9274,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Talbot, Robin",
+			"party": "United Kingdom Independence Party",
+			"votes": 2991,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clapp, Susan",
+			"party": "British National Party",
+			"votes": 1747,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jordan, Debra",
+			"party": "Independent",
+			"votes": 566,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Murphy, Graham",
+			"party": "English Democrats",
+			"votes": 387,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Barclay, Steve",
+			"party": "Conservative Party",
+			"votes": 28524,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Charalambous, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 11650,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rustidge, Ken",
+			"party": "Labour Party",
+			"votes": 7476,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nethsingha, Lucy",
+			"party": "Liberal Democrat",
+			"votes": 2314,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott-Daniels, Helen",
+			"party": "Green Party",
+			"votes": 1816,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

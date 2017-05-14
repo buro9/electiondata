@@ -1,0 +1,120 @@
+{
+	"id": "W07000071",
+	"name": "Merthyr Tydfil and Rhymney",
+	"y2010": [
+		{
+			"candidate": "Havard, Dai",
+			"party": "Labour Party",
+			"votes": 14007,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Kitcher, Amy",
+			"party": "Liberal Democrat",
+			"votes": 9951,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hill, Maria",
+			"party": "Conservative Party",
+			"votes": 2412,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tovey, Clive",
+			"party": "Independent",
+			"votes": 1845,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Glyndwr Cennydd",
+			"party": "Plaid Cymru",
+			"votes": 1621,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barnes, Richard",
+			"party": "British National Party",
+			"votes": 1173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Adam",
+			"party": "United Kingdom Independence Party",
+			"votes": 872,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cowdell, Alan",
+			"party": "Soc Lab",
+			"votes": 195,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jones, Gerald",
+			"party": "Labour Party",
+			"votes": 17619,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rowlands, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 6106,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rees, Bill",
+			"party": "Conservative Party",
+			"votes": 3292,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mann, Rhayna",
+			"party": "Plaid Cymru",
+			"votes": 3099,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffin, Bob",
+			"party": "Liberal Democrat",
+			"votes": 1351,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parris, Elspeth",
+			"party": "Green Party",
+			"votes": 603,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blanche, Eddy",
+			"party": "Independent",
+			"votes": 459,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Griffiths, Robert",
+			"party": "Comm",
+			"votes": 186,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"id": "E14000705",
+	"name": "Forest of Dean",
+	"y2010": [
+		{
+			"candidate": "Harper, Mark",
+			"party": "Conservative Party",
+			"votes": 22853,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hogan, Bruce",
+			"party": "Labour Party",
+			"votes": 11789,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coleman, Chris",
+			"party": "Liberal Democrat",
+			"votes": 10676,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Congdon, Tim",
+			"party": "United Kingdom Independence Party",
+			"votes": 2522,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greenwood, James",
+			"party": "Green Party",
+			"votes": 923,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Harper, Mark",
+			"party": "Conservative Party",
+			"votes": 23191,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Parry-Hearn, Steve",
+			"party": "Labour Party",
+			"votes": 12204,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stanbury, Steve",
+			"party": "United Kingdom Independence Party",
+			"votes": 8792,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greenwood, James",
+			"party": "Green Party",
+			"votes": 2703,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coleman, Chris",
+			"party": "Liberal Democrat",
+			"votes": 2630,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

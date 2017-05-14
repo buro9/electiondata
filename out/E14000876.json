@@ -1,0 +1,85 @@
+{
+	"id": "E14000876",
+	"name": "Penistone and Stocksbridge",
+	"y2010": [
+		{
+			"candidate": "Smith, Angela",
+			"party": "Labour Party",
+			"votes": 17565,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pitfield, Spencer",
+			"party": "Conservative Party",
+			"votes": 14516,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cuthbertson, Ian",
+			"party": "Liberal Democrat",
+			"votes": 9800,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "James, Paul",
+			"party": "British National Party",
+			"votes": 2207,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "French, Grant",
+			"party": "United Kingdom Independence Party",
+			"votes": 1936,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McEnhill, Paul",
+			"party": "English Democrats",
+			"votes": 492,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Angela",
+			"party": "Labour Party",
+			"votes": 19691,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Jackson, Steven",
+			"party": "Conservative Party",
+			"votes": 12968,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waddicar, Graeme",
+			"party": "United Kingdom Independence Party",
+			"votes": 10738,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gordon, Rosalyn",
+			"party": "Liberal Democrat",
+			"votes": 2957,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Porter, Colin",
+			"party": "English Democrats",
+			"votes": 500,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

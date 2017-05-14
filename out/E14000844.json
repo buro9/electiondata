@@ -1,0 +1,78 @@
+{
+	"id": "E14000844",
+	"name": "Hampshire North East",
+	"y2010": [
+		{
+			"candidate": "Arbuthnot, James",
+			"party": "Conservative Party",
+			"votes": 32075,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Coulson, Denzil",
+			"party": "Liberal Democrat",
+			"votes": 13478,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Barry",
+			"party": "Labour Party",
+			"votes": 5173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duffin, Ruth",
+			"party": "United Kingdom Independence Party",
+			"votes": 2213,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jayawardena, Ranil",
+			"party": "Conservative Party",
+			"votes": 35573,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Cockarill, Graham",
+			"party": "Liberal Democrat",
+			"votes": 5657,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hussain, Amran",
+			"party": "Labour Party",
+			"votes": 5290,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blay, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 4732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnston, Andrew",
+			"party": "Green Party",
+			"votes": 2364,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bobetsky, Mad Max",
+			"party": "Monster Raving Loony Party",
+			"votes": 384,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

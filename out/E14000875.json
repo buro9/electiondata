@@ -1,0 +1,85 @@
+{
+	"id": "E14000875",
+	"name": "Pendle",
+	"y2010": [
+		{
+			"candidate": "Stephenson, Andrew",
+			"party": "Conservative Party",
+			"votes": 17512,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Prentice, Gordon",
+			"party": "Labour Party",
+			"votes": 13927,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Anwar, Afzal",
+			"party": "Liberal Democrat",
+			"votes": 9095,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackman, James",
+			"party": "British National Party",
+			"votes": 2894,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cannon, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 1476,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Masih, Richard",
+			"party": "Christian Party",
+			"votes": 141,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stephenson, Andrew",
+			"party": "Conservative Party",
+			"votes": 20978,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ali, Azhar",
+			"party": "Labour Party",
+			"votes": 15525,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waddington, Mick",
+			"party": "United Kingdom Independence Party",
+			"votes": 5415,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roach, Graham",
+			"party": "Liberal Democrat",
+			"votes": 1487,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fisk, Laura",
+			"party": "Green Party",
+			"votes": 1043,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

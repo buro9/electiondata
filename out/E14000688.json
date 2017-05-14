@@ -1,0 +1,92 @@
+{
+	"id": "E14000688",
+	"name": "Ellesmere Port and Neston",
+	"y2010": [
+		{
+			"candidate": "Miller, Andrew",
+			"party": "Labour Party",
+			"votes": 19750,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Penketh, Stuart",
+			"party": "Conservative Party",
+			"votes": 15419,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aspinall, Denise",
+			"party": "Liberal Democrat",
+			"votes": 6663,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crocker, Henry",
+			"party": "United Kingdom Independence Party",
+			"votes": 1619,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Starkey, Jonathan",
+			"party": "Independent",
+			"votes": 782,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Madders, Justin",
+			"party": "Labour Party",
+			"votes": 22316,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Fletcher, Katherine",
+			"party": "Conservative Party",
+			"votes": 16041,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Starkey, Jonathan",
+			"party": "United Kingdom Independence Party",
+			"votes": 5594,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Derraugh, Trish",
+			"party": "Liberal Democrat",
+			"votes": 1563,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Palmer, Michelle",
+			"party": "Green Party",
+			"votes": 990,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dowling, Felicity",
+			"party": "Left Unity - Trade Unionists and Socialists",
+			"votes": 192,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dyer, John",
+			"party": "Independent",
+			"votes": 31,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,85 @@
+{
+	"id": "E14001049",
+	"name": "Wolverhampton North East",
+	"y2010": [
+		{
+			"candidate": "Reynolds, Emma",
+			"party": "Labour Party",
+			"votes": 14448,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rook, Julie",
+			"party": "Conservative Party",
+			"votes": 11964,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Colin",
+			"party": "Liberal Democrat",
+			"votes": 4711,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Patten, Simon",
+			"party": "British National Party",
+			"votes": 2296,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Valdmanis, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 1138,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhatoe, Shangara",
+			"party": "Soc Lab",
+			"votes": 337,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Reynolds, Emma",
+			"party": "Labour Party",
+			"votes": 15669,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Henry, Darren",
+			"party": "Conservative Party",
+			"votes": 10174,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Etheridge, Star",
+			"party": "United Kingdom Independence Party",
+			"votes": 6524,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Ian",
+			"party": "Liberal Democrat",
+			"votes": 935,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cooper, Becky",
+			"party": "Green Party",
+			"votes": 701,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

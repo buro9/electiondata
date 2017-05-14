@@ -1,0 +1,78 @@
+{
+	"id": "E14000633",
+	"name": "Chichester",
+	"y2010": [
+		{
+			"candidate": "Tyrie, Andrew",
+			"party": "Conservative Party",
+			"votes": 31427,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lury, Martin",
+			"party": "Liberal Democrat",
+			"votes": 15550,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holland, Simon",
+			"party": "Labour Party",
+			"votes": 5937,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moncrieff, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 3873,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Tyrie, Andrew",
+			"party": "Conservative Party",
+			"votes": 32953,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Moncreiff, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 8540,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farwell, Mark",
+			"party": "Labour Party",
+			"votes": 6933,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 4865,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richmond, Jasper",
+			"party": "Green Party",
+			"votes": 3742,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Emerson, Andrew",
+			"party": "Patria",
+			"votes": 106,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

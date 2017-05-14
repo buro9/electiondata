@@ -1,0 +1,92 @@
+{
+	"id": "E14000905",
+	"name": "Rugby",
+	"y2010": [
+		{
+			"candidate": "Pawsey, Mark",
+			"party": "Conservative Party",
+			"votes": 20901,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "King, Andy",
+			"party": "Labour Party",
+			"votes": 14901,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roodhouse, Jerry",
+			"party": "Liberal Democrat",
+			"votes": 9434,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Badrick, Mark",
+			"party": "British National Party",
+			"votes": 1375,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sandison, Roy",
+			"party": "Green Party",
+			"votes": 451,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Milford, Barry",
+			"party": "United Kingdom Independence Party",
+			"votes": 406,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Pawsey, Mark",
+			"party": "Conservative Party",
+			"votes": 24040,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Edwards, Claire",
+			"party": "Labour Party",
+			"votes": 13695,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Gordon",
+			"party": "United Kingdom Independence Party",
+			"votes": 6855,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goncalves, Ed",
+			"party": "Liberal Democrat",
+			"votes": 2776,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Terence",
+			"party": "Green Party",
+			"votes": 1415,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McLaren, Pete",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 225,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

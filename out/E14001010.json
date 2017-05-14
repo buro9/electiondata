@@ -1,0 +1,78 @@
+{
+	"id": "E14001010",
+	"name": "Wallasey",
+	"y2010": [
+		{
+			"candidate": "Eagle, Angela",
+			"party": "Labour Party",
+			"votes": 21578,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fraser, Leah",
+			"party": "Conservative Party",
+			"votes": 13071,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pitt, Steve",
+			"party": "Liberal Democrat",
+			"votes": 5693,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Snowden, Derek",
+			"party": "United Kingdom Independence Party",
+			"votes": 1205,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mwaba, Emmanuel",
+			"party": "Independent",
+			"votes": 107,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Eagle, Angela",
+			"party": "Labour Party",
+			"votes": 26176,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Clarkson, Chris",
+			"party": "Conservative Party",
+			"votes": 9828,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Caton, Geoffrey",
+			"party": "United Kingdom Independence Party",
+			"votes": 5063,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pratt, Julian",
+			"party": "Green Party",
+			"votes": 1288,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Kris",
+			"party": "Liberal Democrat",
+			"votes": 1011,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

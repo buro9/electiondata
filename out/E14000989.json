@@ -1,0 +1,78 @@
+{
+	"id": "E14000989",
+	"name": "Telford",
+	"y2010": [
+		{
+			"candidate": "Wright, David",
+			"party": "Labour Party",
+			"votes": 15974,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Biggins, Tom",
+			"party": "Conservative Party",
+			"votes": 14996,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bennion, Phil",
+			"party": "Liberal Democrat",
+			"votes": 6399,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Denis",
+			"party": "United Kingdom Independence Party",
+			"votes": 2428,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spencer, Phil",
+			"party": "British National Party",
+			"votes": 1513,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Allan, Lucy",
+			"party": "Conservative Party",
+			"votes": 16094,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Wright, David",
+			"party": "Labour Party",
+			"votes": 15364,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Denis",
+			"party": "United Kingdom Independence Party",
+			"votes": 7330,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hawkins, Peter",
+			"party": "Green Party",
+			"votes": 930,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Croll, Ian",
+			"party": "Liberal Democrat",
+			"votes": 927,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,162 @@
+{
+	"id": "E14001046",
+	"name": "Witney",
+	"y2010": [
+		{
+			"candidate": "Cameron, David",
+			"party": "Conservative Party",
+			"votes": 33973,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Barnes, Dawn",
+			"party": "Liberal Democrat",
+			"votes": 11233,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goldberg, Joe",
+			"party": "Labour Party",
+			"votes": 7511,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macdonald, Stuart",
+			"party": "Green Party",
+			"votes": 2385,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tolstoy, Nikolai",
+			"party": "United Kingdom Independence Party",
+			"votes": 2001,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hope, Howling",
+			"party": "Monster Raving Loony Party",
+			"votes": 234,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wesson, Paul",
+			"party": "Independent",
+			"votes": 166,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cook, Johnnie",
+			"party": "Independent",
+			"votes": 151,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bex, Colin",
+			"party": "Wessex Reg",
+			"votes": 62,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barschak, Aaron",
+			"party": "Independent",
+			"votes": 53,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cameron, David",
+			"party": "Conservative Party",
+			"votes": 35201,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Enright, Duncan",
+			"party": "Labour Party",
+			"votes": 10046,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Strutt, Simon",
+			"party": "United Kingdom Independence Party",
+			"votes": 5352,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graham, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 3953,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Macdonald, Stuart ",
+			"party": "Green Party",
+			"votes": 2970,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peedell, Clive",
+			"party": "National Health Action Party",
+			"votes": 616,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bex, Colin",
+			"party": "Wessex Reg",
+			"votes": 110,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tompson, Chris",
+			"party": "Independent",
+			"votes": 94,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saunders, Vivien ",
+			"party": "Reduce VAT in Sport",
+			"votes": 56,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Bobby",
+			"party": "Give Me Back Elmo",
+			"votes": 37,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jackson, Deek",
+			"party": "Land Party",
+			"votes": 35,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Handley, Nathan",
+			"party": "Independent",
+			"votes": 12,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

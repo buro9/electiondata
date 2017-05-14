@@ -1,0 +1,92 @@
+{
+	"id": "E14001021",
+	"name": "Watford",
+	"y2010": [
+		{
+			"candidate": "Harrington, Richard",
+			"party": "Conservative Party",
+			"votes": 19291,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Brinton, Sal",
+			"party": "Liberal Democrat",
+			"votes": 17866,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Claire",
+			"party": "Labour Party",
+			"votes": 14750,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Emerson, Andrew",
+			"party": "British National Party",
+			"votes": 1217,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Eardley, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 1199,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brandon, Ian",
+			"party": "Green Party",
+			"votes": 885,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Harrington, Richard",
+			"party": "Conservative Party",
+			"votes": 24400,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Turmaine, Matt",
+			"party": "Labour Party",
+			"votes": 14606,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thornhill, Dorothy",
+			"party": "Liberal Democrat",
+			"votes": 10152,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lincoln, Nick",
+			"party": "United Kingdom Independence Party",
+			"votes": 5481,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cottrell-Boyce, Aidan",
+			"party": "Green Party",
+			"votes": 1332,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Connor, Mark",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 178,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

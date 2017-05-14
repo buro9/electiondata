@@ -1,0 +1,71 @@
+{
+	"id": "E14000738",
+	"name": "Hazel Grove",
+	"y2010": [
+		{
+			"candidate": "Stunell, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 20485,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Abercorn, Annesley",
+			"party": "Conservative Party",
+			"votes": 14114,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scorer, Richard",
+			"party": "Labour Party",
+			"votes": 5234,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whittaker, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 2148,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wragg, William",
+			"party": "Conservative Party",
+			"votes": 17882,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Smart, Lisa",
+			"party": "Liberal Democrat",
+			"votes": 11330,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Taylor, Michael",
+			"party": "Labour Party",
+			"votes": 7584,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Palmer, Darran",
+			"party": "United Kingdom Independence Party",
+			"votes": 5283,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Graham",
+			"party": "Green Party",
+			"votes": 1140,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

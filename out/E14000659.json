@@ -1,0 +1,99 @@
+{
+	"id": "E14000659",
+	"name": "Dartford",
+	"y2010": [
+		{
+			"candidate": "Johnson, Gareth",
+			"party": "Conservative Party",
+			"votes": 24428,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Adams, John",
+			"party": "Labour Party",
+			"votes": 13800,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Willis, James",
+			"party": "Liberal Democrat",
+			"votes": 7361,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogers, Gary",
+			"party": "English Democrats",
+			"votes": 2178,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Palmer, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 1842,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tindame, Stephane",
+			"party": "Independent",
+			"votes": 264,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crockford, John",
+			"party": "FDP",
+			"votes": 207,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Johnson, Gareth",
+			"party": "Conservative Party",
+			"votes": 25670,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Thomson, Simon",
+			"party": "Labour Party",
+			"votes": 13325,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Elizabeth",
+			"party": "United Kingdom Independence Party",
+			"votes": 10434,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beard, Simon",
+			"party": "Liberal Democrat",
+			"votes": 1454,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blatchford, Andy",
+			"party": "Green Party",
+			"votes": 1324,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Uncles, Steve",
+			"party": "English Democrats",
+			"votes": 211,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"id": "E14001036",
+	"name": "Westminster North",
+	"y2010": [
+		{
+			"candidate": "Buck, Karen",
+			"party": "Labour Party",
+			"votes": 17377,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cash, Joanne",
+			"party": "Conservative Party",
+			"votes": 15251,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blackburn, Mark",
+			"party": "Liberal Democrat",
+			"votes": 5513,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Tristan",
+			"party": "Green Party",
+			"votes": 478,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Curry, Stephen",
+			"party": "British National Party",
+			"votes": 334,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Badzak, Jasna",
+			"party": "United Kingdom Independence Party",
+			"votes": 315,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bahaijoub, Ali",
+			"party": "Independent",
+			"votes": 101,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roseman, Edward",
+			"party": "English Democrats",
+			"votes": 99,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fajardo, Gabriela",
+			"party": "Christian Party",
+			"votes": 98,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dharamsey, Abby",
+			"party": "Independent",
+			"votes": 32,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Buck, Karen",
+			"party": "Labour Party",
+			"votes": 18504,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hall, Lindsey",
+			"party": "Conservative Party",
+			"votes": 16527,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sussman, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 1489,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allan, Kirsty",
+			"party": "Liberal Democrat",
+			"votes": 1457,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nadel, Jennifer",
+			"party": "Green Party",
+			"votes": 1322,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fajardo, Gabriela",
+			"party": "Christian Party, Proclaiming Christ's Lordship",
+			"votes": 152,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ward, Nicholas",
+			"party": "Independent",
+			"votes": 63,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

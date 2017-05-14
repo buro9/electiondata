@@ -1,0 +1,99 @@
+{
+	"id": "E14000881",
+	"name": "Poole",
+	"y2010": [
+		{
+			"candidate": "Syms, Robert",
+			"party": "Conservative Party",
+			"votes": 22532,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Eades, Philip",
+			"party": "Liberal Democrat",
+			"votes": 14991,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sanderson, Jason",
+			"party": "Labour Party",
+			"votes": 6041,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wellstead, Nick",
+			"party": "United Kingdom Independence Party",
+			"votes": 2507,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holmes, David",
+			"party": "British National Party",
+			"votes": 1188,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Northover, Ian",
+			"party": "Independent",
+			"votes": 177,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Syms, Robert",
+			"party": "Conservative Party",
+			"votes": 23745,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Young, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 7956,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rosser, Helen",
+			"party": "Labour Party",
+			"votes": 6102,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Eades, Philip",
+			"party": "Liberal Democrat",
+			"votes": 5572,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oliver, Adrian",
+			"party": "Green Party",
+			"votes": 2198,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howell, Mark",
+			"party": "The Party for Poole People Ltd.",
+			"votes": 1766,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Northover, Ian",
+			"party": "Independent",
+			"votes": 54,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

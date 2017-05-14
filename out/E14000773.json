@@ -1,0 +1,99 @@
+{
+	"id": "E14000773",
+	"name": "Hull West and Hessle",
+	"y2010": [
+		{
+			"candidate": "Johnson, Alan",
+			"party": "Labour Party",
+			"votes": 13378,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Ross, Mike",
+			"party": "Liberal Democrat",
+			"votes": 7636,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shores, Gary",
+			"party": "Conservative Party",
+			"votes": 6361,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hordon, Ken",
+			"party": "United Kingdom Independence Party",
+			"votes": 1688,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scott, Edward",
+			"party": "British National Party",
+			"votes": 1416,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mawer, Peter",
+			"party": "English Democrats",
+			"votes": 876,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gibson, Keith",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 150,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Johnson, Alan",
+			"party": "Labour Party",
+			"votes": 15646,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Salvidge, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 6313,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barker, Jo",
+			"party": "Conservative Party",
+			"votes": 5561,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Claire ",
+			"party": "Liberal Democrat",
+			"votes": 3169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Needham, Angela",
+			"party": "Green Party",
+			"votes": 943,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spooner, Paul",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 171,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

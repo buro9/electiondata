@@ -1,0 +1,92 @@
+{
+	"id": "E14000976",
+	"name": "Stourbridge",
+	"y2010": [
+		{
+			"candidate": "James, Margot",
+			"party": "Conservative Party",
+			"votes": 20153,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Waltho, Lynda",
+			"party": "Labour Party",
+			"votes": 14989,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Bramall, Christopher",
+			"party": "Liberal Democrat",
+			"votes": 7733,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Westrop, Maddy",
+			"party": "United Kingdom Independence Party",
+			"votes": 2103,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weale, Robert",
+			"party": "British National Party",
+			"votes": 1696,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duckworth, Will",
+			"party": "Green Party",
+			"votes": 394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nicholas, Alun",
+			"party": "Independent",
+			"votes": 166,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "James, Margot",
+			"party": "Conservative Party",
+			"votes": 21195,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lowe, Pete",
+			"party": "Labour Party",
+			"votes": 14501,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carver, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 7774,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bramall, Christopher",
+			"party": "Liberal Democrat",
+			"votes": 1538,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kiever, Christian",
+			"party": "Green Party",
+			"votes": 1021,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

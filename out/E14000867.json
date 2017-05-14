@@ -1,0 +1,92 @@
+{
+	"id": "E14000867",
+	"name": "Nottingham South",
+	"y2010": [
+		{
+			"candidate": "Greenwood, Lilian",
+			"party": "Labour Party",
+			"votes": 15209,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Holland, Rowena",
+			"party": "Conservative Party",
+			"votes": 13437,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Tony",
+			"party": "Liberal Democrat",
+			"votes": 9406,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woodward, Tony",
+			"party": "British National Party",
+			"votes": 1140,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Browne, Ken",
+			"party": "United Kingdom Independence Party",
+			"votes": 967,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Butcher, Matthew",
+			"party": "Green Party",
+			"votes": 630,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Greenwood, Lilian",
+			"party": "Labour Party",
+			"votes": 20697,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hunt, Jane",
+			"party": "Conservative Party",
+			"votes": 13761,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hollas, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 4900,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McGregor, Adam",
+			"party": "Green Party",
+			"votes": 2345,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Newton-Cook, Deborah",
+			"party": "Liberal Democrat",
+			"votes": 1532,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayworth, Andrew",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 230,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

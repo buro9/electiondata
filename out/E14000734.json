@@ -1,0 +1,92 @@
+{
+	"id": "E14000734",
+	"name": "Harwich and Essex North",
+	"y2010": [
+		{
+			"candidate": "Jenkin, Bernard",
+			"party": "Conservative Party",
+			"votes": 23001,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Raven, James",
+			"party": "Liberal Democrat",
+			"votes": 11554,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barrenger, Darren",
+			"party": "Labour Party",
+			"votes": 9774,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Anselmi, Simon",
+			"party": "United Kingdom Independence Party",
+			"votes": 2527,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robey, Stephen",
+			"party": "British National Party",
+			"votes": 1065,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fox, Chris",
+			"party": "Green Party",
+			"votes": 909,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thompson Bates, Peter",
+			"party": "Independent",
+			"votes": 170,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jenkin, Bernard",
+			"party": "Conservative Party",
+			"votes": 24722,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Carlsson Browne, Edward",
+			"party": "Labour Party",
+			"votes": 9548,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hughes, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 8464,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graham, Dominic",
+			"party": "Liberal Democrat",
+			"votes": 3576,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flossman, Christopher",
+			"party": "Green Party",
+			"votes": 2122,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

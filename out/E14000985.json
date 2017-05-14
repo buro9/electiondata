@@ -1,0 +1,92 @@
+{
+	"id": "E14000985",
+	"name": "Sutton Coldfield",
+	"y2010": [
+		{
+			"candidate": "Mitchell, Andrew",
+			"party": "Conservative Party",
+			"votes": 27303,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pocock, Robert",
+			"party": "Labour Party",
+			"votes": 10298,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brighton, Richard",
+			"party": "Liberal Democrat",
+			"votes": 9117,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grierson, Robert",
+			"party": "British National Party",
+			"votes": 1749,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Siddall-Jones, Edward",
+			"party": "United Kingdom Independence Party",
+			"votes": 1587,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rooney, Joe",
+			"party": "Green Party",
+			"votes": 535,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Mitchell, Andrew",
+			"party": "Conservative Party",
+			"votes": 27782,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pocock, Robert",
+			"party": "Labour Party",
+			"votes": 11365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Marcus",
+			"party": "United Kingdom Independence Party",
+			"votes": 7489,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brighton-Knight, Richard",
+			"party": "Liberal Democrat",
+			"votes": 2627,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ratcliff, David",
+			"party": "Green Party",
+			"votes": 1426,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sleigh, Mark",
+			"party": "Ubuntu Party",
+			"votes": 165,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

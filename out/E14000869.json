@@ -1,0 +1,127 @@
+{
+	"id": "E14000869",
+	"name": "Old Bexley and Sidcup",
+	"y2010": [
+		{
+			"candidate": "Brokenshire, James",
+			"party": "Conservative Party",
+			"votes": 24625,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Everitt, Rick",
+			"party": "Labour Party",
+			"votes": 8768,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Borrowman, Duncan",
+			"party": "Liberal Democrat",
+			"votes": 6996,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brooks, John",
+			"party": "British National Party",
+			"votes": 2132,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Coburn, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1532,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cheeseman, Elaine",
+			"party": "English Democrats",
+			"votes": 520,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hemming-Clark, John",
+			"party": "Save QM",
+			"votes": 393,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rooks, Jonathan",
+			"party": "Green Party",
+			"votes": 371,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dynamite, Napoleon",
+			"party": "Monster Raving Loony Party",
+			"votes": 155,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Brokenshire, James",
+			"party": "Conservative Party",
+			"votes": 24682,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mehmet, Ibrahim",
+			"party": "Labour Party",
+			"votes": 8879,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reilly, Catherine",
+			"party": "United Kingdom Independence Party",
+			"votes": 8528,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Keen, Jennifer",
+			"party": "Liberal Democrat",
+			"votes": 1644,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Moran, Derek",
+			"party": "Green Party",
+			"votes": 1336,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gill, Bob",
+			"party": "National Health Action Party",
+			"votes": 1216,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Laurence",
+			"party": "Christian Party, Proclaiming Christ's Lordship",
+			"votes": 245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Finch, Nicola ",
+			"party": "British National Party",
+			"votes": 218,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

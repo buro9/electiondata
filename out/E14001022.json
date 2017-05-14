@@ -1,0 +1,85 @@
+{
+	"id": "E14001022",
+	"name": "Waveney",
+	"y2010": [
+		{
+			"candidate": "Aldous, Peter",
+			"party": "Conservative Party",
+			"votes": 20571,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Blizzard, Bob",
+			"party": "Labour Party",
+			"votes": 19802,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Dean, Alan",
+			"party": "Liberal Democrat",
+			"votes": 6811,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tyler, Jack",
+			"party": "United Kingdom Independence Party",
+			"votes": 2684,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elliott, Graham",
+			"party": "Green Party",
+			"votes": 1167,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Barfe, Louis",
+			"party": "Independent",
+			"votes": 106,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Aldous, Peter",
+			"party": "Conservative Party",
+			"votes": 22104,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Blizzard, Bob",
+			"party": "Labour Party",
+			"votes": 19696,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tobin, Simon",
+			"party": "United Kingdom Independence Party",
+			"votes": 7580,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elliott, Graham",
+			"party": "Green Party",
+			"votes": 1761,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gordon, Steve",
+			"party": "Liberal Democrat",
+			"votes": 1055,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

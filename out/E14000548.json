@@ -1,0 +1,92 @@
+{
+	"id": "E14000548",
+	"name": "Batley and Spen",
+	"y2010": [
+		{
+			"candidate": "Wood, Mike",
+			"party": "Labour Party",
+			"votes": 21565,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Small, Janice",
+			"party": "Conservative Party",
+			"votes": 17159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bentley, Neil",
+			"party": "Liberal Democrat",
+			"votes": 8095,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Exley, David",
+			"party": "British National Party",
+			"votes": 3685,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blakeley, Matt",
+			"party": "Green Party",
+			"votes": 605,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cox, Jo",
+			"party": "Labour Party",
+			"votes": 21826,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Ameen, Imtiaz",
+			"party": "Conservative Party",
+			"votes": 15769,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lukic, Aleks",
+			"party": "United Kingdom Independence Party",
+			"votes": 9080,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lawson, John",
+			"party": "Liberal Democrat",
+			"votes": 2396,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bullock, Ian",
+			"party": "Green Party",
+			"votes": 1232,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wheelhouse, Dawn",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 123,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Varley, Karl",
+			"party": "Patriotic Socialist Party",
+			"votes": 53,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

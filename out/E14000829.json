@@ -1,0 +1,78 @@
+{
+	"id": "E14000829",
+	"name": "Newark",
+	"y2010": [
+		{
+			"candidate": "Mercer, Patrick",
+			"party": "Conservative Party",
+			"votes": 27590,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Campbell, Ian",
+			"party": "Labour Party",
+			"votes": 11438,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jenkins, Pauline",
+			"party": "Liberal Democrat",
+			"votes": 10246,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Irvine, Tom",
+			"party": "United Kingdom Independence Party",
+			"votes": 1954,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Jenrick, Robert",
+			"party": "Conservative Party",
+			"votes": 29834,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Payne, Michael",
+			"party": "Labour Party",
+			"votes": 11360,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mapletoft, Brian",
+			"party": "United Kingdom Independence Party",
+			"votes": 6294,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dobbie, David",
+			"party": "Liberal Democrat",
+			"votes": 2385,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Forster, Elayne",
+			"party": "Green Party",
+			"votes": 1792,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tyrer, Helen",
+			"party": "Consensus",
+			"votes": 637,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"id": "E14000783",
+	"name": "Leicester South",
+	"y2010": [
+		{
+			"candidate": "Soulsby, Peter",
+			"party": "Labour Party",
+			"votes": 21479,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Gill, Parmjit Singh",
+			"party": "Liberal Democrat",
+			"votes": 12671,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Grant, Ross",
+			"party": "Conservative Party",
+			"votes": 10066,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Waudby, Adrian",
+			"party": "British National Party",
+			"votes": 1418,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dixey, Dave",
+			"party": "Green Party",
+			"votes": 770,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lucas, Christopher",
+			"party": "United Kingdom Independence Party",
+			"votes": 720,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Ashworth, Jonathan",
+			"party": "Labour Party",
+			"votes": 27473,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hadji-Nikolaou, Leon",
+			"party": "Conservative Party",
+			"votes": 9628,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stone, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 3832,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garcia, Gabby",
+			"party": "Green Party",
+			"votes": 2533,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Prabhakar, Anita",
+			"party": "Liberal Democrat",
+			"votes": 2127,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walton, Andrew",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 349,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

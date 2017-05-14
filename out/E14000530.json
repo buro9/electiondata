@@ -1,0 +1,85 @@
+{
+	"id": "E14000530",
+	"name": "Aldershot",
+	"y2010": [
+		{
+			"candidate": "Howarth, Gerald",
+			"party": "Conservative Party",
+			"votes": 21203,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Collett, Adrian",
+			"party": "Liberal Democrat",
+			"votes": 15617,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Slater, Jonathan",
+			"party": "Labour Party",
+			"votes": 5489,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Snare, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 2041,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Crowd, Gary",
+			"party": "English Independence Party",
+			"votes": 803,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brimicombe, Juliana",
+			"party": "Christian Party",
+			"votes": 231,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Howarth, Gerald",
+			"party": "Conservative Party",
+			"votes": 23369,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Puffett, Gary",
+			"party": "Labour Party",
+			"votes": 8468,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Bill",
+			"party": "United Kingdom Independence Party",
+			"votes": 8253,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hilliar, Alan",
+			"party": "Liberal Democrat",
+			"votes": 4076,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hewitt, Carl",
+			"party": "Green Party",
+			"votes": 2025,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

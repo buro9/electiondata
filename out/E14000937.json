@@ -1,0 +1,92 @@
+{
+	"id": "E14000937",
+	"name": "Cambridgeshire South East",
+	"y2010": [
+		{
+			"candidate": "Paice, Jim",
+			"party": "Conservative Party",
+			"votes": 27629,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Chatfield, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 21683,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cowan, John",
+			"party": "Labour Party",
+			"votes": 4380,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Monk, Andy",
+			"party": "United Kingdom Independence Party",
+			"votes": 2138,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sedgwick-Jell, Simon",
+			"party": "Green Party",
+			"votes": 766,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Woollard, Geoffrey",
+			"party": "Independent",
+			"votes": 517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bell, Daniel",
+			"party": "Christian Peoples Alliance",
+			"votes": 489,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Frazer, Lucy",
+			"party": "Conservative Party",
+			"votes": 28845,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Chatfield, Jonathan ",
+			"party": "Liberal Democrat",
+			"votes": 12008,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Huw",
+			"party": "Labour Party",
+			"votes": 9013,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rennie, Deborah",
+			"party": "United Kingdom Independence Party",
+			"votes": 6593,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Semmens, Clive",
+			"party": "Green Party",
+			"votes": 3047,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

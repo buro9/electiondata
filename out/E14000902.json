@@ -1,0 +1,120 @@
+{
+	"id": "E14000902",
+	"name": "Rossendale and Darwen",
+	"y2010": [
+		{
+			"candidate": "Berry, Jake",
+			"party": "Conservative Party",
+			"votes": 19691,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Anderson, Janet",
+			"party": "Labour Party",
+			"votes": 15198,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Sheffield, Robert",
+			"party": "Liberal Democrat",
+			"votes": 8541,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Duthie, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1617,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bryan, Kevin",
+			"party": "National Front",
+			"votes": 1062,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Michael",
+			"party": "English Democrats",
+			"votes": 663,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Melia, Tony",
+			"party": "Impact",
+			"votes": 243,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sivieri, Mike",
+			"party": "Independent",
+			"votes": 113,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Berry, Jake",
+			"party": "Conservative Party",
+			"votes": 22847,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Straw, Will",
+			"party": "Labour Party",
+			"votes": 17193,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Balchin, Clive",
+			"party": "United Kingdom Independence Party",
+			"votes": 6862,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pollard-Rylance, Karen",
+			"party": "Green Party",
+			"votes": 1046,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Anwar, Afzal",
+			"party": "Liberal Democrat",
+			"votes": 806,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Scranage, Kevin",
+			"party": "Independent",
+			"votes": 122,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Simon",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 103,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hargreaves, Shaun",
+			"party": "The Northern Party",
+			"votes": 45,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

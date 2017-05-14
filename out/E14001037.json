@@ -1,0 +1,71 @@
+{
+	"id": "E14001037",
+	"name": "Westmorland and Lonsdale",
+	"y2010": [
+		{
+			"candidate": "Farron, Tim",
+			"party": "Liberal Democrat",
+			"votes": 30896,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "McKeever, Gareth",
+			"party": "Conservative Party",
+			"votes": 18632,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Todd, Jonathan",
+			"party": "Labour Party",
+			"votes": 1158,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mander, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 801,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Farron, Tim",
+			"party": "Liberal Democrat",
+			"votes": 25194,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Myatt, Ann",
+			"party": "Conservative Party",
+			"votes": 16245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Piper, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 3031,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bateson, John",
+			"party": "Labour Party",
+			"votes": 2661,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Loynes, Chris",
+			"party": "Green Party",
+			"votes": 1798,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

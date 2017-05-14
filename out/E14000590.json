@@ -1,0 +1,99 @@
+{
+	"id": "E14000590",
+	"name": "Braintree",
+	"y2010": [
+		{
+			"candidate": "Newmark, Brooks",
+			"party": "Conservative Party",
+			"votes": 25901,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Edwards, Bill",
+			"party": "Labour Party",
+			"votes": 9780,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jarvis, Steve",
+			"party": "Liberal Democrat",
+			"votes": 9247,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ford, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 2477,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hooks, Paul",
+			"party": "British National Party",
+			"votes": 1080,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Blench, Daisy",
+			"party": "Green Party",
+			"votes": 718,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cleverly, James",
+			"party": "Conservative Party",
+			"votes": 27071,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Bingley, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 9461,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fincken, Malcolm",
+			"party": "Labour Party",
+			"votes": 9296,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Klesel, Matthew",
+			"party": "Liberal Democrat",
+			"votes": 2488,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jeater, Paul",
+			"party": "Green Party",
+			"votes": 1564,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pereira, Toby",
+			"party": "Independent",
+			"votes": 295,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hooks, Paul",
+			"party": "British National Party",
+			"votes": 108,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

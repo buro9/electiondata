@@ -1,0 +1,169 @@
+{
+	"id": "E14000721",
+	"name": "Hackney South and Shoreditch",
+	"y2010": [
+		{
+			"candidate": "Hillier, Meg",
+			"party": "Labour Party",
+			"votes": 23888,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Raval, Dave",
+			"party": "Liberal Democrat",
+			"votes": 9600,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nayyar, Simon",
+			"party": "Conservative Party",
+			"votes": 5800,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lane, Polly",
+			"party": "Green Party",
+			"votes": 1493,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "King, Michael",
+			"party": "United Kingdom Independence Party",
+			"votes": 651,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rae, Ben",
+			"party": "Lib",
+			"votes": 539,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, John",
+			"party": "Christian Party",
+			"votes": 434,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sen, Nusret",
+			"party": "DDP",
+			"votes": 202,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Paul",
+			"party": "Comm Lge",
+			"votes": 110,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "De La Haye, Denny",
+			"party": "Independent",
+			"votes": 95,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tuckett, Jane",
+			"party": "Independent",
+			"votes": 26,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spinks, Michael",
+			"party": "Independent",
+			"votes": 20,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hillier, Margaret",
+			"party": "Labour Party",
+			"votes": 30633,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Tinley, John",
+			"party": "Conservative Party",
+			"votes": 6420,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "George, Charlotte",
+			"party": "Green Party",
+			"votes": 5519,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mathis, Benjamin",
+			"party": "Liberal Democrat",
+			"votes": 2186,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Small, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1818,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Debus, Brian",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 302,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Birch, Paul",
+			"party": "CISTAP",
+			"votes": 297,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adewuyi, Taiwo",
+			"party": "Christian Peoples Alliance",
+			"votes": 236,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Higgs, Russell",
+			"party": "Independent",
+			"votes": 78,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogers, William",
+			"party": "Workers' Revolutionary Party",
+			"votes": 63,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shrigley, Gordon",
+			"party": "Campaign",
+			"votes": 28,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

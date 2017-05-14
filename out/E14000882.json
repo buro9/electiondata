@@ -1,0 +1,127 @@
+{
+	"id": "E14000882",
+	"name": "Poplar and Limehouse",
+	"y2010": [
+		{
+			"candidate": "Fitzpatrick, Jim",
+			"party": "Labour Party",
+			"votes": 18679,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Archer, Tim",
+			"party": "Conservative Party",
+			"votes": 12649,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Galloway, George",
+			"party": "Respect Party",
+			"votes": 8160,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Fryer, Jonathan",
+			"party": "Liberal Democrat",
+			"votes": 5209,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lochner, Wayne",
+			"party": "United Kingdom Independence Party",
+			"votes": 565,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Osborne, Andrew",
+			"party": "English Democrats",
+			"votes": 470,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Chris",
+			"party": "Green Party",
+			"votes": 449,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mahmud, Kabir",
+			"party": "Independent",
+			"votes": 293,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hoque, Mohammed",
+			"party": "Independent",
+			"votes": 167,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thornton, Jim",
+			"party": "Independent",
+			"votes": 59,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Fitzpatrick, Jim",
+			"party": "Labour Party",
+			"votes": 29886,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Wilford, Christopher",
+			"party": "Conservative Party",
+			"votes": 12962,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McQueen, Nicholas",
+			"party": "United Kingdom Independence Party",
+			"votes": 3128,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Childs, Maureen",
+			"party": "Green Party",
+			"votes": 2463,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bagshaw, Elaine",
+			"party": "Liberal Democrat",
+			"votes": 2149,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pierre, Hugo",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 367,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mugenzi, Rene",
+			"party": "Red Flag - Anti-Corruption",
+			"votes": 89,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

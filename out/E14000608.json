@@ -1,0 +1,106 @@
+{
+	"id": "E14000608",
+	"name": "Buckingham",
+	"y2010": [
+		{
+			"candidate": "Bercow, John",
+			"party": "Speaker",
+			"votes": 22860,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Stevens, John",
+			"party": "Independent",
+			"votes": 10331,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Farage, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 8401,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Phillips, Patrick",
+			"party": "Independent",
+			"votes": 2394,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Martin, Debbie",
+			"party": "Independent",
+			"votes": 1270,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mozar, Lynne",
+			"party": "British National Party",
+			"votes": 980,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dale, Colin",
+			"party": "Monster Raving Loony Party",
+			"votes": 856,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Howard, Geoff",
+			"party": "Independent",
+			"votes": 435,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hews, David",
+			"party": "Christian Party",
+			"votes": 369,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watts, Anthony",
+			"party": "Independent",
+			"votes": 332,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Strutt, Simon",
+			"party": "Deficit",
+			"votes": 107,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bercow, John",
+			"party": "Speaker",
+			"votes": 34617,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fowler, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 11675,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Francis, Alan",
+			"party": "Green Party",
+			"votes": 7400,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

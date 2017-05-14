@@ -1,0 +1,92 @@
+{
+	"id": "E14000567",
+	"name": "Birmingham Selly Oak",
+	"y2010": [
+		{
+			"candidate": "McCabe, Steve",
+			"party": "Labour Party",
+			"votes": 17950,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Dawkins, Nigel",
+			"party": "Conservative Party",
+			"votes": 14468,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Radcliffe, David",
+			"party": "Liberal Democrat",
+			"votes": 10371,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Orton, Lynette",
+			"party": "British National Party",
+			"votes": 1820,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burgess, Jeffery",
+			"party": "United Kingdom Independence Party",
+			"votes": 1131,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burn, James",
+			"party": "Green Party",
+			"votes": 664,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leeds, Samuel",
+			"party": "Christian Party",
+			"votes": 159,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "McCabe, Steve",
+			"party": "Labour Party",
+			"votes": 21584,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Boulter, Alex",
+			"party": "Conservative Party",
+			"votes": 13137,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brookes, Steven",
+			"party": "United Kingdom Independence Party",
+			"votes": 5755,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Green, Colin",
+			"party": "Liberal Democrat",
+			"votes": 2517,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Clare",
+			"party": "Green Party",
+			"votes": 2301,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

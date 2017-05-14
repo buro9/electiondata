@@ -1,0 +1,106 @@
+{
+	"id": "E14000790",
+	"name": "Leyton and Wanstead",
+	"y2010": [
+		{
+			"candidate": "Cryer, John",
+			"party": "Labour Party",
+			"votes": 17511,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Qureshi, Farooq",
+			"party": "Liberal Democrat",
+			"votes": 11095,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Northover, Ed",
+			"party": "Conservative Party",
+			"votes": 8928,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 1080,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gunstock, Ashley",
+			"party": "Green Party",
+			"votes": 562,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clift, Jim",
+			"party": "British National Party",
+			"votes": 561,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bhatti, Sonika",
+			"party": "Christian Party",
+			"votes": 342,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Levin, Martin",
+			"party": "Ind Fed",
+			"votes": 80,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Cryer, John",
+			"party": "Labour Party",
+			"votes": 23856,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Scott, Matthew",
+			"party": "Conservative Party",
+			"votes": 8939,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gunstock, Ashley",
+			"party": "Green Party",
+			"votes": 2974,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Beattie, Rosamund",
+			"party": "United Kingdom Independence Party",
+			"votes": 2341,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Quilliam, Carl",
+			"party": "Liberal Democrat",
+			"votes": 2304,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aziz, Mahtab ",
+			"party": "Independent",
+			"votes": 289,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

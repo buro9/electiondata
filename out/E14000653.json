@@ -1,0 +1,78 @@
+{
+	"id": "E14000653",
+	"name": "Crewe and Nantwich",
+	"y2010": [
+		{
+			"candidate": "Timpson, Edward",
+			"party": "Conservative Party",
+			"votes": 23420,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Williams, David",
+			"party": "Labour Party",
+			"votes": 17374,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Roy",
+			"party": "Liberal Democrat",
+			"votes": 7656,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clutton, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 1414,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Phil",
+			"party": "British National Party",
+			"votes": 1043,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parsons, Mike",
+			"party": "Independent",
+			"votes": 177,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Timpson, Edward",
+			"party": "Conservative Party",
+			"votes": 22445,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Heald, Adrian",
+			"party": "Labour Party",
+			"votes": 18825,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lee, Richard",
+			"party": "United Kingdom Independence Party",
+			"votes": 7252,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wood, Roy",
+			"party": "Liberal Democrat",
+			"votes": 1374,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"id": "E14000845",
+	"name": "Hertfordshire North East",
+	"y2010": [
+		{
+			"candidate": "Heald, Oliver",
+			"party": "Conservative Party",
+			"votes": 26995,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Annand, Hugh",
+			"party": "Liberal Democrat",
+			"votes": 11801,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirkman, David",
+			"party": "Labour Party",
+			"votes": 8291,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smyth, Adrianne",
+			"party": "United Kingdom Independence Party",
+			"votes": 2075,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bland, Rosemary",
+			"party": "Green Party",
+			"votes": 875,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Campbell, Richard",
+			"party": "Independent",
+			"votes": 209,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ralph, David",
+			"party": "YRDPL",
+			"votes": 143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reichardt, Philip",
+			"party": "Independent",
+			"votes": 36,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Heald, Oliver",
+			"party": "Conservative Party",
+			"votes": 28949,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "York, Chris",
+			"party": "Labour Party",
+			"votes": 9869,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Compton, William",
+			"party": "United Kingdom Independence Party",
+			"votes": 6728,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jordan, Joe",
+			"party": "Liberal Democrat",
+			"votes": 3952,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "May, Mario",
+			"party": "Green Party",
+			"votes": 2789,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

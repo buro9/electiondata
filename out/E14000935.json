@@ -1,0 +1,85 @@
+{
+	"id": "E14000935",
+	"name": "Derbyshire South",
+	"y2010": [
+		{
+			"candidate": "Wheeler, Heather",
+			"party": "Conservative Party",
+			"votes": 22935,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Edwards, Michael",
+			"party": "Labour Party",
+			"votes": 15807,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Diouf, Alexis",
+			"party": "Liberal Democrat",
+			"votes": 8012,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jarvis, Peter",
+			"party": "British National Party",
+			"votes": 2193,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Swabey, Charles",
+			"party": "United Kingdom Independence Party",
+			"votes": 1206,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Liversuch, Paul",
+			"party": "Soc Lab",
+			"votes": 266,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Wheeler, Heather",
+			"party": "Conservative Party",
+			"votes": 25066,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Pidgeon, Cheryl",
+			"party": "Labour Party",
+			"votes": 13595,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Graves, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 8998,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Lorraine",
+			"party": "Liberal Democrat",
+			"votes": 1887,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bamkin, Marianne",
+			"party": "Green Party",
+			"votes": 1216,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

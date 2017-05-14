@@ -1,0 +1,85 @@
+{
+	"id": "E14000569",
+	"name": "Bishop Auckland",
+	"y2010": [
+		{
+			"candidate": "Goodman, Helen",
+			"party": "Labour Party",
+			"votes": 16023,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Harrison, Barbara",
+			"party": "Conservative Party",
+			"votes": 10805,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilkes, Mark",
+			"party": "Liberal Democrat",
+			"votes": 9189,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walker, Adam",
+			"party": "British National Party",
+			"votes": 2036,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Zair, Sam",
+			"party": "LLPBPP",
+			"votes": 1964,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brothers, Dave",
+			"party": "United Kingdom Independence Party",
+			"votes": 1119,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Goodman, Helen",
+			"party": "Labour Party",
+			"votes": 16307,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Adams, Christopher",
+			"party": "Conservative Party",
+			"votes": 12799,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burriss, Rhys",
+			"party": "United Kingdom Independence Party",
+			"votes": 7015,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 1723,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Robinson, Thom",
+			"party": "Green Party",
+			"votes": 1545,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

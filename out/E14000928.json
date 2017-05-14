@@ -1,0 +1,99 @@
+{
+	"id": "E14000928",
+	"name": "Skipton and Ripon",
+	"y2010": [
+		{
+			"candidate": "Smith, Julian",
+			"party": "Conservative Party",
+			"votes": 27685,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Flynn, Helen",
+			"party": "Liberal Democrat",
+			"votes": 17735,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hazelgrove, Claire",
+			"party": "Labour Party",
+			"votes": 5498,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mills, Rodney",
+			"party": "United Kingdom Independence Party",
+			"votes": 1909,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Allen, Bernard",
+			"party": "British National Party",
+			"votes": 1403,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bell, Roger",
+			"party": "Independent",
+			"votes": 315,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gilligan, Dylan",
+			"party": "Youth",
+			"votes": 95,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Leakey, Robert",
+			"party": "Currency",
+			"votes": 84,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Julian",
+			"party": "Conservative Party",
+			"votes": 30248,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Birks, Malcolm",
+			"party": "Labour Party",
+			"votes": 9487,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Henderson, Alan",
+			"party": "United Kingdom Independence Party",
+			"votes": 7651,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bell, Jacquie",
+			"party": "Liberal Democrat",
+			"votes": 4057,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brown, Andy",
+			"party": "Green Party",
+			"votes": 3116,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

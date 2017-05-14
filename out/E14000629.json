@@ -1,0 +1,106 @@
+{
+	"id": "E14000629",
+	"name": "Chelsea and Fulham",
+	"y2010": [
+		{
+			"candidate": "Hands, Greg",
+			"party": "Conservative Party",
+			"votes": 24093,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hilton, Alexander",
+			"party": "Labour Party",
+			"votes": 7371,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hazell, Dirk",
+			"party": "Liberal Democrat",
+			"votes": 6473,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephenson, Julia",
+			"party": "Green Party",
+			"votes": 671,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gittos, Timothy",
+			"party": "United Kingdom Independence Party",
+			"votes": 478,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDonald, Brian",
+			"party": "British National Party",
+			"votes": 388,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Courtenay, Roland",
+			"party": "Ind CCF",
+			"votes": 196,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roseman, George",
+			"party": "English Democrats",
+			"votes": 169,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Spickernell, Godfrey",
+			"party": "Blue",
+			"votes": 17,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Hands, Greg",
+			"party": "Conservative Party",
+			"votes": 25322,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sanderson, Alexandra",
+			"party": "Labour Party",
+			"votes": 9300,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailey, Simon",
+			"party": "Liberal Democrat",
+			"votes": 2091,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Noble, Adrian",
+			"party": "United Kingdom Independence Party",
+			"votes": 2039,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rubin, Guy",
+			"party": "Green Party",
+			"votes": 1474,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

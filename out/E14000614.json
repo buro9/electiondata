@@ -1,0 +1,120 @@
+{
+	"id": "E14000614",
+	"name": "Calder Valley",
+	"y2010": [
+		{
+			"candidate": "Whittaker, Craig",
+			"party": "Conservative Party",
+			"votes": 20397,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Booth, Steph",
+			"party": "Labour Party",
+			"votes": 13966,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Myers, Hilary",
+			"party": "Liberal Democrat",
+			"votes": 13037,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gregory, John",
+			"party": "British National Party",
+			"votes": 1823,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Burrows, Greg",
+			"party": "United Kingdom Independence Party",
+			"votes": 1173,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sweeny, Kate",
+			"party": "Green Party",
+			"votes": 858,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cole, Tim",
+			"party": "Independent",
+			"votes": 194,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greenwood, Barry",
+			"party": "Independent",
+			"votes": 175,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogan, Paul",
+			"party": "English Democrats",
+			"votes": 157,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Whittaker, Craig",
+			"party": "Conservative Party",
+			"votes": 23354,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fenton-Glynn, Josh",
+			"party": "Labour Party",
+			"votes": 18927,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rogan, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 5950,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Calder McGregor, Alisdair",
+			"party": "Liberal Democrat",
+			"votes": 2666,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shepherd, Jenny",
+			"party": "Green Party",
+			"votes": 2090,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutcliffe, Rod",
+			"party": "Yorkshire First",
+			"votes": 389,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stead, Joe",
+			"party": "World Peace Through Song",
+			"votes": 165,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"id": "E14000711",
+	"name": "Gillingham and Rainham",
+	"y2010": [
+		{
+			"candidate": "Chishti, Rehman",
+			"party": "Conservative Party",
+			"votes": 21624,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Clark, Paul",
+			"party": "Labour Party",
+			"votes": 12944,
+			"incumbent": true,
+			"elected": false
+		},
+		{
+			"candidate": "Stamp, Andrew",
+			"party": "Liberal Democrat",
+			"votes": 8484,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Oakley, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 1515,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ravenscroft, Brian",
+			"party": "British National Party",
+			"votes": 1149,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lacey, Dean",
+			"party": "English Democrats",
+			"votes": 464,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Marchant, Trish",
+			"party": "Green Party",
+			"votes": 356,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bryan, Gordon",
+			"party": "ND",
+			"votes": 141,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Meegan, George",
+			"party": "Med Ind",
+			"votes": 109,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Chishti, Rehman",
+			"party": "Conservative Party",
+			"votes": 22590,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Clark, Paul",
+			"party": "Labour Party",
+			"votes": 12060,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hanson, Mark",
+			"party": "United Kingdom Independence Party",
+			"votes": 9199,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chaplin, Paul",
+			"party": "Liberal Democrat",
+			"votes": 1707,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Williams, Neil",
+			"party": "Green Party",
+			"votes": 1133,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Berry, Jacqui",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 273,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Peacock, Roger ",
+			"party": "Independent",
+			"votes": 72,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walters, Mike ",
+			"party": "Independent",
+			"votes": 44,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

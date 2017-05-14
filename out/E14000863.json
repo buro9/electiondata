@@ -1,0 +1,106 @@
+{
+	"id": "E14000863",
+	"name": "Norwich North",
+	"y2010": [
+		{
+			"candidate": "Smith, Chloe",
+			"party": "Conservative Party",
+			"votes": 17280,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cook, John",
+			"party": "Labour Party",
+			"votes": 13379,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephen, John",
+			"party": "Liberal Democrat",
+			"votes": 7783,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tingle, Glenn",
+			"party": "United Kingdom Independence Party",
+			"votes": 1878,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Goldfinch, Jessica",
+			"party": "Green Party",
+			"votes": 1245,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Richardson, Thomas",
+			"party": "British National Party",
+			"votes": 747,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holden, Bill",
+			"party": "Independent",
+			"votes": 143,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holland, Andrew",
+			"party": "Christian Party",
+			"votes": 118,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Chloe",
+			"party": "Conservative Party",
+			"votes": 19052,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Asato, Jess",
+			"party": "Labour Party",
+			"votes": 14589,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tingle, Glenn",
+			"party": "United Kingdom Independence Party",
+			"votes": 5986,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Holmes, Adrian",
+			"party": "Green Party",
+			"votes": 1939,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wright, James",
+			"party": "Liberal Democrat",
+			"votes": 1894,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hardy, Mick",
+			"party": "Independent",
+			"votes": 132,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,106 @@
+{
+	"id": "W07000055",
+	"name": "Newport East",
+	"y2010": [
+		{
+			"candidate": "Morden, Jessica",
+			"party": "Labour Party",
+			"votes": 12744,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Townsend, Ed",
+			"party": "Liberal Democrat",
+			"votes": 11094,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parry, Dawn",
+			"party": "Conservative Party",
+			"votes": 7918,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Jones, Keith",
+			"party": "British National Party",
+			"votes": 1168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cross, Fiona",
+			"party": "Plaid Cymru",
+			"votes": 724,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rowlands, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 677,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Screen, Liz",
+			"party": "Soc Lab",
+			"votes": 123,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Morden, Jessica",
+			"party": "Labour Party",
+			"votes": 14290,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Asghar, Natasha",
+			"party": "Conservative Party",
+			"votes": 9585,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stock, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 6466,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Halliday, Paul",
+			"party": "Liberal Democrat",
+			"votes": 2251,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Salkeld, Anthony",
+			"party": "Plaid Cymru",
+			"votes": 1231,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mclean, David",
+			"party": "Green Party",
+			"votes": 887,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Singh Bhatoe, Shangara",
+			"party": "Socialist Labour Party",
+			"votes": 398,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

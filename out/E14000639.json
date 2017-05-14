@@ -1,0 +1,127 @@
+{
+	"id": "E14000639",
+	"name": "Cities of London and Westminster",
+	"y2010": [
+		{
+			"candidate": "Field, Mark",
+			"party": "Conservative Party",
+			"votes": 19264,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Rowntree, David",
+			"party": "Labour Party",
+			"votes": 8188,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Smith, Naomi",
+			"party": "Liberal Democrat",
+			"votes": 7574,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chase, Derek",
+			"party": "Green Party",
+			"votes": 778,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Weston, Paul",
+			"party": "United Kingdom Independence Party",
+			"votes": 664,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Roseman, Frank",
+			"party": "English Democrats",
+			"votes": 191,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Delderfield, Dennis",
+			"party": "Independent",
+			"votes": 98,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Nunn, Jack",
+			"party": "Pirate Party UK",
+			"votes": 90,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": ", Mad Cap'n Tom",
+			"party": "Independent",
+			"votes": 84,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Field, Mark",
+			"party": "Conservative Party",
+			"votes": 19570,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Slingsby, Nick",
+			"party": "Labour Party",
+			"votes": 9899,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brooks-Gordon, Belinda",
+			"party": "Liberal Democrat",
+			"votes": 2521,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Small, Hugh",
+			"party": "Green Party",
+			"votes": 1953,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stephenson, Robert",
+			"party": "United Kingdom Independence Party",
+			"votes": 1894,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Desforges, Edouard-Henri ",
+			"party": "CISTAP",
+			"votes": 160,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McLachlan, Jill",
+			"party": "Christian Peoples Alliance",
+			"votes": 129,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clifford, Adam ",
+			"party": "Class War",
+			"votes": 59,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

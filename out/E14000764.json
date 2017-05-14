@@ -1,0 +1,99 @@
+{
+	"id": "E14000764",
+	"name": "Islington South and Finsbury",
+	"y2010": [
+		{
+			"candidate": "Thornberry, Emily",
+			"party": "Labour Party",
+			"votes": 18407,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Fox, Bridget",
+			"party": "Liberal Democrat",
+			"votes": 14838,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cox, Antonia",
+			"party": "Conservative Party",
+			"votes": 8449,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Humphreys, James",
+			"party": "Green Party",
+			"votes": 710,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDonald, Rose-Marie",
+			"party": "United Kingdom Independence Party",
+			"votes": 701,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dodds, John",
+			"party": "English Democrats",
+			"votes": 301,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Deboo, Richard",
+			"party": "Animals",
+			"votes": 149,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Thornberry, Emily",
+			"party": "Labour Party",
+			"votes": 22547,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Lim, Mark",
+			"party": "Conservative Party",
+			"votes": 9839,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stacy, Terry",
+			"party": "Liberal Democrat",
+			"votes": 4829,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Muswell, Peter",
+			"party": "United Kingdom Independence Party",
+			"votes": 3375,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kiss, Charlie",
+			"party": "Green Party",
+			"votes": 3371,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kirton, Jay",
+			"party": "CISTAP",
+			"votes": 309,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

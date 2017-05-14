@@ -1,0 +1,120 @@
+{
+	"id": "W07000075",
+	"name": "Pontypridd",
+	"y2010": [
+		{
+			"candidate": "Smith, Owen",
+			"party": "Labour Party",
+			"votes": 14220,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Powell, Michael",
+			"party": "Liberal Democrat",
+			"votes": 11435,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gonzalez, Lee",
+			"party": "Conservative Party",
+			"votes": 5932,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bellin, Ioan",
+			"party": "Plaid Cymru",
+			"votes": 2673,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bevan, David",
+			"party": "United Kingdom Independence Party",
+			"votes": 1229,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parsons, Simon",
+			"party": "Soc Lab",
+			"votes": 456,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Watson, Donald",
+			"party": "Christian Party",
+			"votes": 365,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Matthews, John",
+			"party": "Green Party",
+			"votes": 361,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Smith, Owen",
+			"party": "Labour Party",
+			"votes": 15554,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Mason, Ann-Marie",
+			"party": "Conservative Party",
+			"votes": 6569,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tomkinson, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 5085,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Powell, Mike",
+			"party": "Liberal Democrat",
+			"votes": 4904,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lewis, Osian",
+			"party": "Plaid Cymru",
+			"votes": 4348,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clay, Katy",
+			"party": "Green Party",
+			"votes": 992,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Biggs, Damien ",
+			"party": "Socialist Labour Party",
+			"votes": 332,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearson, Esther",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 98,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

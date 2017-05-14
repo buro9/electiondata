@@ -1,0 +1,92 @@
+{
+	"id": "E14000572",
+	"name": "Blackpool North and Cleveleys",
+	"y2010": [
+		{
+			"candidate": "Maynard, Paul",
+			"party": "Conservative Party",
+			"votes": 16964,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Martin, Penny",
+			"party": "Labour Party",
+			"votes": 14814,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Greene, Bill",
+			"party": "Liberal Democrat",
+			"votes": 5400,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hopwood, Roy",
+			"party": "United Kingdom Independence Party",
+			"votes": 1659,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clayton, James",
+			"party": "British National Party",
+			"votes": 1556,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Tony",
+			"party": "Monster Raving Loony Party",
+			"votes": 198,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Maynard, Paul",
+			"party": "Conservative Party",
+			"votes": 17508,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Rushworth, Samuel",
+			"party": "Labour Party",
+			"votes": 14168,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Noble, Simon",
+			"party": "United Kingdom Independence Party",
+			"votes": 5823,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Close, Sue",
+			"party": "Liberal Democrat",
+			"votes": 948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warnock, John",
+			"party": "Green Party",
+			"votes": 889,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Walsh, James",
+			"party": "The Northern Party",
+			"votes": 57,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

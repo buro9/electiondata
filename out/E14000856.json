@@ -1,0 +1,85 @@
+{
+	"id": "E14000856",
+	"name": "Durham North West",
+	"y2010": [
+		{
+			"candidate": "Glass, Pat",
+			"party": "Labour Party",
+			"votes": 18539,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Temple, Owen",
+			"party": "Liberal Democrat",
+			"votes": 10927,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Tempest, Michelle",
+			"party": "Conservative Party",
+			"votes": 8766,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stelling, Watts",
+			"party": "Independent",
+			"votes": 2472,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stewart, Michael",
+			"party": "British National Party",
+			"votes": 1852,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "McDonald, Andrew",
+			"party": "United Kingdom Independence Party",
+			"votes": 1259,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Glass, Pat",
+			"party": "Labour Party",
+			"votes": 20074,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Haitham-Taylor, Charlotte",
+			"party": "Conservative Party",
+			"votes": 10018,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Reid, Bruce ",
+			"party": "United Kingdom Independence Party",
+			"votes": 7265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Temple, Owen",
+			"party": "Liberal Democrat",
+			"votes": 3894,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Shilcock, Mark",
+			"party": "Green Party",
+			"votes": 1567,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

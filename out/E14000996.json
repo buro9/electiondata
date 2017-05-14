@@ -1,0 +1,78 @@
+{
+	"id": "E14000996",
+	"name": "Tiverton and Honiton",
+	"y2010": [
+		{
+			"candidate": "Parish, Neil",
+			"party": "Conservative Party",
+			"votes": 27614,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Underwood, Jon",
+			"party": "Liberal Democrat",
+			"votes": 18294,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Whitlock, Vernon",
+			"party": "Labour Party",
+			"votes": 4907,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Stanbury, Daryl",
+			"party": "United Kingdom Independence Party",
+			"votes": 3277,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Connor, Cathy",
+			"party": "Green Party",
+			"votes": 802,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Parish, Neil",
+			"party": "Conservative Party",
+			"votes": 29030,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Smith, Leslie",
+			"party": "United Kingdom Independence Party",
+			"votes": 8857,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kolek, Caroline",
+			"party": "Labour Party",
+			"votes": 6835,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kearney, Stephen",
+			"party": "Liberal Democrat",
+			"votes": 5626,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Edwards, Paul",
+			"party": "Green Party",
+			"votes": 3415,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

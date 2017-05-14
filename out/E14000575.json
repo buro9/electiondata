@@ -1,0 +1,92 @@
+{
+	"id": "E14000575",
+	"name": "Blyth Valley",
+	"y2010": [
+		{
+			"candidate": "Campbell, Ronnie",
+			"party": "Labour Party",
+			"votes": 17156,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Reid, Jeffrey",
+			"party": "Liberal Democrat",
+			"votes": 10488,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Flux, Barry",
+			"party": "Conservative Party",
+			"votes": 6412,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fairbairn, Steve",
+			"party": "British National Party",
+			"votes": 1699,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Condon, James",
+			"party": "United Kingdom Independence Party",
+			"votes": 1665,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Elliott, Barry",
+			"party": "Independent",
+			"votes": 819,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "White, Allan",
+			"party": "English Democrats",
+			"votes": 327,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Campbell, Ronnie",
+			"party": "Labour Party",
+			"votes": 17813,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Elliott, Barry",
+			"party": "United Kingdom Independence Party",
+			"votes": 8584,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Munro, Greg",
+			"party": "Conservative Party",
+			"votes": 8346,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Latham, Philip",
+			"party": "Liberal Democrat",
+			"votes": 2265,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Furness, Dawn",
+			"party": "Green Party",
+			"votes": 1453,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

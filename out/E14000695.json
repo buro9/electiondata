@@ -1,0 +1,92 @@
+{
+	"id": "E14000695",
+	"name": "Erewash",
+	"y2010": [
+		{
+			"candidate": "Lee, Jessica",
+			"party": "Conservative Party",
+			"votes": 18805,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Pidgeon, Cheryl",
+			"party": "Labour Party",
+			"votes": 16304,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garnett, Martin",
+			"party": "Liberal Democrat",
+			"votes": 8343,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailey, Mark",
+			"party": "British National Party",
+			"votes": 2337,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sutton, Jodie",
+			"party": "United Kingdom Independence Party",
+			"votes": 855,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fletcher, Lee",
+			"party": "Green Party",
+			"votes": 534,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wilkins, Luke",
+			"party": "Independent",
+			"votes": 464,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Throup, Maggie",
+			"party": "Conservative Party",
+			"votes": 20636,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Atkinson, Catherine",
+			"party": "Labour Party",
+			"votes": 17052,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rose, Philip",
+			"party": "United Kingdom Independence Party",
+			"votes": 7792,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Garnett, Martin",
+			"party": "Liberal Democrat",
+			"votes": 1658,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hierons, Ralph",
+			"party": "Green Party",
+			"votes": 1184,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

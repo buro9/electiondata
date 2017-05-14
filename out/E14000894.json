@@ -1,0 +1,99 @@
+{
+	"id": "E14000894",
+	"name": "Ribble Valley",
+	"y2010": [
+		{
+			"candidate": "Evans, Nigel",
+			"party": "Conservative Party",
+			"votes": 26298,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Foster, Paul",
+			"party": "Labour Party",
+			"votes": 11529,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Knox, Allan",
+			"party": "Liberal Democrat",
+			"votes": 10732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rush, Stephen",
+			"party": "United Kingdom Independence Party",
+			"votes": 3496,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Tony",
+			"party": "ND",
+			"votes": 232,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Evans, Nigel",
+			"party": "Conservative Party",
+			"votes": 25404,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Hinder, David",
+			"party": "Labour Party",
+			"votes": 11798,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Parkinson, Shirley",
+			"party": "United Kingdom Independence Party",
+			"votes": 8250,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pearcey, Jackie",
+			"party": "Liberal Democrat",
+			"votes": 2756,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Sowter, Graham",
+			"party": "Green Party",
+			"votes": 2193,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brass, David ",
+			"party": "Independent",
+			"votes": 1498,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Astley, Grace",
+			"party": "Independent",
+			"votes": 288,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Johnson, Tony",
+			"party": "Independent Political Alliance Party",
+			"votes": 56,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

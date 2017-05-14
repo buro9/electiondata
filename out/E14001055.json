@@ -1,0 +1,85 @@
+{
+	"id": "E14001055",
+	"name": "Worthing West",
+	"y2010": [
+		{
+			"candidate": "Bottomley, Peter",
+			"party": "Conservative Party",
+			"votes": 25416,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Thorpe, Hazel",
+			"party": "Liberal Democrat",
+			"votes": 13687,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ross, Ian",
+			"party": "Labour Party",
+			"votes": 5800,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Wallace, John",
+			"party": "United Kingdom Independence Party",
+			"votes": 2924,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aherne, David",
+			"party": "Green Party",
+			"votes": 996,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dearsley, Stuart",
+			"party": "Christian",
+			"votes": 300,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Bottomley, Peter",
+			"party": "Conservative Party",
+			"votes": 26124,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Cross, Tim",
+			"party": "United Kingdom Independence Party",
+			"votes": 9269,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Deen, Jim",
+			"party": "Labour Party",
+			"votes": 7955,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thorpe, Hazel",
+			"party": "Liberal Democrat",
+			"votes": 4477,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Aherne, David",
+			"party": "Green Party",
+			"votes": 2938,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

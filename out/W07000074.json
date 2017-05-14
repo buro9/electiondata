@@ -1,0 +1,99 @@
+{
+	"id": "W07000074",
+	"name": "Ogmore",
+	"y2010": [
+		{
+			"candidate": "Irranca-Davies, Huw",
+			"party": "Labour Party",
+			"votes": 18644,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Moore, Emma",
+			"party": "Conservative Party",
+			"votes": 5398,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Radford, Jackie",
+			"party": "Liberal Democrat",
+			"votes": 5260,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clark, Danny",
+			"party": "Plaid Cymru",
+			"votes": 3326,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Kay",
+			"party": "British National Party",
+			"votes": 1242,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Passey, Carolyn",
+			"party": "United Kingdom Independence Party",
+			"votes": 780,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Irranca-Davies, Huw",
+			"party": "Labour Party",
+			"votes": 18663,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "March, Jane",
+			"party": "Conservative Party",
+			"votes": 5620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Davies, Glenda",
+			"party": "United Kingdom Independence Party",
+			"votes": 5420,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Tim",
+			"party": "Plaid Cymru",
+			"votes": 3556,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Francis, Gerald",
+			"party": "Liberal Democrat",
+			"votes": 1072,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Brophy, Laurie",
+			"party": "Green Party",
+			"votes": 754,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Saunders, Emma",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 165,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

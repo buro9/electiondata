@@ -1,0 +1,92 @@
+{
+	"id": "E14000550",
+	"name": "Beaconsfield",
+	"y2010": [
+		{
+			"candidate": "Grieve, Dominic",
+			"party": "Conservative Party",
+			"votes": 32053,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Edwards, John",
+			"party": "Liberal Democrat",
+			"votes": 10271,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Miles, Jeremy",
+			"party": "Labour Party",
+			"votes": 6135,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Gray-Fisk, Delphine",
+			"party": "United Kingdom Independence Party",
+			"votes": 2597,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bailey, Jem",
+			"party": "Green Party",
+			"votes": 768,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Cowen, Andrew",
+			"party": "MP Expense",
+			"votes": 475,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Baron, Quentin",
+			"party": "Independent",
+			"votes": 191,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Grieve, Dominic",
+			"party": "Conservative Party",
+			"votes": 33621,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Scott, Tim",
+			"party": "United Kingdom Independence Party",
+			"votes": 7310,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Clements, Tony",
+			"party": "Labour Party",
+			"votes": 6074,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Chapman, Peter",
+			"party": "Liberal Democrat",
+			"votes": 3927,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hampton, Dave",
+			"party": "Green Party",
+			"votes": 2231,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

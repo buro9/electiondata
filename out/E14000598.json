@@ -1,0 +1,113 @@
+{
+	"id": "E14000598",
+	"name": "Brighton Pavilion",
+	"y2010": [
+		{
+			"candidate": "Lucas, Caroline",
+			"party": "Green Party",
+			"votes": 16238,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Platts, Nancy",
+			"party": "Labour Party",
+			"votes": 14986,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Vere, Charlotte",
+			"party": "Conservative Party",
+			"votes": 12275,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Millam, Bernadette",
+			"party": "Liberal Democrat",
+			"votes": 7159,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carter, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 948,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fyvie, Ian",
+			"party": "Soc Lab",
+			"votes": 148,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kara, Soraya",
+			"party": "R and E",
+			"votes": 61,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Atreides, Leo",
+			"party": "ND",
+			"votes": 19,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Lucas, Caroline",
+			"party": "Green Party",
+			"votes": 22871,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Sen, Purna",
+			"party": "Labour Party",
+			"votes": 14904,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Mitchell, Clarence",
+			"party": "Conservative Party",
+			"votes": 12448,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Carter, Nigel",
+			"party": "United Kingdom Independence Party",
+			"votes": 2724,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Bowers, Chris",
+			"party": "Liberal Democrat",
+			"votes": 1525,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Yeomans, Nick",
+			"party": "Independent",
+			"votes": 116,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Pilott, Howard",
+			"party": "The Socialist Party of Great Britain",
+			"votes": 88,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

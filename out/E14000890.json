@@ -1,0 +1,106 @@
+{
+	"id": "E14000890",
+	"name": "Reading West",
+	"y2010": [
+		{
+			"candidate": "Sharma, Alok",
+			"party": "Conservative Party",
+			"votes": 20523,
+			"incumbent": false,
+			"elected": true
+		},
+		{
+			"candidate": "Sarkar, Naz",
+			"party": "Labour Party",
+			"votes": 14519,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Benson, Daisy",
+			"party": "Liberal Democrat",
+			"votes": 9546,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Hay, Bruce",
+			"party": "United Kingdom Independence Party",
+			"votes": 1508,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Thomas, Howard",
+			"party": "CSP",
+			"votes": 852,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Windisch, Adrian",
+			"party": "Green Party",
+			"votes": 582,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Sharma, Alok",
+			"party": "Conservative Party",
+			"votes": 23082,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Groulef, Victoria",
+			"party": "Labour Party",
+			"votes": 16432,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Azam, Malik",
+			"party": "United Kingdom Independence Party",
+			"votes": 4826,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "O'Connell, Meri",
+			"party": "Liberal Democrat",
+			"votes": 2355,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Kennet, Miriam",
+			"party": "Green Party",
+			"votes": 1406,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ferguson, Suzie",
+			"party": "Independent",
+			"votes": 156,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Adams, Neil",
+			"party": "Trade Unionist and Socialist Coalition",
+			"votes": 83,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "West, Philip",
+			"party": "The Roman Party. Ave",
+			"votes": 64,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}

@@ -1,0 +1,113 @@
+{
+	"id": "E14000560",
+	"name": "Birmingham Edgbaston",
+	"y2010": [
+		{
+			"candidate": "Stuart, Gisela",
+			"party": "Labour Party",
+			"votes": 16894,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Alden, Deirdre",
+			"party": "Conservative Party",
+			"votes": 15620,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Harmer, Roger",
+			"party": "Liberal Democrat",
+			"votes": 6387,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Lloyd, Trevor",
+			"party": "British National Party",
+			"votes": 1196,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Warwick, Greville",
+			"party": "United Kingdom Independence Party",
+			"votes": 732,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Phil",
+			"party": "Green Party",
+			"votes": 469,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Takhar, Harry",
+			"party": "Impact",
+			"votes": 146,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Fernando, Charith",
+			"party": "Christian Party",
+			"votes": 127,
+			"incumbent": false,
+			"elected": false
+		}
+	],
+	"y2015": [
+		{
+			"candidate": "Stuart, Gisela",
+			"party": "Labour Party",
+			"votes": 18518,
+			"incumbent": true,
+			"elected": true
+		},
+		{
+			"candidate": "Evans, Luke",
+			"party": "Conservative Party",
+			"votes": 15812,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Short, Graham",
+			"party": "United Kingdom Independence Party",
+			"votes": 4154,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Simpson, Phil",
+			"party": "Green Party",
+			"votes": 1371,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Dargue, Lee",
+			"party": "Liberal Democrat",
+			"votes": 1184,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Ukandu, Gabriel",
+			"party": "Christian Party, Proclaiming Christ's Lordship",
+			"votes": 163,
+			"incumbent": false,
+			"elected": false
+		},
+		{
+			"candidate": "Rai, Henna",
+			"party": "Independent",
+			"votes": 91,
+			"incumbent": false,
+			"elected": false
+		}
+	]
+}
